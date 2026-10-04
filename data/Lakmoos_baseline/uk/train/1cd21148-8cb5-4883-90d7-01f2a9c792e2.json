@@ -1,0 +1,37 @@
+{
+  "id": "1cd21148-8cb5-4883-90d7-01f2a9c792e2",
+  "gender": "female",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Poppy",
+  "self_last_name": "Merriweather",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dolls",
+    "singing"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Whiskers"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Poppy2021",
+    "Whiskers1",
+    "Merriweather123",
+    "Drawing4Fun",
+    "Dolls2024",
+    "PoppyCat!",
+    "SingSong21"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2022-06-30"
+}

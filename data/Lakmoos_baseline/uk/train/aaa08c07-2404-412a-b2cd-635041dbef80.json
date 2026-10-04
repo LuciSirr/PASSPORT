@@ -1,0 +1,34 @@
+{
+  "id": "aaa08c07-2404-412a-b2cd-635041dbef80",
+  "gender": "female",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Elliot",
+  "partner_last_name": "Morris",
+  "children": [],
+  "interests": [
+    "reading",
+    "yoga",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Midlands Student Services",
+  "previous_passwords": [
+    "Imogen1999",
+    "CupraAteca18",
+    "Hollis123",
+    "Elliot24",
+    "Reading4Life",
+    "BakeIt!2021",
+    "Midlands12",
+    "Yoga_2022",
+    "Imo!1999"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2002-02-20"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e934dfef-21b2-4f4d-bf67-3ca13a57904a",
+  "gender": "male",
+  "age": 61,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "sledování",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Doprava Šebesta s.r.o.",
+  "previous_passwords": [
+    "Radek1963",
+    "JitkaSebe123",
+    "Kodiaq2017!",
+    "CentralBohemia59",
+    "RelaxVoda59",
+    "Sazka2020",
+    "Krizovky123",
+    "Netflix257",
+    "Šebesta57000",
+    "BageterieBoulevard!"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1965-02-06"
+}

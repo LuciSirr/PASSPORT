@@ -1,0 +1,44 @@
+{
+  "id": "bc6ba42d-de0c-4c23-ad8d-ca951ad5e619",
+  "age": 41,
+  "birth_date": "1985-07-22",
+  "marital_status": "single",
+  "region": "Naila",
+  "nationality": "german",
+  "company": "Geisler e.G.",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Herta",
+  "self_last_name": "Anders",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Gunter"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Marita"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fußball",
+    "Gartenarbeit",
+    "Kochen",
+    "Bayerischer Wald"
+  ],
+  "previous_passwords": [
+    "Wandern85!",
+    "FCBayern22",
+    "GunterBird7",
+    "Kochen1985",
+    "BayerWald41",
+    "Mercedes7!",
+    "MaritaFish22",
+    "NailaWald85",
+    "FußballMia3",
+    "Herta722!"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "515fc1f6-648f-47bc-a52b-610c692cd696",
+  "age": 38,
+  "birth_date": "1988-06-07",
+  "marital_status": "single",
+  "region": "Elliottview",
+  "nationality": "english",
+  "company": "Nelson, Rogers and Gordon",
+  "car_brand": "Tesla",
+  "self_first_name": "Glenn",
+  "self_last_name": "Myers",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Pauline"
+    },
+    {
+      "pet_type": "ferret",
+      "pet_name": "Barbara"
+    }
+  ],
+  "interests": [
+    "Hiking",
+    "Indie Music",
+    "Homebrewing",
+    "Photography",
+    "Local Craft Beer"
+  ],
+  "previous_passwords": [
+    "PaulineHike2008",
+    "TeslaBrew_88",
+    "IndiePhoto1988!",
+    "BarbaraCraftBeer",
+    "LocalHikeGlenn",
+    "MessiElliottview",
+    "HomebrewPauline!",
+    "PhotographyTesla",
+    "IndieMusic_88",
+    "HikeBarbara607"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2bb32cff-162b-434b-9ae0-3c0353d54d8d",
+  "age": 44,
+  "birth_date": "1982-09-23",
+  "marital_status": "married",
+  "region": "Niesky",
+  "nationality": "german",
+  "company": "Henk Benthin GmbH & Co. KGaA",
+  "car_brand": "Dacia",
+  "self_first_name": "Josefine",
+  "self_last_name": "Loos",
+  "partner_first_name": "Karl-Jürgen",
+  "partner_last_name": "Stolze",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Franz-Xaver"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Autos",
+    "Lokaler Fußballverein",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "FranzXaver1982",
+    "MessiWandern!",
+    "DaciaNiesky77",
+    "Klasmuz1979Josefine",
+    "FotografieKarlJurgen",
+    "FranzXaverWandert",
+    "AutoFranz23",
+    "NieskyFootball94",
+    "JosefineKlasmuz",
+    "MessiFoto82!"
+  ]
+}

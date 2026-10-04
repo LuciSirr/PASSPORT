@@ -1,0 +1,48 @@
+{
+  "id": "35d95b86-1679-410a-bf9f-2c43691fe59a",
+  "age": 35,
+  "birth_date": "1991-07-04",
+  "marital_status": "married",
+  "region": "Eichstätt",
+  "nationality": "german",
+  "company": "Koch II e.G.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Gesa",
+  "self_last_name": "Paffrath",
+  "partner_first_name": "Raymond",
+  "partner_last_name": "Paffrath",
+  "children": [
+    {
+      "first_name": "Woldemar",
+      "last_name": "Paffrath"
+    },
+    {
+      "first_name": "Lucie",
+      "last_name": "Paffrath"
+    },
+    {
+      "first_name": "Sahin",
+      "last_name": "Paffrath"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Biergartenbesuche",
+    "Wandern",
+    "Klassische Musik",
+    "Autorennen"
+  ],
+  "previous_passwords": [
+    "HyundaiWandern91",
+    "LucieFoto2024",
+    "SahinBiergarten!",
+    "WoldemarClassik74",
+    "RaymondFoto1991",
+    "MessiEichstaett!",
+    "FotografieSahin88",
+    "AutorenrennenGesa",
+    "BiergartenWoldemar",
+    "ClassicMusikLucie"
+  ]
+}

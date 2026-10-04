@@ -1,0 +1,40 @@
+{
+  "id": "f91fd102-a702-4106-a262-cf28613fe405",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Imogen",
+  "self_last_name": "Radcliffe",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Harrington",
+  "children": [],
+  "interests": [
+    "reading",
+    "cycling",
+    "netflix"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "London Study Solutions",
+  "previous_passwords": [
+    "Imogen19",
+    "Radcliffe2023",
+    "Milo123",
+    "LondonGirl!",
+    "CupraAteca7",
+    "Oliver4Eva",
+    "Netflix_2022",
+    "Reading4Life",
+    "Cycling99",
+    "Radcliffe_Milo"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2006-06-11"
+}

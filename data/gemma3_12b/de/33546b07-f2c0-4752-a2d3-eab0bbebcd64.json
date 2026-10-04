@@ -1,0 +1,44 @@
+{
+  "id": "33546b07-f2c0-4752-a2d3-eab0bbebcd64",
+  "age": 39,
+  "birth_date": "1987-11-18",
+  "marital_status": "married",
+  "region": "Dachau",
+  "nationality": "german",
+  "company": "Noack",
+  "car_brand": "BMW",
+  "self_first_name": "Iwan",
+  "self_last_name": "Ring",
+  "partner_first_name": "Kata",
+  "partner_last_name": "Ring",
+  "children": [
+    {
+      "first_name": "Ortrud",
+      "last_name": "Ring"
+    },
+    {
+      "first_name": "Sigrun",
+      "last_name": "Ring"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Wandern",
+    "Biergartenbesuche",
+    "Autos",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "KataOrtrud87",
+    "Messi2023!",
+    "DachauFoto1987",
+    "SigrunBMW_Go",
+    "WandernKata!",
+    "OrtrudBiergarten23",
+    "Fotografie_Sigrun",
+    "KataFCBayern",
+    "BMW_Iwan87",
+    "MeinAutoKata"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "dcc38904-40bb-4cfa-a78d-47ccfb753dad",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Brigitte",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kreutzmann",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kreutzmann"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Kreutzmann"
+    },
+    {
+      "first_name": "Emilia",
+      "last_name": "Kreutzmann"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "audiobücher",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Berliner Ingenieurbüro Kreutzmann",
+  "previous_passwords": [
+    "Brigitte1955",
+    "Jürgen123",
+    "Lukas2010",
+    "Berlin!69",
+    "Marlene14",
+    "Emilia2020",
+    "Kreutzmann2024",
+    "Sommer!55",
+    "Lesen_123",
+    "OmaBrigitte!"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1957-02-16"
+}

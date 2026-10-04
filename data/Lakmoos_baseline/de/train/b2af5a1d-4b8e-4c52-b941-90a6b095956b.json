@@ -1,0 +1,35 @@
+{
+  "id": "b2af5a1d-4b8e-4c52-b941-90a6b095956b",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "married",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gisela",
+  "self_last_name": "Freimuth",
+  "partner_first_name": "Klaus",
+  "partner_last_name": "Freimuth",
+  "children": [],
+  "interests": [
+    "reisen",
+    "gartenarbeit",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "Nordlicht Handelsagentur",
+  "previous_passwords": [
+    "Gisela1959",
+    "Klaus123",
+    "Freimuth!64",
+    "Nordlicht2020",
+    "Reisen_59",
+    "Schleswig3000",
+    "Gartenarbeit1",
+    "OmaKlaus!",
+    "Haus1948",
+    "Sommerurlaub23"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1962-03-20"
+}

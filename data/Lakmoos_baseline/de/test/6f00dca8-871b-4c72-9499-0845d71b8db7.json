@@ -1,0 +1,35 @@
+{
+  "id": "6f00dca8-871b-4c72-9499-0845d71b8db7",
+  "gender": "female",
+  "age": 31,
+  "marital_status": "single/in a relationship",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Annika",
+  "self_last_name": "Kuhn",
+  "birth_date": "1993-05-14",
+  "partner_first_name": "Lukas",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "dark",
+    "podcasts",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Nordlicht Sozialdienste GmbH",
+  "previous_passwords": [
+    "Annika1993",
+    "KuhnDark21",
+    "podcast_123",
+    "Lukas0514",
+    "DarkNetflix!",
+    "audiobook2022",
+    "Nordlicht93",
+    "Kuhn!Dark",
+    "Annika_Lukas",
+    "DarkKuhn14"
+  ],
+  "favorite_hobby": "dark"
+}

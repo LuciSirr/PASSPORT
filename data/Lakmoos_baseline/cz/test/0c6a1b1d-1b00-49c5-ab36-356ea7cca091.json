@@ -1,0 +1,40 @@
+{
+  "id": "0c6a1b1d-1b00-49c5-ab36-356ea7cca091",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1955-06-14",
+  "partner_first_name": "Václav",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "české seriály",
+    "móda",
+    "zahradničení"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Jarmila1955",
+    "Micka2017",
+    "Kohoutova123",
+    "moda2020",
+    "Vaclav14",
+    "zahrada55",
+    "ceskeserialy_55",
+    "Micka!55",
+    "KohoutovaMicka",
+    "serialy2022"
+  ],
+  "favorite_hobby": "české seriály"
+}

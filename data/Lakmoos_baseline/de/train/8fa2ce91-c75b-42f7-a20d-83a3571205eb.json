@@ -1,0 +1,35 @@
+{
+  "id": "8fa2ce91-c75b-42f7-a20d-83a3571205eb",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Ingrid",
+  "self_last_name": "Schwanitz",
+  "partner_first_name": "Klaus",
+  "partner_last_name": "Schwanitz",
+  "children": [],
+  "interests": [
+    "lesen",
+    "spazieren",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Ingrid1955",
+    "Klaus123",
+    "Berlin!69",
+    "Schwanitz2020",
+    "Lesen_321",
+    "Oma7.4",
+    "Sommer!55",
+    "Audiobuch2022",
+    "KlausIngrid",
+    "Spazieren1"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1957-02-15"
+}

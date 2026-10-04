@@ -1,0 +1,36 @@
+{
+  "id": "2f56ba8f-7e1c-488d-b46a-53806f846889",
+  "gender": "female",
+  "age": 51,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "čtení",
+    "nakupování",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "Prague Science Consulting",
+  "previous_passwords": [
+    "Ivana1973",
+    "VeselaPraha1",
+    "cestovani2021",
+    "Knihy52",
+    "bezAuta1",
+    "Nakupovani88",
+    "Praha2020",
+    "Prochazky77",
+    "Vesela!99",
+    "Cteni_123"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1974-04-17"
+}

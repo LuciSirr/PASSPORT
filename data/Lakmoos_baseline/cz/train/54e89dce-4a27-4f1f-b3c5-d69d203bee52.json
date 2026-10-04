@@ -1,0 +1,36 @@
+{
+  "id": "54e89dce-4a27-4f1f-b3c5-d69d203bee52",
+  "gender": "male",
+  "age": 38,
+  "marital_status": "married",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "cestování",
+    "technologie",
+    "výlety",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "Olomouc ICT Solutions",
+  "previous_passwords": [
+    "Radek1986",
+    "Petra2023",
+    "Olomouc123",
+    "Zahrada2020",
+    "Vesely38",
+    "Kofola!2021",
+    "PetraRadek",
+    "Cestovani_123",
+    "Hornbach2022",
+    "TechnoPetra"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1987-09-25"
+}

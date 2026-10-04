@@ -1,0 +1,35 @@
+{
+  "id": "7c189a72-869a-458d-a439-6b5822493e53",
+  "gender": "female",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "netball",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Fenland Booksellers",
+  "previous_passwords": [
+    "Imogen2009",
+    "Hollis15",
+    "Netball123",
+    "Fenland!21",
+    "Baking4Life",
+    "Imo_2009",
+    "Bookworm09",
+    "EastGirl15",
+    "Hollis_Imo",
+    "Reading!09"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2011-02-25"
+}

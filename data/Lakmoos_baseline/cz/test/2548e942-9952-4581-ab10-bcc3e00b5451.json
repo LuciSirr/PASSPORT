@@ -1,0 +1,34 @@
+{
+  "id": "2548e942-9952-4581-ab10-bcc3e00b5451",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1955-06-12",
+  "partner_first_name": "Vladimír",
+  "partner_last_name": "Kohoutová",
+  "children": [],
+  "interests": [
+    "moda",
+    "ceske serialy"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Jarmila1955",
+    "Kohoutova123",
+    "moda2020",
+    "Vladimir1950",
+    "serialy55",
+    "Globus2022",
+    "teta377",
+    "Kohoutova!15",
+    "ceskyserial2023",
+    "JarmilaGlobus"
+  ],
+  "favorite_hobby": "moda"
+}

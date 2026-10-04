@@ -1,0 +1,34 @@
+{
+  "id": "7422a644-cbdb-47b4-b97e-8aad8957c1c8",
+  "gender": "female",
+  "age": 40,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Anja",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Markus",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "audiobücher",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Bildungszentrum Rheinblick",
+  "previous_passwords": [
+    "Anja1984",
+    "Kleinschmidt3000",
+    "Markus123",
+    "Niro2020!",
+    "Rheinblick22",
+    "Sommer!84",
+    "Audiobuch_1",
+    "BKK2024",
+    "Reisen_03",
+    "Schule123"
+  ],
+  "favorite_hobby": "audiobücher",
+  "birth_date": "1985-12-29"
+}

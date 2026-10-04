@@ -1,0 +1,36 @@
+{
+  "id": "089d7a71-ce90-4147-a558-c2cb30661041",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Opel",
+  "self_first_name": "Radka",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "knihy",
+    "malování",
+    "jóga",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radka1986",
+    "Vesela17",
+    "OpelMokka2021",
+    "Mattoni17",
+    "Malovani123",
+    "Knihy2020",
+    "Yoga!86",
+    "LidlGlobus99",
+    "dmNákupy",
+    "VodaMattoni17"
+  ],
+  "favorite_hobby": "knihy",
+  "birth_date": "1987-04-26"
+}

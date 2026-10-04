@@ -1,0 +1,35 @@
+{
+  "id": "1756cbbe-c52b-4a2e-ad63-e2c0123704de",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kubeš",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Kubešová",
+  "children": [],
+  "interests": [
+    "turistika",
+    "křížovky",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1958",
+    "Jana66",
+    "Liberec2020",
+    "Superb2011",
+    "turistika123",
+    "Kubesova!",
+    "zahrada518",
+    "KFCkure",
+    "Lidl66",
+    "Krizovky2024"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1959-07-31"
+}

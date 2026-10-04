@@ -1,0 +1,49 @@
+{
+  "id": "ef66d4ce-9e4d-42b9-b497-1c09a2a83cd8",
+  "age": 59,
+  "birth_date": "1967-07-29",
+  "marital_status": "married",
+  "region": "Genthin",
+  "nationality": "german",
+  "company": "Budig",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Freya",
+  "self_last_name": "Dippel",
+  "partner_first_name": "Alfons",
+  "partner_last_name": "Dippel",
+  "children": [
+    {
+      "first_name": "Mato",
+      "last_name": "Dippel"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Geza"
+    },
+    {
+      "pet_type": "bird",
+      "pet_name": "Josip"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Lesen",
+    "Fotografie",
+    "Volkshochschule",
+    "Deutsche Geschichte"
+  ],
+  "previous_passwords": [
+    "Mato_Wander1967",
+    "VolkshochschuleGeza",
+    "DippelAlfonsFoto!",
+    "GenthinWalks1967",
+    "DeutscheGeschichteMato",
+    "VolkswagenJosip29",
+    "LesenPartnerAlfons",
+    "Fotografie_Wanderer",
+    "JoeRoganDippel7!",
+    "Walks_1967_Josip"
+  ]
+}

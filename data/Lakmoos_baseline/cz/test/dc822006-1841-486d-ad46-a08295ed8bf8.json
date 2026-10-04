@@ -1,0 +1,35 @@
+{
+  "id": "dc822006-1841-486d-ad46-a08295ed8bf8",
+  "gender": "male",
+  "age": 77,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kohout",
+  "birth_date": "1947-06-12",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "ceske drahy",
+    "skoda auto",
+    "vysilani ct"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1947",
+    "Kohout123",
+    "Marie2001",
+    "ceskedrahy47",
+    "SkodaSuperb16",
+    "vysilaniCT_77",
+    "Kohout!2020",
+    "MarieKohout12",
+    "drahy1947",
+    "SuperbDiesel5.9"
+  ],
+  "favorite_hobby": "ceske drahy"
+}

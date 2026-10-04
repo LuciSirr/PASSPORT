@@ -1,0 +1,38 @@
+{
+  "id": "45e11963-9c57-4188-8e26-3b58238361f8",
+  "gender": "female",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Krause",
+  "birth_date": "2010-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gntm",
+    "bibi und tina"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mimi"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Lina2010",
+    "Mimi123",
+    "KrauseGNTM",
+    "bibiundtina14",
+    "Mimi!2014",
+    "GNTM_2023",
+    "krauseMimi",
+    "bibiTina_10",
+    "LinaMimi14"
+  ],
+  "favorite_hobby": "gntm"
+}

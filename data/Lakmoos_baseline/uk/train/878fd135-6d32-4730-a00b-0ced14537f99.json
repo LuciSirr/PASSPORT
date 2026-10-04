@@ -1,0 +1,40 @@
+{
+  "id": "878fd135-6d32-4730-a00b-0ced14537f99",
+  "gender": "female",
+  "age": 48,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Mark",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "West Midlands Brokers Ltd",
+  "previous_passwords": [
+    "Fiona1976",
+    "Milo123",
+    "Clio25!",
+    "Hollingsworth66",
+    "Reading2020",
+    "Mark4Eva",
+    "Baking_99",
+    "WestMidlands1",
+    "Fiona!Mark",
+    "Milo!2021"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1978-03-28"
+}

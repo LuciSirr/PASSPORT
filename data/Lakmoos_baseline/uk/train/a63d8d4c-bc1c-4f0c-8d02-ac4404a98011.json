@@ -1,0 +1,40 @@
+{
+  "id": "a63d8d4c-bc1c-4f0c-8d02-ac4404a98011",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Škoda",
+  "self_first_name": "Fiona",
+  "self_last_name": "Harrington",
+  "partner_first_name": "Gareth",
+  "partner_last_name": "Harrington",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Celtic Venture Solutions",
+  "previous_passwords": [
+    "Fiona1968",
+    "Misty21",
+    "Harrington123",
+    "Gareth4eva",
+    "Travel2020",
+    "Gardening!56",
+    "Wales_999",
+    "SkodaFabia01",
+    "Misty!cat",
+    "Celtic2022"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1970-02-14"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "d75fdaf7-7fb4-4bc8-9ac3-8ef904e99a1a",
+  "age": 24,
+  "birth_date": "2002-09-17",
+  "marital_status": "married",
+  "region": "South Jack",
+  "nationality": "english",
+  "company": "Taylor, Hall and McDonald",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Kieran",
+  "self_last_name": "Briggs",
+  "partner_first_name": "Julia",
+  "partner_last_name": "Lambert",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Photography",
+    "Indie Music",
+    "Hiking",
+    "Video Games",
+    "Local Brewery Scene"
+  ],
+  "previous_passwords": [
+    "JuliaLovesHiking2002",
+    "vwGolfPhoto!",
+    "IndieBrewSkyline",
+    "KieranLambert_0917",
+    "MessiFan24",
+    "AnselAdamsLight",
+    "SouthJackBrewery",
+    "IndieMusicJulia",
+    "VolkswagenKieran",
+    "HikeIndie2002!"
+  ]
+}

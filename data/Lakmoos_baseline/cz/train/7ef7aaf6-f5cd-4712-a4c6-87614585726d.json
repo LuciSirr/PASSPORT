@@ -1,0 +1,35 @@
+{
+  "id": "7ef7aaf6-f5cd-4712-a4c6-87614585726d",
+  "gender": "female",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radka",
+  "self_last_name": "Veselková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "seriály",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radka1999",
+    "Veselka25",
+    "Morava2020",
+    "Ondrasovka79",
+    "Bageta123",
+    "Relaxka25",
+    "Cestovani2021",
+    "Fotka_123",
+    "Seri4ly!",
+    "VeselaRadka"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "2000-06-07"
+}

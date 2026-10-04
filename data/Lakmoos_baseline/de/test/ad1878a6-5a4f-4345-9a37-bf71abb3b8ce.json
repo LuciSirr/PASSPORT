@@ -1,0 +1,33 @@
+{
+  "id": "ad1878a6-5a4f-4345-9a37-bf71abb3b8ce",
+  "gender": "female",
+  "age": 58,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heike",
+  "self_last_name": "Kuhn",
+  "birth_date": "1966-03-18",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "Kuhn & Partner Unternehmensberatung",
+  "previous_passwords": [
+    "Heike1966",
+    "JueKu!1979",
+    "Pilcher123",
+    "KuhnRosamunde66",
+    "Nordic2020",
+    "KuhnWalking18",
+    "Pilcher!66",
+    "Jürgen_1966",
+    "KuhnPartner79"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

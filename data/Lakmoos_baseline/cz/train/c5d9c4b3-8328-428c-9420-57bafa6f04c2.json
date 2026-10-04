@@ -1,0 +1,40 @@
+{
+  "id": "c5d9c4b3-8328-428c-9420-57bafa6f04c2",
+  "gender": "male",
+  "age": 11,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "kreslení",
+    "cyklistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "matysek2012",
+    "fotbal123",
+    "morava2023",
+    "konecnym",
+    "pesik11",
+    "Beny2024",
+    "Kresleni_07",
+    "Cyklo!123",
+    "F0tbalek",
+    "Mor4va!"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2015-03-20"
+}

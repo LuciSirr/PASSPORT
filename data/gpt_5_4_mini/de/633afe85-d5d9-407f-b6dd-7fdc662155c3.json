@@ -1,0 +1,35 @@
+{
+  "id": "633afe85-d5d9-407f-b6dd-7fdc662155c3",
+  "age": 28,
+  "birth_date": "1998-08-16",
+  "marital_status": "married",
+  "region": "Neuruppin",
+  "nationality": "german",
+  "company": "Keudel OHG mbH",
+  "car_brand": "Audi",
+  "self_first_name": "Wiebke",
+  "self_last_name": "Ullmann",
+  "partner_first_name": "Karl-Peter",
+  "partner_last_name": "Dowerg",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Fitness",
+    "Reisen",
+    "Kaffee",
+    "Technik"
+  ],
+  "previous_passwords": [
+    "Bayern98!",
+    "AudiKaffee16",
+    "Fitness28_",
+    "KaffeeWiebke7",
+    "MessiNeuruppin8",
+    "Reisen98!",
+    "TechAudi98",
+    "KarlPeter16!",
+    "FitnessAudi28",
+    "Kaffee_0816"
+  ]
+}

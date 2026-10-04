@@ -1,0 +1,44 @@
+{
+  "id": "346bda40-7180-40b4-968e-ab90ca8fcaa5",
+  "gender": "male",
+  "age": 53,
+  "marital_status": "divorced",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "seriály",
+    "zahrada",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Moravská Technoanalýza s.r.o.",
+  "previous_passwords": [
+    "Fabia2002",
+    "MatEli14",
+    "Morava999",
+    "Kofola53",
+    "VeselyDum",
+    "Matěj2009",
+    "Eliška2018",
+    "Zahrada123",
+    "Auta!2024",
+    "Radek53"
+  ],
+  "favorite_hobby": "seriály",
+  "birth_date": "1972-06-26"
+}

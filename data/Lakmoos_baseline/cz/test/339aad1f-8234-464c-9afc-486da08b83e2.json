@@ -1,0 +1,48 @@
+{
+  "id": "339aad1f-8234-464c-9afc-486da08b83e2",
+  "gender": "female",
+  "age": 46,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1978-06-12",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohoutová"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "křížovky",
+    "české filmy"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "Vysočina Plast s.r.o.",
+  "previous_passwords": [
+    "Tereza2015",
+    "Beny123",
+    "Kohoutova78",
+    "Matej2019",
+    "Cestovani2020",
+    "krizovky!22",
+    "PetrJitka12",
+    "BenyMatej15",
+    "ceskefilmy_78"
+  ],
+  "favorite_hobby": "cestování"
+}

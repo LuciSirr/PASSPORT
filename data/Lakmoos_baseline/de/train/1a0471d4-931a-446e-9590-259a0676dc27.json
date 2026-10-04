@@ -1,0 +1,35 @@
+{
+  "id": "1a0471d4-931a-446e-9590-259a0676dc27",
+  "gender": "female",
+  "age": 42,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Fiat",
+  "self_first_name": "Anja",
+  "self_last_name": "Küster",
+  "partner_first_name": "Jens",
+  "partner_last_name": "Küster",
+  "children": [],
+  "interests": [
+    "hausarbeit",
+    "reisen",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Küster Handelsagentur",
+  "previous_passwords": [
+    "Anja1979",
+    "Fiat500!",
+    "Küster30000",
+    "Jens2020",
+    "Reisen123",
+    "VolvoXC60",
+    "Niedersachsen77",
+    "Hausarbeit1",
+    "BKK_1978",
+    "Sommer!42"
+  ],
+  "favorite_hobby": "hausarbeit",
+  "birth_date": "1984-02-13"
+}

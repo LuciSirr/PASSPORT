@@ -1,0 +1,49 @@
+{
+  "id": "fa2f6dfc-758e-43cb-a6d7-698ea4a6633b",
+  "age": 34,
+  "birth_date": "1992-05-11",
+  "marital_status": "married",
+  "region": "Cottbus",
+  "nationality": "german",
+  "company": "Striebitz",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Dora",
+  "self_last_name": "Rosenow",
+  "partner_first_name": "Georgios",
+  "partner_last_name": "Rosenow",
+  "children": [
+    {
+      "first_name": "Jacek",
+      "last_name": "Rosenow"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Markus"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Klemens"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Wandern",
+    "Kochen",
+    "Lesen"
+  ],
+  "previous_passwords": [
+    "FCAug11!",
+    "WandernCottbus92",
+    "RosenowBike11",
+    "KochenJacek24",
+    "Volkswagen34!",
+    "Bayern1988",
+    "LesenDora92",
+    "Georgios_Fussball",
+    "RabbitMarkus11",
+    "Radfahren92!"
+  ]
+}

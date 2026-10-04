@@ -1,0 +1,35 @@
+{
+  "id": "4f8d5bd2-f1d6-49a4-973f-31d8d9b11f73",
+  "gender": "male",
+  "age": 49,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Ivana",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "turistika",
+    "film",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Divadlo Praha",
+  "previous_passwords": [
+    "Radek1975",
+    "Ivana2023",
+    "Praha49",
+    "Superb2000",
+    "Kofola!",
+    "Turistika123",
+    "Film2022",
+    "Fotografie_79",
+    "Globus123",
+    "Netflix2022"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1976-12-29"
+}

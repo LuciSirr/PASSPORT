@@ -1,0 +1,36 @@
+{
+  "id": "1947c4e2-6d45-40f1-8e3e-5c039e60f544",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Matěj",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Tereza",
+  "partner_last_name": "Šebestová",
+  "children": [],
+  "interests": [
+    "netflix",
+    "hudba",
+    "technologie",
+    "móda"
+  ],
+  "pets": [],
+  "company": "Úřad městského obvodu Plzeň 1",
+  "previous_passwords": [
+    "Fabia2002",
+    "Kofola23",
+    "Plzen123",
+    "BurgerKing!",
+    "Shell1417",
+    "Tereza2021",
+    "Matěj_99",
+    "Hudba4life",
+    "Šebesta80",
+    "Netflix_247"
+  ],
+  "favorite_hobby": "netflix",
+  "birth_date": "2002-06-08"
+}

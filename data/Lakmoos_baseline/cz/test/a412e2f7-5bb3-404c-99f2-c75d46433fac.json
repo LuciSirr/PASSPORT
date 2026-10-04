@@ -1,0 +1,52 @@
+{
+  "id": "a412e2f7-5bb3-404c-99f2-c75d46433fac",
+  "gender": "female",
+  "age": 49,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1975-06-12",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohoutová"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Kohoutová"
+    }
+  ],
+  "interests": [
+    "české filmy",
+    "křížovky"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "Městský úřad Nový Bydžov",
+  "previous_passwords": [
+    "Tereza2009",
+    "Beny123",
+    "Kohoutova75",
+    "Mat3j15",
+    "Eli$ka2024",
+    "krizovky2020",
+    "PetrIveta12",
+    "Beny!75",
+    "ceskefilmy_77",
+    "TerezaMatěj05"
+  ],
+  "favorite_hobby": "české filmy"
+}

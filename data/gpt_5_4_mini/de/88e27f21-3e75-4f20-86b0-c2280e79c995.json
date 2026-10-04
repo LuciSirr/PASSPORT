@@ -1,0 +1,44 @@
+{
+  "id": "88e27f21-3e75-4f20-86b0-c2280e79c995",
+  "age": 44,
+  "birth_date": "1982-07-17",
+  "marital_status": "married",
+  "region": "Parsberg",
+  "nationality": "german",
+  "company": "Paffrath AG",
+  "car_brand": "Kia",
+  "self_first_name": "Gottlieb",
+  "self_last_name": "Hauffer",
+  "partner_first_name": "Cecilia",
+  "partner_last_name": "Ullmann",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Kreszentia"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Lorenz"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fußball",
+    "Kochen",
+    "Gartenarbeit",
+    "Bayern München"
+  ],
+  "previous_passwords": [
+    "Bayern82!",
+    "Wandern17_",
+    "KiaParsberg7",
+    "Kochen82!",
+    "FussballKresz9",
+    "CeciliaMunich44",
+    "Garten17Lorenz",
+    "Kreszentia82",
+    "BayernMuenchen7",
+    "Hauffer1982!"
+  ]
+}

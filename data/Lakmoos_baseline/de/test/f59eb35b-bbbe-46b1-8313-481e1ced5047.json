@@ -1,0 +1,35 @@
+{
+  "id": "f59eb35b-bbbe-46b1-8313-481e1ced5047",
+  "gender": "female",
+  "age": 28,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "Jaguar",
+  "self_first_name": "Annika",
+  "self_last_name": "Kuhn",
+  "birth_date": "1996-06-12",
+  "partner_first_name": "Lukas",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "dark",
+    "bouldern",
+    "tatort"
+  ],
+  "pets": [],
+  "company": "Berliner Maklerkontor",
+  "previous_passwords": [
+    "Annika1996",
+    "KuhnDark123",
+    "Tatort!96",
+    "Bouldern2020",
+    "Lukas_0612",
+    "BerlinDark!",
+    "DarkKuhn96",
+    "Tatort1234",
+    "Makler2023",
+    "AnnikaLukas"
+  ],
+  "favorite_hobby": "dark"
+}

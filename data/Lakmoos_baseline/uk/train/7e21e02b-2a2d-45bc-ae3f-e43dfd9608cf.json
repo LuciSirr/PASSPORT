@@ -1,0 +1,35 @@
+{
+  "id": "7e21e02b-2a2d-45bc-ae3f-e43dfd9608cf",
+  "gender": "male",
+  "age": 54,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "travelling"
+  ],
+  "pets": [],
+  "company": "Westcountry Business Solutions",
+  "previous_passwords": [
+    "Mercedes2021",
+    "Graham54",
+    "Rachel!2020",
+    "Cklass55155",
+    "Westcountry11",
+    "Mini2015",
+    "Gardening123",
+    "Hollis1970",
+    "Travel4Fun",
+    "Cycling_99"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1971-06-29"
+}

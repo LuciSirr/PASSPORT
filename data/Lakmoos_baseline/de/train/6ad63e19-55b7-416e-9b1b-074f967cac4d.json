@@ -1,0 +1,36 @@
+{
+  "id": "6ad63e19-55b7-416e-9b1b-074f967cac4d",
+  "gender": "male",
+  "age": 90,
+  "marital_status": "married",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heinrich",
+  "self_last_name": "Bergmann",
+  "partner_first_name": "Gertrud",
+  "partner_last_name": "Bergmann",
+  "children": [],
+  "interests": [
+    "spazieren",
+    "lesen",
+    "klassik",
+    "audiobuch"
+  ],
+  "pets": [],
+  "company": "Bergmann Handelskontor",
+  "previous_passwords": [
+    "Heinrich1934",
+    "Gertrud123",
+    "Bergmann!90",
+    "Schleswig1978",
+    "Spazieren2020",
+    "AOK_451",
+    "Handelskontor37k",
+    "Klassik!1",
+    "Bergmann_Gertrud",
+    "SommerAugust"
+  ],
+  "favorite_hobby": "spazieren",
+  "birth_date": "1935-10-24"
+}

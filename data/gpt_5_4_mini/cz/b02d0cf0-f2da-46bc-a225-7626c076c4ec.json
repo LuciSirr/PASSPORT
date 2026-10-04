@@ -1,0 +1,35 @@
+{
+  "id": "b02d0cf0-f2da-46bc-a225-7626c076c4ec",
+  "age": 38,
+  "birth_date": "1988-02-01",
+  "marital_status": "married",
+  "region": "Šenov",
+  "nationality": "czech",
+  "company": "Šmídová",
+  "car_brand": "Toyota",
+  "self_first_name": "Adéla",
+  "self_last_name": "Šmídová",
+  "partner_first_name": "Rudolf",
+  "partner_last_name": "Šmída",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "turistika",
+    "grilování",
+    "poslech české hudby"
+  ],
+  "previous_passwords": [
+    "Sparta88!",
+    "Hokej88_Rud",
+    "Toyota88!",
+    "Turistika02",
+    "Grilovani88",
+    "CeskaHudba88",
+    "Slavia_02!",
+    "FotbalRuda88",
+    "Snezka88!",
+    "Adela1988!"
+  ]
+}

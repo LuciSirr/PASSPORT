@@ -1,0 +1,39 @@
+{
+  "id": "f195c8ed-759e-4372-b610-eacb3e91222a",
+  "gender": "female",
+  "age": 71,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "midsomer murders"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Tilly"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tilly1953",
+    "Midsomer123",
+    "Margaret!12",
+    "Garden4Life",
+    "Hollingsworth53",
+    "Tilly_Garden",
+    "MidsomerMurders7",
+    "Geoffrey2020",
+    "CatLover!53",
+    "M4rg4r3t1953"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1953-06-12"
+}

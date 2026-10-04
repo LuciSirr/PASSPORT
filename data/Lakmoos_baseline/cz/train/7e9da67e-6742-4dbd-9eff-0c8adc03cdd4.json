@@ -1,0 +1,40 @@
+{
+  "id": "7e9da67e-6742-4dbd-9eff-0c8adc03cdd4",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Konečná",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "houpačka",
+    "pohádky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Terezka2018",
+    "maminka123",
+    "slunicko",
+    "skolka2024",
+    "Micka2022",
+    "malovani321",
+    "Konecna6",
+    "Houpacka!",
+    "Pohadky2020",
+    "M1cka123"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2020-03-18"
+}

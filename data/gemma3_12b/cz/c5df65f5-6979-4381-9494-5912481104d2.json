@@ -1,0 +1,35 @@
+{
+  "id": "c5df65f5-6979-4381-9494-5912481104d2",
+  "age": 53,
+  "birth_date": "1973-11-01",
+  "marital_status": "married",
+  "region": "Rokytnice v Orlických horách",
+  "nationality": "czech",
+  "company": "Dostálová s.r.o.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Helena",
+  "self_last_name": "Mašková",
+  "partner_first_name": "Robin",
+  "partner_last_name": "Mašková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika v Krkonoších",
+    "rybaření",
+    "čtení detektivek",
+    "folklórní tance",
+    "pěstování zeleniny"
+  ],
+  "previous_passwords": [
+    "Krkonoše2023",
+    "RobinMas1973!",
+    "DetectiveKniha1",
+    "FolklorníTanceR",
+    "VolksWagenRybář",
+    "ZeleninaH20",
+    "Mas Helena73",
+    "RybařeníKrkonoše",
+    "KnihaDetectiveMas",
+    "RobinTance2001"
+  ]
+}

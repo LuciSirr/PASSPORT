@@ -1,0 +1,41 @@
+{
+  "id": "b62e31ec-e5bc-433c-9560-c27cde1daf5c",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Ford",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šimková",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šimková",
+  "children": [],
+  "interests": [
+    "cestování",
+    "malování",
+    "turistika",
+    "čtení"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Základní škola Poděbrady",
+  "previous_passwords": [
+    "Micka2014",
+    "Cestovani56",
+    "Simkova79",
+    "PetrIveta2022",
+    "Malovani123",
+    "Poděbrady!79",
+    "Ucitelka56",
+    "Rossmann406",
+    "Micka!56",
+    "Turistika2023"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1970-02-14"
+}

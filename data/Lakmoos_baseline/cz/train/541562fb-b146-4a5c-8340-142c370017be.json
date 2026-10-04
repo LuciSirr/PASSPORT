@@ -1,0 +1,40 @@
+{
+  "id": "541562fb-b146-4a5c-8340-142c370017be",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kubeš",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "lego",
+    "kreslení"
+  ],
+  "pets": [
+    {
+      "pet_type": "other",
+      "pet_name": "Králíček"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej2016",
+    "liberec123",
+    "Kubes8",
+    "skola2024",
+    "Kralicek!",
+    "fotbal2024",
+    "lego123",
+    "kresleni8",
+    "MatejLiberec",
+    "Vesely_08"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2018-02-09"
+}

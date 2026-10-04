@@ -1,0 +1,38 @@
+{
+  "id": "0826c74b-09b2-4863-a708-8107357e20fe",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Jaguar",
+  "self_first_name": "Harriet",
+  "self_last_name": "Caldwell",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Caldwell",
+  "children": [],
+  "interests": [
+    "travel photography",
+    "great british bake off"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "East Anglia Ventures",
+  "previous_passwords": [
+    "Milo2016",
+    "CaldwellBakeoff!",
+    "TravelBug85",
+    "Harriet_123",
+    "OliverJuly14",
+    "Bake0ff2020",
+    "EastAnglia!1",
+    "MiloBakeoff7",
+    "GBBO_1985"
+  ],
+  "favorite_hobby": "travel photography",
+  "birth_date": "1985-07-14"
+}

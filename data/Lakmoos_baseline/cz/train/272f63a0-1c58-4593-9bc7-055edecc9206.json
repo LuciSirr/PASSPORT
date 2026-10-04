@@ -1,0 +1,35 @@
+{
+  "id": "272f63a0-1c58-4593-9bc7-055edecc9206",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jarmila",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "zahrada",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radomir1964",
+    "Jarmila2023",
+    "Vesely60",
+    "Krizovky123",
+    "Zahrada2022",
+    "SkodaKodiaq17",
+    "PilsnerUrquell!",
+    "Kaufland1023",
+    "Vysočina_100k",
+    "JarmilaRadomir"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1965-08-30"
+}

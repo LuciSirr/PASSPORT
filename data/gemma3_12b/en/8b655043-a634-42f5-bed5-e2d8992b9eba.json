@@ -1,0 +1,35 @@
+{
+  "id": "8b655043-a634-42f5-bed5-e2d8992b9eba",
+  "age": 37,
+  "birth_date": "1989-04-04",
+  "marital_status": "married",
+  "region": "Rosieview",
+  "nationality": "english",
+  "company": "Palmer PLC",
+  "car_brand": "Kia",
+  "self_first_name": "Amber",
+  "self_last_name": "Williams",
+  "partner_first_name": "Dean",
+  "partner_last_name": "Williams",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Hiking",
+    "Craft Beer",
+    "Photography",
+    "True Crime Podcasts",
+    "Local Music"
+  ],
+  "previous_passwords": [
+    "RogueHike2024",
+    "KiaDeanPhoto!",
+    "RosieviewBrew92",
+    "AmberMessi1989",
+    "LocalMusic_AW",
+    "TrueCrimeHike!",
+    "CraftBeer2004",
+    "KiaPhotoDean",
+    "RoguePodcastAW",
+    "HikingRosieview89"
+  ]
+}

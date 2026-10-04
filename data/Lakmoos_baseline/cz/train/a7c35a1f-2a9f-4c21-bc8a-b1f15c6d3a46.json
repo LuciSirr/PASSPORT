@@ -1,0 +1,36 @@
+{
+  "id": "a7c35a1f-2a9f-4c21-bc8a-b1f15c6d3a46",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Šimůnková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "instagram",
+    "nakupování",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "SimArt Studio",
+  "previous_passwords": [
+    "Tereza2005",
+    "simunkova123",
+    "RajecVoda19",
+    "Pringles2022",
+    "mattoni80",
+    "malovani_321",
+    "Instagram2021",
+    "Nakupovani!",
+    "Seriály2005",
+    "Tereza_19"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2006-10-20"
+}

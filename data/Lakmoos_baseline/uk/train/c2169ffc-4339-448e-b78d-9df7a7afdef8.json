@@ -1,0 +1,38 @@
+{
+  "id": "c2169ffc-4339-448e-b78d-9df7a7afdef8",
+  "gender": "female",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Carys",
+  "self_last_name": "Penhaligon",
+  "partner_first_name": "Rhys",
+  "partner_last_name": "Penhaligon",
+  "children": [],
+  "interests": [
+    "hiking",
+    "reading",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Gwynedd Learning Hub",
+  "previous_passwords": [
+    "Carys1999",
+    "MiloCat21",
+    "Penhaligon123",
+    "Rhys4ever",
+    "Baking_2022",
+    "Wales!2020",
+    "Hiking4Life",
+    "Milo!99"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "2001-03-20"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "eb3a833d-1eb0-4b74-b434-17da86632028",
+  "age": 45,
+  "birth_date": "1981-10-18",
+  "marital_status": "married",
+  "region": "Mladá Boleslav",
+  "nationality": "czech",
+  "company": "Fišer o.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Kristýna",
+  "self_last_name": "Soukupová",
+  "partner_first_name": "Dušan",
+  "partner_last_name": "Soukupová",
+  "children": [
+    {
+      "first_name": "Mikuláš",
+      "last_name": "Soukup"
+    },
+    {
+      "first_name": "Miloslav",
+      "last_name": "Soukup"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Roman"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivo",
+    "hudba Karla Gotta",
+    "automobilismus Škoda",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "KarlaGotta1981",
+    "RomanFerretTour!",
+    "MladáBoleslavVW",
+    "MikulasPivo23",
+    "DusanSoukupMusic",
+    "SkodaAutoRyr!",
+    "MiloslavTourista88",
+    "VolkswagenRybar",
+    "KristýnaGotta2024",
+    "TuristikaRoman05"
+  ]
+}

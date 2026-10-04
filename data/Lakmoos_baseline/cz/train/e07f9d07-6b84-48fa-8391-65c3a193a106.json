@@ -1,0 +1,41 @@
+{
+  "id": "e07f9d07-6b84-48fa-8391-65c3a193a106",
+  "gender": "female",
+  "age": 48,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "čtení",
+    "procházky",
+    "malování",
+    "cestování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2014",
+    "ToyotaAygo54",
+    "Globus123",
+    "Rossmann48",
+    "Vesela2020",
+    "Petr1975",
+    "Cteni123",
+    "Malovani!22",
+    "Tereza10",
+    "Prochazky2023"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1978-03-06"
+}

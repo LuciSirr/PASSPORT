@@ -1,0 +1,40 @@
+{
+  "id": "65be2ddc-77ff-4db3-b63a-66a2fdafa3ae",
+  "gender": "female",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Šafránková",
+  "partner_first_name": "Jakub",
+  "partner_last_name": "Šafránek",
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Šafránková"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "nakupování",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Ustecký Obchodní Servis",
+  "previous_passwords": [
+    "Eliška2019",
+    "TerezaUsti",
+    "Jakub24",
+    "Cestovani123",
+    "Safrankova80",
+    "Globus588",
+    "Eli4ka!",
+    "Nakupovani2022",
+    "KFCcz24",
+    "Jakub.Tereza"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "2005-03-02"
+}

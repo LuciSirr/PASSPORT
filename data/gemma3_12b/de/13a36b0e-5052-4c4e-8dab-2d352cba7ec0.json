@@ -1,0 +1,53 @@
+{
+  "id": "13a36b0e-5052-4c4e-8dab-2d352cba7ec0",
+  "age": 62,
+  "birth_date": "1964-08-09",
+  "marital_status": "married",
+  "region": "Sebnitz",
+  "nationality": "german",
+  "company": "Butte GmbH & Co. OHG",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Mustafa",
+  "self_last_name": "Dörschner",
+  "partner_first_name": "Bianca",
+  "partner_last_name": "Dörschner",
+  "children": [
+    {
+      "first_name": "Hagen",
+      "last_name": "Dörschner"
+    },
+    {
+      "first_name": "Olga",
+      "last_name": "Dörschner"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Mechthilde"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Samuel"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Schach",
+    "Deutsche Klassische Musik",
+    "Lokale Geschichte"
+  ],
+  "previous_passwords": [
+    "HagenOlga1964",
+    "MercedesWanderlust!",
+    "SchachMechtthilde23",
+    "BiancaFoto78",
+    "SebnitzClassic!",
+    "SamuelWandern89",
+    "DeutscheMusik_09",
+    "Hagen_Mercedes7",
+    "Geschichte_Mechthilde",
+    "OlgaFoto1964!"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "9bebb106-1a02-4ebc-8196-a5aa6b2c08ca",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "počítače",
+    "kreslení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "olomouc123",
+    "skola2022",
+    "fotbalek",
+    "radek12",
+    "Vesely2001",
+    "kresleni321",
+    "PCgamerCZ",
+    "f0tbal2024",
+    "Radek!Olm",
+    "skolni_den"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2014-01-12"
+}

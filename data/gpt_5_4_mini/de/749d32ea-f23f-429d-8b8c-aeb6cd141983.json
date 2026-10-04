@@ -1,0 +1,44 @@
+{
+  "id": "749d32ea-f23f-429d-8b8c-aeb6cd141983",
+  "age": 60,
+  "birth_date": "1966-01-21",
+  "marital_status": "married",
+  "region": "Parchim",
+  "nationality": "german",
+  "company": "Lange GmbH",
+  "car_brand": "BMW",
+  "self_first_name": "Jens-Peter",
+  "self_last_name": "Butte",
+  "partner_first_name": "Evamaria",
+  "partner_last_name": "Butte",
+  "children": [
+    {
+      "first_name": "Augusta",
+      "last_name": "Butte"
+    },
+    {
+      "first_name": "Hans-Rudolf",
+      "last_name": "Butte"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Gartenarbeit",
+    "Fußball",
+    "Wandern",
+    "Schlager",
+    "Regionale Geschichte"
+  ],
+  "previous_passwords": [
+    "BMWGarten66",
+    "Parchim1966!",
+    "HansRudolf66",
+    "Evamaria21",
+    "HSV1966!",
+    "Schlager66",
+    "WandernParchim",
+    "MickieKrause21",
+    "FCSP66!",
+    "Mecklen63"
+  ]
+}

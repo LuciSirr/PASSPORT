@@ -1,0 +1,35 @@
+{
+  "id": "a37d3432-02be-4629-aa40-52ad29f238d8",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "divorced",
+  "region": "bremen",
+  "nationality": "german",
+  "car_brand": "Mitsubishi",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Kuhn",
+  "birth_date": "1964-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "tatort",
+    "formel 1",
+    "nordsee urlaub"
+  ],
+  "pets": [],
+  "company": "Bremer Management GmbH",
+  "previous_passwords": [
+    "Tatort1964",
+    "Kuhn!Bremen",
+    "Formel1fan64",
+    "Nordsee_123",
+    "Juergen1964",
+    "Tatort!10",
+    "KuhnF1_2020",
+    "BremerChef23",
+    "Tat0rt!64",
+    "F1Kuhn1964"
+  ],
+  "favorite_hobby": "tatort"
+}

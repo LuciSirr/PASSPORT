@@ -1,0 +1,39 @@
+{
+  "id": "eb8a298d-6ce8-4c55-921c-9fde46e3a51d",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "počítače",
+    "cyklistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej123",
+    "fotbal2022",
+    "Usti2009",
+    "skola12",
+    "Sebesta",
+    "Benek09",
+    "cyklo123",
+    "Ben!2022",
+    "pocitace12"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2013-12-12"
+}

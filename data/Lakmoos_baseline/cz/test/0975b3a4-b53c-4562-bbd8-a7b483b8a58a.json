@@ -1,0 +1,39 @@
+{
+  "id": "0975b3a4-b53c-4562-bbd8-a7b483b8a58a",
+  "gender": "female",
+  "age": 66,
+  "marital_status": "widower/widow",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1958-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "české filmy"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Jarmila1958",
+    "Kohoutova123",
+    "Micka2020",
+    "cestovani58",
+    "Globus2023",
+    "Plzen!66",
+    "ceskefilmy_12",
+    "MickaKohout",
+    "Jarmila!12",
+    "Micka_cestovani"
+  ],
+  "favorite_hobby": "cestování"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "e24cd197-9044-45f7-8e74-669d0cd9491b",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gisela",
+  "self_last_name": "Kuhn",
+  "birth_date": "1960-06-12",
+  "partner_first_name": "Manfred",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "Bauunternehmen Rheinpfalz",
+  "previous_passwords": [
+    "Gisela1960",
+    "Kuhn!Bau60",
+    "Manfred12",
+    "Pilcher2020",
+    "Nordic123",
+    "Rheinpfalz60",
+    "rosamunde_1960",
+    "KuhnWalking!",
+    "Gisela!Manfred",
+    "Bauunternehmen12"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

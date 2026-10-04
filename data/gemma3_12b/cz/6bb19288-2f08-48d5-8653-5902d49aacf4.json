@@ -1,0 +1,48 @@
+{
+  "id": "6bb19288-2f08-48d5-8653-5902d49aacf4",
+  "age": 48,
+  "birth_date": "1978-11-09",
+  "marital_status": "married",
+  "region": "Hroznětín",
+  "nationality": "czech",
+  "company": "Prokop",
+  "car_brand": "Suzuki",
+  "self_first_name": "Patrik",
+  "self_last_name": "Růžička",
+  "partner_first_name": "Klaudie",
+  "partner_last_name": "Růžičková",
+  "children": [
+    {
+      "first_name": "Drahoslav",
+      "last_name": "Růžička"
+    },
+    {
+      "first_name": "Linda",
+      "last_name": "Růžičková"
+    },
+    {
+      "first_name": "Růžena",
+      "last_name": "Růžičková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivovarnictví",
+    "folklór",
+    "historie"
+  ],
+  "previous_passwords": [
+    "Drahoslav78Turistika",
+    "SuzukiLinda2024",
+    "RůženaPivovarnictvi!",
+    "KlaudieRybarstvi1978",
+    "FolklórDrahoslav!",
+    "HistorieRůžičkaS",
+    "HroznětínLinda_",
+    "TuristikaDrahoslavR",
+    "MessiRůžena2000",
+    "PivovarnictviKlaudie"
+  ]
+}

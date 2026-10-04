@@ -1,0 +1,44 @@
+{
+  "id": "52d52513-f1b6-499b-85e9-704598090f4e",
+  "age": 53,
+  "birth_date": "1973-07-13",
+  "marital_status": "single",
+  "region": "Hlinsko",
+  "nationality": "czech",
+  "company": "Nováková",
+  "car_brand": "Škoda",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Hrušková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Marcel"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Žofie"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "zahradničení",
+    "historie",
+    "hudba Karla Haška"
+  ],
+  "previous_passwords": [
+    "KarlaHaskova2001",
+    "TuristikaHlinsko!",
+    "MarcelZofie23",
+    "SkodaFabiaFish",
+    "Rybarství73Žofie",
+    "ZahradniHistorie",
+    "Marcel_Historie",
+    "Hruskova_Turistika",
+    "KarlaHaskaSnake",
+    "Zofie73Fish!"
+  ]
+}

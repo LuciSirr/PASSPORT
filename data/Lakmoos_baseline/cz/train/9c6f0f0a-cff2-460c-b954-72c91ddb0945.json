@@ -1,0 +1,40 @@
+{
+  "id": "9c6f0f0a-cff2-460c-b954-72c91ddb0945",
+  "gender": "female",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Koubová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "čtení",
+    "koloběžka"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Terezka2016",
+    "jahoda123",
+    "Plzenka8",
+    "kocicka2023",
+    "Micka2022",
+    "malovani8",
+    "Koubova123",
+    "cteni2021",
+    "kolobezka8",
+    "Plzen_2015"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2017-09-04"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "c177ab7d-c613-4d8e-8a46-3c2aea2d4135",
+  "age": 67,
+  "birth_date": "1959-12-15",
+  "marital_status": "single",
+  "region": "Grafenau",
+  "nationality": "german",
+  "company": "Kohl Nohlmans AG",
+  "car_brand": "Dacia",
+  "self_first_name": "Hans",
+  "self_last_name": "Hermighausen",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Antonie"
+    },
+    {
+      "pet_type": "turtle",
+      "pet_name": "Ronald"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Schallplatten",
+    "Volksmusik",
+    "Gemütliches Beisammensein",
+    "Lokale Geschichte"
+  ],
+  "previous_passwords": [
+    "Antoniewander1959",
+    "GrafenauVinyl!",
+    "DaciaWander2024",
+    "AntonieGemuetlich",
+    "VolksmusikHans",
+    "RonTurtleWandern",
+    "SchallplattenGrafenau",
+    "DaciaAnton",
+    "Gemuetliches1959",
+    "WandernMessi!"
+  ]
+}

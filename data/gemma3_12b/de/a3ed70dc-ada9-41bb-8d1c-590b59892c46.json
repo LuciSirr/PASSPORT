@@ -1,0 +1,48 @@
+{
+  "id": "a3ed70dc-ada9-41bb-8d1c-590b59892c46",
+  "age": 33,
+  "birth_date": "1993-03-07",
+  "marital_status": "married",
+  "region": "Sonneberg",
+  "nationality": "german",
+  "company": "Ebert",
+  "car_brand": "Audi",
+  "self_first_name": "Katja",
+  "self_last_name": "Hande",
+  "partner_first_name": "Danny",
+  "partner_last_name": "Spieß",
+  "children": [
+    {
+      "first_name": "Sahin",
+      "last_name": "Hande"
+    },
+    {
+      "first_name": "Saskia",
+      "last_name": "Hande"
+    },
+    {
+      "first_name": "Gretel",
+      "last_name": "Hande"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "FC Bayern München",
+    "Kaffee kochen",
+    "Fotografie",
+    "Indie-Musik"
+  ],
+  "previous_passwords": [
+    "Sahin2011Bayern",
+    "DannySaskiFoto!",
+    "AudiWanderlust93",
+    "KaffeeFotografie24",
+    "IndieMusikSonneberg",
+    "MessiSahinHande",
+    "GretelFCBayern!",
+    "WanderAudi2011",
+    "KochenSahin2003",
+    "FotografieDanny93"
+  ]
+}

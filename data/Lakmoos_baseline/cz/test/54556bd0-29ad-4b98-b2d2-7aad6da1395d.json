@@ -1,0 +1,39 @@
+{
+  "id": "54556bd0-29ad-4b98-b2d2-7aad6da1395d",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "divorced",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1968-06-13",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "ceska detektivka",
+    "turistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Liberecké strojírny s.r.o.",
+  "previous_passwords": [
+    "Ivana1968",
+    "Kohoutova79",
+    "Micka2020",
+    "detektivka13",
+    "turistika_68",
+    "Liberec2023",
+    "Micka!13",
+    "KohoutovaMicka",
+    "det3ktivka",
+    "turistika79!"
+  ],
+  "favorite_hobby": "ceska detektivka"
+}

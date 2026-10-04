@@ -1,0 +1,34 @@
+{
+  "id": "170d5e45-3dd3-4ed0-b6ac-ce011fab7a2d",
+  "gender": "female",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Callum",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "yoga",
+    "reading",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Westminster Civil Services",
+  "previous_passwords": [
+    "Imogen2003",
+    "Ashcroft21",
+    "LondonGirl!",
+    "Yoga123",
+    "Callum_04",
+    "Baking4Life",
+    "Reading2022",
+    "ImoAshcroft",
+    "CivilService3000"
+  ],
+  "favorite_hobby": "yoga",
+  "birth_date": "2005-03-17"
+}

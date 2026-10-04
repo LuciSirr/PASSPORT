@@ -1,0 +1,34 @@
+{
+  "id": "827d32f0-2c5a-4307-b271-2ada43e8f450",
+  "gender": "male",
+  "age": 39,
+  "marital_status": "single/in a relationship",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Jaguar",
+  "self_first_name": "Gareth",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "cooking"
+  ],
+  "pets": [],
+  "company": "Yorkshire Venture Solutions",
+  "previous_passwords": [
+    "Jaguar2016",
+    "Merrick88",
+    "Yorkshire123",
+    "Sophie!39",
+    "Fpace_2016",
+    "Travel4Life",
+    "LandRover10",
+    "Gareth_14000",
+    "Cycling2022"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1986-12-01"
+}

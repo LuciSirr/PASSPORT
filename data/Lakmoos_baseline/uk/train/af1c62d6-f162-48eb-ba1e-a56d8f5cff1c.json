@@ -1,0 +1,33 @@
+{
+  "id": "af1c62d6-f162-48eb-ba1e-a56d8f5cff1c",
+  "gender": "female",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Whittingham",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "peppa",
+    "puzzles"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Maisie2021",
+    "PeppaPig1",
+    "Whittingham3",
+    "Drawing123",
+    "Puzzles2024",
+    "MaisiePig!",
+    "Peppa_Whitt",
+    "Maisie!21"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2023-02-15"
+}

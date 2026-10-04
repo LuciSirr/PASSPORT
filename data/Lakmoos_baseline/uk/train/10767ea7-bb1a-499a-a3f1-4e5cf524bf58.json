@@ -1,0 +1,40 @@
+{
+  "id": "10767ea7-bb1a-499a-a3f1-4e5cf524bf58",
+  "gender": "female",
+  "age": 55,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Hyundai",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "gardening",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Maple House Hospitality",
+  "previous_passwords": [
+    "Fiona1969",
+    "Milo123",
+    "Travel4Fun",
+    "Hollingsworth2020",
+    "Graham!55",
+    "London2023",
+    "Gardening_1",
+    "MapleHouse21",
+    "F1onaCat!",
+    "Walking2022"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1971-03-06"
+}

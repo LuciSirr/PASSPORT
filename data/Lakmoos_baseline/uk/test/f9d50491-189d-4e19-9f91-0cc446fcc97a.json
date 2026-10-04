@@ -1,0 +1,34 @@
+{
+  "id": "f9d50491-189d-4e19-9f91-0cc446fcc97a",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Alfie",
+  "self_last_name": "Pritchard",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "peppa pig",
+    "duplo"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Alfie2024",
+    "PeppaPig15",
+    "Duplo123",
+    "Pritchard2024",
+    "Piggy_2024",
+    "Duplo!15",
+    "Peppa4Alfie",
+    "Wales2024",
+    "AlfiePiggy",
+    "DuploPritchard"
+  ],
+  "favorite_hobby": "peppa pig",
+  "birth_date": "2019-03-15"
+}

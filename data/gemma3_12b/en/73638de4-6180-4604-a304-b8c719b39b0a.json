@@ -1,0 +1,44 @@
+{
+  "id": "73638de4-6180-4604-a304-b8c719b39b0a",
+  "age": 39,
+  "birth_date": "1987-04-26",
+  "marital_status": "married",
+  "region": "Lewisshire",
+  "nationality": "english",
+  "company": "Thomas, Cooper and Marshall",
+  "car_brand": "Kia",
+  "self_first_name": "Sandra",
+  "self_last_name": "Farmer",
+  "partner_first_name": "James",
+  "partner_last_name": "Farmer",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Stephanie"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Nigel"
+    }
+  ],
+  "interests": [
+    "Hiking",
+    "Photography",
+    "Local History",
+    "Craft Beer",
+    "Gardening"
+  ],
+  "previous_passwords": [
+    "LewisshireHike26",
+    "StephanieCraft!",
+    "KiaGardens87",
+    "NigelPhoto_1987",
+    "LocalHistJames",
+    "FarmersHike23",
+    "BreweryStephanie",
+    "KiaHikingNigel",
+    "LewisshirePhoto!",
+    "GardensJames87"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "73fae8c5-a1e0-420e-bab9-f50f5f63c16a",
+  "gender": "male",
+  "age": 50,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "BMW",
+  "self_first_name": "Jörg",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kleinschmidt"
+    }
+  ],
+  "interests": [
+    "cabriofahren",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2018",
+    "BMWZ42015",
+    "Jörg1234",
+    "Kleinschmidt!50",
+    "Sommerurlaub19",
+    "Reisen2023",
+    "Lukas!5",
+    "BayernMünchen77",
+    "AugustUrlaub",
+    "Z4Cabrio_8"
+  ],
+  "favorite_hobby": "cabriofahren",
+  "birth_date": "1975-08-28"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "a64d7f53-0560-4108-b526-1594a69084ca",
+  "age": 43,
+  "birth_date": "1983-09-12",
+  "marital_status": "married",
+  "region": "Smithfort",
+  "nationality": "english",
+  "company": "Clarke-Elliott",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Craig",
+  "self_last_name": "Dyer",
+  "partner_first_name": "Christine",
+  "partner_last_name": "Fisher",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Geraldine"
+    }
+  ],
+  "interests": [
+    "Gardening",
+    "Classic Rock Music",
+    "Local History",
+    "Hiking",
+    "DIY Home Improvement"
+  ],
+  "previous_passwords": [
+    "LedZeppelin83!",
+    "GeraldineHike22",
+    "VW_Smithfort1983",
+    "ClassicRockDIY!",
+    "ChristineDyer23",
+    "JoeRoganGarden!",
+    "LocalHistGardener",
+    "MessiSmithfort12",
+    "SmithfortHiking!",
+    "GeraldineVW83"
+  ]
+}

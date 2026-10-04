@@ -1,0 +1,35 @@
+{
+  "id": "5ff8c723-29a1-4c02-9229-5ccf99275485",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "turistika",
+    "auta",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Hotel U Labské brány",
+  "previous_passwords": [
+    "Radek2015",
+    "Jitka59",
+    "Vesely123",
+    "Karoq2017",
+    "Usti_1985",
+    "Turistika2020",
+    "McD263",
+    "Hornbach59",
+    "JitkaRadek1",
+    "Vitana2020"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1978-02-03"
+}

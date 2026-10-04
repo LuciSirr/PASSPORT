@@ -1,0 +1,40 @@
+{
+  "id": "3130702f-2863-4995-beaa-4fa7bf640ae9",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "cycling",
+    "travelling",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Eastside Ventures Ltd",
+  "previous_passwords": [
+    "Baxter2016",
+    "Callum123",
+    "Eastside!16",
+    "Emily4Callum",
+    "CupraAteca8",
+    "Cycling2020",
+    "Hollingsworth29",
+    "Baxter!",
+    "Trav3l2022",
+    "Emily_2015"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1996-10-25"
+}

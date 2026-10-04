@@ -1,0 +1,45 @@
+{
+  "id": "f4fc98cf-66cd-40ea-b01c-24ce5f52e4a8",
+  "age": 48,
+  "birth_date": "1978-02-22",
+  "marital_status": "married",
+  "region": "Miroslav",
+  "nationality": "czech",
+  "company": "Pavlíková",
+  "car_brand": "Škoda",
+  "self_first_name": "Linda",
+  "self_last_name": "Krejčová",
+  "partner_first_name": "Luboš",
+  "partner_last_name": "Krejčová",
+  "children": [
+    {
+      "first_name": "Dušan",
+      "last_name": "Říha"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Jaroslava"
+    }
+  ],
+  "interests": [
+    "zahradničení",
+    "vinařství",
+    "fotbal",
+    "turistika",
+    "tradiční česká kuchyně"
+  ],
+  "previous_passwords": [
+    "Skoda1978!",
+    "Miroslav78",
+    "Zahrada22",
+    "LuboS_Fotbal7",
+    "Vino2022_L",
+    "DušanSudi",
+    "Jaroslava8!",
+    "Turistika78",
+    "Svičkova48",
+    "MiroGolf78"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a17f6f26-89db-4a6c-898c-e3df120776fe",
+  "gender": "male",
+  "age": 49,
+  "marital_status": "married",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "Tesla",
+  "self_first_name": "Jörg",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kreutzmann",
+  "children": [],
+  "interests": [
+    "reisen",
+    "autos",
+    "serien"
+  ],
+  "pets": [],
+  "company": "Nordlicht Beratung",
+  "previous_passwords": [
+    "Jörg1975",
+    "Sabine123",
+    "Tesla2022!",
+    "Kreutzmann75",
+    "Schleswig1978",
+    "Reisen_09",
+    "Nordlicht4",
+    "SabineJörg",
+    "Model3plus",
+    "Allianz2020"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1976-05-11"
+}

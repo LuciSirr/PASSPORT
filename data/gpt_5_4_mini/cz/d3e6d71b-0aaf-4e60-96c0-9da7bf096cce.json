@@ -1,0 +1,35 @@
+{
+  "id": "d3e6d71b-0aaf-4e60-96c0-9da7bf096cce",
+  "age": 45,
+  "birth_date": "1981-07-19",
+  "marital_status": "married",
+  "region": "Lovosice",
+  "nationality": "czech",
+  "company": "Králová Šimková o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Erik",
+  "self_last_name": "Mach",
+  "partner_first_name": "Emilie",
+  "partner_last_name": "Machová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hokej",
+    "turistika",
+    "zahradničení",
+    "vaření",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Hokej1981!",
+    "Turistika19",
+    "SkodaLovosice7",
+    "VltavaTour81",
+    "EmilieVareni45",
+    "Zahrada71!",
+    "CeskeFilmy19",
+    "LitvinovHokej81",
+    "MachVaří?",
+    "Vaření_19"
+  ]
+}

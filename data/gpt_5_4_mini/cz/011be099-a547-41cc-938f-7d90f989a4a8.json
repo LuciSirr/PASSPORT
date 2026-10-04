@@ -1,0 +1,44 @@
+{
+  "id": "011be099-a547-41cc-938f-7d90f989a4a8",
+  "age": 71,
+  "birth_date": "1955-03-16",
+  "marital_status": "married",
+  "region": "Plesná",
+  "nationality": "czech",
+  "company": "Kratochvílová",
+  "car_brand": "Škoda",
+  "self_first_name": "Františka",
+  "self_last_name": "Machová",
+  "partner_first_name": "Kryštof",
+  "partner_last_name": "Machová",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Gabriela"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Vasyl"
+    }
+  ],
+  "interests": [
+    "zahradničení",
+    "turistika",
+    "sledování hokeje",
+    "české filmy",
+    "houbaření"
+  ],
+  "previous_passwords": [
+    "Zahrada1955!",
+    "Hokej1955_",
+    "SkodaPlesna71",
+    "GabrielaFerret7",
+    "Turistika55",
+    "Myslivost16",
+    "KryštofHokej55",
+    "CzechFilmy71!",
+    "VasylHorse55",
+    "MachovaPlesna16"
+  ]
+}

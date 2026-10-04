@@ -1,0 +1,40 @@
+{
+  "id": "e791efbd-0680-4fd1-b1dd-17dd2cc4a124",
+  "gender": "male",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Jurčo",
+  "birth_date": "2011-03-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "slavia praha",
+    "minecraft"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej2011",
+    "JurcoFifa17",
+    "rex123",
+    "slavia2024",
+    "minecraft_11",
+    "RexJurco",
+    "fifaRex2011",
+    "Praha!17",
+    "slaviaMatej",
+    "Jurco_minecraft"
+  ],
+  "favorite_hobby": "fifa"
+}

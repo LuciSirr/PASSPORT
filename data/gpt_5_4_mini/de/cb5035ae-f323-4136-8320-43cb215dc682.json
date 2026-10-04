@@ -1,0 +1,40 @@
+{
+  "id": "cb5035ae-f323-4136-8320-43cb215dc682",
+  "age": 41,
+  "birth_date": "1985-02-20",
+  "marital_status": "married",
+  "region": "Lörrach",
+  "nationality": "german",
+  "company": "Kaul Vogt AG",
+  "car_brand": "Audi",
+  "self_first_name": "Frieda",
+  "self_last_name": "Hein",
+  "partner_first_name": "Klaus",
+  "partner_last_name": "Klemt",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Sinaida"
+    }
+  ],
+  "interests": [
+    "Wandern im Schwarzwald",
+    "Fußball",
+    "Kochen",
+    "Radfahren",
+    "Weinverkostung"
+  ],
+  "previous_passwords": [
+    "Waldkicker85!",
+    "BayernWein85",
+    "AudiBerg41",
+    "SinaidaFish85",
+    "KochenKlaus85",
+    "RennradLoe84",
+    "Schwarzwald12!",
+    "MessiLaufen85",
+    "KlausWein41",
+    "FreiburgBike85"
+  ]
+}

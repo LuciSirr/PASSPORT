@@ -1,0 +1,35 @@
+{
+  "id": "0b9ab458-bdcb-439a-9549-e9c9bbeeaa72",
+  "age": 29,
+  "birth_date": "1997-08-25",
+  "marital_status": "married",
+  "region": "Burglengenfeld",
+  "nationality": "german",
+  "company": "Harloff",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Zlatko",
+  "self_last_name": "Margraf",
+  "partner_first_name": "Barbara",
+  "partner_last_name": "Margraf",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Wandern",
+    "Kochen",
+    "Rockmusik"
+  ],
+  "previous_passwords": [
+    "Bayern97!",
+    "Messi25Zl",
+    "VW_Golf97",
+    "RockZlatko7",
+    "Kochen1997!",
+    "ZlatkoHiking29",
+    "Barbara_FCB",
+    "Gaming97_!",
+    "Wander25Z!",
+    "Volks94Rock"
+  ]
+}

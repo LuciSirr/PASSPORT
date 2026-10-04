@@ -1,0 +1,34 @@
+{
+  "id": "fbae5a9e-d0bc-439c-b493-b1180f3e6076",
+  "gender": "male",
+  "age": 5,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "puzzle",
+    "lego"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Matej2019",
+    "auticka123",
+    "skolka2024",
+    "Vesely2020",
+    "legoMatej",
+    "malovani2022",
+    "Puzzle!5",
+    "Morava123",
+    "Matej_lego"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2021-01-14"
+}

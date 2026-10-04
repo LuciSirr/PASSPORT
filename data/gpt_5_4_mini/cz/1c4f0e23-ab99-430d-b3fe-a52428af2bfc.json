@@ -1,0 +1,52 @@
+{
+  "id": "1c4f0e23-ab99-430d-b3fe-a52428af2bfc",
+  "age": 43,
+  "birth_date": "1983-01-27",
+  "marital_status": "married",
+  "region": "Vodňany",
+  "nationality": "czech",
+  "company": "Pavlík Šimek v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Nora",
+  "self_last_name": "Valentová",
+  "partner_first_name": "Štěpán",
+  "partner_last_name": "Valent",
+  "children": [
+    {
+      "first_name": "Artur",
+      "last_name": "Valent"
+    },
+    {
+      "first_name": "Radek",
+      "last_name": "Valent"
+    },
+    {
+      "first_name": "Ladislava",
+      "last_name": "Valentová"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Jaroslava"
+    }
+  ],
+  "interests": [
+    "rybaření",
+    "hokej",
+    "turistika",
+    "zahradničení"
+  ],
+  "previous_passwords": [
+    "Rybareni83!",
+    "HokejValent27",
+    "Turistika83_",
+    "Zahradniceni43",
+    "SkodaVodnany7",
+    "Jaroslava83!",
+    "ArturHokej27",
+    "StepanRyby83",
+    "Vodnany43!",
+    "ValentTurista27"
+  ]
+}

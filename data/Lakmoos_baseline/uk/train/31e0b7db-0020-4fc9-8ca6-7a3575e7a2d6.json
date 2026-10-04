@@ -1,0 +1,40 @@
+{
+  "id": "31e0b7db-0020-4fc9-8ca6-7a3575e7a2d6",
+  "gender": "female",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "KIA",
+  "self_first_name": "Imogen",
+  "self_last_name": "Radcliffe",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Radcliffe",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Imogen1999",
+    "Radcliffe16",
+    "Milo123",
+    "Travel4ever!",
+    "Reading_2022",
+    "Cycling21",
+    "Ollie99",
+    "London_4",
+    "KiaSportage!",
+    "MiloRadcliffe"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "2000-04-17"
+}

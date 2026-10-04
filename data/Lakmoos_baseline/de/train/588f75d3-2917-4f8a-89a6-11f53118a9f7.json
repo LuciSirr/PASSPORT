@@ -1,0 +1,35 @@
+{
+  "id": "588f75d3-2917-4f8a-89a6-11f53118a9f7",
+  "gender": "male",
+  "age": 50,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Mini",
+  "self_first_name": "Jörg",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "autos",
+    "musik"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Mini2002",
+    "Kreutzmann50",
+    "Reisen2023",
+    "Sommer!06",
+    "Musik123",
+    "Jörg1974",
+    "AutoFreak85",
+    "NRW_5000",
+    "MiniHatch22",
+    "Kreutzmann!"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1976-02-15"
+}

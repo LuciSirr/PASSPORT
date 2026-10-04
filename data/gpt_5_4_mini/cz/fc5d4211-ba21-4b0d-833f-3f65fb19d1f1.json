@@ -1,0 +1,53 @@
+{
+  "id": "fc5d4211-ba21-4b0d-833f-3f65fb19d1f1",
+  "age": 58,
+  "birth_date": "1968-07-03",
+  "marital_status": "married",
+  "region": "Černošice",
+  "nationality": "czech",
+  "company": "Křížová Šťastná s.r.o.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Dorota",
+  "self_last_name": "Nováková",
+  "partner_first_name": "Radim",
+  "partner_last_name": "Nováková",
+  "children": [
+    {
+      "first_name": "Igor",
+      "last_name": "Soukupová"
+    },
+    {
+      "first_name": "Anděla",
+      "last_name": "Veselá"
+    },
+    {
+      "first_name": "Alois",
+      "last_name": "Vaněk"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Daniela"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "cyklistika",
+    "české filmy",
+    "pěší výlety v okolí Berounky"
+  ],
+  "previous_passwords": [
+    "Turistika68!",
+    "Berounka73_",
+    "Hyundai58Cz",
+    "Zahradni10!",
+    "CykloRadim86",
+    "CeskeFilmy68",
+    "DanielaHorse7",
+    "Cernošice68",
+    "PesiVylety3",
+    "Novakova58!"
+  ]
+}

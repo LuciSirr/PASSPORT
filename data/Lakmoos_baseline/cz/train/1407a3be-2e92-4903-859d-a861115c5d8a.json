@@ -1,0 +1,40 @@
+{
+  "id": "1407a3be-2e92-4903-859d-a861115c5d8a",
+  "gender": "female",
+  "age": 41,
+  "marital_status": "divorced",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radka",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "vzdělávání",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Moravská výroba s.r.o.",
+  "previous_passwords": [
+    "Tereza2016",
+    "Vesela123",
+    "Makro2022",
+    "Rossmann41",
+    "IkeaByt",
+    "Radka8.4",
+    "TerezaVesela08",
+    "Nakupovani2023",
+    "Seriály2021",
+    "Brno!2015"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1984-05-29"
+}

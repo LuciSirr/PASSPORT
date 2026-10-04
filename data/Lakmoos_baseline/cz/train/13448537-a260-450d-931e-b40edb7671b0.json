@@ -1,0 +1,35 @@
+{
+  "id": "13448537-a260-450d-931e-b40edb7671b0",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "married",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotografie",
+    "automobily"
+  ],
+  "pets": [],
+  "company": "Zlínská výroba s.r.o.",
+  "previous_passwords": [
+    "Radomir1960",
+    "Jitka64",
+    "Superb2000",
+    "Konecny42000",
+    "Turistika123",
+    "Zlin2022",
+    "Kofola!",
+    "Fotografie77",
+    "VeselaJitka",
+    "Diesel7.9"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1961-12-24"
+}

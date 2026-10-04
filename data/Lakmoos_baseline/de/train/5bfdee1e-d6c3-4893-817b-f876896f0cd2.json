@@ -1,0 +1,40 @@
+{
+  "id": "5bfdee1e-d6c3-4893-817b-f876896f0cd2",
+  "gender": "male",
+  "age": 36,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Citroën",
+  "self_first_name": "Tobias",
+  "self_last_name": "Krause",
+  "partner_first_name": "Julia",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "autos"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Hessen Business Solutions",
+  "previous_passwords": [
+    "Tobias1988",
+    "Milo123",
+    "Krause!82",
+    "Julia2020",
+    "CitroenC3_19",
+    "Reisen03",
+    "Hessen13",
+    "Podcasts4",
+    "Autos7000",
+    "Krause_Milo"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1990-02-10"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2704d13c-f8ea-4c5a-b458-c7f55a04b230",
+  "gender": "female",
+  "age": 31,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Barbora",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1993-05-14",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohoutová",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohoutová"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "české filmy",
+    "ikea dekorace"
+  ],
+  "pets": [],
+  "company": "Pražská výroba s.r.o.",
+  "previous_passwords": [
+    "Tereza2009",
+    "Adam2018",
+    "Kohoutova93",
+    "Praha!123",
+    "cestovani2021",
+    "IkeaDekorace22",
+    "Barca_14",
+    "PetrBarbora",
+    "TerezaAdam15",
+    "filmyleto"
+  ],
+  "favorite_hobby": "cestování"
+}

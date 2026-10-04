@@ -1,0 +1,35 @@
+{
+  "id": "b0379044-8401-4d02-bfb5-02d510ca54bd",
+  "age": 55,
+  "birth_date": "1971-03-11",
+  "marital_status": "divorced",
+  "region": "Bučovice",
+  "nationality": "czech",
+  "company": "Tůma Navrátilová v.o.s.",
+  "car_brand": "Ford",
+  "self_first_name": "Irena",
+  "self_last_name": "Fialová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěstitelství",
+    "folklor",
+    "lokální historie"
+  ],
+  "previous_passwords": [
+    "FordBučovice71",
+    "TuristikaRybář!",
+    "PěstitelstvíIrena",
+    "Folklór2001",
+    "LokálniHistorie1971",
+    "BučoviceFord23",
+    "RybařeníIrena88",
+    "Turistika2000",
+    "Ford_Pěstitel",
+    "FolklórIrena"
+  ]
+}

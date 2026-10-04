@@ -1,0 +1,36 @@
+{
+  "id": "d42ed7fe-b857-41a7-a1ec-44258d881ade",
+  "gender": "female",
+  "age": 65,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "procházky",
+    "čtení",
+    "televize"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Jarmila1959",
+    "VeselaHradec65",
+    "dmKofola17",
+    "KFCoblibena",
+    "Relax2022",
+    "Miroslav123",
+    "Prochazka65",
+    "Krizovky2020",
+    "Cteni!59",
+    "Televize_17"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1961-01-09"
+}

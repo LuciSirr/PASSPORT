@@ -1,0 +1,41 @@
+{
+  "id": "6049abc0-3c99-4ec0-a496-2d178377f39a",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "single/in a relationship",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "houbaření",
+    "cyklistika",
+    "turistika",
+    "netflix"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Lesy Olomoucka s.r.o.",
+  "previous_passwords": [
+    "Rex2011",
+    "Olomouc77",
+    "PetraRadek2020",
+    "Fabia123",
+    "Konecny!43",
+    "houbareni2024",
+    "Cyklistika77",
+    "Rexik!",
+    "Petra4Radek",
+    "turistika_999"
+  ],
+  "favorite_hobby": "houbaření",
+  "birth_date": "1983-01-21"
+}

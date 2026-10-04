@@ -1,0 +1,40 @@
+{
+  "id": "54b99e26-a889-428f-bc29-7eed53d4fed4",
+  "gender": "male",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Šimáček",
+  "birth_date": "2009-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "netflix",
+    "fotbal"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej2009",
+    "Beny123",
+    "fifaŠimáček17",
+    "netflix_09",
+    "fotbal2023",
+    "ŠimáčekBeny!",
+    "Benyfifa09",
+    "Š1m4č3k2009",
+    "Matej_fotbal",
+    "Beny!17"
+  ],
+  "favorite_hobby": "fifa"
+}

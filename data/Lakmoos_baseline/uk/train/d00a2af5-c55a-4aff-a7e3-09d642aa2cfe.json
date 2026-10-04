@@ -1,0 +1,33 @@
+{
+  "id": "d00a2af5-c55a-4aff-a7e3-09d642aa2cfe",
+  "gender": "female",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "walking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Imogen1989",
+    "Mazda323!",
+    "Yorkshire123",
+    "Hollingsworth19",
+    "TravelBug2020",
+    "Reading4Life",
+    "MazdaLover89",
+    "Leeds!2022"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1992-08-18"
+}

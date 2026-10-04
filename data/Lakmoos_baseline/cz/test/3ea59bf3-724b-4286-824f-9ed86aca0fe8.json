@@ -1,0 +1,40 @@
+{
+  "id": "3ea59bf3-724b-4286-824f-9ed86aca0fe8",
+  "gender": "female",
+  "age": 54,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1970-06-15",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "ordinace v ruzove zahrade",
+    "krizovky",
+    "ceska kuchyne"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Penzion Vysočina",
+  "previous_passwords": [
+    "Jitka1970",
+    "Kohoutova123",
+    "Micka2020",
+    "ordinace2021",
+    "krizovky77",
+    "Miroslav70",
+    "Vysočina!15",
+    "ceskakuchyne_2022",
+    "MickaKohout",
+    "Jitka!krizovky"
+  ],
+  "favorite_hobby": "ordinace v ruzove zahrade"
+}

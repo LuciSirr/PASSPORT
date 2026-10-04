@@ -1,0 +1,34 @@
+{
+  "id": "e85619d4-86db-486d-8c2d-6f6da9a9b85c",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Křivánek",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Křivánková",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "zahrada",
+    "televize"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1954",
+    "JanaK54",
+    "Krizovky123",
+    "Zahrada2020",
+    "Kofola59",
+    "Morava!1954",
+    "Budvar2020",
+    "RelaxVoda",
+    "Lidl7531"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1955-12-17"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "84ed0ade-c208-4876-8c65-b0233392807e",
+  "age": 47,
+  "birth_date": "1979-03-30",
+  "marital_status": "married",
+  "region": "Meziboří",
+  "nationality": "czech",
+  "company": "Němec a.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Šimon",
+  "self_last_name": "Štěpánek",
+  "partner_first_name": "Veronika",
+  "partner_last_name": "Štěpáková",
+  "children": [
+    {
+      "first_name": "Přemysl",
+      "last_name": "Štěpánek"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Erika"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivovarnictví",
+    "návštěva hradu",
+    "folklór"
+  ],
+  "previous_passwords": [
+    "PremyslErika1979",
+    "SkodaTuristika23",
+    "VeronikaHradExclamation",
+    "PivovarnictviSimo!",
+    "RybarstviPremysl",
+    "ŠtěpánekErika79",
+    "FolklórMeziboři",
+    "PřemyslSkoda1979",
+    "TuristikaŠimon!",
+    "ErikaRybarstvi"
+  ]
+}

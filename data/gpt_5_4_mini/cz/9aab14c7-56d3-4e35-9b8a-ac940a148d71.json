@@ -1,0 +1,44 @@
+{
+  "id": "9aab14c7-56d3-4e35-9b8a-ac940a148d71",
+  "age": 44,
+  "birth_date": "1982-01-04",
+  "marital_status": "single",
+  "region": "Černošín",
+  "nationality": "czech",
+  "company": "Sedláček s.r.o.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Luděk",
+  "self_last_name": "Pokorný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Soňa"
+    },
+    {
+      "pet_type": "lizard",
+      "pet_name": "Emilie"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "fotbal",
+    "chalupaření",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "turistika82!",
+    "SonaChill44",
+    "Zahrada1982",
+    "Sparta44_04",
+    "Volkswagen82",
+    "Ceskefilmy!82",
+    "Chalupa_04L",
+    "EmilieGarden7",
+    "PokornyFutbal82",
+    "Cernosin44!"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "5c5f79ea-f6cd-4331-ae79-2b9a4a374fc3",
+  "age": 64,
+  "birth_date": "1962-07-26",
+  "marital_status": "married",
+  "region": "Riesa",
+  "nationality": "german",
+  "company": "Holsten Döring AG & Co. KGaA",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Margarete",
+  "self_last_name": "Butte",
+  "partner_first_name": "Hanno",
+  "partner_last_name": "Butte",
+  "children": [
+    {
+      "first_name": "Franz",
+      "last_name": "Butte"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Ramona"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Nadia"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Schach",
+    "Volksmusik",
+    "Gartenarbeit",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "FranzButte26",
+    "WandernRiesa!",
+    "RamonaSchach92",
+    "VolksmusikHanno",
+    "Volkswagen71",
+    "NadiaGarten47",
+    "MessiRiesa88",
+    "ButteFußball!",
+    "SchachFranz_1962",
+    "RiesaWanderer"
+  ]
+}

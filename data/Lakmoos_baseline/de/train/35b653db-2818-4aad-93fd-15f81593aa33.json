@@ -1,0 +1,34 @@
+{
+  "id": "35b653db-2818-4aad-93fd-15f81593aa33",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Timo",
+  "self_last_name": "Schröder",
+  "partner_first_name": "Sandra",
+  "partner_last_name": "Schröder",
+  "children": [],
+  "interests": [
+    "reisen",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Nordwest Handelsagentur",
+  "previous_passwords": [
+    "Timo1984",
+    "SandraSchatz123",
+    "Schroeder3000",
+    "Nordwest2020!",
+    "Reisen_06",
+    "Fotografie88",
+    "Sommerurlaub!",
+    "Sandra4Timo",
+    "Niedersachsen84",
+    "SchroederSandra!"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1985-07-20"
+}

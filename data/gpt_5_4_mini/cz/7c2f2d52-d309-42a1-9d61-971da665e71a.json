@@ -1,0 +1,35 @@
+{
+  "id": "7c2f2d52-d309-42a1-9d61-971da665e71a",
+  "age": 24,
+  "birth_date": "2002-08-07",
+  "marital_status": "married",
+  "region": "Horní Planá",
+  "nationality": "czech",
+  "company": "Tůma Havel s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Ladislava",
+  "self_last_name": "Blažková",
+  "partner_first_name": "Tadeáš",
+  "partner_last_name": "Blažek",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "hraní her",
+    "poslech hudby",
+    "koupání u Lipna"
+  ],
+  "previous_passwords": [
+    "Lipno2002!",
+    "Skoda2024",
+    "Tadeas88",
+    "Turistika07",
+    "Cyklo_Lipno",
+    "Zelda2002",
+    "Hudba24!",
+    "TadeasLipno",
+    "Cyklo07_88",
+    "Blesk24!"
+  ]
+}

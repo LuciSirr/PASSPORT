@@ -1,0 +1,35 @@
+{
+  "id": "632af37b-c05d-4059-b4fa-83429e37bce4",
+  "gender": "male",
+  "age": 37,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Renault",
+  "self_first_name": "Radek",
+  "self_last_name": "Šimáček",
+  "birth_date": "1987-04-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "disney+",
+    "bageterie boulevard"
+  ],
+  "pets": [],
+  "company": "Stavby Hradec s.r.o.",
+  "previous_passwords": [
+    "Radek1987",
+    "simacek15",
+    "fotbal2020",
+    "BageterieBoulevard123",
+    "disneyplus_87",
+    "stavbyhradec!",
+    "Globus966",
+    "TankOno1516",
+    "kofola2023",
+    "Radek_fotbal87"
+  ],
+  "favorite_hobby": "fotbal"
+}

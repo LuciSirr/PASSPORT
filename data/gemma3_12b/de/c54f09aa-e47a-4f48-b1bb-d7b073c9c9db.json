@@ -1,0 +1,35 @@
+{
+  "id": "c54f09aa-e47a-4f48-b1bb-d7b073c9c9db",
+  "age": 45,
+  "birth_date": "1981-04-10",
+  "marital_status": "single",
+  "region": "Cottbus",
+  "nationality": "german",
+  "company": "Weiß",
+  "car_brand": "Skoda",
+  "self_first_name": "Anneliese",
+  "self_last_name": "Kaul",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Klassische Musik",
+    "FC Energie Cottbus",
+    "Reisen"
+  ],
+  "previous_passwords": [
+    "EnergieCottbus1981",
+    "Wandern2003_Foto",
+    "SkodaFabiaKaul",
+    "ClassicalMusic87",
+    "ReisenAnneliese!",
+    "FC_Energie_2024",
+    "Photography_410",
+    "Kaul_Wanderlust",
+    "Cottbus_Klasmuz",
+    "Skoda_Foto23"
+  ]
+}

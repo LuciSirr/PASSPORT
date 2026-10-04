@@ -1,0 +1,35 @@
+{
+  "id": "e419b368-eb65-41d3-abad-241aa48f3d2e",
+  "age": 48,
+  "birth_date": "1978-03-05",
+  "marital_status": "single",
+  "region": "Tišnov",
+  "nationality": "czech",
+  "company": "Dušková o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Jiřina",
+  "self_last_name": "Matějková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "zahradničení",
+    "hokej",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "Turistika78!",
+    "Skoda1978",
+    "Cyklo_Tisnov5",
+    "Zahrada05_",
+    "HokejBrno78",
+    "Vareni_03!",
+    "JirinaSkoda",
+    "Bila_Kopp!",
+    "Bike78Tisnov",
+    "Hockey05CZ"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3e68dd36-652b-416b-8e70-fc99141d8610",
+  "gender": "female",
+  "age": 84,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "KIA",
+  "self_first_name": "Marjorie",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Marjorie1939",
+    "Mittens22",
+    "Hollingsworth84",
+    "Geoffrey1950",
+    "Gardening123",
+    "LondonCat!",
+    "Knitting_39",
+    "Crosswords7",
+    "Mittens!84"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1941-07-22"
+}

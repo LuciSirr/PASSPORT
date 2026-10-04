@@ -1,0 +1,35 @@
+{
+  "id": "5bab2e19-1cbc-4cf6-bbe7-8d6297ec5431",
+  "gender": "female",
+  "age": 89,
+  "marital_status": "married",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Irmgard",
+  "self_last_name": "Wendrich",
+  "partner_first_name": "Heinz",
+  "partner_last_name": "Wendrich",
+  "children": [],
+  "interests": [
+    "lesen",
+    "spazieren",
+    "hörbücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Irmgard1935",
+    "Heinz2023",
+    "Wendrich2000",
+    "Lesen123",
+    "Oktoberreise",
+    "AOK_106200",
+    "Spazieren1!",
+    "Mecklenburg88",
+    "Schatz!2000",
+    "Hörbuch3"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1936-08-14"
+}

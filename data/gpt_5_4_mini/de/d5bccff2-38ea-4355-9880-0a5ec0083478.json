@@ -1,0 +1,35 @@
+{
+  "id": "d5bccff2-38ea-4355-9880-0a5ec0083478",
+  "age": 54,
+  "birth_date": "1972-07-12",
+  "marital_status": "single",
+  "region": "Eisenberg",
+  "nationality": "german",
+  "company": "Klotz GmbH",
+  "car_brand": "BMW",
+  "self_first_name": "Lieselotte",
+  "self_last_name": "Aumann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Gartenarbeit",
+    "Fußball",
+    "Kochen",
+    "Regionalgeschichte"
+  ],
+  "previous_passwords": [
+    "Wandern1972!",
+    "Bayern54_Fuss",
+    "BMW_Ergo72",
+    "Kochen12Liesel",
+    "Eisenberg24",
+    "Garten72!",
+    "Freiburg54",
+    "HikeAumann72",
+    "Regional72!",
+    "KochenBMW54"
+  ]
+}

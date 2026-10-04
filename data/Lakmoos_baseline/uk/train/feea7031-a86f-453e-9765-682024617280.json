@@ -1,0 +1,40 @@
+{
+  "id": "feea7031-a86f-453e-9765-682024617280",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Simon",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "West Midlands Admin Solutions",
+  "previous_passwords": [
+    "Fiona2002",
+    "Misty123",
+    "Hollingsworth50",
+    "Simon4Fiona",
+    "Travel!2023",
+    "Gardening_88",
+    "WestMidlands1",
+    "MiniHatch18",
+    "Walking3219",
+    "Misty!cat"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1975-07-02"
+}

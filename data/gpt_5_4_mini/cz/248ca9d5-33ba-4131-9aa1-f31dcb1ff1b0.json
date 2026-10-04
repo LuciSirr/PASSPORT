@@ -1,0 +1,57 @@
+{
+  "id": "248ca9d5-33ba-4131-9aa1-f31dcb1ff1b0",
+  "age": 31,
+  "birth_date": "1995-08-31",
+  "marital_status": "divorced",
+  "region": "Výsluní",
+  "nationality": "czech",
+  "company": "Prokop",
+  "car_brand": "Seat",
+  "self_first_name": "Markéta",
+  "self_last_name": "Štěpánková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Bohumila",
+      "last_name": "Jandová Štěpánková"
+    },
+    {
+      "first_name": "Hubert",
+      "last_name": "Müller Štěpánek"
+    },
+    {
+      "first_name": "Vanda",
+      "last_name": "Horáková Štěpánková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Otýlie"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Samuel"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "hokej",
+    "vaření",
+    "poslech české hudby"
+  ],
+  "previous_passwords": [
+    "Hokej1995!",
+    "Turistika31",
+    "CykloVysluni7",
+    "Bohumila95",
+    "SeatHokej31",
+    "VandaBike95",
+    "SamuelHorse7",
+    "Vareni_831",
+    "CeskaHudba31",
+    "Otylie1995!"
+  ]
+}

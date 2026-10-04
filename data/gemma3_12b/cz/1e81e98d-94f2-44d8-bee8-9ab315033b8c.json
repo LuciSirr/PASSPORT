@@ -1,0 +1,40 @@
+{
+  "id": "1e81e98d-94f2-44d8-bee8-9ab315033b8c",
+  "age": 51,
+  "birth_date": "1975-07-20",
+  "marital_status": "single",
+  "region": "Vamberk",
+  "nationality": "czech",
+  "company": "Krejčová",
+  "car_brand": "BMW",
+  "self_first_name": "Magdaléna",
+  "self_last_name": "Nováková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Miloš"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěstitelství",
+    "česká kuchyně",
+    "folklorní tance"
+  ],
+  "previous_passwords": [
+    "VamberkTuristika2000",
+    "MilosTurtle1975!",
+    "BMW_Rybářství_720",
+    "FolklorníTanecMN",
+    "CeskaKuchyneMilos",
+    "Pěstitelství_Magda",
+    "TuristikaBMW23",
+    "MessiFanMagdalena",
+    "VamberkRybaření!",
+    "MagdalenaPestuje"
+  ]
+}

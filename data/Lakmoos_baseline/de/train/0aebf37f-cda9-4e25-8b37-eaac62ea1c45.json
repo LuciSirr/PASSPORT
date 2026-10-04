@@ -1,0 +1,49 @@
+{
+  "id": "0aebf37f-cda9-4e25-8b37-eaac62ea1c45",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Ursula",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Heinz",
+  "partner_last_name": "Kleinschmidt",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Kleinschmidt"
+    },
+    {
+      "first_name": "Max",
+      "last_name": "Kleinschmidt"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "gartenarbeit",
+    "reisen"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Berliner Managementberatung GmbH",
+  "previous_passwords": [
+    "Ursula1955",
+    "Heinz123",
+    "Lena2009",
+    "Max2015",
+    "Berlin!55",
+    "Minka_7",
+    "Kleinschmidt2024",
+    "Gartenarbeit4",
+    "Sommer2020",
+    "Lesen!3"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1957-01-05"
+}

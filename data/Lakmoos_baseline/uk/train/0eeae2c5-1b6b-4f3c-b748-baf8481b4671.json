@@ -1,0 +1,40 @@
+{
+  "id": "0eeae2c5-1b6b-4f3c-b748-baf8481b4671",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Linda",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "travel"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Hollingsworth Consulting",
+  "previous_passwords": [
+    "Graham1955",
+    "Linda123",
+    "Baxter!7",
+    "Hollingsworth2020",
+    "Walking4Life",
+    "Travel_59",
+    "Gardening3",
+    "Baxter2022",
+    "LindaBaxter",
+    "WestMidlands1"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1967-02-19"
+}

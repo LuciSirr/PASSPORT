@@ -1,0 +1,35 @@
+{
+  "id": "63eca3d9-703e-47e7-8b7c-ce5c49af38f6",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Ford",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollings",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "London Student Services",
+  "previous_passwords": [
+    "FordPuma2019",
+    "Hollings23",
+    "London123",
+    "Callum!999",
+    "Football_10",
+    "Gaming2020",
+    "Puma!5",
+    "Cycling_92",
+    "FordAlways",
+    "StudentLife1"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2002-04-14"
+}

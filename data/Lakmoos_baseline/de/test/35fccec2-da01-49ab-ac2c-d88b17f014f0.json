@@ -1,0 +1,34 @@
+{
+  "id": "35fccec2-da01-49ab-ac2c-d88b17f014f0",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "Land Rover",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "birth_date": "1983-05-17",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Nordsee Management GmbH",
+  "previous_passwords": [
+    "Tatort1983",
+    "Krause!17",
+    "Sabine2020",
+    "Wandern_83",
+    "Tat0rt!123",
+    "KrauseTatort",
+    "Nordsee2021",
+    "SabineKrause",
+    "Tatort_17",
+    "W4nd3rn!"
+  ],
+  "favorite_hobby": "tatort"
+}

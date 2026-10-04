@@ -1,0 +1,44 @@
+{
+  "id": "c8f56ecf-ff6d-456f-8913-b54b898e4c6d",
+  "age": 56,
+  "birth_date": "1970-07-21",
+  "marital_status": "married",
+  "region": "Rožmberk nad Vltavou",
+  "nationality": "czech",
+  "company": "Kovářová Křížová v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Arnošt",
+  "self_last_name": "Sedlák",
+  "partner_first_name": "Alžběta",
+  "partner_last_name": "Sedláková",
+  "children": [
+    {
+      "first_name": "Alexandr",
+      "last_name": "Fišer"
+    },
+    {
+      "first_name": "Petr",
+      "last_name": "Holub"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "zahradničení",
+    "chalupaření",
+    "české historické památky"
+  ],
+  "previous_passwords": [
+    "Turistika1970!",
+    "SkodaVltava56",
+    "Rybarska21",
+    "Zahrada_70",
+    "Chalupa21!",
+    "PamatkyRo20",
+    "AlzbetaVoda56",
+    "StribroRyby70",
+    "Vltava_Trek56",
+    "Arnost1970!"
+  ]
+}

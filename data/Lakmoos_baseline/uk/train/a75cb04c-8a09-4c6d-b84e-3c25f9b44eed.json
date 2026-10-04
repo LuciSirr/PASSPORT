@@ -1,0 +1,40 @@
+{
+  "id": "a75cb04c-8a09-4c6d-b84e-3c25f9b44eed",
+  "gender": "female",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Seat",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Nathan",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Westmoor Brokers",
+  "previous_passwords": [
+    "Imogen98",
+    "Milo2022",
+    "Hollis11000",
+    "Travel4Life",
+    "Nathan!26",
+    "SeatLeon1",
+    "Westmoor2023",
+    "Reading123",
+    "Dacia999",
+    "Hiking_98"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1999-06-26"
+}

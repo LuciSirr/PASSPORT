@@ -1,0 +1,39 @@
+{
+  "id": "b8ba16c2-74f6-46f8-b07c-7a5e24ca69d1",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "BMW",
+  "self_first_name": "Iveta",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1979-06-12",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohoutová",
+  "children": [],
+  "interests": [
+    "ordinace v růžové zahradě",
+    "křížovky"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Iveta1979",
+    "Ben1234",
+    "Kohoutova!79",
+    "Ordinace2020",
+    "krizovky2023",
+    "Petr1975",
+    "BenKohout",
+    "ordinace79",
+    "KohoutovaBen!",
+    "krizovky_12"
+  ],
+  "favorite_hobby": "ordinace v růžové zahradě"
+}

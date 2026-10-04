@@ -1,0 +1,35 @@
+{
+  "id": "d2a81084-be80-44eb-b97b-011dff331569",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Jurčo",
+  "birth_date": "2016-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lego",
+    "fotbal",
+    "pokemon"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Matej2016",
+    "legoJurco",
+    "pokemon123",
+    "fotbal2023",
+    "JurcoLego17",
+    "MatejLego04",
+    "P0k3monJurco",
+    "lego!2016",
+    "fotbalJurco",
+    "Matej_pokemon"
+  ],
+  "favorite_hobby": "lego"
+}

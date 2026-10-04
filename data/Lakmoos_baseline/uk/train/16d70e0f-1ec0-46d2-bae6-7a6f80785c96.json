@@ -1,0 +1,41 @@
+{
+  "id": "16d70e0f-1ec0-46d2-bae6-7a6f80785c96",
+  "gender": "male",
+  "age": 67,
+  "marital_status": "widower/widow",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Caldwell",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "crossword",
+    "history"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Hamish"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Malcolm1957",
+    "Hamish123",
+    "Caldwell67",
+    "Gardening4Life",
+    "Scotland2020",
+    "Walking!2022",
+    "Crossword_77",
+    "Hamish!dog",
+    "History3",
+    "Malc_1957"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1959-02-13"
+}

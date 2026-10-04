@@ -1,0 +1,34 @@
+{
+  "id": "10209596-c558-46a9-87fa-52e5662fa3e5",
+  "gender": "female",
+  "age": 60,
+  "marital_status": "divorced",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gillian",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "travel"
+  ],
+  "pets": [],
+  "company": "Amberstone Mining Ltd",
+  "previous_passwords": [
+    "Gillian1964",
+    "Amberstone3000",
+    "Gardening123",
+    "EastMidlands64",
+    "Hollis!2020",
+    "Walking4Life",
+    "TravelBug_99",
+    "Divorce2024",
+    "MiningQueen1"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1965-03-30"
+}

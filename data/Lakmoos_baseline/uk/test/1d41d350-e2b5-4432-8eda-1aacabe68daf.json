@@ -1,0 +1,39 @@
+{
+  "id": "1d41d350-e2b5-4432-8eda-1aacabe68daf",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Harriet",
+  "self_last_name": "Merrick",
+  "partner_first_name": "James",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "great british bake off",
+    "gardening",
+    "line of duty"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Eastgate Financial Services",
+  "previous_passwords": [
+    "Milo2019",
+    "BakeOff!89",
+    "Harriet123",
+    "MerrickGardening",
+    "GBBO_2018",
+    "LineOfDuty7",
+    "MiloBakeoff",
+    "Eastgate2020",
+    "Gard3n!Cat"
+  ],
+  "favorite_hobby": "great british bake off",
+  "birth_date": "1989-04-17"
+}

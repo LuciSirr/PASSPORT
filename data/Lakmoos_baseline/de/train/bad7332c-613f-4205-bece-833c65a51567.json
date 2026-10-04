@@ -1,0 +1,40 @@
+{
+  "id": "bad7332c-613f-4205-bece-833c65a51567",
+  "gender": "male",
+  "age": 53,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Toyota",
+  "self_first_name": "Ralf",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kronenberg",
+  "children": [],
+  "interests": [
+    "reisen",
+    "autos",
+    "fernsehen"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bruno"
+    }
+  ],
+  "company": "Westfalen Büroservice GmbH",
+  "previous_passwords": [
+    "Ralf1969!",
+    "Bruno123",
+    "Sabine2020",
+    "Kronenberg_69",
+    "AudiQ2_2017",
+    "Westfalen4ever",
+    "Reisen2024",
+    "Toyota4.8",
+    "Fernsehen_1",
+    "Bruno!69"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1973-03-06"
+}

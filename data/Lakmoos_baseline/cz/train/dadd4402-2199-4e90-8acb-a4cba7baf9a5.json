@@ -1,0 +1,44 @@
+{
+  "id": "dadd4402-2199-4e90-8acb-a4cba7baf9a5",
+  "gender": "female",
+  "age": 37,
+  "marital_status": "married",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Vrána",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Vránová"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Vrána"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "vaření",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2010",
+    "Fabia123",
+    "Matysek13",
+    "Liberec79",
+    "JitkaPetr2022",
+    "Nakupovani2021",
+    "Vranova77",
+    "MatejTereza11",
+    "PetrJitka13",
+    "Seriály123"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1988-11-23"
+}

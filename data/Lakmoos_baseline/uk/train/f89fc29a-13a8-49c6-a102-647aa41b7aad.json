@@ -1,0 +1,39 @@
+{
+  "id": "f89fc29a-13a8-49c6-a102-647aa41b7aad",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Citroën",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "cricket"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Buster"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Graham1958",
+    "Buster123",
+    "Margaret66",
+    "Hollingsworth2019",
+    "CitroenC5!",
+    "Walking2020",
+    "Cr1ck3t!",
+    "NorthWest49",
+    "Buster!58"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1959-10-17"
+}

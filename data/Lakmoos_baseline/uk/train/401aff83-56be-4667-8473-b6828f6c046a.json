@@ -1,0 +1,39 @@
+{
+  "id": "401aff83-56be-4667-8473-b6828f6c046a",
+  "gender": "male",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "McRae",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Edinburgh Youth Services",
+  "previous_passwords": [
+    "Callum2009",
+    "McRae123",
+    "Baxter!14",
+    "football4life",
+    "Edinburgh2023",
+    "gaming_321",
+    "BaxterMcRae",
+    "Callum_football",
+    "McR43Baxter",
+    "Baxter2009"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2011-07-19"
+}

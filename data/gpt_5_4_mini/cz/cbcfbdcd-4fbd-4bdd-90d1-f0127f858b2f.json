@@ -1,0 +1,35 @@
+{
+  "id": "cbcfbdcd-4fbd-4bdd-90d1-f0127f858b2f",
+  "age": 41,
+  "birth_date": "1985-08-19",
+  "marital_status": "single",
+  "region": "Bystré",
+  "nationality": "czech",
+  "company": "Stejskal",
+  "car_brand": "Kia",
+  "self_first_name": "Pavla",
+  "self_last_name": "Dušková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "turistika",
+    "vaření",
+    "zahradničení"
+  ],
+  "previous_passwords": [
+    "Messi85!",
+    "Hockey19_Bystre",
+    "KiaTuristika85",
+    "Vaření1985",
+    "Zahrada_19P",
+    "PavlaFotbal41",
+    "BystreGoal85",
+    "CzechCook85!",
+    "HockeyBystre!",
+    "Messi_0819"
+  ]
+}

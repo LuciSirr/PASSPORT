@@ -1,0 +1,36 @@
+{
+  "id": "c00d343c-7729-4d23-a0c0-bcd3f87527fe",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Tomáš",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "procházky",
+    "seriály",
+    "nakupování",
+    "plavání"
+  ],
+  "pets": [],
+  "company": "Krajský úřad Středočeského kraje",
+  "previous_passwords": [
+    "Barca1989",
+    "Tomasek2020",
+    "Vesela79",
+    "Hyundaii20",
+    "Poděbradka79",
+    "Plavani123",
+    "Lidl2022",
+    "Seriály!88",
+    "TomBarb2021",
+    "Kofola_321"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1994-01-29"
+}

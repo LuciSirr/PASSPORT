@@ -1,0 +1,39 @@
+{
+  "id": "9dd8d1c6-fdb1-449e-8685-a6e2153f88b2",
+  "gender": "female",
+  "age": 46,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Gillian",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "gardening",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "East Midlands Advisory Brokers",
+  "previous_passwords": [
+    "Milo2022",
+    "Fiona123",
+    "Hollingsworth9",
+    "Travel4Life",
+    "MazdaCX60!",
+    "Gillian22",
+    "EastMidlands1",
+    "Gardening2021",
+    "Milo!23"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1980-03-12"
+}

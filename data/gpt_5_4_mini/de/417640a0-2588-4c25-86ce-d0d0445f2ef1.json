@@ -1,0 +1,57 @@
+{
+  "id": "417640a0-2588-4c25-86ce-d0d0445f2ef1",
+  "age": 50,
+  "birth_date": "1976-01-02",
+  "marital_status": "married",
+  "region": "Lüdinghausen",
+  "nationality": "german",
+  "company": "Eckbauer GmbH",
+  "car_brand": "Ford",
+  "self_first_name": "Sylvester",
+  "self_last_name": "Henschel",
+  "partner_first_name": "Rotraut",
+  "partner_last_name": "Henschel",
+  "children": [
+    {
+      "first_name": "Ercan",
+      "last_name": "Henschel"
+    },
+    {
+      "first_name": "Reinhardt",
+      "last_name": "Henschel"
+    },
+    {
+      "first_name": "Hartwig",
+      "last_name": "Henschel"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Lotte"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Marga"
+    }
+  ],
+  "interests": [
+    "Gartenarbeit",
+    "Wandern im Münsterland",
+    "Radfahren",
+    "Fußball",
+    "Kochen"
+  ],
+  "previous_passwords": [
+    "Garten76!",
+    "MuensterRad02",
+    "LotteRadtour!",
+    "FordWandern76",
+    "KochenMarga24",
+    "BVB_1976",
+    "ErcanFußball!",
+    "HenschelBike02",
+    "ReinhardtKocht",
+    "WandernLuedi76"
+  ]
+}

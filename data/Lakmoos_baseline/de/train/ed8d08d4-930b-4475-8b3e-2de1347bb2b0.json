@@ -1,0 +1,47 @@
+{
+  "id": "ed8d08d4-930b-4475-8b3e-2de1347bb2b0",
+  "gender": "male",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "brandenburg",
+  "nationality": "german",
+  "car_brand": "Dacia",
+  "self_first_name": "Lukas",
+  "self_last_name": "Schreber",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Schreber",
+  "children": [
+    {
+      "first_name": "Emilia",
+      "last_name": "Schreber"
+    },
+    {
+      "first_name": "Jonas",
+      "last_name": "Schreber"
+    },
+    {
+      "first_name": "Mila",
+      "last_name": "Schreber"
+    }
+  ],
+  "interests": [
+    "fotografie",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Kulturwerk Brandenburg",
+  "previous_passwords": [
+    "Emilia2019",
+    "Jonas2022",
+    "Mila2020",
+    "Brandenburg123",
+    "Kulturwerk22",
+    "Sophie!26",
+    "DaciaJogger2021",
+    "Fotografie_88",
+    "Sommer!2023",
+    "LukasSchatz"
+  ],
+  "favorite_hobby": "fotografie",
+  "birth_date": "1999-09-18"
+}

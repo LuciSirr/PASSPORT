@@ -1,0 +1,39 @@
+{
+  "id": "c5bb3e6c-fe0f-4b27-ab8a-13b6f310c9d1",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "televize",
+    "auta",
+    "houbaření"
+  ],
+  "pets": [],
+  "company": "Strojírny Beroun s.r.o.",
+  "previous_passwords": [
+    "Radek1973",
+    "Matysek2022",
+    "Jana123",
+    "Vesely1122",
+    "SkodaOctavia99",
+    "Houbareni2020",
+    "LidlOblibenec",
+    "TankOno30",
+    "Auta!2021"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1975-01-19"
+}

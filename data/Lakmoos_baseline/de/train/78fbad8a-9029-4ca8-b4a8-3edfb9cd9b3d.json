@@ -1,0 +1,35 @@
+{
+  "id": "78fbad8a-9029-4ca8-b4a8-3edfb9cd9b3d",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Svea",
+  "self_last_name": "Riecken",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "audiobooks",
+    "reisen",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Nordlicht Gründerberatung",
+  "previous_passwords": [
+    "Svea1996",
+    "Riecken123",
+    "Nordlicht2020",
+    "Schleswig78!",
+    "Audiobook4Life",
+    "Fotografie_22",
+    "Reisen2023",
+    "Buchliebhaberin1",
+    "Samsung!96",
+    "Entrepreneur3000"
+  ],
+  "favorite_hobby": "audiobooks",
+  "birth_date": "1999-01-23"
+}

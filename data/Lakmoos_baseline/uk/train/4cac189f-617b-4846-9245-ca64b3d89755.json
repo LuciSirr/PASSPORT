@@ -1,0 +1,37 @@
+{
+  "id": "4cac189f-617b-4846-9245-ca64b3d89755",
+  "gender": "female",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Carrow",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Imogen2014",
+    "MistyCat1",
+    "Carrow123",
+    "Drawing4Fun",
+    "Baking_10",
+    "Misty!2020",
+    "Read3r2022"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2016-01-31"
+}

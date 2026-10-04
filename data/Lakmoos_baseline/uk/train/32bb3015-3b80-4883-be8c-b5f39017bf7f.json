@@ -1,0 +1,34 @@
+{
+  "id": "32bb3015-3b80-4883-be8c-b5f39017bf7f",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Radcliffe",
+  "partner_first_name": "Elliot",
+  "partner_last_name": "Hawkins",
+  "children": [],
+  "interests": [
+    "reading",
+    "cycling",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Willowbrook Cafe",
+  "previous_passwords": [
+    "Imogen2005",
+    "Radcliffe19",
+    "Willowbrook123",
+    "Elliot4Eva",
+    "Baking!22",
+    "Reading_05",
+    "SouthWestGirl",
+    "CafeLover1",
+    "Immy_123"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2007-02-28"
+}

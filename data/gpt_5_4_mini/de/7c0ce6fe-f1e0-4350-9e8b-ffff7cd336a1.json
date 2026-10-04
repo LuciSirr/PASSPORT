@@ -1,0 +1,35 @@
+{
+  "id": "7c0ce6fe-f1e0-4350-9e8b-ffff7cd336a1",
+  "age": 44,
+  "birth_date": "1982-06-26",
+  "marital_status": "married",
+  "region": "Herford",
+  "nationality": "german",
+  "company": "Kreusel AG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Ludmila",
+  "self_last_name": "Sauer",
+  "partner_first_name": "Gottfried",
+  "partner_last_name": "Eimer",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Radfahren",
+    "DSV 06 Herford"
+  ],
+  "previous_passwords": [
+    "DSV06Herford!",
+    "Ludmila82_Fuss",
+    "VWHerford26",
+    "Wandern82!",
+    "KochenHerf44",
+    "BVB26Radeln",
+    "FußballLudi82",
+    "Gottfried06!",
+    "HerfordBike82",
+    "DSV06Kochen"
+  ]
+}

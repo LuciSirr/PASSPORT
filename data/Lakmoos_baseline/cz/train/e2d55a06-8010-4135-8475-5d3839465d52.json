@@ -1,0 +1,40 @@
+{
+  "id": "e2d55a06-8010-4135-8475-5d3839465d52",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "hudba",
+    "malování",
+    "instagram",
+    "procházky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Micka2022",
+    "Tereza16",
+    "hudba123",
+    "Veselka2023",
+    "malovani!",
+    "Liberec_16",
+    "burgerking2022",
+    "M1cka!",
+    "prochazky321"
+  ],
+  "favorite_hobby": "hudba",
+  "birth_date": "2010-01-11"
+}

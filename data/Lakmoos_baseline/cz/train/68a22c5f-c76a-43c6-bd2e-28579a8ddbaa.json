@@ -1,0 +1,35 @@
+{
+  "id": "68a22c5f-c76a-43c6-bd2e-28579a8ddbaa",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Kubešová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "křížovky",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Kladno2018",
+    "Bytovna59",
+    "Kofola2020",
+    "Pension17",
+    "KFCoběd",
+    "Cestovani123",
+    "Krizovky2021",
+    "Ivana61",
+    "Kubesova!59",
+    "Tesco_2022"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1964-10-26"
+}

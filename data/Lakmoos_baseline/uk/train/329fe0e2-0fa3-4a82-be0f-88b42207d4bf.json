@@ -1,0 +1,35 @@
+{
+  "id": "329fe0e2-0fa3-4a82-be0f-88b42207d4bf",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Suzuki",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cycling",
+    "travelling",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Northwest Brokers & Consultants Ltd",
+  "previous_passwords": [
+    "SuzukiIgnis2005",
+    "Callum123",
+    "Hollingsworth34",
+    "Cycling4Life!",
+    "Northwest2020",
+    "Hyundai07",
+    "Reading_3219",
+    "Travelling19",
+    "Brokers!10k",
+    "Ignis_17MY"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1991-07-20"
+}

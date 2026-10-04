@@ -1,0 +1,33 @@
+{
+  "id": "947f6b7c-f035-4bdb-afda-f04b1fc87171",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "zeichnen",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "Bäckerei Morgenstern",
+  "previous_passwords": [
+    "Lina2008",
+    "Kreutzmann123",
+    "Zeichnen!16",
+    "Sachsen_4000",
+    "Baeckerei2023",
+    "Vodafone!",
+    "Lesen4ever",
+    "Lina_LiebtKunst",
+    "Gymnasium2024"
+  ],
+  "favorite_hobby": "zeichnen",
+  "birth_date": "2009-11-11"
+}

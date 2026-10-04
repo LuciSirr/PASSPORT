@@ -1,0 +1,44 @@
+{
+  "id": "27562b52-e97c-4a2a-806b-173523a0aa55",
+  "age": 50,
+  "birth_date": "1976-05-16",
+  "marital_status": "married",
+  "region": "Wittenberg",
+  "nationality": "german",
+  "company": "Mitschke GmbH",
+  "car_brand": "Dacia",
+  "self_first_name": "Aloisia",
+  "self_last_name": "Hethur",
+  "partner_first_name": "Tobias",
+  "partner_last_name": "Hethur",
+  "children": [
+    {
+      "first_name": "Timo",
+      "last_name": "Hethur"
+    },
+    {
+      "first_name": "Ekkehart",
+      "last_name": "Hethur"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gärtnern",
+    "Wandern",
+    "Regionalgeschichte",
+    "Kochen"
+  ],
+  "previous_passwords": [
+    "Fussball76!",
+    "Wittenberg17",
+    "TobiasKochen5",
+    "DaciaWandern24",
+    "GartenTimo76",
+    "ElbeRegion50",
+    "HerthaHethur!",
+    "Kochen16H!",
+    "MesserKoch76",
+    "WanderWitten75"
+  ]
+}

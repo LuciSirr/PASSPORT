@@ -1,0 +1,39 @@
+{
+  "id": "6232557a-0120-4764-ab3c-021f0dfe1cd0",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "auta",
+    "houbaření",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "Agro Lesy Hradec",
+  "previous_passwords": [
+    "Matej2023",
+    "Vesely63",
+    "Fabia2022",
+    "Houbareni123",
+    "Radomir1970",
+    "Matysek07",
+    "Billa407",
+    "Auta!2021",
+    "LesyHradec1"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1962-05-26"
+}

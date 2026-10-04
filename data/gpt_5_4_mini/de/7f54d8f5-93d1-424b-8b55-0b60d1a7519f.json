@@ -1,0 +1,40 @@
+{
+  "id": "7f54d8f5-93d1-424b-8b55-0b60d1a7519f",
+  "age": 44,
+  "birth_date": "1982-03-13",
+  "marital_status": "married",
+  "region": "Melle",
+  "nationality": "german",
+  "company": "Mentzel Holsten KG",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Hassan",
+  "self_last_name": "Jäntsch",
+  "partner_first_name": "Gilda",
+  "partner_last_name": "Jäntsch",
+  "children": [
+    {
+      "first_name": "Waltraud",
+      "last_name": "Jäntsch"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gartenarbeit",
+    "Wandern",
+    "Kochen",
+    "Hannover 96"
+  ],
+  "previous_passwords": [
+    "H96Melle82!",
+    "Hannover96_82",
+    "Wandern82!",
+    "Garten82_Melle",
+    "Kochen1982!",
+    "Mercedes96!",
+    "FußballH96_13",
+    "Gilda82!",
+    "Waldtraud82",
+    "HassanMelle13"
+  ]
+}

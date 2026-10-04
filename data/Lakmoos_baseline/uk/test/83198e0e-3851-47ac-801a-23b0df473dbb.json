@@ -1,0 +1,48 @@
+{
+  "id": "83198e0e-3851-47ac-801a-23b0df473dbb",
+  "gender": "female",
+  "age": 51,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Ashcombe",
+  "children": [
+    {
+      "first_name": "Noah",
+      "last_name": "Ashcombe"
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Ashcombe"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "the great british bake off"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Willowbrook Social Care",
+  "previous_passwords": [
+    "Fiona1973",
+    "Milo123",
+    "BakeOff2019",
+    "Ashcombe!14",
+    "Graham73",
+    "GreatBritishBake0ff",
+    "Gardening4Life",
+    "Milo!Bake",
+    "FionaCat2020",
+    "Ashcombe1973"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1973-05-14"
+}

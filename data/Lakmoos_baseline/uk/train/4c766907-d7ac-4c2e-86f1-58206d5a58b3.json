@@ -1,0 +1,35 @@
+{
+  "id": "4c766907-d7ac-4c2e-86f1-58206d5a58b3",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Nathan",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "reading",
+    "travel",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Regent Management Solutions",
+  "previous_passwords": [
+    "Imogen1995",
+    "Hollis16",
+    "Nathan4Eva",
+    "OpelCorsa21",
+    "London!29",
+    "Baking123",
+    "Travel2022",
+    "Regent2023",
+    "Imo_Nate",
+    "Reading!7"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1997-01-04"
+}

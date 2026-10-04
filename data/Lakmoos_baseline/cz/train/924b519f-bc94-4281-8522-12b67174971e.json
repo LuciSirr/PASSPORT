@@ -1,0 +1,35 @@
+{
+  "id": "924b519f-bc94-4281-8522-12b67174971e",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "televize",
+    "houbaření",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "Moravskoslezské Doly s.r.o.",
+  "previous_passwords": [
+    "Vesely1988",
+    "Morava2020",
+    "BanikOstrava58",
+    "Bytovka99",
+    "Kofola123",
+    "Jana58!",
+    "Houbareni2024",
+    "Radek.Jana88",
+    "Krizovky321",
+    "Televize_2020"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1967-05-23"
+}

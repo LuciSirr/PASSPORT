@@ -1,0 +1,32 @@
+{
+  "id": "abd6f5a7-2c21-4e92-9d57-b96ec1e841a4",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Jörg",
+  "self_last_name": "Wendrich",
+  "partner_first_name": "Katrin",
+  "partner_last_name": "Wendrich",
+  "children": [],
+  "interests": [
+    "gartenarbeit",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Ingenieurbüro Wendrich & Partner",
+  "previous_passwords": [
+    "Katrin2001",
+    "Wendrich55",
+    "Sachsen!123",
+    "Gartenarbeit2020",
+    "Jörg_Katrin",
+    "Sommerurlaub19",
+    "Haus1995",
+    "Reisen!2023"
+  ],
+  "favorite_hobby": "gartenarbeit",
+  "birth_date": "1971-02-20"
+}

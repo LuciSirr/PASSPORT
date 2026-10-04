@@ -1,0 +1,40 @@
+{
+  "id": "63e5de33-83f9-49cc-bed9-d8a0030bc088",
+  "gender": "female",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "tanec",
+    "knihy"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2011",
+    "kocka123",
+    "hradec12",
+    "skola2023",
+    "Micka2020",
+    "malovani321",
+    "Vesela12",
+    "tanec2022",
+    "Knihy_11",
+    "M1cka!"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2014-01-12"
+}

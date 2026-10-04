@@ -1,0 +1,34 @@
+{
+  "id": "d2ee6e31-c55c-40a4-a1e9-8678e065cfaf",
+  "gender": "female",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Kraus",
+  "partner_first_name": "Jonas",
+  "partner_last_name": "Kraus",
+  "children": [],
+  "interests": [
+    "zeichnen",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "Café Morgenrot",
+  "previous_passwords": [
+    "Lina2006",
+    "Berlin123",
+    "Kraus!17",
+    "Zeichnen2023",
+    "JonasLina",
+    "Morgenrot09",
+    "Lesen_321",
+    "KrausBerlin",
+    "Lina!Kunst",
+    "Kraus_9000"
+  ],
+  "favorite_hobby": "zeichnen",
+  "birth_date": "2008-08-27"
+}

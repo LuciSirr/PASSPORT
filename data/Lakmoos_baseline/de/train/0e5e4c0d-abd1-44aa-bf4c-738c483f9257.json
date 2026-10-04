@@ -1,0 +1,35 @@
+{
+  "id": "0e5e4c0d-abd1-44aa-bf4c-738c483f9257",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "married",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "Hyundai",
+  "self_first_name": "Heike",
+  "self_last_name": "Krauss",
+  "partner_first_name": "Jörg",
+  "partner_last_name": "Krauss",
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobooks",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "Sachsen-Anhalt Management GmbH",
+  "previous_passwords": [
+    "Heike1979",
+    "Jörg2023!",
+    "Krauss123",
+    "Reisen07",
+    "Sommerurlaub_2022",
+    "Audiobooks3",
+    "SachsenAnhalt!13",
+    "Hyundai1598",
+    "Krauss_13000",
+    "Podcast4ever"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1980-05-14"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "53f07c7c-f007-4b1e-b862-c2331984d7f7",
+  "gender": "female",
+  "age": 58,
+  "marital_status": "divorced",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "midsomer murders",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Molly"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Molly2019",
+    "Ashcroft66",
+    "Gardening123",
+    "Midsomer!17",
+    "WalkingMolly",
+    "FionaApril17",
+    "M0lly!Ash",
+    "MidsomerMurders66",
+    "Yorkshire2020"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1966-04-17"
+}

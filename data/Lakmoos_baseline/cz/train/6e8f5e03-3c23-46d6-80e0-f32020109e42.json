@@ -1,0 +1,39 @@
+{
+  "id": "6e8f5e03-3c23-46d6-80e0-f32020109e42",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Krejčí",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Krejčí",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Krejčí"
+    }
+  ],
+  "interests": [
+    "televize",
+    "auta",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "Strojírny Benešov",
+  "previous_passwords": [
+    "Matej2022",
+    "JitkaRadek51",
+    "Octavia1998",
+    "Krejci123",
+    "Televize80",
+    "Auta2024",
+    "Matysek!",
+    "RadekJitka2",
+    "Krizovky77"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1975-03-18"
+}

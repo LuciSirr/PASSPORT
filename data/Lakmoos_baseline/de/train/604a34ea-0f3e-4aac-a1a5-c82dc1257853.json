@@ -1,0 +1,35 @@
+{
+  "id": "604a34ea-0f3e-4aac-a1a5-c82dc1257853",
+  "gender": "female",
+  "age": 47,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Heike",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Jörg",
+  "partner_last_name": "Kronenberg",
+  "children": [],
+  "interests": [
+    "reisen",
+    "fotografie",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Ingenieurberatung Kronenberg",
+  "previous_passwords": [
+    "Heike1977",
+    "Jörg2020!",
+    "Kronenberg123",
+    "Fotografie_21",
+    "ReisenFebruar",
+    "Wandern1598",
+    "KiaSportage12",
+    "NRW4000",
+    "Sommerurlaub!",
+    "Postbank253"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1979-01-07"
+}

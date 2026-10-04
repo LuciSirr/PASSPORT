@@ -1,0 +1,44 @@
+{
+  "id": "f2bb221f-b33c-4155-ab05-77024cc03fd9",
+  "age": 30,
+  "birth_date": "1996-12-17",
+  "marital_status": "married",
+  "region": "Ludwigslust",
+  "nationality": "german",
+  "company": "auch Schlauchin Hermann GmbH & Co. KG",
+  "car_brand": "Renault",
+  "self_first_name": "Gunar",
+  "self_last_name": "Krause",
+  "partner_first_name": "Hartmuth",
+  "partner_last_name": "Krause",
+  "children": [
+    {
+      "first_name": "Irmela",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Songül",
+      "last_name": "Krause"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Musikfestivals",
+    "Wandern",
+    "Lokaler Fußballverein",
+    "Brettspiele"
+  ],
+  "previous_passwords": [
+    "IrmelaWandern96!",
+    "MessiFoto2024",
+    "RenaultMusikFest",
+    "SonguelBrettspiel1996",
+    "HartmuthFoto!",
+    "LudwigslustJoeRogan",
+    "WandernIrmela_96",
+    "FotografieSonguel!",
+    "LocalFußball2012",
+    "RenaultIrmela_2024"
+  ]
+}

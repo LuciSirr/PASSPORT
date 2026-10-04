@@ -1,0 +1,35 @@
+{
+  "id": "04d907c8-b3b8-4d81-ab23-c98b9d954d7b",
+  "gender": "female",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radka",
+  "self_last_name": "Veselovská",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "seriály",
+    "vaření",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Kofola2020",
+    "Morava123",
+    "Zalando19",
+    "dmKosmetika",
+    "Alza2021",
+    "Radka98",
+    "Veselovska!21",
+    "Prochazky_321",
+    "Serialy2022",
+    "Kaufland_987"
+  ],
+  "favorite_hobby": "seriály",
+  "birth_date": "2001-03-12"
+}

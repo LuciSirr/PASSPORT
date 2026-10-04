@@ -1,0 +1,34 @@
+{
+  "id": "75ec5f1f-12ff-42f5-973f-0d160f43916d",
+  "gender": "male",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finley",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "minecraft",
+    "arsenal fc"
+  ],
+  "pets": [],
+  "company": "Bright Minds Tutoring",
+  "previous_passwords": [
+    "Finley2013",
+    "Ashcombe07",
+    "Minecraft123",
+    "Arsenal14!",
+    "BrightMinds2023",
+    "Ashcombe_Minecraft",
+    "Gunnerz2013",
+    "FinleyMC07",
+    "London_Arsenal",
+    "Ashcombe!123"
+  ],
+  "favorite_hobby": "minecraft",
+  "birth_date": "2013-07-14"
+}

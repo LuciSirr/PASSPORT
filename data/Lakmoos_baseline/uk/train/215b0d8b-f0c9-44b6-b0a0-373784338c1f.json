@@ -1,0 +1,32 @@
+{
+  "id": "215b0d8b-f0c9-44b6-b0a0-373784338c1f",
+  "gender": "male",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finley",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dinosaurs"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Finley2021",
+    "Dino123",
+    "Hollis3",
+    "Drawing4Fun",
+    "FinFin2020",
+    "ToyTrains!",
+    "EastKid21",
+    "Bluey2023"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2023-02-10"
+}

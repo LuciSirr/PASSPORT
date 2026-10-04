@@ -1,0 +1,41 @@
+{
+  "id": "b2f5308e-f302-4329-8b54-26a77e23080a",
+  "gender": "female",
+  "age": 83,
+  "marital_status": "widower/widow",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Edith",
+  "self_last_name": "Mansfield",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crossword",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Edith1941",
+    "MansfieldLondon",
+    "Misty123",
+    "Knitting4Life",
+    "Gardening!83",
+    "Crossword_2024",
+    "ReadingMisty",
+    "Edith_Mansfield",
+    "LondonCat41",
+    "MistyKnits"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1942-08-20"
+}

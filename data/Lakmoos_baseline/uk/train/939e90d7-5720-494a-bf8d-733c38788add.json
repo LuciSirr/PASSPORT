@@ -1,0 +1,34 @@
+{
+  "id": "939e90d7-5720-494a-bf8d-733c38788add",
+  "gender": "male",
+  "age": 75,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "cricket",
+    "travelling"
+  ],
+  "pets": [],
+  "company": "Hollingsworth Business Solutions",
+  "previous_passwords": [
+    "OpelMokka2012",
+    "Graham75",
+    "Cricket123",
+    "Hollingsworth14",
+    "BMW2Opel",
+    "Gardening!21",
+    "SouthEast1000",
+    "Mokka_74",
+    "Travel2020"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1951-03-26"
+}

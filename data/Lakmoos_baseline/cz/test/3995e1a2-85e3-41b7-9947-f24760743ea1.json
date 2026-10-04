@@ -1,0 +1,44 @@
+{
+  "id": "3995e1a2-85e3-41b7-9947-f24760743ea1",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1989-06-15",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohoutová"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "kriminálky",
+    "ikea"
+  ],
+  "pets": [],
+  "company": "AutoServis Pardubice s.r.o.",
+  "previous_passwords": [
+    "Tereza2019",
+    "Matej2020",
+    "Kohoutova89",
+    "PetrJitka15",
+    "cestovani123",
+    "kriminalky2023",
+    "Ikea!2022",
+    "Pardubice_89",
+    "TerezaMatej20",
+    "AutoServis2021"
+  ],
+  "favorite_hobby": "cestování"
+}

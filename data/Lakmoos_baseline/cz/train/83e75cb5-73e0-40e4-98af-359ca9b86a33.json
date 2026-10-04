@@ -1,0 +1,34 @@
+{
+  "id": "83e75cb5-73e0-40e4-98af-359ca9b86a33",
+  "gender": "male",
+  "age": 77,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Křivánek",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Křivánková",
+  "children": [],
+  "interests": [
+    "zahrada",
+    "auta"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1947",
+    "Marie1969",
+    "Superb2008",
+    "domek777",
+    "auta112",
+    "zahrada21",
+    "Skoda1967",
+    "Křivánek77",
+    "Albert21",
+    "voda1967"
+  ],
+  "favorite_hobby": "zahrada",
+  "birth_date": "1948-08-10"
+}

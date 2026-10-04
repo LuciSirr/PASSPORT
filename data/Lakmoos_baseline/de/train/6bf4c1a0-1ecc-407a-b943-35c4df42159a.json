@@ -1,0 +1,35 @@
+{
+  "id": "6bf4c1a0-1ecc-407a-b943-35c4df42159a",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennard",
+  "self_last_name": "Krausfeld",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lego",
+    "fußball",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lennard2016",
+    "Krausfeld123",
+    "Fussball08",
+    "Lego!2022",
+    "Lesen_321",
+    "NRW_Kraus",
+    "Schule2024",
+    "Lenny08",
+    "Krausfeld08",
+    "LegoFußball1"
+  ],
+  "favorite_hobby": "lego",
+  "birth_date": "2017-05-13"
+}

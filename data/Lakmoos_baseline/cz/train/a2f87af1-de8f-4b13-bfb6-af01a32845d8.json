@@ -1,0 +1,40 @@
+{
+  "id": "a2f87af1-de8f-4b13-bfb6-af01a32845d8",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "divorced",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Iveta",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "grilování"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "Moravská Poradenská Agentura",
+  "previous_passwords": [
+    "Radek1985",
+    "Beny123",
+    "Iveta2024",
+    "Šebesta42000",
+    "Grilovani!",
+    "Moravska2020",
+    "PilsnerUrquell59",
+    "Turistika59",
+    "FotbalBeny",
+    "RadekDivorce2018"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1967-02-18"
+}

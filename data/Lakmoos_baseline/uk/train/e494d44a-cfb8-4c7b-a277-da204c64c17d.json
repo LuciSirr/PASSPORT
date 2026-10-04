@@ -1,0 +1,40 @@
+{
+  "id": "e494d44a-cfb8-4c7b-a277-da204c64c17d",
+  "gender": "male",
+  "age": 46,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "travelling"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Urban Venture Solutions",
+  "previous_passwords": [
+    "Gareth1978",
+    "Baxter123",
+    "MiniHatch02",
+    "Fiona4ever",
+    "London!12",
+    "Cycling2005",
+    "Hollingsworth_78",
+    "UrbanVenture!",
+    "Baxter!78",
+    "Gardening3"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1979-09-05"
+}

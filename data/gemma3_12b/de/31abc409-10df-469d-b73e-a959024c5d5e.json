@@ -1,0 +1,35 @@
+{
+  "id": "31abc409-10df-469d-b73e-a959024c5d5e",
+  "age": 36,
+  "birth_date": "1990-01-11",
+  "marital_status": "married",
+  "region": "Torgau",
+  "nationality": "german",
+  "company": "Meyer GmbH",
+  "car_brand": "Audi",
+  "self_first_name": "Oscar",
+  "self_last_name": "Oestrovsky",
+  "partner_first_name": "Kata",
+  "partner_last_name": "Oestrovsky",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Deutsche Filme",
+    "Fotografie",
+    "Gitarre spielen"
+  ],
+  "previous_passwords": [
+    "Messi1990!",
+    "KataAudi24",
+    "WandernTorgau!",
+    "DeutscheFilme88",
+    "GitarreFoto11",
+    "AudiFotoKata",
+    "FußballOscar!",
+    "KataMessi90",
+    "Fotografie1990",
+    "WandernOscar!"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "01b3f159-df1a-4e56-ae99-860605469157",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "single/in a relationship",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cyklistika",
+    "filmy",
+    "grilování"
+  ],
+  "pets": [],
+  "company": "Olomoucké strojírny",
+  "previous_passwords": [
+    "Radek1981",
+    "Olomouc59",
+    "Kofola2020",
+    "Hornbach123",
+    "Vesely54321",
+    "Cyklistika81",
+    "Filmy2022",
+    "Grilovani!",
+    "Netflix250",
+    "Tesco810"
+  ],
+  "favorite_hobby": "cyklistika",
+  "birth_date": "1983-01-30"
+}

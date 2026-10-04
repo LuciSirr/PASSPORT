@@ -1,0 +1,39 @@
+{
+  "id": "b812cef8-51e6-433a-9547-00a7eb86cad5",
+  "gender": "female",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "yoga"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Imogen1999",
+    "Milo123",
+    "Hollis24",
+    "Travel2023",
+    "Fiat500!",
+    "Yoga4Life",
+    "VWGolf8",
+    "Oliver_99",
+    "LondonGirl1"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "2001-02-07"
+}

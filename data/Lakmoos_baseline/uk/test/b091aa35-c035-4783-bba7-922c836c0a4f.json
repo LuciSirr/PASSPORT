@@ -1,0 +1,53 @@
+{
+  "id": "b091aa35-c035-4783-bba7-922c836c0a4f",
+  "gender": "female",
+  "age": 40,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Nissan",
+  "self_first_name": "Harriet",
+  "self_last_name": "Mansfield",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Mansfield",
+  "children": [
+    {
+      "first_name": "Freya",
+      "last_name": "Mansfield"
+    },
+    {
+      "first_name": "Rosie",
+      "last_name": "Mansfield"
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Mansfield"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "british baking",
+    "bridgerton"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Harriet1984",
+    "Milo!15",
+    "Bridgerton2021",
+    "MansfieldGardening",
+    "Oliver84",
+    "Baking4Life",
+    "Milo_Bridgerton",
+    "Gard3n!ng",
+    "Mansfield2024",
+    "BritishBake123"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1984-06-15"
+}

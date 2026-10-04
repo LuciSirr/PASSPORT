@@ -1,0 +1,36 @@
+{
+  "id": "eabb1c51-e73f-4ed6-85b5-8a528ae8f05b",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "kultura",
+    "sběratelství",
+    "nakupování",
+    "vzdělávání"
+  ],
+  "pets": [],
+  "company": "Hotelová služba Central",
+  "previous_passwords": [
+    "Vesely2020",
+    "RadekKaufland55",
+    "PilsnerUrquell2006",
+    "Rossmann123",
+    "HesloRohlik",
+    "CentralBohemia59",
+    "Kultura2024",
+    "Sb3ratelstvi!",
+    "Nakupovani_123",
+    "R4d3kV!"
+  ],
+  "favorite_hobby": "kultura",
+  "birth_date": "1974-02-16"
+}

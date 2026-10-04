@@ -1,0 +1,35 @@
+{
+  "id": "28d9c42b-59e8-4985-9f38-1791e7d26d44",
+  "gender": "male",
+  "age": 85,
+  "marital_status": "widower/widow",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Geoffrey",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "coronation street",
+    "cricket"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Ashcroft1936",
+    "Geoffrey17!",
+    "Gardening_88",
+    "Cricket1950",
+    "CorrieStreet4",
+    "Ashcroft_Cricket",
+    "GeoffreyGardener",
+    "Coronation88",
+    "Cricket!Ash",
+    "Ashcroft!17"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1939-04-17"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1d52adf6-b68e-4328-89de-76b7fff22a0e",
+  "gender": "female",
+  "age": 1,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Eliška",
+  "self_last_name": "Kubešová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "puzzle"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "eliska2023",
+    "maminka1",
+    "kubesova123",
+    "brnohracka",
+    "slunicko",
+    "malovani2023",
+    "puzzle123",
+    "Eli$ka1",
+    "Brno2023",
+    "slun1cko"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2025-02-10"
+}

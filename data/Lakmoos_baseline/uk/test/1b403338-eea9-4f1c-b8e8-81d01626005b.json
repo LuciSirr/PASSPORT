@@ -1,0 +1,40 @@
+{
+  "id": "1b403338-eea9-4f1c-b8e8-81d01626005b",
+  "gender": "male",
+  "age": 62,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "walking",
+    "british history",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Baxter2020!",
+    "Graham1962",
+    "Margaret14",
+    "walking123",
+    "Hollingsworth62",
+    "Gardening!2022",
+    "britishhistory_1962",
+    "BaxterHollingsworth",
+    "WestMidlands14",
+    "BaxterWalking62"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1962-06-14"
+}

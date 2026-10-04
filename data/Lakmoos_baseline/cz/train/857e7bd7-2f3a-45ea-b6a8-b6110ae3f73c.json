@@ -1,0 +1,35 @@
+{
+  "id": "857e7bd7-2f3a-45ea-b6a8-b6110ae3f73c",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Šimon",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "počítače",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vesely123",
+    "Šimon2009",
+    "hradecKralove",
+    "jablko321",
+    "skola2022",
+    "fotbal2009",
+    "Hudba_123",
+    "Pocitace09",
+    "V3s3ly!",
+    "Simonek12"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2013-08-30"
+}

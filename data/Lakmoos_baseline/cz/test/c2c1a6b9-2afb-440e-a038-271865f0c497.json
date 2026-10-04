@@ -1,0 +1,35 @@
+{
+  "id": "c2c1a6b9-2afb-440e-a038-271865f0c497",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "divorced",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "KIA",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1958-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "ceske drahy",
+    "cestovani",
+    "moda"
+  ],
+  "pets": [],
+  "company": "AutoServis Zlín",
+  "previous_passwords": [
+    "Radek1958",
+    "Kohout123",
+    "AutoServis2020",
+    "cestovani58",
+    "ceskedrahy_66",
+    "moda1976",
+    "Kohout!12",
+    "Zlin1976",
+    "drahy2023",
+    "RadekKohout58"
+  ],
+  "favorite_hobby": "ceske drahy"
+}

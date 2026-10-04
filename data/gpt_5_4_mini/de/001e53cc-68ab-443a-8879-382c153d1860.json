@@ -1,0 +1,40 @@
+{
+  "id": "001e53cc-68ab-443a-8879-382c153d1860",
+  "age": 33,
+  "birth_date": "1993-11-01",
+  "marital_status": "married",
+  "region": "Günzburg",
+  "nationality": "german",
+  "company": "Koch",
+  "car_brand": "Volvo",
+  "self_first_name": "Lambert",
+  "self_last_name": "Seip",
+  "partner_first_name": "Maya",
+  "partner_last_name": "Seip",
+  "children": [
+    {
+      "first_name": "Bärbel",
+      "last_name": "Seip"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Gaming",
+    "Bodensee-Ausflüge"
+  ],
+  "previous_passwords": [
+    "MayaFußball93",
+    "Bodensee11!",
+    "VolvoKochen33",
+    "Wandern_93",
+    "BärbelGaming7",
+    "SeipHiking33",
+    "LindauTrip93",
+    "KochenMaya1",
+    "FCBayern93!",
+    "VolvoBodensee"
+  ]
+}

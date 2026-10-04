@@ -1,0 +1,35 @@
+{
+  "id": "98f88bea-bf9f-4eac-8365-33181a999ec3",
+  "age": 34,
+  "birth_date": "1992-05-30",
+  "marital_status": "single",
+  "region": "Bílovec",
+  "nationality": "czech",
+  "company": "Matoušek Šimková v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Vítězslav",
+  "self_last_name": "Svoboda",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hokej",
+    "turistika",
+    "vaření",
+    "cyklistika",
+    "poslech podcastů"
+  ],
+  "previous_passwords": [
+    "Hokej1992!",
+    "Skoda88Tour",
+    "VaReNI30",
+    "Cyklo_Bilovec92",
+    "Sparta30!",
+    "Podcast92CZ",
+    "Trek2024",
+    "SvobodaHokej",
+    "Bikovice30",
+    "Pivo&Tour92"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dd2ca20f-1d3c-4c05-9c09-9c5d60550b64",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "married",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "knihy",
+    "netflix",
+    "technika"
+  ],
+  "pets": [],
+  "company": "Pardubická technická kancelář",
+  "previous_passwords": [
+    "Radek1984",
+    "PetraVesela123",
+    "Pardubice84",
+    "Technika2020",
+    "NetflixCZ",
+    "VeselyPetra2023",
+    "Globus41000",
+    "Redbull!84",
+    "Knihy123",
+    "VeselyPetra"
+  ],
+  "favorite_hobby": "knihy",
+  "birth_date": "1986-01-17"
+}

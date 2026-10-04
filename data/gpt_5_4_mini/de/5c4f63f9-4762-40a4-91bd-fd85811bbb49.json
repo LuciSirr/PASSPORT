@@ -1,0 +1,40 @@
+{
+  "id": "5c4f63f9-4762-40a4-91bd-fd85811bbb49",
+  "age": 24,
+  "birth_date": "2002-11-30",
+  "marital_status": "married",
+  "region": "Stuttgart",
+  "nationality": "german",
+  "company": "Lachmann",
+  "car_brand": "Audi",
+  "self_first_name": "Cordula",
+  "self_last_name": "Möchlichen",
+  "partner_first_name": "Gisbert",
+  "partner_last_name": "Möchlichen",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Serpil"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Fitnessstudio",
+    "Kaffee",
+    "Gaming",
+    "Stuttgart 21"
+  ],
+  "previous_passwords": [
+    "Stuttgart21!",
+    "Gisbert2002",
+    "AudiKaffee24",
+    "SerpilTurtle7",
+    "FussballGis!",
+    "FitnessStgt21",
+    "Kaffee2002!",
+    "AudiGaming22",
+    "Serpil02_24",
+    "StuttgartFit7"
+  ]
+}

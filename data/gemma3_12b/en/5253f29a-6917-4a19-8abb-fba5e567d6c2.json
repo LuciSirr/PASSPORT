@@ -1,0 +1,35 @@
+{
+  "id": "5253f29a-6917-4a19-8abb-fba5e567d6c2",
+  "age": 23,
+  "birth_date": "2003-03-25",
+  "marital_status": "married",
+  "region": "West Rita",
+  "nationality": "english",
+  "company": "Smith and Sons",
+  "car_brand": "BMW",
+  "self_first_name": "Mitchell",
+  "self_last_name": "Burke",
+  "partner_first_name": "Gillian",
+  "partner_last_name": "Burke",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hiking",
+    "indie music",
+    "photography",
+    "video games",
+    "local craft breweries"
+  ],
+  "previous_passwords": [
+    "indieHike2003",
+    "BMW_RitaPhoto!",
+    "GillianBergFest",
+    "Messi25Hiking",
+    "JoeRogan_West",
+    "CraftBrew23!",
+    "BurkeHike20",
+    "IndieMusicRita",
+    "VideoGameBMW",
+    "Photography25"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cb9fabd1-eba5-41b8-9c59-177d428685b6",
+  "age": 21,
+  "birth_date": "2005-10-17",
+  "marital_status": "married",
+  "region": "Vechta",
+  "nationality": "german",
+  "company": "Schottin Losekann AG & Co. KGaA",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Gabor",
+  "self_last_name": "Nette",
+  "partner_first_name": "Janine",
+  "partner_last_name": "Nette",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Natalia"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Fitnessstudio",
+    "Technik",
+    "Festivalbesuche"
+  ],
+  "previous_passwords": [
+    "Messi2005!",
+    "Janine_Fussball1",
+    "MercedesVechta21",
+    "GymNatalia17",
+    "GamingNette05",
+    "Rammstein!2005",
+    "BayernVechta!",
+    "Tech_Gabor21",
+    "FestivalJanine05",
+    "Fitness2005_"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "13b4e158-6f24-4033-aec4-53047f7a100a",
+  "age": 38,
+  "birth_date": "1988-01-22",
+  "marital_status": "married",
+  "region": "Fulnek",
+  "nationality": "czech",
+  "company": "Brožová Urbanová a.s.",
+  "car_brand": "Dacia",
+  "self_first_name": "Jiří",
+  "self_last_name": "Kopecký",
+  "partner_first_name": "Kamil",
+  "partner_last_name": "Kopecký",
+  "children": [
+    {
+      "first_name": "Jonáš",
+      "last_name": "Kopecký"
+    },
+    {
+      "first_name": "Aleš",
+      "last_name": "Kopecký"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Dita"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "vaření",
+    "pivo",
+    "fotbal",
+    "hudba"
+  ],
+  "previous_passwords": [
+    "Messi2024!",
+    "DitaFulnek88",
+    "VařeníJonáš",
+    "TuristikaKamil",
+    "DaciaAleš1988",
+    "PivoJonáš!",
+    "HudbaDita23",
+    "FotbalKopecky",
+    "FulnekMessi",
+    "Turistika88Dita"
+  ]
+}

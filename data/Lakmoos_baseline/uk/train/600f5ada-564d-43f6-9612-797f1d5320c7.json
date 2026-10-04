@@ -1,0 +1,40 @@
+{
+  "id": "600f5ada-564d-43f6-9612-797f1d5320c7",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Graham",
+  "self_last_name": "Carmichael",
+  "partner_first_name": "Moira",
+  "partner_last_name": "Carmichael",
+  "children": [],
+  "interests": [
+    "gardening",
+    "hillwalking",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Angus"
+    }
+  ],
+  "company": "Lochside Ventures",
+  "previous_passwords": [
+    "Graham1964",
+    "Moira123",
+    "Angus2018",
+    "Carmichael!60",
+    "Lochside2020",
+    "Hillwalking4",
+    "Reading_64",
+    "Gardening!",
+    "Moira&Graham",
+    "Angus_64"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1965-11-14"
+}

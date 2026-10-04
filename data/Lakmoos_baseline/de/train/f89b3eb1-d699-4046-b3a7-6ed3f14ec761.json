@@ -1,0 +1,35 @@
+{
+  "id": "f89b3eb1-d699-4046-b3a7-6ed3f14ec761",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "widower/widow",
+  "region": "hamburg",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Hannelore",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "spazieren",
+    "audiobücher",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Hannelore1955",
+    "Hamburg123",
+    "Krause!69",
+    "Spazieren2020",
+    "AOK_1000",
+    "Widow2024",
+    "AprilReise",
+    "Samsung55",
+    "Krause!AOK",
+    "Audiobuch1"
+  ],
+  "favorite_hobby": "spazieren",
+  "birth_date": "1956-11-29"
+}

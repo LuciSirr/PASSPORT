@@ -1,0 +1,34 @@
+{
+  "id": "9a3f44dc-d72f-4368-a775-a1292d272853",
+  "gender": "female",
+  "age": 73,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Suzuki",
+  "self_first_name": "Hannelore",
+  "self_last_name": "Kuhn",
+  "birth_date": "1951-06-15",
+  "partner_first_name": "Gerhard",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Hannelore1951",
+    "KuhnGarten123",
+    "Pilcher!15",
+    "Gerhard1950",
+    "rosamunde2020",
+    "KuhnPilcher51",
+    "Gartenarbeit_06",
+    "Kuhn!1951",
+    "PilcherGerhard",
+    "GartenKuhn51"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "da06ada6-9072-4120-8d76-e7e2e99e697b",
+  "age": 68,
+  "birth_date": "1958-03-22",
+  "marital_status": "single",
+  "region": "Steinfurt",
+  "nationality": "german",
+  "company": "Austermühle Gerlach GmbH",
+  "car_brand": "Seat",
+  "self_first_name": "Henri",
+  "self_last_name": "Rudolph",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Natascha",
+      "last_name": "Rudolph"
+    },
+    {
+      "first_name": "Mehdi",
+      "last_name": "Rudolph"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Schallplatten sammeln",
+    "Nordic Walking",
+    "Lokale Geschichte",
+    "Deutsche Fernsehspiele",
+    "Briefmarken"
+  ],
+  "previous_passwords": [
+    "Natascha72Nordic",
+    "DeutscheSpiele1958",
+    "SchallplattenJazz!",
+    "SeatSteinfurtMehdi",
+    "Briefmarken68Ru",
+    "NordicWalking22",
+    "LokaleGeschichte!",
+    "SchallplattenColtrane",
+    "Natascha_Recordz",
+    "DeutscheTVspiele!"
+  ]
+}

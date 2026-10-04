@@ -1,0 +1,35 @@
+{
+  "id": "24f9a634-d694-48f9-bc32-c10de23a94b1",
+  "age": 37,
+  "birth_date": "1989-11-08",
+  "marital_status": "divorced",
+  "region": "Hluk",
+  "nationality": "czech",
+  "company": "Pokorný Kříž v.o.s.",
+  "car_brand": "Volvo",
+  "self_first_name": "Tomáš",
+  "self_last_name": "Tichý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "rybaření",
+    "fotbal",
+    "folklór"
+  ],
+  "previous_passwords": [
+    "Messi8911",
+    "VolvoHluk2017",
+    "TuristikaTomáš!",
+    "Vaření1989",
+    "FotbalPoděbrady",
+    "RybářTomáš_1",
+    "Folklór23Hluk",
+    "MessiVaření!",
+    "HlukTomášRybář",
+    "VolvoTuristika8"
+  ]
+}

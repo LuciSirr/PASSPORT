@@ -1,0 +1,35 @@
+{
+  "id": "b557e003-0138-437d-acfe-b7829b328a06",
+  "gender": "male",
+  "age": 100,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heinrich",
+  "self_last_name": "Krahl",
+  "partner_first_name": "Gertrud",
+  "partner_last_name": "Krahl",
+  "children": [],
+  "interests": [
+    "wandern",
+    "schach",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heinrich1924",
+    "Gertrud123",
+    "Krahl!2000",
+    "Wandern2020",
+    "Schachmeister1",
+    "Opa1948",
+    "Lesen_321",
+    "Nordrhein!7",
+    "IKK2024",
+    "Krahl_Gertrud"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1925-12-22"
+}

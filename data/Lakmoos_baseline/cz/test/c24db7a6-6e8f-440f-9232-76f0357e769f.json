@@ -1,0 +1,35 @@
+{
+  "id": "c24db7a6-6e8f-440f-9232-76f0357e769f",
+  "gender": "male",
+  "age": 44,
+  "marital_status": "single/in a relationship",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1980-06-15",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "české filmy",
+    "sbírání mincí"
+  ],
+  "pets": [],
+  "company": "Karlovarská Administrativa s.r.o.",
+  "previous_passwords": [
+    "Radek1980",
+    "Kohout15",
+    "fotbal2022",
+    "Petra80",
+    "ceskefilmy_123",
+    "mince2000",
+    "Kohout!2020",
+    "RadekPetra15",
+    "sbiraniM1nc1",
+    "Kohout_fotbal"
+  ],
+  "favorite_hobby": "fotbal"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "67a42c97-360e-4d1e-bc88-176fef51d388",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "seriály",
+    "procházky",
+    "snackování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Vysočina Analytika s.r.o.",
+  "previous_passwords": [
+    "Micka2020",
+    "Vysočina27",
+    "Kofola123",
+    "Tesco2021",
+    "dmOblibena",
+    "NetflixHeslo",
+    "Seriály!27",
+    "Snackování_123",
+    "Šebestová1997",
+    "M1cka!"
+  ],
+  "favorite_hobby": "seriály",
+  "birth_date": "1998-05-27"
+}

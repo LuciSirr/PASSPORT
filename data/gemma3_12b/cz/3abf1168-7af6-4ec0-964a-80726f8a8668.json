@@ -1,0 +1,44 @@
+{
+  "id": "3abf1168-7af6-4ec0-964a-80726f8a8668",
+  "age": 23,
+  "birth_date": "2003-08-12",
+  "marital_status": "divorced",
+  "region": "Pečky",
+  "nationality": "czech",
+  "company": "Tesař",
+  "car_brand": "Škoda",
+  "self_first_name": "Bořivoj",
+  "self_last_name": "Staněk",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Erik"
+    },
+    {
+      "pet_type": "snake",
+      "pet_name": "Pavlína"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "hudba (pop)",
+    "cestování",
+    "Netflix",
+    "turistika"
+  ],
+  "previous_passwords": [
+    "Messi2003!",
+    "SkodaErik_12",
+    "NetflixTuristika",
+    "PavlinaHudba08",
+    "BorivojTravels",
+    "FotbalPecky23",
+    "ErikMessiFan",
+    "TuristikaSkoda!",
+    "NetflixBořivoj",
+    "Messi_2003"
+  ]
+}

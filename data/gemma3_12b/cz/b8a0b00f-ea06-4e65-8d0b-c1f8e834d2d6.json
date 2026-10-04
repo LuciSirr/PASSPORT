@@ -1,0 +1,35 @@
+{
+  "id": "b8a0b00f-ea06-4e65-8d0b-c1f8e834d2d6",
+  "age": 20,
+  "birth_date": "2006-02-01",
+  "marital_status": "married",
+  "region": "Bechyně",
+  "nationality": "czech",
+  "company": "Horáková",
+  "car_brand": "Fiat",
+  "self_first_name": "Emil",
+  "self_last_name": "Navrátil",
+  "partner_first_name": "Irena",
+  "partner_last_name": "Navrátilová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "Netflix",
+    "hudba",
+    "cestování",
+    "TikTok"
+  ],
+  "previous_passwords": [
+    "Messi2006!",
+    "NetflixBechyně",
+    "HudbaIrena11",
+    "CestovaniFiat",
+    "TikTokEmil91",
+    "Netflix_Messi",
+    "BechyněFotbal!",
+    "IrenaNavratilova20",
+    "Messi2006Hudba",
+    "FiatCestovani!"
+  ]
+}

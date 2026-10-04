@@ -1,0 +1,41 @@
+{
+  "id": "79ecbd44-5486-4943-ad51-0b1782f53e46",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Nissan",
+  "self_first_name": "Gillian",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Ashcombe",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Molly"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Gillian1959",
+    "Molly123",
+    "Ashcombe21",
+    "Peter!59",
+    "Travel2022",
+    "Gardening4U",
+    "MollyAshcombe",
+    "Reading_63",
+    "Qashqai16",
+    "SouthWest1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1962-10-18"
+}

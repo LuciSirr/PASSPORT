@@ -1,0 +1,35 @@
+{
+  "id": "88398f81-cb84-4c12-9707-0597921c9cda",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Audi",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Krahl",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krahl",
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobücher",
+    "oldtimer"
+  ],
+  "pets": [],
+  "company": "Ingenieurbüro Krahl & Partner",
+  "previous_passwords": [
+    "Juergen1964",
+    "Sabine123",
+    "Krahl2020",
+    "AudiQ2!",
+    "Hessen_64",
+    "Reisen2023",
+    "Oldtimer77",
+    "Sommer!May",
+    "AOK_1964",
+    "Fussb4ll!"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1965-05-27"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "b028f9fa-6454-4e96-b7f8-3d594536115a",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Land Rover",
+  "self_first_name": "Alastair",
+  "self_last_name": "MacNiven",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "MacNiven",
+  "children": [],
+  "interests": [
+    "hillwalking",
+    "reading",
+    "photography"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bracken"
+    }
+  ],
+  "company": "Highland Engineering Solutions",
+  "previous_passwords": [
+    "Bracken2007",
+    "MacNiven43!",
+    "Alastair123",
+    "Fiona4eva",
+    "RangeRoverSport22",
+    "Highland2024",
+    "hillwalking_1",
+    "Bracken!",
+    "Scotland2996"
+  ],
+  "favorite_hobby": "hillwalking",
+  "birth_date": "1982-08-22"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ad593850-dd10-4bd5-a7b9-ba3bc3acf0a9",
+  "age": 20,
+  "birth_date": "2006-10-20",
+  "marital_status": "married",
+  "region": "Scheinfeld",
+  "nationality": "german",
+  "company": "Neureuther",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Pavel",
+  "self_last_name": "Vogt",
+  "partner_first_name": "Melita",
+  "partner_last_name": "Vogt",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Gaming",
+    "Fußball",
+    "Fitnessstudio",
+    "Deutschrap",
+    "Wandern"
+  ],
+  "previous_passwords": [
+    "MelitaGamer06",
+    "Fifa2006!",
+    "BVBVogt20",
+    "Mercedes2026",
+    "Kane20_Wolf",
+    "RapVogt06!",
+    "Fitness20!",
+    "Wander06_",
+    "CSGO_Scheinfeld",
+    "PauleGaming06"
+  ]
+}

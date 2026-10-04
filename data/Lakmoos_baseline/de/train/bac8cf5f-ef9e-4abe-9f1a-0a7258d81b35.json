@@ -1,0 +1,33 @@
+{
+  "id": "bac8cf5f-ef9e-4abe-9f1a-0a7258d81b35",
+  "gender": "male",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "bremen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krahl",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fussball",
+    "gaming"
+  ],
+  "pets": [],
+  "company": "Bremen Bistro Service",
+  "previous_passwords": [
+    "Lennart2007",
+    "Krahl123",
+    "Bremen!17",
+    "Fussball4ever",
+    "Gaming_5000",
+    "KrahlBremen",
+    "L3nn4rt!",
+    "Bistro2023",
+    "Sommer07"
+  ],
+  "favorite_hobby": "fussball",
+  "birth_date": "2009-02-07"
+}

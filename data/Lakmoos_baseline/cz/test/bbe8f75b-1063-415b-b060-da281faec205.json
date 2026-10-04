@@ -1,0 +1,34 @@
+{
+  "id": "bbe8f75b-1063-415b-b060-da281faec205",
+  "gender": "female",
+  "age": 55,
+  "marital_status": "divorced",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Ford",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1969-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "české filmy",
+    "detektivky",
+    "malování"
+  ],
+  "pets": [],
+  "company": "Stavby Morava s.r.o.",
+  "previous_passwords": [
+    "Jitka1969",
+    "Kohoutova123",
+    "detektivka2020",
+    "StavbyMorava69",
+    "ceskefilmy!15",
+    "malovani_1969",
+    "KohoutovaDetektivka",
+    "Jitka!detektivka",
+    "Morava2024"
+  ],
+  "favorite_hobby": "české filmy"
+}

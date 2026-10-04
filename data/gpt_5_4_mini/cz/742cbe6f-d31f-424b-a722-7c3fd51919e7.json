@@ -1,0 +1,44 @@
+{
+  "id": "742cbe6f-d31f-424b-a722-7c3fd51919e7",
+  "age": 24,
+  "birth_date": "2002-03-13",
+  "marital_status": "married",
+  "region": "Jablonec nad Jizerou",
+  "nationality": "czech",
+  "company": "Kolářová Novák a.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Jaroslava",
+  "self_last_name": "Hrušková",
+  "partner_first_name": "Hubert",
+  "partner_last_name": "Hrušková",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Patrik"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Mikuláš"
+    }
+  ],
+  "interests": [
+    "hokej",
+    "lyžování",
+    "turistika",
+    "hraní her",
+    "poslech českého rapu"
+  ],
+  "previous_passwords": [
+    "Hokej2002!",
+    "SkiJizerou24",
+    "PatrikRabiT9",
+    "SkodaLyze13",
+    "RapHubert02",
+    "Turistika_24",
+    "MikulasPet7",
+    "Hru_skater22",
+    "CzechRap13!",
+    "Jablonec02"
+  ]
+}

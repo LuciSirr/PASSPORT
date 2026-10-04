@@ -1,0 +1,45 @@
+{
+  "id": "184867cf-e51e-461a-b1a6-7517d9595c30",
+  "gender": "male",
+  "age": 46,
+  "marital_status": "married",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1978-06-14",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "ordinace v růžové zahradě",
+    "škoda auto",
+    "netflix"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Stavby Plzeňsko s.r.o.",
+  "previous_passwords": [
+    "Matej2024",
+    "Kohout1978",
+    "Rex1234",
+    "ordinace2010",
+    "Petra14.6",
+    "skodaFabia21",
+    "Plzen!78",
+    "rexMatej",
+    "netflix2023",
+    "Kohout!Rex"
+  ],
+  "favorite_hobby": "ordinace v růžové zahradě"
+}

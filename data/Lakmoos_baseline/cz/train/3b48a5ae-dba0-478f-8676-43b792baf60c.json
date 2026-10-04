@@ -1,0 +1,40 @@
+{
+  "id": "3b48a5ae-dba0-478f-8676-43b792baf60c",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "grilování",
+    "cyklistika"
+  ],
+  "pets": [],
+  "company": "Stavby Praha s.r.o.",
+  "previous_passwords": [
+    "Matěj2011",
+    "Jana58",
+    "Veselý123",
+    "Praha2016",
+    "Grilovani!",
+    "Hornbach2020",
+    "Pilsner58",
+    "Fotbal_13",
+    "SkodaKodiaq8",
+    "Radek1976"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1967-12-25"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "b94cb613-5e44-40e0-9a6a-62a5003c9e77",
+  "age": 67,
+  "birth_date": "1959-12-16",
+  "marital_status": "divorced",
+  "region": "Torgau",
+  "nationality": "german",
+  "company": "Ackermann KGaA",
+  "car_brand": "Ford",
+  "self_first_name": "Mike",
+  "self_last_name": "Höfig",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Klaus-Jürgen"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Jan-Peter"
+    }
+  ],
+  "interests": [
+    "Gartenarbeit",
+    "Wandern in der Elbe-Elster-Region",
+    "Schach",
+    "Heimatgeschichte Torgau",
+    "Schlager"
+  ],
+  "previous_passwords": [
+    "Torgau1959!",
+    "Ford1967",
+    "Schach67_TG",
+    "ElbeWandern16",
+    "KlausJürgen9",
+    "Garten59!",
+    "HeimatTorgau59",
+    "Schlager1959",
+    "JanPeter67!",
+    "MikeHofig59"
+  ]
+}

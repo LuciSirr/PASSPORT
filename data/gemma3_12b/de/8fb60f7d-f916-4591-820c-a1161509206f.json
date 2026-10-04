@@ -1,0 +1,40 @@
+{
+  "id": "8fb60f7d-f916-4591-820c-a1161509206f",
+  "age": 35,
+  "birth_date": "1991-01-25",
+  "marital_status": "married",
+  "region": "Säckingen",
+  "nationality": "german",
+  "company": "Fritsch AG",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Steven",
+  "self_last_name": "Eimer",
+  "partner_first_name": "Danielle",
+  "partner_last_name": "Eimer",
+  "children": [
+    {
+      "first_name": "Bertha",
+      "last_name": "Eimer"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern im Schwarzwald",
+    "Fotografie",
+    "Deutsche Küche",
+    "FC Bayern München",
+    "Lesen – Krimis"
+  ],
+  "previous_passwords": [
+    "BerthaDanielle2023",
+    "BayernMunch1991!",
+    "MercedesWanderer!",
+    "SchwarzwaldFoto88",
+    "MessiSäckingen19",
+    "KrimisEimer25",
+    "DanielleFCB2018",
+    "FCBayernBertha!",
+    "FotografieMerca!",
+    "SäckingenKrimi23"
+  ]
+}

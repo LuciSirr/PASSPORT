@@ -1,0 +1,34 @@
+{
+  "id": "a7b5b1bf-c4ff-4e9c-ae0a-e903115c96f2",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Jaguar",
+  "self_first_name": "Bernd",
+  "self_last_name": "Krause",
+  "birth_date": "1958-06-11",
+  "partner_first_name": "Ute",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "oldtimer",
+    "tatort"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Krause1958",
+    "Tatort!66",
+    "BerndOldtimer58",
+    "Ute1958",
+    "Oldtimer_123",
+    "Tat0rt2020",
+    "Krause!Tatort",
+    "BerndUte11",
+    "OldtimerKrause",
+    "Tatort_58"
+  ],
+  "favorite_hobby": "oldtimer"
+}

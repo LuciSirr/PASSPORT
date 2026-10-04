@@ -1,0 +1,40 @@
+{
+  "id": "8d73899d-7878-4d68-bd96-77ff2cb43334",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "Polestar",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kuhn",
+  "birth_date": "1983-07-14",
+  "partner_first_name": "Sandra",
+  "partner_last_name": "Kuhn",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kuhn"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "fahrradtouren"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2019",
+    "Tatort!83",
+    "Kuhn_Bundesliga",
+    "Sandra14.07",
+    "Fahrrad123",
+    "T0bi4s1983",
+    "SandraLukas2022",
+    "TatortKuhn83",
+    "B4llspiel_83",
+    "Kuhn!2020"
+  ],
+  "favorite_hobby": "tatort"
+}

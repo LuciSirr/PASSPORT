@@ -1,0 +1,35 @@
+{
+  "id": "82b8f5c4-843f-4fb3-bce7-59d7304a9051",
+  "age": 23,
+  "birth_date": "2003-07-29",
+  "marital_status": "single",
+  "region": "Russellhaven",
+  "nationality": "english",
+  "company": "Abbott-Day",
+  "car_brand": "Kia",
+  "self_first_name": "Graeme",
+  "self_last_name": "Smith",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "photography",
+    "indie music",
+    "hiking",
+    "video games",
+    "local history"
+  ],
+  "previous_passwords": [
+    "Kodak2003!",
+    "IndieHike23",
+    "MessiRS!",
+    "GraemeKia19",
+    "RussellhavenPix",
+    "HikingJoeRogan",
+    "VintageHist_87",
+    "VideoGameG5",
+    "LocalStory29",
+    "KiaSummit!"
+  ]
+}

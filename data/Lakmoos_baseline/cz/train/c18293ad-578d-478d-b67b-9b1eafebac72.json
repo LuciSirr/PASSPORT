@@ -1,0 +1,35 @@
+{
+  "id": "c18293ad-578d-478d-b67b-9b1eafebac72",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "cestování",
+    "čtení",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Moravský Velkoobchod",
+  "previous_passwords": [
+    "Ivana1974",
+    "Fabia2001",
+    "PetrIvana",
+    "Morava50",
+    "Lidl1234",
+    "Brno_2020",
+    "Cteni!2022",
+    "VeselaPetr74",
+    "dmnakup",
+    "Cestovani2021"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1975-05-09"
+}

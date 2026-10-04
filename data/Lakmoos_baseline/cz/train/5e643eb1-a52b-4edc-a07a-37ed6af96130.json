@@ -1,0 +1,42 @@
+{
+  "id": "5e643eb1-a52b-4edc-a07a-37ed6af96130",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Lucie",
+  "partner_last_name": "Šebesta",
+  "children": [
+    {
+      "first_name": "Matyáš",
+      "last_name": "Šebesta"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "knihy",
+    "kultura",
+    "cestování"
+  ],
+  "pets": [],
+  "company": "Moravská Logistika s.r.o.",
+  "previous_passwords": [
+    "Matyas2022",
+    "RadekLuci",
+    "Kodiaq2017",
+    "Moravska123",
+    "Tesco906",
+    "Fotbal123",
+    "Lucie2019",
+    "Sebesta88",
+    "Cestovani2024",
+    "Turistika!22"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1996-05-26"
+}

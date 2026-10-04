@@ -1,0 +1,34 @@
+{
+  "id": "a63a94d1-f657-4261-b81a-fbc527e4f043",
+  "gender": "male",
+  "age": 53,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Land Rover",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Krause",
+  "birth_date": "1971-07-15",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "wohnmobilreisen",
+    "tatort",
+    "camping"
+  ],
+  "pets": [],
+  "company": "Hotel & Gasthof Am Rhein",
+  "previous_passwords": [
+    "Krause1971",
+    "Tatort!123",
+    "Wohnmobil2012",
+    "Sabine_0715",
+    "CampingKrause",
+    "Rhein!2020",
+    "Tat0rt_71",
+    "SabineKrause",
+    "KrauseCamping123"
+  ],
+  "favorite_hobby": "wohnmobilreisen"
+}

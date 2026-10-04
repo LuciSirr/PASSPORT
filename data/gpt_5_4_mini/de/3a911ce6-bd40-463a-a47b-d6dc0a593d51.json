@@ -1,0 +1,45 @@
+{
+  "id": "3a911ce6-bd40-463a-a47b-d6dc0a593d51",
+  "age": 41,
+  "birth_date": "1985-06-05",
+  "marital_status": "married",
+  "region": "Tecklenburg",
+  "nationality": "german",
+  "company": "Etzold e.V.",
+  "car_brand": "Toyota",
+  "self_first_name": "Janette",
+  "self_last_name": "Henschel",
+  "partner_first_name": "Hans-Hermann",
+  "partner_last_name": "Henschel",
+  "children": [
+    {
+      "first_name": "Steve",
+      "last_name": "Henschel"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Johannes"
+    }
+  ],
+  "interests": [
+    "Wandern im Teutoburger Wald",
+    "Fußball",
+    "Gartenarbeit",
+    "Kochen",
+    "Heimatverein Tecklenburg"
+  ],
+  "previous_passwords": [
+    "Wandern85!",
+    "TeutoWald41",
+    "HansHermann85",
+    "HSV_1985",
+    "JohannesBird7",
+    "ToyotaTeuto41",
+    "Garten05!",
+    "KochenHenschel",
+    "Steve_Fuss85",
+    "Heimatverein6"
+  ]
+}

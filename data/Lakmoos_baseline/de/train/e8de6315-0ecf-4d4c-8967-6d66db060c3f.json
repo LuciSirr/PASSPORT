@@ -1,0 +1,39 @@
+{
+  "id": "e8de6315-0ecf-4d4c-8967-6d66db060c3f",
+  "gender": "female",
+  "age": 77,
+  "marital_status": "widower/widow",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gertrud",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Emilia",
+      "last_name": "Kleinschmidt"
+    }
+  ],
+  "interests": [
+    "stricken",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Emilia2022",
+    "Gertrud77",
+    "Kleinschmidt15",
+    "Stricken123",
+    "OmaEmilia!",
+    "Niedersachsen1977",
+    "AOK_15000",
+    "Winter!77",
+    "EmiliaKlein22",
+    "Gertrud!2024"
+  ],
+  "favorite_hobby": "stricken",
+  "birth_date": "1948-12-12"
+}

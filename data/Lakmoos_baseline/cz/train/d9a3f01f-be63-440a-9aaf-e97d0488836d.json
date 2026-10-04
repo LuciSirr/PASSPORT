@@ -1,0 +1,35 @@
+{
+  "id": "d9a3f01f-be63-440a-9aaf-e97d0488836d",
+  "gender": "male",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "hry",
+    "cyklistika"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "matej2009",
+    "plzen123",
+    "fotbalek",
+    "vesely13",
+    "skola2023",
+    "CykloPlzen09",
+    "Hry2022",
+    "V3s3ly!",
+    "f0tbal123",
+    "Maty_13"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2012-08-29"
+}

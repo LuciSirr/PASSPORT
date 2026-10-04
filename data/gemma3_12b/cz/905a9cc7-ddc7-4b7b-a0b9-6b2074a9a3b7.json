@@ -1,0 +1,35 @@
+{
+  "id": "905a9cc7-ddc7-4b7b-a0b9-6b2074a9a3b7",
+  "age": 50,
+  "birth_date": "1976-07-05",
+  "marital_status": "divorced",
+  "region": "Sadská",
+  "nationality": "czech",
+  "company": "Dušek a.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Karel",
+  "self_last_name": "Horák",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "čtení knih",
+    "pěstitelství",
+    "historie"
+  ],
+  "previous_passwords": [
+    "TuristikaKarel76",
+    "SkodaRapid2024",
+    "RybarSadska!",
+    "Historie1976",
+    "PestovaniKnih",
+    "MessiFanKarel",
+    "CeskaTuristika!",
+    "CteniKnih_76",
+    "SadskyRybar23",
+    "JoeRoganKarel"
+  ]
+}

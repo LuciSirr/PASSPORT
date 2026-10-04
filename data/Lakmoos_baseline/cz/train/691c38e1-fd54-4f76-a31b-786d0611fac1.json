@@ -1,0 +1,30 @@
+{
+  "id": "691c38e1-fd54-4f76-a31b-786d0611fac1",
+  "gender": "female",
+  "age": 0,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Eliška",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Eliska2023",
+    "Vrana123",
+    "Slunicko",
+    "Maminka",
+    "Hracky",
+    "Malovani1",
+    "Vranova2024"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2026-01-25"
+}

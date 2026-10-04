@@ -1,0 +1,35 @@
+{
+  "id": "3a78e490-100f-47d8-84fa-4874b0b7f086",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "Renault",
+  "self_first_name": "Annika",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "podcasts",
+    "reisen",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Annika1995",
+    "Berlin123",
+    "Kreutzmann22",
+    "Reisen!2023",
+    "Podcasts_4ever",
+    "Austral2024",
+    "Sommer!95",
+    "Musikliebhaberin1",
+    "Kreutzmann!",
+    "Audiobook_123"
+  ],
+  "favorite_hobby": "podcasts",
+  "birth_date": "1997-02-25"
+}

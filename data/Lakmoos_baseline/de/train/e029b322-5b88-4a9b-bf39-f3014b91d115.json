@@ -1,0 +1,48 @@
+{
+  "id": "e029b322-5b88-4a9b-bf39-f3014b91d115",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Citroën",
+  "self_first_name": "Annika",
+  "self_last_name": "Vogelsang",
+  "partner_first_name": "Markus",
+  "partner_last_name": "Vogelsang",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Vogelsang"
+    },
+    {
+      "first_name": "Jonas",
+      "last_name": "Vogelsang"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Vogelsang"
+    }
+  ],
+  "interests": [
+    "reisen",
+    "musik",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Hessen IT Solutions GmbH",
+  "previous_passwords": [
+    "Lena2009",
+    "Vogelsang123",
+    "Annika!85",
+    "Markus2010",
+    "Reisen2023",
+    "Musik4ever",
+    "Jonas15",
+    "Citroen2024",
+    "Hessen!78",
+    "Sommerurlaub21"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1990-11-22"
+}

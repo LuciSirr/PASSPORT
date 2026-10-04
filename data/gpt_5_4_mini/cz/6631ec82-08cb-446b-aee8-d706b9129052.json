@@ -1,0 +1,35 @@
+{
+  "id": "6631ec82-08cb-446b-aee8-d706b9129052",
+  "age": 49,
+  "birth_date": "1977-12-22",
+  "marital_status": "single",
+  "region": "Týnec nad Labem",
+  "nationality": "czech",
+  "company": "Horák",
+  "car_brand": "Kia",
+  "self_first_name": "Teodor",
+  "self_last_name": "Růžička",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "zahradničení",
+    "české filmy",
+    "chov domácích mazlíčků"
+  ],
+  "previous_passwords": [
+    "Sparta77!",
+    "TeodorKia77",
+    "Turistika22",
+    "Fotbal1977",
+    "Zahrada_Tyn",
+    "CeskeFilmy49",
+    "Kocicky77!",
+    "KiaTynec77",
+    "Ruzicka22!",
+    "Pes2022Lab"
+  ]
+}

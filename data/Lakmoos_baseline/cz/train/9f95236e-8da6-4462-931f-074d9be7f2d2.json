@@ -1,0 +1,35 @@
+{
+  "id": "9f95236e-8da6-4462-931f-074d9be7f2d2",
+  "gender": "female",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "seriály",
+    "běhání",
+    "jóga"
+  ],
+  "pets": [],
+  "company": "Pražské sociální služby",
+  "previous_passwords": [
+    "Barca1999",
+    "Fabia2023",
+    "Kofola123",
+    "Praha59",
+    "Netflixka",
+    "BataLidl2022",
+    "Behani2021",
+    "Vesela!88",
+    "Joga_321"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "2001-05-24"
+}

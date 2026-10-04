@@ -1,0 +1,35 @@
+{
+  "id": "d516d8ee-f77f-4620-89ad-f8f60485f62b",
+  "age": 63,
+  "birth_date": "1963-03-25",
+  "marital_status": "single",
+  "region": "Golčův Jeníkov",
+  "nationality": "czech",
+  "company": "Doležal a.s.",
+  "car_brand": "Peugeot",
+  "self_first_name": "Miloš",
+  "self_last_name": "Dostál",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "rybaření",
+    "folklorní písně",
+    "historie"
+  ],
+  "previous_passwords": [
+    "GolcuvJeníkov63",
+    "PeugeotTuristika!",
+    "Historie1963",
+    "RybářskaZahrada",
+    "FolklorniPisenMilos",
+    "TuristikaPeugeot25",
+    "Zahrada63Milos",
+    "MessiTuristika!",
+    "JeníkovRybar!",
+    "PeugeotHistorie88"
+  ]
+}

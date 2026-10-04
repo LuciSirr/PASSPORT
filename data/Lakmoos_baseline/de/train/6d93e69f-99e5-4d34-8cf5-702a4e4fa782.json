@@ -1,0 +1,35 @@
+{
+  "id": "6d93e69f-99e5-4d34-8cf5-702a4e4fa782",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heike",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kronenberg",
+  "children": [],
+  "interests": [
+    "wandern",
+    "gartenarbeit",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heike1963",
+    "Jürgen123",
+    "Kronenberg!7000",
+    "Wandern2024",
+    "AOK_1963",
+    "Sommerurlaub05",
+    "Schleswig1948",
+    "Lesen_1",
+    "Kronenberg_253",
+    "Gartenarbeit3"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1965-02-04"
+}

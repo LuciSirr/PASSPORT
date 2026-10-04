@@ -1,0 +1,44 @@
+{
+  "id": "efe5995a-5b92-4eec-983c-cb3b0920dd7c",
+  "age": 49,
+  "birth_date": "1977-04-17",
+  "marital_status": "single",
+  "region": "Harrisfort",
+  "nationality": "english",
+  "company": "Allen, Foster and Jackson",
+  "car_brand": "Ford",
+  "self_first_name": "Samantha",
+  "self_last_name": "Robson",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Janet"
+    },
+    {
+      "pet_type": "bird",
+      "pet_name": "Olivia"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "home improvement",
+    "classic rock",
+    "cooking",
+    "hiking"
+  ],
+  "previous_passwords": [
+    "Garden17!",
+    "FordHike77",
+    "JanetRose49",
+    "RockOlivia77",
+    "Cook17Robson",
+    "HarrisFort49",
+    "OliviaFord7",
+    "HomeFix77!",
+    "RabbitBake49",
+    "HikeJanet77"
+  ]
+}

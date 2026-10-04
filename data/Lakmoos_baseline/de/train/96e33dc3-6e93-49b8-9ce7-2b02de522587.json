@@ -1,0 +1,35 @@
+{
+  "id": "96e33dc3-6e93-49b8-9ce7-2b02de522587",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "single/in a relationship",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "Cupra",
+  "self_first_name": "Katrin",
+  "self_last_name": "Schreber",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobooks",
+    "yoga"
+  ],
+  "pets": [],
+  "company": "Thüringer Service GmbH",
+  "previous_passwords": [
+    "Katrin1986",
+    "CupraLeon21",
+    "Schreber123",
+    "Reisen!2023",
+    "Thuringen_86",
+    "Mazda2008",
+    "Yoga4Life",
+    "AOK_5000",
+    "Sommer!March",
+    "Audiobook2024"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1987-07-23"
+}

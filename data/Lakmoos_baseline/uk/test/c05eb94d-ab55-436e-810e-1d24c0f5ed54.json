@@ -1,0 +1,40 @@
+{
+  "id": "c05eb94d-ab55-436e-810e-1d24c0f5ed54",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Harriet",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "travel",
+    "bake off",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "East Anglia Civil Services",
+  "previous_passwords": [
+    "Milo2017",
+    "BakeOff!89",
+    "HarrietWalking123",
+    "TravelCat17",
+    "Merrick_3000",
+    "EastAnglia2020",
+    "OliverBakeoff",
+    "MiloBake89",
+    "Walking!Milo",
+    "Bake0ff_17"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1989-04-17"
+}

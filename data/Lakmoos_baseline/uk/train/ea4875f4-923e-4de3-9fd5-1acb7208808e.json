@@ -1,0 +1,34 @@
+{
+  "id": "ea4875f4-923e-4de3-9fd5-1acb7208808e",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "travel"
+  ],
+  "pets": [],
+  "company": "South Coast Construction Ltd",
+  "previous_passwords": [
+    "Fiona1971",
+    "Ashcroft2020",
+    "CupraLeon6",
+    "Graham53",
+    "Gardening123",
+    "Travel!2022",
+    "SouthCoast1",
+    "Walking4Fun",
+    "Fiona!Ashcroft"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1972-09-18"
+}

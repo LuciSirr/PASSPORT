@@ -1,0 +1,40 @@
+{
+  "id": "6df22f9b-c70d-4062-8d32-ae9429094def",
+  "gender": "female",
+  "age": 73,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gertrud",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Heinrich",
+  "partner_last_name": "Kleinschmidt",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kleinschmidt"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "garten",
+    "backen"
+  ],
+  "pets": [],
+  "company": "Kleinschmidt Handelsagentur",
+  "previous_passwords": [
+    "Gertrud1951",
+    "Lukas2017",
+    "Kleinschmidt123",
+    "Heinrich!73",
+    "Gartenliebe",
+    "Backen2020",
+    "Sachsen_27",
+    "Lukas7!",
+    "Lesen4ever",
+    "OmaLukas"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1952-12-02"
+}

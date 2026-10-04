@@ -1,0 +1,34 @@
+{
+  "id": "b789f92a-1562-4782-ab31-6efdb49576af",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "married",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Vránová",
+  "children": [],
+  "interests": [
+    "televize",
+    "nakupování",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Iveta1988",
+    "Vranova24",
+    "Petr88",
+    "Pardubice59",
+    "dmoblíbena",
+    "Karlovarske2021",
+    "Televize123",
+    "Krizovky88",
+    "Nakupovani2020"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1989-12-14"
+}

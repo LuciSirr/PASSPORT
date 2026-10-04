@@ -1,0 +1,44 @@
+{
+  "id": "f559433e-d4dd-4379-997b-d93882a911d4",
+  "age": 56,
+  "birth_date": "1970-10-25",
+  "marital_status": "single",
+  "region": "Diepholz",
+  "nationality": "german",
+  "company": "Hartmann Ortmann OHG mbH",
+  "car_brand": "Audi",
+  "self_first_name": "Bernard",
+  "self_last_name": "Köster",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Leopold",
+      "last_name": "Köster"
+    },
+    {
+      "first_name": "Enver",
+      "last_name": "Köster"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Gartenarbeit",
+    "Deutsche Geschichte",
+    "Kochen"
+  ],
+  "previous_passwords": [
+    "Messi1970",
+    "AudiWander1!",
+    "Leopold_70",
+    "JoeRoganKochen",
+    "DiepholzFußball",
+    "EnverGarten25",
+    "DeutscheGeschicht3",
+    "AudiKochen!",
+    "Messi_2023",
+    "WandernLeopold"
+  ]
+}

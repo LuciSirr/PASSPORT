@@ -1,0 +1,57 @@
+{
+  "id": "fcd89d85-9427-4c2a-b8a8-67ababe2c8a7",
+  "age": 36,
+  "birth_date": "1990-04-08",
+  "marital_status": "single",
+  "region": "Pfaffenhofen an der Ilm",
+  "nationality": "german",
+  "company": "Gorlitz",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Aleksandr",
+  "self_last_name": "Kranz",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Emilie",
+      "last_name": "Kranz"
+    },
+    {
+      "first_name": "Kay-Uwe",
+      "last_name": "Kranz"
+    },
+    {
+      "first_name": "Nermin",
+      "last_name": "Kranz"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Sibel"
+    },
+    {
+      "pet_type": "lizard",
+      "pet_name": "Hans-Albert"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Radfahren",
+    "FC Bayern München"
+  ],
+  "previous_passwords": [
+    "FCBayern90!",
+    "Muenchen89_",
+    "Wandern08!",
+    "KochenKranz90",
+    "Radfahren36!",
+    "FußballEmilie8",
+    "Mercedes90!",
+    "SibelWandern7",
+    "KayUweFCB24",
+    "IlmKochen90!"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b529a9d3-c4f6-4ac6-b901-258a9bd49444",
+  "age": 25,
+  "birth_date": "2001-11-11",
+  "marital_status": "single",
+  "region": "Gransee",
+  "nationality": "german",
+  "company": "Gertz",
+  "car_brand": "Nissan",
+  "self_first_name": "Reiner",
+  "self_last_name": "Etzler",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Fitnessstudio",
+    "Wandern in der Uckermark",
+    "Ostrock"
+  ],
+  "previous_passwords": [
+    "Union2001!",
+    "Hertha11_",
+    "Nissan25",
+    "Fitness11!",
+    "Uckermark01",
+    "Ostrock_11",
+    "FIFA2001!",
+    "Wandern11",
+    "Gransee25!",
+    "Reiner11!"
+  ]
+}

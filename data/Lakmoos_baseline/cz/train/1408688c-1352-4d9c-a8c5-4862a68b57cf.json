@@ -1,0 +1,35 @@
+{
+  "id": "1408688c-1352-4d9c-a8c5-4862a68b57cf",
+  "gender": "male",
+  "age": 57,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Ivana",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "cestování",
+    "kutilství",
+    "čtení"
+  ],
+  "pets": [],
+  "company": "Základní škola U Stadionu",
+  "previous_passwords": [
+    "Radek1967",
+    "Ivana57",
+    "Usti2006",
+    "Kutil123",
+    "Mattoni123",
+    "Kaufland57",
+    "Cteni2020",
+    "Vitana54321",
+    "RadekIvana",
+    "Cestovani!"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1969-01-29"
+}

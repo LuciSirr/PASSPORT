@@ -1,0 +1,41 @@
+{
+  "id": "54aa759f-c45c-48ab-ba7b-3fd7751b1159",
+  "gender": "female",
+  "age": 48,
+  "marital_status": "divorced",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "gardening",
+    "travel",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Northwest Scientific Consulting",
+  "previous_passwords": [
+    "Fiona1976",
+    "Milo123",
+    "Reading4Life",
+    "Hollingsworth2020",
+    "Baking!76",
+    "Gardening_1",
+    "Travel2022",
+    "Milo!cat",
+    "Fiona!NW",
+    "Hollingsworth!1"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1977-08-01"
+}

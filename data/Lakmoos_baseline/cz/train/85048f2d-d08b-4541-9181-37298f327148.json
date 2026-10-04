@@ -1,0 +1,36 @@
+{
+  "id": "85048f2d-d08b-4541-9181-37298f327148",
+  "gender": "male",
+  "age": 32,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "cestování",
+    "grilování",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Městský úřad Středoboří",
+  "previous_passwords": [
+    "Radek1989",
+    "Vesely32",
+    "Hyundai2008",
+    "CentralBohemia!",
+    "Kofola5",
+    "Grilovani123",
+    "Fotbal2020",
+    "BezModa2020",
+    "Auta1197",
+    "Vesely!2023"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1993-07-20"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "08a74137-4b1d-4e02-960e-05fb1ec9966c",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Lucie",
+  "partner_last_name": "Šebestová",
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "čtení",
+    "cyklistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Radek27",
+    "Beny2011",
+    "Lucie123",
+    "Sebesta2020",
+    "Moravska123",
+    "Fotbal!7",
+    "Turistika_2022",
+    "DobryDen!",
+    "VWpolo2017",
+    "Cyklistika99"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1999-01-05"
+}

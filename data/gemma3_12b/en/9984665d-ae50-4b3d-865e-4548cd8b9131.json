@@ -1,0 +1,44 @@
+{
+  "id": "9984665d-ae50-4b3d-865e-4548cd8b9131",
+  "age": 46,
+  "birth_date": "1980-10-02",
+  "marital_status": "married",
+  "region": "West Jessica",
+  "nationality": "english",
+  "company": "Jones, O'Connor and Webb",
+  "car_brand": "Audi",
+  "self_first_name": "Michael",
+  "self_last_name": "Dickinson",
+  "partner_first_name": "Paula",
+  "partner_last_name": "Dickinson",
+  "children": [
+    {
+      "first_name": "Steven",
+      "last_name": "Dickinson"
+    },
+    {
+      "first_name": "Terry",
+      "last_name": "Dickinson"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Hiking",
+    "Classic Rock Music",
+    "Gardening",
+    "Local History",
+    "Home Brewing"
+  ],
+  "previous_passwords": [
+    "TerryHike1980",
+    "AudiPaula23",
+    "LedZeppSteven!",
+    "WestJessBrewing",
+    "MessiGarden_46",
+    "ClassicRockHome",
+    "PaulaAudiHike",
+    "StevenGardens80",
+    "DickinsonBrew",
+    "HikingLocal2024"
+  ]
+}

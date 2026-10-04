@@ -1,0 +1,35 @@
+{
+  "id": "d06ef3da-73a5-4bea-bd33-587e770eef89",
+  "age": 64,
+  "birth_date": "1962-02-01",
+  "marital_status": "single",
+  "region": "Raspenava",
+  "nationality": "czech",
+  "company": "Jandová Jarošová s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Štěpánka",
+  "self_last_name": "Tůmová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "folklorní tance",
+    "rybaření",
+    "regionální historie"
+  ],
+  "previous_passwords": [
+    "TuristikaKotin2019",
+    "SkodaRapid62",
+    "RybářstvíRaspenava",
+    "FolklorníTance1962",
+    "StěpánkaHistorie",
+    "ZahradaKvetina!",
+    "RysyTuristika!",
+    "KotinTuristikaSt",
+    "RaspenavaSkoda",
+    "FolklorníRybář"
+  ]
+}

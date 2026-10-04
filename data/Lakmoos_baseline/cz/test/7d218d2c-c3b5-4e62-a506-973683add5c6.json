@@ -1,0 +1,39 @@
+{
+  "id": "7d218d2c-c3b5-4e62-a506-973683add5c6",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1977-06-14",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "hbo max",
+    "kofola"
+  ],
+  "pets": [],
+  "company": "Pražská výroba s.r.o.",
+  "previous_passwords": [
+    "Radek1977",
+    "PetraKohout2020",
+    "Matej14",
+    "Kohout123",
+    "kofola2023",
+    "hboMax!77",
+    "Praha2021",
+    "Mat3jKohout",
+    "Petra!77",
+    "Kohout_hbo"
+  ],
+  "favorite_hobby": "hbo max"
+}

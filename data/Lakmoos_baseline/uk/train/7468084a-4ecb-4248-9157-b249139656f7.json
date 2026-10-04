@@ -1,0 +1,41 @@
+{
+  "id": "7468084a-4ecb-4248-9157-b249139656f7",
+  "gender": "female",
+  "age": 87,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Suzuki",
+  "self_first_name": "Edith",
+  "self_last_name": "Mansfield",
+  "partner_first_name": "Albert",
+  "partner_last_name": "Mansfield",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crossword",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Edith1937",
+    "Mansfield87",
+    "Misty2020!",
+    "Albert4Edith",
+    "London_123",
+    "Knitting1950",
+    "Gardening!1",
+    "Crossword3",
+    "Suzuki33047",
+    "Mansfield_2024"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1938-12-13"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "c196fd4f-4570-4b16-9e23-c0c8cc22ae5b",
+  "age": 25,
+  "birth_date": "2001-05-30",
+  "marital_status": "married",
+  "region": "South Louis",
+  "nationality": "english",
+  "company": "Marsh, Robertson and Donnelly",
+  "car_brand": "Nissan",
+  "self_first_name": "Teresa",
+  "self_last_name": "Jones",
+  "partner_first_name": "Stanley",
+  "partner_last_name": "Jones",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Gordon"
+    },
+    {
+      "pet_type": "snake",
+      "pet_name": "Rachel"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "live music",
+    "cajun food",
+    "college football",
+    "outdoor festivals"
+  ],
+  "previous_passwords": [
+    "Cajun25!",
+    "Nissan2001",
+    "Stanley7_",
+    "NolaFest30",
+    "GordonGamer1",
+    "RachelLive25",
+    "SECfootball30!",
+    "TeresaMusic01",
+    "NissanNola25",
+    "GuineaPig30!"
+  ]
+}

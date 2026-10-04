@@ -1,0 +1,40 @@
+{
+  "id": "6d5165f9-2e52-49ea-985f-b9812d5e1bfe",
+  "age": 35,
+  "birth_date": "1991-05-17",
+  "marital_status": "divorced",
+  "region": "Šluknov",
+  "nationality": "czech",
+  "company": "Pokorný o.s.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Blanka",
+  "self_last_name": "Nováková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Aleš"
+    }
+  ],
+  "interests": [
+    "turistika v Českém Švýcarsku",
+    "hokej",
+    "vaření",
+    "cyklistika",
+    "sledování českých filmů"
+  ],
+  "previous_passwords": [
+    "Sumava1991!",
+    "Hokej91_Hyundai",
+    "Vareni17Aleš",
+    "Ceskefilmy35!",
+    "BikeSluknov91",
+    "Trinec1991",
+    "CzechFilm91",
+    "Ales2024!",
+    "Turistika17",
+    "Hyundai_35"
+  ]
+}

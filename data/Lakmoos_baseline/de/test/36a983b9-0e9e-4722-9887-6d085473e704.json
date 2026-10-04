@@ -1,0 +1,35 @@
+{
+  "id": "36a983b9-0e9e-4722-9887-6d085473e704",
+  "gender": "male",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Kuhn",
+  "birth_date": "2010-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "minecraft",
+    "fussball",
+    "one piece"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lennart2010",
+    "KuhnFussball14",
+    "minecraft123",
+    "OnePiece!10",
+    "fussball_kuhn",
+    "L3nn4rtOP",
+    "Kuhn2014",
+    "minecraftherz",
+    "Fussball_2010",
+    "OnePieceKuhn"
+  ],
+  "favorite_hobby": "minecraft"
+}

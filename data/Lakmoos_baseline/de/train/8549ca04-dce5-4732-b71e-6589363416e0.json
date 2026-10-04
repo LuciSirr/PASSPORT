@@ -1,0 +1,35 @@
+{
+  "id": "8549ca04-dce5-4732-b71e-6589363416e0",
+  "gender": "male",
+  "age": 37,
+  "marital_status": "married",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "Tesla",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Annika",
+  "partner_last_name": "Kreutzmann",
+  "children": [],
+  "interests": [
+    "kreuzfahrten",
+    "audiobücher",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tobias1987",
+    "Annika2022",
+    "TeslaY!2020",
+    "Kreutzmann123",
+    "Mecklenburg78",
+    "Sommer!07",
+    "Kreuzfahrt2023",
+    "Audiobuch11",
+    "Sparkasse253",
+    "Berlin4ever"
+  ],
+  "favorite_hobby": "kreuzfahrten",
+  "birth_date": "1988-10-05"
+}

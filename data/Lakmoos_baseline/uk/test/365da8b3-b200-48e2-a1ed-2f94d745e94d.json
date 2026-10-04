@@ -1,0 +1,35 @@
+{
+  "id": "365da8b3-b200-48e2-a1ed-2f94d745e94d",
+  "gender": "female",
+  "age": 37,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Harriet",
+  "self_last_name": "Mansfield",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Mansfield",
+  "children": [],
+  "interests": [
+    "great british bake off",
+    "gardening",
+    "travel documentaries"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Harriet1987",
+    "BakeOff123",
+    "Mansfield!14",
+    "Oliver87!",
+    "Gard3n1ng2020",
+    "TravelDocu_88",
+    "Bake0ffMansfield",
+    "BritishBake!87",
+    "OliverBake14",
+    "MansfieldGardening"
+  ],
+  "favorite_hobby": "great british bake off",
+  "birth_date": "1987-06-14"
+}

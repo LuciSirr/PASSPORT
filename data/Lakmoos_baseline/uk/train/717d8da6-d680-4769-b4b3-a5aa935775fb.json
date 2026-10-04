@@ -1,0 +1,40 @@
+{
+  "id": "717d8da6-d680-4769-b4b3-a5aa935775fb",
+  "gender": "female",
+  "age": 52,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Fiat",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "baking",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Northwest Brokers & Consultants Ltd",
+  "previous_passwords": [
+    "Fiona1972",
+    "Milo123",
+    "Graham2020",
+    "Hollingsworth12",
+    "Gardening!1",
+    "Opel500",
+    "Baking4U",
+    "Northwest2023",
+    "Fiat999",
+    "Walking22"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1974-03-05"
+}

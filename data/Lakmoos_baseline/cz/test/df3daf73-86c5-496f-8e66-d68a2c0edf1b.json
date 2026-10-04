@@ -1,0 +1,39 @@
+{
+  "id": "df3daf73-86c5-496f-8e66-d68a2c0edf1b",
+  "gender": "male",
+  "age": 44,
+  "marital_status": "single/in a relationship",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1980-06-12",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "cesky film",
+    "turistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Karlovarská výroba s.r.o.",
+  "previous_passwords": [
+    "Radek1980",
+    "KohoutRex123",
+    "turistika2020",
+    "Petra12.6",
+    "KarlovyVary80",
+    "Rex!2021",
+    "filmKohout44",
+    "ceskyfilm_1980",
+    "PetraRadek2022",
+    "Kohout!turistika"
+  ],
+  "favorite_hobby": "cesky film"
+}

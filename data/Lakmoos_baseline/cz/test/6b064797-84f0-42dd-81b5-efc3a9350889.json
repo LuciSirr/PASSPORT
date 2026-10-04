@@ -1,0 +1,35 @@
+{
+  "id": "6b064797-84f0-42dd-81b5-efc3a9350889",
+  "gender": "male",
+  "age": 71,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kohout",
+  "birth_date": "1953-06-15",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "český film",
+    "křížovky",
+    "klasická hudba"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Kohout1953",
+    "Marie15.6",
+    "filmKohout123",
+    "Hudba2020",
+    "krizovky53",
+    "Vladim1r!53",
+    "KohoutMarie2022",
+    "ceskyfilm_53",
+    "Kohout!hudba",
+    "MarieKohoutka"
+  ],
+  "favorite_hobby": "český film"
+}

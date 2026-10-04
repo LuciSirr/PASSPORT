@@ -1,0 +1,34 @@
+{
+  "id": "af16cfa2-2657-440f-bcc4-9f93a679c86c",
+  "gender": "male",
+  "age": 4,
+  "marital_status": "single/in a relationship",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Wiesenthal",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "bauklötze",
+    "malen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lennart2019",
+    "Wiesenthal123",
+    "Bauklötze19",
+    "Mal3n2023",
+    "Oma7.4",
+    "Lennart!19",
+    "MeckVorp123",
+    "Kindergarten2024",
+    "Sommer19",
+    "Wiesenthal_2019"
+  ],
+  "favorite_hobby": "bauklötze",
+  "birth_date": "2021-08-16"
+}

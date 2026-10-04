@@ -1,0 +1,32 @@
+{
+  "id": "921171a4-34fe-4d10-877d-7dc56b8320f6",
+  "gender": "male",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finley",
+  "self_last_name": "Merriton",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dinosaurs"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Finley2021",
+    "Merriton123",
+    "Dino4Life",
+    "DrawingFun!",
+    "FinFin07",
+    "Bluey2023",
+    "MerritonDino",
+    "ToyCars1"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2022-06-12"
+}

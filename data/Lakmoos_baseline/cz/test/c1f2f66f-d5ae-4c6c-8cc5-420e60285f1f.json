@@ -1,0 +1,39 @@
+{
+  "id": "c1f2f66f-d5ae-4c6c-8cc5-420e60285f1f",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "divorced",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1977-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "krimi filmy",
+    "auta"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Stavby Vysočina s.r.o.",
+  "previous_passwords": [
+    "Rex2020",
+    "Kohout77",
+    "fotbal123",
+    "krimiFilmy!77",
+    "StavbyVysočina2022",
+    "Rex!fotbal",
+    "auta_999",
+    "Radek1977",
+    "KohoutRex1"
+  ],
+  "favorite_hobby": "fotbal"
+}

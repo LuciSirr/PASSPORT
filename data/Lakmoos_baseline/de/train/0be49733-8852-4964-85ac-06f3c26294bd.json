@@ -1,0 +1,35 @@
+{
+  "id": "0be49733-8852-4964-85ac-06f3c26294bd",
+  "gender": "male",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "brandenburg",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fussball",
+    "gaming",
+    "musik"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lennart2008",
+    "Krause123",
+    "Fussball!16",
+    "Brandenburg08",
+    "Musik_321",
+    "Gaming2008",
+    "Krause!08",
+    "L3nn4rt",
+    "FussballKrause",
+    "Krause_FCB"
+  ],
+  "favorite_hobby": "fussball",
+  "birth_date": "2009-06-10"
+}

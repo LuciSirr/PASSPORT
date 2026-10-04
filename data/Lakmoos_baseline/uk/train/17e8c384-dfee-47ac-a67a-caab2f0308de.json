@@ -1,0 +1,34 @@
+{
+  "id": "17e8c384-dfee-47ac-a67a-caab2f0308de",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Bennett",
+  "children": [],
+  "interests": [
+    "cycling",
+    "travelling",
+    "football"
+  ],
+  "pets": [],
+  "company": "Midlands Venture Solutions",
+  "previous_passwords": [
+    "Callum1995",
+    "VWID3!",
+    "Sophie123",
+    "Hollis2020",
+    "Midlands9",
+    "Football_29",
+    "Cycling2021",
+    "Venture!95",
+    "Hollis!1"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1997-01-30"
+}

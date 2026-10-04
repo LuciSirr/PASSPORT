@@ -1,0 +1,44 @@
+{
+  "id": "31043f1d-51d5-4704-a739-a895db505adc",
+  "age": 46,
+  "birth_date": "1980-08-27",
+  "marital_status": "single",
+  "region": "Baileytown",
+  "nationality": "english",
+  "company": "Waters, Foster and Parker",
+  "car_brand": "Nissan",
+  "self_first_name": "Paige",
+  "self_last_name": "Weston",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Jamie"
+    },
+    {
+      "pet_type": "bird",
+      "pet_name": "Anne"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "home improvement",
+    "classic rock",
+    "fishing",
+    "local sports"
+  ],
+  "previous_passwords": [
+    "Rosemary80!",
+    "Nissan27!",
+    "JamieRocks80",
+    "AnneBird27",
+    "BaileyFish80",
+    "ACDCgarden27",
+    "NissanFix80!",
+    "PaigeRock80",
+    "Lilypond46!",
+    "WestonFish27"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1d071944-cb44-4372-8cf5-1b573f933b56",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travel",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Mini2005",
+    "Hollis123",
+    "Sophie2017",
+    "Travel4Life",
+    "Hiking!34",
+    "Ford2Mini",
+    "Callum_1989",
+    "SouthWest21",
+    "Adventure88"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1991-11-20"
+}

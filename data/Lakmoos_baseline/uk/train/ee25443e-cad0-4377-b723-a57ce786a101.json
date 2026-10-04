@@ -1,0 +1,39 @@
+{
+  "id": "ee25443e-cad0-4377-b723-a57ce786a101",
+  "gender": "male",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Whittingham",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Urban Study Solutions",
+  "previous_passwords": [
+    "Callum2007",
+    "Baxter123",
+    "Whittingham17",
+    "Football4Life",
+    "UrbanStudy09",
+    "London_07",
+    "Cycling!2022",
+    "BaxterWh1t",
+    "G4ming2023"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2008-08-29"
+}

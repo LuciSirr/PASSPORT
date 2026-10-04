@@ -1,0 +1,34 @@
+{
+  "id": "a578f93e-8506-49d1-a957-76e4aaf665ed",
+  "gender": "female",
+  "age": 40,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "BMW",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Gareth",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "walking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Fiona1984",
+    "BMW118i!",
+    "Gareth24",
+    "Hollingsworth2020",
+    "Scala999",
+    "Reading123",
+    "Gardening4Life",
+    "NorthWest19",
+    "Wedding2018"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1985-11-10"
+}

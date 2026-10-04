@@ -1,0 +1,40 @@
+{
+  "id": "4c67e9a0-556d-478f-83f7-7acca419fa90",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "West Midlands Venture Studio",
+  "previous_passwords": [
+    "Imogen1995",
+    "MiloCat!23",
+    "Hollingsworth_23000",
+    "Travel4Life",
+    "Oliver2021",
+    "WestMidlands1",
+    "MiniCabrio18",
+    "Reading_123",
+    "Cycling_95",
+    "MiloOliver!"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1997-03-25"
+}

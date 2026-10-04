@@ -1,0 +1,35 @@
+{
+  "id": "68a374e9-f9f5-4e18-b8b3-a035cffc4736",
+  "gender": "male",
+  "age": 36,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Genesis",
+  "self_first_name": "Timo",
+  "self_last_name": "Krauss",
+  "partner_first_name": "Leonie",
+  "partner_last_name": "Krauss",
+  "children": [],
+  "interests": [
+    "reisen",
+    "autos",
+    "musik"
+  ],
+  "pets": [],
+  "company": "Ingenieurberatung Hessen",
+  "previous_passwords": [
+    "Timo1988",
+    "GenesisGV70!",
+    "Leonie2020",
+    "Krauss123",
+    "Reisen08",
+    "Musik4ever",
+    "BMW2019",
+    "SommerAugust",
+    "Hessen_365",
+    "Ingenieur!88"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1989-08-31"
+}

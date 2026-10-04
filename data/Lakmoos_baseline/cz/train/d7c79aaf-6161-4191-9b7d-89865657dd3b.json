@@ -1,0 +1,35 @@
+{
+  "id": "d7c79aaf-6161-4191-9b7d-89865657dd3b",
+  "gender": "male",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Šimon",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "hry",
+    "cyklistika"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "plzen123",
+    "fotbal2022",
+    "vesely13",
+    "skolaCZ",
+    "martinovka",
+    "cyklistika321",
+    "Hry2024",
+    "VeselyPlzen!",
+    "Fotbal_13",
+    "Simonek2009"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2013-01-16"
+}

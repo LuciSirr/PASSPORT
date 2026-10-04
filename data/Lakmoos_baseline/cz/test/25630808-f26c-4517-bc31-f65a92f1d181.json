@@ -1,0 +1,39 @@
+{
+  "id": "25630808-f26c-4517-bc31-f65a92f1d181",
+  "gender": "female",
+  "age": 9,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Jurčová",
+  "birth_date": "2015-04-16",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "harry potter",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Míca"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2015",
+    "JurcovaMica",
+    "harrypotter123",
+    "malovani_16",
+    "Jurcova04",
+    "Mica!2015",
+    "potterJurcova",
+    "malovaniJurcova",
+    "MicaJurcova16",
+    "harry2015"
+  ],
+  "favorite_hobby": "harry potter"
+}

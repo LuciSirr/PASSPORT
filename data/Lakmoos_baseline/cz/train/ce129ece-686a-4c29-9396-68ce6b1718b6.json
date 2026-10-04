@@ -1,0 +1,35 @@
+{
+  "id": "ce129ece-686a-4c29-9396-68ce6b1718b6",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "čtení",
+    "kostel",
+    "facebook"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Marie1970",
+    "Superb2008",
+    "Vysočina19",
+    "Albert551",
+    "PilsnerUrquell",
+    "Kostel123",
+    "Vladimir70",
+    "MarieKonecna!",
+    "Cteni2024",
+    "Facebook19"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1955-07-02"
+}

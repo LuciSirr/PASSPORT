@@ -1,0 +1,40 @@
+{
+  "id": "c8bfd2b0-7ac9-47c6-a262-18d040d1819f",
+  "age": 18,
+  "birth_date": "2008-11-29",
+  "marital_status": "married",
+  "region": "Badibling",
+  "nationality": "german",
+  "company": "Heydrich OHG mbH",
+  "car_brand": "Ford",
+  "self_first_name": "Eberhard",
+  "self_last_name": "Jopich",
+  "partner_first_name": "Christiana",
+  "partner_last_name": "Seip",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Recep"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Fitnessstudio",
+    "E-Sports",
+    "Deutsche Rapmusik"
+  ],
+  "previous_passwords": [
+    "Bayern08!",
+    "Messi2008",
+    "FordR9_18",
+    "RecepKick7",
+    "SeipFitness!",
+    "Badiball11",
+    "Lamine11_",
+    "JoppGaming8",
+    "Raphinha29!",
+    "RapBeats08"
+  ]
+}

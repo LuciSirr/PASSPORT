@@ -1,0 +1,44 @@
+{
+  "id": "fbb00238-ab03-42ca-b66d-e2cd2651f3a7",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "auta",
+    "kutilství",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Olomoucká výroba s.r.o.",
+  "previous_passwords": [
+    "Matysek22",
+    "VeselaPetra",
+    "Toyota2019",
+    "Olomouc80",
+    "Karoq123",
+    "Eliška2023",
+    "Radek41",
+    "Auta2020",
+    "Kutil2021",
+    "Veselý2017"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1985-03-27"
+}

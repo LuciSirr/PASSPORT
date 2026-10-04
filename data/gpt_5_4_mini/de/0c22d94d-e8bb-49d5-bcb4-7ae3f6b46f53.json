@@ -1,0 +1,35 @@
+{
+  "id": "0c22d94d-e8bb-49d5-bcb4-7ae3f6b46f53",
+  "age": 29,
+  "birth_date": "1997-12-26",
+  "marital_status": "divorced",
+  "region": "Gelnhausen",
+  "nationality": "german",
+  "company": "Mielcarek",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Robby",
+  "self_last_name": "Hering",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kaffee",
+    "Gaming",
+    "E-Bike-Touren"
+  ],
+  "previous_passwords": [
+    "MiaSanMia97!",
+    "Bayern97_",
+    "RobbyBike26",
+    "Kaffee2026!",
+    "HikeGeln96",
+    "Mercedes29",
+    "Wandern_97",
+    "Kicker!1997",
+    "EBikeTour26",
+    "GamingRobby7"
+  ]
+}

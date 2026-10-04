@@ -1,0 +1,35 @@
+{
+  "id": "4702a3ea-41e3-4915-8fff-7c5001cd0272",
+  "gender": "male",
+  "age": 37,
+  "marital_status": "married",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "Smart",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Sandra",
+  "partner_last_name": "Kreutzmann",
+  "children": [],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "autos"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tobias1987",
+    "Sandra123",
+    "Smart#3!",
+    "Kreutzmann2020",
+    "Reisen!85",
+    "AOK_1987",
+    "MeckPom2022",
+    "Podcasts4U",
+    "AutoF4n",
+    "Sommer!August"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1989-03-15"
+}

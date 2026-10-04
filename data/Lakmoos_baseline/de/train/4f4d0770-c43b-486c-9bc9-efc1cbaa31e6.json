@@ -1,0 +1,43 @@
+{
+  "id": "4f4d0770-c43b-486c-9bc9-efc1cbaa31e6",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "single/in a relationship",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "Volvo",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "camping",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "Thüringer Verwaltungsservice GmbH",
+  "previous_passwords": [
+    "Lukas2012",
+    "Marlene08",
+    "Krause1979",
+    "Camping123",
+    "VolvoEX30!",
+    "Thüringen4ever",
+    "Sommerurlaub24",
+    "JensMarlene12",
+    "LukasMarlene2020",
+    "Audiobuch_79"
+  ],
+  "favorite_hobby": "camping",
+  "birth_date": "1981-01-26"
+}

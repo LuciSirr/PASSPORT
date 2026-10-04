@@ -1,0 +1,34 @@
+{
+  "id": "94e7abce-f2fb-410a-851b-9f9267da24a3",
+  "gender": "male",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "autos"
+  ],
+  "pets": [],
+  "company": "Nordblick Consulting GmbH",
+  "previous_passwords": [
+    "Lennart1997",
+    "Krause123",
+    "Reisen!2020",
+    "AutoF4n88",
+    "Nordblick2022",
+    "Sommerurlaub!",
+    "Podc4st_1",
+    "Niedersachsen97",
+    "Fussball!23"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1999-06-12"
+}

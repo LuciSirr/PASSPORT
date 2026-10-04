@@ -1,0 +1,36 @@
+{
+  "id": "9eb2c33f-c49f-4dec-bb03-b51c826cf406",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "netflix",
+    "knihy"
+  ],
+  "pets": [],
+  "company": "Základní škola Ostravice",
+  "previous_passwords": [
+    "Radek1987",
+    "Sebesta123",
+    "Kofola2020",
+    "Kona!2019",
+    "Moravska54",
+    "Fotbalek88",
+    "NetflixCZ",
+    "Turistika_2021",
+    "Brankář7",
+    "Knihy2022"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1998-08-15"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "02848a12-85a0-4071-b2de-ef79a29bc15b",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Graham",
+  "self_last_name": "McIntyre",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "McIntyre",
+  "children": [],
+  "interests": [
+    "hillwalking",
+    "football",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bruno"
+    }
+  ],
+  "company": "Strathclyde Engineering Ltd",
+  "previous_passwords": [
+    "Graham1977",
+    "Bruno123",
+    "McIntyre!47",
+    "Fiona4ever",
+    "Strathclyde2022",
+    "hillwalking77",
+    "SeatArona999",
+    "AudiQ5Sport",
+    "Football_86",
+    "BrunoMcIntyre"
+  ],
+  "favorite_hobby": "hillwalking",
+  "birth_date": "1979-03-13"
+}

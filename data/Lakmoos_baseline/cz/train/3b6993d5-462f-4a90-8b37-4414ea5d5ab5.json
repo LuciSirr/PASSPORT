@@ -1,0 +1,40 @@
+{
+  "id": "3b6993d5-462f-4a90-8b37-4414ea5d5ab5",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Tomáš",
+  "partner_last_name": "Veselý",
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "procházky",
+    "fotografie",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Eliška2023",
+    "VeselaPrague30",
+    "McDonalds4life",
+    "Lidl1234",
+    "Barca1984",
+    "Tomáš2022",
+    "Prochazky!21",
+    "Praha_2020",
+    "Seriály321",
+    "Eliška!07"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1995-11-10"
+}

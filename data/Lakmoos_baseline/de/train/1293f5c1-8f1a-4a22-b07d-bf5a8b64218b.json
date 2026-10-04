@@ -1,0 +1,35 @@
+{
+  "id": "1293f5c1-8f1a-4a22-b07d-bf5a8b64218b",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lena",
+  "self_last_name": "Kretschmer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lesen",
+    "musik",
+    "volleyball"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lena2008",
+    "Kretschmer16",
+    "Musik123",
+    "Volleyball2022",
+    "Sachsen!08",
+    "Lesen_321",
+    "LenaK_2008",
+    "Sommer08",
+    "Vodafone1",
+    "LenaLesen!"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "2009-03-30"
+}

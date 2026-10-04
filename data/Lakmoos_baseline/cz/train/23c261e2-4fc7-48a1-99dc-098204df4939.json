@@ -1,0 +1,36 @@
+{
+  "id": "23c261e2-4fc7-48a1-99dc-098204df4939",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Dacia",
+  "self_first_name": "Tereza",
+  "self_last_name": "Vacková",
+  "partner_first_name": "Adam",
+  "partner_last_name": "Vackový",
+  "children": [],
+  "interests": [
+    "malování",
+    "jóga",
+    "knihy",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Knihovna Beroun",
+  "previous_passwords": [
+    "Tereza2005",
+    "AdamVacek16",
+    "Sandero2023",
+    "Mattoni16",
+    "Knihy123",
+    "VackovaO2",
+    "Joga2022",
+    "Malovani_19",
+    "Berounka!",
+    "Hudba_321"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2006-11-18"
+}

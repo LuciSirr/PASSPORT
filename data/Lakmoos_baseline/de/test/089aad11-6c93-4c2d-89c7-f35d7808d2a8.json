@@ -1,0 +1,40 @@
+{
+  "id": "089aad11-6c93-4c2d-89c7-f35d7808d2a8",
+  "gender": "female",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lena",
+  "self_last_name": "Krause",
+  "birth_date": "2012-04-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "harry potter",
+    "ballett",
+    "minecraft"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Momo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Lena2012",
+    "KrauseMomo",
+    "harrypotter123",
+    "ballett_15",
+    "Momo!2012",
+    "minecraftKrause",
+    "Lena_ballett",
+    "MomoPotter",
+    "krause04_15",
+    "ballettMomo2012"
+  ],
+  "favorite_hobby": "harry potter"
+}

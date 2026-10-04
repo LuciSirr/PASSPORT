@@ -1,0 +1,57 @@
+{
+  "id": "c4a2bae2-f6b6-4bcd-a853-c1c3126c855b",
+  "age": 37,
+  "birth_date": "1989-10-15",
+  "marital_status": "married",
+  "region": "Wolgast",
+  "nationality": "german",
+  "company": "Hermighausen KG",
+  "car_brand": "Dacia",
+  "self_first_name": "Erwin",
+  "self_last_name": "Hornig",
+  "partner_first_name": "Lore",
+  "partner_last_name": "Hornig",
+  "children": [
+    {
+      "first_name": "Heinz-Dieter",
+      "last_name": "Hornig"
+    },
+    {
+      "first_name": "Nuran",
+      "last_name": "Hornig"
+    },
+    {
+      "first_name": "Jan-Peter",
+      "last_name": "Hornig"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Adriane"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Ruth"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Gartenarbeit",
+    "Kochen",
+    "Ostseeurlaub"
+  ],
+  "previous_passwords": [
+    "Fussball1989!",
+    "Radeln_Wolgast89",
+    "KochenLore15",
+    "DaciaOstsee15",
+    "Garten_Hornig37",
+    "HeinzJan1989",
+    "RuthPferd15!",
+    "AdrianeRun89",
+    "LoreKocht89",
+    "WolgastBoot15"
+  ]
+}

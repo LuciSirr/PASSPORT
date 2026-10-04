@@ -1,0 +1,35 @@
+{
+  "id": "c9fde89c-bcd1-406c-a5c4-acbcd1ae9ee1",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Ivana",
+  "self_last_name": "Kubešová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "divadlo",
+    "malování"
+  ],
+  "pets": [],
+  "company": "Strojírny Benešov",
+  "previous_passwords": [
+    "Ivana1968",
+    "Kubesova56",
+    "Hyundai2019",
+    "Divadlo123",
+    "Vitana56",
+    "CentralBohemia1",
+    "Malovani2020",
+    "Lidl2020",
+    "Cestovani!21",
+    "Tchibo123"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1970-02-28"
+}

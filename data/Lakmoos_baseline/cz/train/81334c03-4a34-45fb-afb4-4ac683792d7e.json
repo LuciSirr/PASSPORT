@@ -1,0 +1,40 @@
+{
+  "id": "81334c03-4a34-45fb-afb4-4ac683792d7e",
+  "gender": "female",
+  "age": 9,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "tanec",
+    "čtení"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Terezka2015",
+    "jahoda123",
+    "prague9",
+    "slunicko",
+    "skola2024",
+    "Micka2020",
+    "tanec_321",
+    "Vesela9",
+    "malovani!",
+    "cteni2022"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2016-12-25"
+}

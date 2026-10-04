@@ -1,0 +1,44 @@
+{
+  "id": "e38042f3-78da-4a93-99ba-d5763139392a",
+  "age": 43,
+  "birth_date": "1983-01-28",
+  "marital_status": "married",
+  "region": "Wolfratshausen",
+  "nationality": "german",
+  "company": "Trüb",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Siegward",
+  "self_last_name": "Franke",
+  "partner_first_name": "Gundel",
+  "partner_last_name": "Hein",
+  "children": [
+    {
+      "first_name": "Karl-Jürgen",
+      "last_name": "Franke"
+    },
+    {
+      "first_name": "Patrick",
+      "last_name": "Franke"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "FC Bayern München",
+    "Autos",
+    "Konzertbesuche"
+  ],
+  "previous_passwords": [
+    "Bayern2018!",
+    "KarlPatrickFCB",
+    "VW_Wolfratshausen",
+    "GundelWander1983",
+    "MessiFoto!",
+    "Konzerte_Karl",
+    "FrankePatrick83",
+    "WolfratshausenFoto",
+    "WandernGundel22",
+    "FCBayernKarl!"
+  ]
+}

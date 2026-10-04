@@ -1,0 +1,44 @@
+{
+  "id": "79d73db4-096d-44b4-ac16-3d090c3cd5c5",
+  "gender": "male",
+  "age": 53,
+  "marital_status": "divorced",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Šebesta"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Šebesta"
+    }
+  ],
+  "interests": [
+    "televize",
+    "houbaření",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Moravská výroba s.r.o.",
+  "previous_passwords": [
+    "Matysek2010",
+    "Tereza19",
+    "Kofola2022",
+    "Morava53",
+    "Penny123",
+    "Houbar2021",
+    "Radek1971",
+    "Auta!2020",
+    "Sebesta14",
+    "TerezaMatysek05"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1972-11-19"
+}

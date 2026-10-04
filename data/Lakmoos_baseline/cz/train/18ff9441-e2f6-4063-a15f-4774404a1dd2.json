@@ -1,0 +1,35 @@
+{
+  "id": "18ff9441-e2f6-4063-a15f-4774404a1dd2",
+  "gender": "male",
+  "age": 49,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "politika",
+    "technologie"
+  ],
+  "pets": [],
+  "company": "Technologické služby Praha",
+  "previous_passwords": [
+    "Radek1975",
+    "PetraVesela49",
+    "Superb2000",
+    "Praha_123",
+    "AirBank2021",
+    "GlobusObliba",
+    "Politika2024",
+    "Rossmann123",
+    "Nakupovani!",
+    "VeselyPetra2022"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1977-02-01"
+}

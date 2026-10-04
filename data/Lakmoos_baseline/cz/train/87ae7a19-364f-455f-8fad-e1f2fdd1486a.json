@@ -1,0 +1,36 @@
+{
+  "id": "87ae7a19-364f-455f-8fad-e1f2fdd1486a",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "kultura",
+    "procházky",
+    "malování"
+  ],
+  "pets": [],
+  "company": "Pražská vzdělávací agentura",
+  "previous_passwords": [
+    "Iveta1988",
+    "Sebestova21",
+    "Praha88",
+    "malovani123",
+    "kultura2023",
+    "prochazky59",
+    "ucitelka88",
+    "Lidl321",
+    "bezauta59",
+    "Zara2023"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1990-02-16"
+}

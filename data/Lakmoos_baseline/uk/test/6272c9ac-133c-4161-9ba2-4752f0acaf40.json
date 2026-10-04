@@ -1,0 +1,35 @@
+{
+  "id": "6272c9ac-133c-4161-9ba2-4752f0acaf40",
+  "gender": "male",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Ashworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "arsenal fc",
+    "fifa",
+    "stranger things"
+  ],
+  "pets": [],
+  "company": "Urban Youth Cafe",
+  "previous_passwords": [
+    "Ashworth2009",
+    "CallumFifa23",
+    "StrangerThings7",
+    "Arsenal123",
+    "UrbanCafe09",
+    "Fifa!Ash",
+    "Callum_17",
+    "AshworthGunner",
+    "Eleven2009",
+    "LondonFifa"
+  ],
+  "favorite_hobby": "arsenal fc",
+  "birth_date": "2009-04-17"
+}

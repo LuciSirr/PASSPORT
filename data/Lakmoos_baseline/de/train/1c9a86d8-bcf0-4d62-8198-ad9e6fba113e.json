@@ -1,0 +1,35 @@
+{
+  "id": "1c9a86d8-bcf0-4d62-8198-ad9e6fba113e",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "divorced",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heike",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lesen",
+    "reisen",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "Kronenberg Beratung & Innovation",
+  "previous_passwords": [
+    "Heike1968",
+    "Kronenberg123",
+    "Reisen2023!",
+    "AOK_32000",
+    "Hessen!56",
+    "Lesen2024",
+    "AppleFan68",
+    "Vodafone_56",
+    "Innovation1978",
+    "Podcast4Life"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1969-07-16"
+}

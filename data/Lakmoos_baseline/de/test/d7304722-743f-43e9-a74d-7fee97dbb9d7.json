@@ -1,0 +1,35 @@
+{
+  "id": "d7304722-743f-43e9-a74d-7fee97dbb9d7",
+  "gender": "female",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Škoda",
+  "self_first_name": "Annika",
+  "self_last_name": "Kuhn",
+  "birth_date": "1991-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "dark",
+    "podcasts",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Annika1991",
+    "KuhnDark21",
+    "podcast_123",
+    "Dark2017!",
+    "audiobook15",
+    "Kuhn!Podcast",
+    "DarkKuhn_91",
+    "AnnikaDark!",
+    "DarkJune15",
+    "KuhnPodcasts2020"
+  ],
+  "favorite_hobby": "dark"
+}

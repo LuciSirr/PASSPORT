@@ -1,0 +1,35 @@
+{
+  "id": "2581aa6b-ad35-48de-8a0e-27e958d795ec",
+  "age": 46,
+  "birth_date": "1980-04-09",
+  "marital_status": "married",
+  "region": "Karlovy Vary",
+  "nationality": "czech",
+  "company": "Bartošová v.o.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Bedřich",
+  "self_last_name": "Beran",
+  "partner_first_name": "Dita",
+  "partner_last_name": "Beranová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivo",
+    "historie",
+    "hudba Karla Gotta",
+    "návštěva lázeňských měst"
+  ],
+  "previous_passwords": [
+    "KarlaGotta80",
+    "ToyotaDita2024",
+    "TuristikaBedrich!",
+    "HistoriaKarlovy",
+    "PivoBeran2003",
+    "MessiFan1980",
+    "LazenstviDita",
+    "HudbaGotta_B",
+    "BedrichLazen!",
+    "Toyota2004Tur"
+  ]
+}

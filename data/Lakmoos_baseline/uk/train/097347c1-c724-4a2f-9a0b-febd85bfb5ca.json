@@ -1,0 +1,36 @@
+{
+  "id": "097347c1-c724-4a2f-9a0b-febd85bfb5ca",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "travel",
+    "walking"
+  ],
+  "pets": [],
+  "company": "Westmoor Consulting",
+  "previous_passwords": [
+    "Margaret1959",
+    "Mazda3_19",
+    "Westmoor123",
+    "PeterHollings!",
+    "Gardening4Life",
+    "Hollings2020",
+    "Reading_59",
+    "Travel!2023",
+    "MazdaPetrol",
+    "SouthWest!8"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1962-05-04"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "18e2e3e5-5ec4-4131-9b6d-b981eb66c236",
+  "age": 37,
+  "birth_date": "1989-03-12",
+  "marital_status": "single",
+  "region": "Geldern",
+  "nationality": "german",
+  "company": "Adolph GmbH & Co. KG",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Sören",
+  "self_last_name": "Gerlach",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Kochen",
+    "Reisen",
+    "Gartenarbeit"
+  ],
+  "previous_passwords": [
+    "Messi1989!",
+    "Bayern89_",
+    "Mercedes37!",
+    "Radfahren89",
+    "Kochen12!",
+    "Reisen_Geldern",
+    "Garten89!",
+    "Sueden37",
+    "Fußball89!",
+    "Koeln2024!"
+  ]
+}

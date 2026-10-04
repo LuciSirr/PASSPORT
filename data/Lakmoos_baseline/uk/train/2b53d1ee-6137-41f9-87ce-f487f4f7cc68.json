@@ -1,0 +1,40 @@
+{
+  "id": "2b53d1ee-6137-41f9-87ce-f487f4f7cc68",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Toyota",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Daniel",
+  "partner_last_name": "Morgan",
+  "children": [],
+  "interests": [
+    "walking",
+    "baking",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Fiona2016",
+    "Milo123",
+    "Hollis88",
+    "Walking4Life",
+    "Baking!2020",
+    "Gardening_7",
+    "FionaMilo",
+    "Wales2022",
+    "Toyota1798",
+    "Milo!cat"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1995-12-12"
+}

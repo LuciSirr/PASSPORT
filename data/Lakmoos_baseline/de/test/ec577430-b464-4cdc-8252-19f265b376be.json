@@ -1,0 +1,52 @@
+{
+  "id": "ec577430-b464-4cdc-8252-19f265b376be",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Heike",
+  "self_last_name": "Kuhn",
+  "birth_date": "1963-06-14",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kuhn",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kuhn"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Kuhn"
+    },
+    {
+      "first_name": "Jonas",
+      "last_name": "Kuhn"
+    }
+  ],
+  "interests": [
+    "rosamunde pilcher",
+    "gartenarbeit"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "HessenGastfreund GmbH",
+  "previous_passwords": [
+    "Marlene2010",
+    "Minka_63",
+    "rosamunde123",
+    "KuhnGarten78",
+    "Lukas14!",
+    "Pilcher2022",
+    "Jürgen1960",
+    "MinkaPilcher1",
+    "Heike!June63",
+    "Gartenarbeit_2023"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

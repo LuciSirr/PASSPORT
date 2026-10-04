@@ -1,0 +1,35 @@
+{
+  "id": "a6706a20-26b2-4810-b09a-0f8af380b20f",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Honda",
+  "self_first_name": "Heinz",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Ursula",
+  "partner_last_name": "Kronenberg",
+  "children": [],
+  "interests": [
+    "wandern",
+    "audiobooks",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heinz1954",
+    "Ursula2023",
+    "HondaZR-V23",
+    "Kronenberg123",
+    "Wandern!54",
+    "Gartenarbeit_2020",
+    "SommerMai",
+    "NRW_1000",
+    "Audiobook3",
+    "UrsulaHeinz!"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1955-05-04"
+}

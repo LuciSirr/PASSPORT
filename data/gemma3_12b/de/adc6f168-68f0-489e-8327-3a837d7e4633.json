@@ -1,0 +1,40 @@
+{
+  "id": "adc6f168-68f0-489e-8327-3a837d7e4633",
+  "age": 55,
+  "birth_date": "1971-12-16",
+  "marital_status": "single",
+  "region": "Reutlingen",
+  "nationality": "german",
+  "company": "Mülichen Krein e.G.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Dieter",
+  "self_last_name": "Jopich",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Sylvester"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Deutsche Küche",
+    "Gartenarbeit",
+    "Schlager Musik"
+  ],
+  "previous_passwords": [
+    "Messi1971!",
+    "SylvesterGarten23",
+    "VW_Wanderlust71",
+    "JoeRoganReutlingen",
+    "SchlagerSylvester",
+    "FußballDieter2000",
+    "DeutscheKueche!",
+    "Messi_Dieter71",
+    "WandernSylvester88",
+    "VolksWagen2024"
+  ]
+}

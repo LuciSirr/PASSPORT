@@ -1,0 +1,40 @@
+{
+  "id": "e898e7da-d23c-43d3-9f5d-32290abc939d",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Ashcombe",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Molly"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Marion1955",
+    "MollyCat1",
+    "Ashcombe69",
+    "Geoffrey123",
+    "Knitting4Fun",
+    "Garden!2020",
+    "Crosswords22",
+    "Molly!55",
+    "AshcombeMolly",
+    "Marion!cat"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1957-02-21"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "3d1fc2b8-dad0-44ff-87d7-7f65f94e1fd1",
+  "age": 24,
+  "birth_date": "2002-04-22",
+  "marital_status": "married",
+  "region": "Chabařovice",
+  "nationality": "czech",
+  "company": "Beranová",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Vlastimil",
+  "self_last_name": "Čech",
+  "partner_first_name": "Jolana",
+  "partner_last_name": "Čechová",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Lumír"
+    },
+    {
+      "pet_type": "snake",
+      "pet_name": "Marie"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "posilovna",
+    "hraní her",
+    "turistika"
+  ],
+  "previous_passwords": [
+    "Fotbal22!",
+    "Hokej2002",
+    "Jolana24!",
+    "LumirCat22",
+    "VWturistika",
+    "Sparta22!",
+    "Posilovna02",
+    "MarieSnake24",
+    "Vlastimil!24",
+    "Chabarovice22"
+  ]
+}

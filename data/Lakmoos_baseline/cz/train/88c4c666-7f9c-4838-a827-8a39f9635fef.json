@@ -1,0 +1,34 @@
+{
+  "id": "88c4c666-7f9c-4838-a827-8a39f9635fef",
+  "gender": "female",
+  "age": 54,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "cestování",
+    "čtení",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "Základní škola Dolní Loučky",
+  "previous_passwords": [
+    "Ivana1969",
+    "PetrVesely54",
+    "Morava2020",
+    "UcitelkaBrno1",
+    "Cestovani123",
+    "Vesela!2018",
+    "Tcross2019",
+    "Billa2020",
+    "Prochazky77"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1971-08-17"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "9ff4fd29-b231-43c9-9d92-f1d3a4016f77",
+  "age": 58,
+  "birth_date": "1968-06-17",
+  "marital_status": "married",
+  "region": "Staffelstein",
+  "nationality": "german",
+  "company": "Berger e.G.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Armin",
+  "self_last_name": "Jessel",
+  "partner_first_name": "Regine",
+  "partner_last_name": "Jessel",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Jerzy"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Eugen"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Gartenarbeit",
+    "Deutsche Oper",
+    "Lokaler Fußballverein",
+    "Lesen"
+  ],
+  "previous_passwords": [
+    "JerzyWandern68",
+    "DeutscheOper2024",
+    "VolkswagenStaffelstein",
+    "RegineJesselWandern",
+    "Messi_Fussball1968",
+    "GartenarbeitArmin!",
+    "Lesen_Staffelstein",
+    "Jerzy_Oper23",
+    "WandernVolkswagen!",
+    "DeutscheOper68ss"
+  ]
+}

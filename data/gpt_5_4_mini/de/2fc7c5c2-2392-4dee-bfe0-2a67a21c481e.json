@@ -1,0 +1,44 @@
+{
+  "id": "2fc7c5c2-2392-4dee-bfe0-2a67a21c481e",
+  "age": 73,
+  "birth_date": "1953-01-14",
+  "marital_status": "married",
+  "region": "Osterode am Harz",
+  "nationality": "german",
+  "company": "Girschner Mende AG & Co. KG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Georgios",
+  "self_last_name": "Heß",
+  "partner_first_name": "Birgit",
+  "partner_last_name": "Heß",
+  "children": [
+    {
+      "first_name": "Hedda",
+      "last_name": "Heß"
+    },
+    {
+      "first_name": "Vinzenz",
+      "last_name": "Heß"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Gartenarbeit",
+    "Wandern im Harz",
+    "Schach",
+    "Heimatgeschichte",
+    "Radio hören"
+  ],
+  "previous_passwords": [
+    "HarzWandern53",
+    "SchachHess73!",
+    "Garten1953He",
+    "Volkswagen53",
+    "RadioHarz14",
+    "HeimatOsterode",
+    "BirgitSchach73",
+    "VinzenzHarz53",
+    "GartenHeß1953",
+    "Wandern53!"
+  ]
+}

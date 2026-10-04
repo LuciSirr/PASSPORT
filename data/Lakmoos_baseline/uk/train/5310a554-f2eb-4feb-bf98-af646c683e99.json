@@ -1,0 +1,35 @@
+{
+  "id": "5310a554-f2eb-4feb-bf98-af646c683e99",
+  "gender": "male",
+  "age": 74,
+  "marital_status": "divorced",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Toyota",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "cricket",
+    "antiques"
+  ],
+  "pets": [],
+  "company": "Westcountry Ventures",
+  "previous_passwords": [
+    "Malcolm1950",
+    "YarisCross21",
+    "Hollis123",
+    "Gardening!74",
+    "Toyota2021",
+    "Westcountry15",
+    "Cricket_50",
+    "Antiques2022",
+    "Divorce2024",
+    "Hollis!1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1951-05-29"
+}

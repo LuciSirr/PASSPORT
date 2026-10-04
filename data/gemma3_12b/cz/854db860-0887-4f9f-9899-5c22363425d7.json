@@ -1,0 +1,44 @@
+{
+  "id": "854db860-0887-4f9f-9899-5c22363425d7",
+  "age": 52,
+  "birth_date": "1974-09-19",
+  "marital_status": "married",
+  "region": "Trhové Sviny",
+  "nationality": "czech",
+  "company": "Ježková Kolářová s.r.o.",
+  "car_brand": "Seat",
+  "self_first_name": "Denisa",
+  "self_last_name": "Vlčková",
+  "partner_first_name": "Stanislav",
+  "partner_last_name": "Vlčková",
+  "children": [
+    {
+      "first_name": "Radim",
+      "last_name": "Vlček"
+    },
+    {
+      "first_name": "Dana",
+      "last_name": "Slavíková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivo",
+    "hudba Karla Gotta",
+    "lokální historie"
+  ],
+  "previous_passwords": [
+    "KarlaGotta22",
+    "Radim_Turistika74",
+    "SeatRibnice1974",
+    "DanaSlavikovaPivo",
+    "Stanislav_Rybar",
+    "TrhoveSvinyKarel",
+    "Messi1974!",
+    "TuristikaRadim!",
+    "GottaRibnice2024",
+    "Seat_Pivo1974"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ed4f8ac0-821b-40b6-a231-01fa223c420c",
+  "age": 33,
+  "birth_date": "1993-11-12",
+  "marital_status": "divorced",
+  "region": "Rokytnice nad Jizerou",
+  "nationality": "czech",
+  "company": "Tomanová k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Blanka",
+  "self_last_name": "Šmídová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika v Krkonoších",
+    "lyžování",
+    "hokej",
+    "vaření",
+    "hudba"
+  ],
+  "previous_passwords": [
+    "Krkonoze93",
+    "SkiJizera93!",
+    "Hokej12Blanka",
+    "SkodaRoky93",
+    "Vareni93!",
+    "Hudba112",
+    "Turistika11",
+    "Blanka_93",
+    "Rokytnice33!",
+    "Lyzovani93"
+  ]
+}

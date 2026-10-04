@@ -1,0 +1,34 @@
+{
+  "id": "10673a19-79e1-459b-9e21-8f42697b3098",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Franziska",
+  "self_last_name": "Kuhn",
+  "birth_date": "1992-08-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "dark",
+    "tatort",
+    "indie musik"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Franzi1992",
+    "KuhnDark123",
+    "Tatort!92",
+    "indieMusik2020",
+    "Dark_0814",
+    "TatortKuhn",
+    "musikliebe92",
+    "Franziska!14",
+    "darkTatort92"
+  ],
+  "favorite_hobby": "dark"
+}

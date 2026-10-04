@@ -1,0 +1,39 @@
+{
+  "id": "4815899d-b485-46d9-9248-fc1e1eb282c3",
+  "gender": "female",
+  "age": 42,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "procházky",
+    "křížovky",
+    "televize"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Vysočina Kovovýroba s.r.o.",
+  "previous_passwords": [
+    "Iveta1982",
+    "Micka59",
+    "prochazky123",
+    "Kofola42",
+    "Vranova2020",
+    "horniVysočina",
+    "prace42000",
+    "Televize!82",
+    "krizovky2021"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1984-03-24"
+}

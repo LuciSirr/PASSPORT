@@ -1,0 +1,35 @@
+{
+  "id": "a20a7196-41fb-4efa-86f5-157d721a9fd7",
+  "age": 23,
+  "birth_date": "2003-12-09",
+  "marital_status": "married",
+  "region": "East Jane",
+  "nationality": "english",
+  "company": "May Inc",
+  "car_brand": "MG",
+  "self_first_name": "Eric",
+  "self_last_name": "Bennett",
+  "partner_first_name": "Shannon",
+  "partner_last_name": "Bennett",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Photography",
+    "Indie Music",
+    "Hiking",
+    "Video Games",
+    "Travel Vlogging"
+  ],
+  "previous_passwords": [
+    "IndieFest23",
+    "MG_Hike2003",
+    "ShannonB_Photo!",
+    "MessiFan09",
+    "VlogEastJane",
+    "JoeRogan42",
+    "Bennett_Shutter!",
+    "MGTravel2003",
+    "IndieMusicB",
+    "HikeJane23"
+  ]
+}

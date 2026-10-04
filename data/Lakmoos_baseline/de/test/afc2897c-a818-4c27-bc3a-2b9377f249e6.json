@@ -1,0 +1,35 @@
+{
+  "id": "afc2897c-a818-4c27-bc3a-2b9377f249e6",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Mazda",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "birth_date": "1983-06-14",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "fahrradtouren"
+  ],
+  "pets": [],
+  "company": "Hessen Finanz & Versicherung GmbH",
+  "previous_passwords": [
+    "Tatort1983",
+    "Krause!14",
+    "Sabine83",
+    "Bundesliga123",
+    "Fahrrad2020",
+    "Tatort_Krause",
+    "Jens1983!",
+    "Sabine14",
+    "KrauseBundesliga",
+    "Tat0rt!83"
+  ],
+  "favorite_hobby": "tatort"
+}

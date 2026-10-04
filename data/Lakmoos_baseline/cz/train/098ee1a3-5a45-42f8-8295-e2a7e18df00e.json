@@ -1,0 +1,36 @@
+{
+  "id": "098ee1a3-5a45-42f8-8295-e2a7e18df00e",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Šimon",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "filmy",
+    "technologie",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Městský úřad Zlín",
+  "previous_passwords": [
+    "Vesely1999",
+    "Zlin100k",
+    "McKFC47",
+    "vodapipeline23",
+    "NetflixHBO2022",
+    "Cestovani123",
+    "Seri4ly2021",
+    "Filmy!99",
+    "TechnoZlin47",
+    "Vesely!cz"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "2003-03-14"
+}

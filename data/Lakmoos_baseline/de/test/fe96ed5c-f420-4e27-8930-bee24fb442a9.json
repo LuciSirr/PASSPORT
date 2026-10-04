@@ -1,0 +1,35 @@
+{
+  "id": "fe96ed5c-f420-4e27-8930-bee24fb442a9",
+  "gender": "male",
+  "age": 50,
+  "marital_status": "married",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "Abarth",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "birth_date": "1974-06-12",
+  "partner_first_name": "Birgit",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "oldtimer",
+    "bundesliga"
+  ],
+  "pets": [],
+  "company": "Sachsen-Anhalt Broker & Beratung GmbH",
+  "previous_passwords": [
+    "Tatort1974",
+    "Krause!123",
+    "Birgit2010",
+    "Bundesliga74",
+    "Oldtimer_500",
+    "JensKrause12",
+    "Tatort!Krause",
+    "BirgitTatort74",
+    "Krause1974",
+    "Bundesliga!12"
+  ],
+  "favorite_hobby": "tatort"
+}

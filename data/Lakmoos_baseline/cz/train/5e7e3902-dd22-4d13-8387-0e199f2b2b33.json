@@ -1,0 +1,36 @@
+{
+  "id": "5e7e3902-dd22-4d13-8387-0e199f2b2b33",
+  "gender": "female",
+  "age": 65,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Jaroslav",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "procházky",
+    "čtení",
+    "křížovky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "TransHradec s.r.o.",
+  "previous_passwords": [
+    "Ivana1959",
+    "Jaroslav60",
+    "Fabia2001",
+    "Hradec123",
+    "Teta343",
+    "Prochazky2020",
+    "Nakupovani!",
+    "Sebestova65",
+    "KubikWater",
+    "Krizovky2024"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1961-01-20"
+}

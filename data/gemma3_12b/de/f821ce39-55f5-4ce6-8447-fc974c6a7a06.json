@@ -1,0 +1,44 @@
+{
+  "id": "f821ce39-55f5-4ce6-8447-fc974c6a7a06",
+  "age": 30,
+  "birth_date": "1996-03-16",
+  "marital_status": "married",
+  "region": "Rochlitz",
+  "nationality": "german",
+  "company": "Vollbrecht",
+  "car_brand": "Seat",
+  "self_first_name": "Janette",
+  "self_last_name": "Rust",
+  "partner_first_name": "Hans-Heinrich",
+  "partner_last_name": "Rust",
+  "children": [
+    {
+      "first_name": "Filiz",
+      "last_name": "Rust"
+    },
+    {
+      "first_name": "Bernhardine",
+      "last_name": "Rust"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Techno",
+    "Lokaler Fußballverein",
+    "Brettspiele"
+  ],
+  "previous_passwords": [
+    "FilizBergWanderung96",
+    "TechnoRochlitz2024",
+    "SeatIbizaMessi!",
+    "BernhardineFoto23",
+    "HansHeinrichWandern!",
+    "FotografieBerg2016",
+    "RustFilizBrettspiel",
+    "LocalFußball96!",
+    "JanetteTechnoBerg",
+    "IbizaRust2018"
+  ]
+}

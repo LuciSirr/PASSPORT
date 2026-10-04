@@ -1,0 +1,35 @@
+{
+  "id": "c85172a3-518e-43ec-99e5-e099794c7840",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "married",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "cestování",
+    "seriály",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Plzeňská výroba s.r.o.",
+  "previous_passwords": [
+    "Plzenka1985",
+    "Kofola123",
+    "Mountfield2020",
+    "Lidlka79",
+    "Evropa2!",
+    "PetrVesely85",
+    "Cestovani2024",
+    "Serialy321",
+    "Nakupovani!",
+    "Vesela_26000"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1986-04-06"
+}

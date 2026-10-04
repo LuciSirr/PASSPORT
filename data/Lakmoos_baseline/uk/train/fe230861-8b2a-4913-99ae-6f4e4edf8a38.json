@@ -1,0 +1,34 @@
+{
+  "id": "fe230861-8b2a-4913-99ae-6f4e4edf8a38",
+  "gender": "female",
+  "age": 25,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Radcliffe",
+  "partner_first_name": "Callum",
+  "partner_last_name": "Radcliffe",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "hiking"
+  ],
+  "pets": [],
+  "company": "East Midlands Venture Hub",
+  "previous_passwords": [
+    "Imogen1999",
+    "Radcliffe25",
+    "CallumLove21",
+    "TravelBug123",
+    "EastMids2022",
+    "Reading4Fun",
+    "Hiking!2020",
+    "Radcliffe!1",
+    "Imo_Callum99"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "2001-03-10"
+}

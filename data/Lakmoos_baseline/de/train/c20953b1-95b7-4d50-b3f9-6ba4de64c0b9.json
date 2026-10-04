@@ -1,0 +1,32 @@
+{
+  "id": "c20953b1-95b7-4d50-b3f9-6ba4de64c0b9",
+  "gender": "male",
+  "age": 4,
+  "marital_status": "single/in a relationship",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennard",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malen",
+    "autos",
+    "sandkasten"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lennard2019",
+    "Kleinschmidt123",
+    "Sandkasten4",
+    "Malen2023",
+    "Autos!19",
+    "LennyBagger",
+    "MeckPom2020"
+  ],
+  "favorite_hobby": "malen",
+  "birth_date": "2021-05-09"
+}

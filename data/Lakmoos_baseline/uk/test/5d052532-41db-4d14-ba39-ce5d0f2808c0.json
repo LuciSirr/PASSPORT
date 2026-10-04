@@ -1,0 +1,39 @@
+{
+  "id": "5d052532-41db-4d14-ba39-ce5d0f2808c0",
+  "gender": "male",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "stranger things"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Yorkshire Student Services",
+  "previous_passwords": [
+    "Callum2009",
+    "Baxter123",
+    "StrangerThings17",
+    "FIFA4Life!",
+    "Hollingsworth09",
+    "Baxter!2009",
+    "FIFA_2023",
+    "YorkshireBaxter",
+    "Stranger4Baxter",
+    "FIFA_Hollingsworth"
+  ],
+  "favorite_hobby": "fifa",
+  "birth_date": "2009-04-17"
+}

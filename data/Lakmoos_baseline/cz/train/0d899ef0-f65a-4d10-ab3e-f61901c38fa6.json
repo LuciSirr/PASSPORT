@@ -1,0 +1,36 @@
+{
+  "id": "0d899ef0-f65a-4d10-ab3e-f61901c38fa6",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "KIA",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "turistika",
+    "divadlo",
+    "čtení"
+  ],
+  "pets": [],
+  "company": "AutoServis Veselá s.r.o.",
+  "previous_passwords": [
+    "Ivana1968",
+    "Vesela88",
+    "Malovani123",
+    "KiaStonic2017",
+    "Divadlo2020",
+    "Karlovarske46",
+    "LidlShop99",
+    "Voda1234",
+    "Turistika2022",
+    "Cteni!56"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "1969-03-30"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "34887cd7-9d97-411c-b750-1df9e7ac3b0c",
+  "age": 58,
+  "birth_date": "1968-10-10",
+  "marital_status": "married",
+  "region": "Altötting",
+  "nationality": "german",
+  "company": "Beyer",
+  "car_brand": "BMW",
+  "self_first_name": "Uwe",
+  "self_last_name": "Noack",
+  "partner_first_name": "Antonina",
+  "partner_last_name": "Hering",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Änne"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Radfahren",
+    "Bayern München",
+    "Gartenarbeit"
+  ],
+  "previous_passwords": [
+    "Wandern68!",
+    "Bayern1968",
+    "Antonina10",
+    "AenneMiau58",
+    "BMW_Aut0",
+    "Radeln10U",
+    "Altotting68",
+    "FCBayern10",
+    "Garten68!",
+    "Noack1968"
+  ]
+}

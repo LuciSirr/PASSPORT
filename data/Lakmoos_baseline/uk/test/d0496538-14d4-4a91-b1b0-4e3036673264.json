@@ -1,0 +1,39 @@
+{
+  "id": "d0496538-14d4-4a91-b1b0-4e3036673264",
+  "gender": "female",
+  "age": 67,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Volvo",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "gardening",
+    "coronation street"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Misty2018",
+    "Margaret57!",
+    "HollingsGardening123",
+    "CoronationStreet2020",
+    "PeterJune14",
+    "Misty!Gardener",
+    "Hollings1957",
+    "GardenCat_14",
+    "CorrieMisty",
+    "Peter1957!"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1957-06-14"
+}

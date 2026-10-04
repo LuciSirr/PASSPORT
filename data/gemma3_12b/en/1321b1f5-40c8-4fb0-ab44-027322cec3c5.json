@@ -1,0 +1,48 @@
+{
+  "id": "1321b1f5-40c8-4fb0-ab44-027322cec3c5",
+  "age": 58,
+  "birth_date": "1968-12-25",
+  "marital_status": "married",
+  "region": "Jessicaville",
+  "nationality": "english",
+  "company": "Riley-Taylor",
+  "car_brand": "MG",
+  "self_first_name": "Joyce",
+  "self_last_name": "Robertson",
+  "partner_first_name": "Stewart",
+  "partner_last_name": "Green",
+  "children": [
+    {
+      "first_name": "Gemma",
+      "last_name": "Robertson"
+    },
+    {
+      "first_name": "Bruce",
+      "last_name": "Robertson"
+    },
+    {
+      "first_name": "Brenda",
+      "last_name": "Robertson"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Gardening",
+    "Classic Rock Music",
+    "Local History",
+    "Birdwatching",
+    "Genealogy"
+  ],
+  "previous_passwords": [
+    "ClassicRock68!",
+    "GemmaBird1968",
+    "MGGardenJoy",
+    "StewartJessicaville",
+    "BruceRobertson25",
+    "LedZeppelinJoy",
+    "BrendaGenealogy!",
+    "JessicavilleRocks",
+    "GreenBirdwatch",
+    "RobertsonMG12"
+  ]
+}

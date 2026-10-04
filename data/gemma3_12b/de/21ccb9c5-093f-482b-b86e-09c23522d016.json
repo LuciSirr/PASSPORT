@@ -1,0 +1,35 @@
+{
+  "id": "21ccb9c5-093f-482b-b86e-09c23522d016",
+  "age": 44,
+  "birth_date": "1982-11-10",
+  "marital_status": "married",
+  "region": "Hamburg",
+  "nationality": "german",
+  "company": "Kitzmann Koch KG",
+  "car_brand": "Opel",
+  "self_first_name": "Alwina",
+  "self_last_name": "Lange",
+  "partner_first_name": "Lambert",
+  "partner_last_name": "Lange",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Konzertbesuche",
+    "Reisen",
+    "Biergarten",
+    "Geschichte"
+  ],
+  "previous_passwords": [
+    "Konzerte82!",
+    "Opel_History23",
+    "LangeFoto2024",
+    "ReisenLange",
+    "Messi1987",
+    "HamburgKonzerte",
+    "LambertFoto!",
+    "Biergarten82",
+    "GeschichteLange",
+    "Konzerte_Opel"
+  ]
+}

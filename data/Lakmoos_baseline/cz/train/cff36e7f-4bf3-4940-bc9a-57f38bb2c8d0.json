@@ -1,0 +1,34 @@
+{
+  "id": "cff36e7f-4bf3-4940-bc9a-57f38bb2c8d0",
+  "gender": "female",
+  "age": 59,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Vránová",
+  "children": [],
+  "interests": [
+    "cestování",
+    "křížovky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Severočeské strojírny s.r.o.",
+  "previous_passwords": [
+    "Ivana1965",
+    "PetrVranova59",
+    "Usti1234",
+    "Cestovani2024",
+    "Krizovky56",
+    "Nakupovani!",
+    "VranovaPetr65",
+    "Kaufland2023",
+    "BytUsti79"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1966-09-24"
+}

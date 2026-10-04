@@ -1,0 +1,40 @@
+{
+  "id": "1f03b66f-fd60-4f5e-8c1b-d6111794936d",
+  "gender": "female",
+  "age": 41,
+  "marital_status": "divorced",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matyáš",
+      "last_name": "Šebestová"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "nakupování",
+    "vzdělávání"
+  ],
+  "pets": [],
+  "company": "Moravská výroba s.r.o.",
+  "previous_passwords": [
+    "Matyas2016",
+    "BrnoByt33",
+    "Kaufland123",
+    "Sebestova41",
+    "VodaRajec",
+    "Cestovani2024",
+    "Nakupovani!",
+    "Matyáš8.4",
+    "Morava2023",
+    "IvetaBrno"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1984-12-11"
+}

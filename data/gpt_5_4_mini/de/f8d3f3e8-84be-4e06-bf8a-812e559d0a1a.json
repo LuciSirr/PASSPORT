@@ -1,0 +1,57 @@
+{
+  "id": "f8d3f3e8-84be-4e06-bf8a-812e559d0a1a",
+  "age": 45,
+  "birth_date": "1981-09-17",
+  "marital_status": "married",
+  "region": "Dachau",
+  "nationality": "german",
+  "company": "Kitzmann AG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Anika",
+  "self_last_name": "Krein",
+  "partner_first_name": "Miodrag",
+  "partner_last_name": "Krein",
+  "children": [
+    {
+      "first_name": "Isabelle",
+      "last_name": "Krein"
+    },
+    {
+      "first_name": "Swetlana",
+      "last_name": "Krein"
+    },
+    {
+      "first_name": "Amanda",
+      "last_name": "Krein"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Cecilia"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Henry"
+    }
+  ],
+  "interests": [
+    "Wandern in den Alpen",
+    "FC Bayern München",
+    "Bayerische Biergärten",
+    "Radfahren",
+    "Heimat- und Regionalgeschichte"
+  ],
+  "previous_passwords": [
+    "FCBayern81!",
+    "Wandern17_Dachau",
+    "AlpenRide45",
+    "Biergarten81",
+    "IsabelleBike17",
+    "Volkswagen17!",
+    "MiodragFCB!",
+    "Cecilia1981",
+    "Heimat_Dachau45",
+    "SwetlanaAlpen81"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "db40f750-0932-4b8b-9f6f-063dc9f71fd8",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "single/in a relationship",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "birth_date": "1972-06-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "tatort",
+    "ferienwohnungen",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Krause1972",
+    "Tatort123",
+    "Berlin!2019",
+    "ferienwohnung2020",
+    "JensKrause!",
+    "Tat0rt_72",
+    "AUDIObooks11",
+    "KrauseTatort",
+    "Krause!123",
+    "Tatort_ferien"
+  ],
+  "favorite_hobby": "tatort"
+}

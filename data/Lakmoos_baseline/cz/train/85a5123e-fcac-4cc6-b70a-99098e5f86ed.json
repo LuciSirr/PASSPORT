@@ -1,0 +1,53 @@
+{
+  "id": "85a5123e-fcac-4cc6-b70a-99098e5f86ed",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "auta",
+    "kutilství",
+    "netflix",
+    "čtení"
+  ],
+  "pets": [],
+  "company": "Středočeské reality Veselý",
+  "previous_passwords": [
+    "Vesely2019",
+    "SkodaScala71",
+    "Matysek15",
+    "Kaufland2022",
+    "Realitka123",
+    "Petra2023",
+    "Adamko04",
+    "Terezka07",
+    "Eliška2022",
+    "Auta!123"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1980-05-27"
+}

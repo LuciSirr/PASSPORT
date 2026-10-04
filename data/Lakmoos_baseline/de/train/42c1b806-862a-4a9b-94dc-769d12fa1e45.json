@@ -1,0 +1,35 @@
+{
+  "id": "42c1b806-862a-4a9b-94dc-769d12fa1e45",
+  "gender": "male",
+  "age": 94,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heinz",
+  "self_last_name": "Kreutzer",
+  "partner_first_name": "Gertrud",
+  "partner_last_name": "Kreutzer",
+  "children": [],
+  "interests": [
+    "spazieren",
+    "schach",
+    "klassik"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heinz1929",
+    "Gertrud123",
+    "Kreutzer!94",
+    "Spazierengehen2020",
+    "AOK_451",
+    "Rheinland1970",
+    "Schachmeister1",
+    "Klassik!May",
+    "HeinzGertrud",
+    "Opa2000"
+  ],
+  "favorite_hobby": "spazieren",
+  "birth_date": "1932-03-01"
+}

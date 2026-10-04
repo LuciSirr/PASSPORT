@@ -1,0 +1,39 @@
+{
+  "id": "52279575-f0fa-4138-a545-82da29efd246",
+  "gender": "female",
+  "age": 34,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Mazda",
+  "self_first_name": "Annika",
+  "self_last_name": "Kuhn",
+  "birth_date": "1990-05-14",
+  "partner_first_name": "Sebastian",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "tatort",
+    "nordic walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Bauunternehmen Niedersachsen GmbH",
+  "previous_passwords": [
+    "Annika1990",
+    "Minka!14",
+    "Tatort2020",
+    "KuhnSebastian90",
+    "nordic123",
+    "MinkaKuhn",
+    "Sebastian_2019",
+    "Tat0rt_Kuhn",
+    "Niedersachsen90",
+    "MinkaTatort"
+  ],
+  "favorite_hobby": "tatort"
+}

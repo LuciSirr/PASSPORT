@@ -1,0 +1,40 @@
+{
+  "id": "f9551c7b-c5ab-42a9-a4ba-a0c114231b85",
+  "gender": "female",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Nathan",
+  "partner_last_name": "Barker",
+  "children": [],
+  "interests": [
+    "reading",
+    "cycling",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Westmoor Academy",
+  "previous_passwords": [
+    "Milo2017",
+    "Imogen26",
+    "Reading123",
+    "Hollis2020",
+    "Baking4Life",
+    "Westmoor2022",
+    "Nathan!23",
+    "CatLover1",
+    "HollisMilo",
+    "Cycling_89"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1999-04-19"
+}

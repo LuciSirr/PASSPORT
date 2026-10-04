@@ -1,0 +1,33 @@
+{
+  "id": "bb67bc20-d3f3-42ef-9c93-fce88b0065a2",
+  "gender": "female",
+  "age": 20,
+  "marital_status": "single/in a relationship",
+  "region": "northern ireland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Aimee",
+  "self_last_name": "Hollings",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "love island",
+    "netball"
+  ],
+  "pets": [],
+  "company": "McAllister Construction",
+  "previous_passwords": [
+    "Aimee2004",
+    "LoveIsland17",
+    "Netball_123",
+    "Hollings04",
+    "LoveIsland!2022",
+    "Netb4ll17",
+    "Aimee_Love",
+    "HollingsNetball",
+    "IslandGirl04"
+  ],
+  "favorite_hobby": "love island",
+  "birth_date": "2004-03-17"
+}

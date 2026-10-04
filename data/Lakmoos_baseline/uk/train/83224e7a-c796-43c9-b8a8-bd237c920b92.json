@@ -1,0 +1,40 @@
+{
+  "id": "83224e7a-c796-43c9-b8a8-bd237c920b92",
+  "gender": "female",
+  "age": 46,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Mark",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "walking",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Midlands Motor Parts",
+  "previous_passwords": [
+    "Fiona1978",
+    "Milo123",
+    "Travel2020",
+    "Hollingsworth1",
+    "Gardening!7",
+    "Mark2021",
+    "OpelCorsa14",
+    "EastMidlands88",
+    "Walking_46",
+    "Milo!2023"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1980-03-13"
+}

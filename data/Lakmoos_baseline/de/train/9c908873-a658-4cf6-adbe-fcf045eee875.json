@@ -1,0 +1,35 @@
+{
+  "id": "9c908873-a658-4cf6-adbe-fcf045eee875",
+  "gender": "male",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Lukas",
+  "self_last_name": "Schwanitz",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "autos",
+    "reisen",
+    "musik"
+  ],
+  "pets": [],
+  "company": "NRW StartUp Solutions",
+  "previous_passwords": [
+    "Lukas2005",
+    "Schwanitz22!",
+    "NRW_StartUp123",
+    "KIA1482",
+    "SuzukiIgnis17",
+    "Reisen2023",
+    "Musik4ever",
+    "Berlin_253",
+    "Fussball$19",
+    "Apple2020"
+  ],
+  "favorite_hobby": "autos",
+  "birth_date": "2007-01-20"
+}

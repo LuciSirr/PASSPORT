@@ -1,0 +1,35 @@
+{
+  "id": "8ab1d1a7-a7b2-4557-be5d-8e06eb84e7f9",
+  "gender": "female",
+  "age": 51,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "the crown",
+    "bake off"
+  ],
+  "pets": [],
+  "company": "Willowgate Brokers Ltd",
+  "previous_passwords": [
+    "Fiona1973",
+    "Graham18",
+    "Hollingsworth123",
+    "BakeOff2020",
+    "TheCrown!73",
+    "Gardening4Life",
+    "Willowgate2021",
+    "LondonBakeOff",
+    "Fiona!Graham",
+    "CrownBake1973"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1973-04-18"
+}

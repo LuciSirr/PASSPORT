@@ -1,0 +1,34 @@
+{
+  "id": "87855b08-1371-4fcd-a972-b980bfc9419e",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Volvo",
+  "self_first_name": "Rüdiger",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Heike",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "wandern",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "Rheinland Verwaltungsservice GmbH",
+  "previous_passwords": [
+    "Ruediger1965",
+    "Heike123",
+    "VolvoXC60!",
+    "Kleinschmidt4000",
+    "Wandern2020",
+    "Sommer06",
+    "Rheinland_1988",
+    "SignalIduna!",
+    "Lesen147",
+    "Heike4ever"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1967-01-06"
+}

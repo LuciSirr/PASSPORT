@@ -1,0 +1,36 @@
+{
+  "id": "c7ba88c7-da1f-4114-9bed-46c84d9cbf2d",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "cestování",
+    "hudba",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Stavby Ústecko s.r.o.",
+  "previous_passwords": [
+    "Fabia2003",
+    "Stavba59",
+    "Kaufland83",
+    "VodaBezCukru",
+    "BohemiaSekt",
+    "Radek1972",
+    "Vesely123",
+    "Auta!2020",
+    "UstiNadLabem59",
+    "Hudba_83"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1973-04-20"
+}

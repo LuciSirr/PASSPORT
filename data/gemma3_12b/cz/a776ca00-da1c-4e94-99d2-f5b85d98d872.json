@@ -1,0 +1,40 @@
+{
+  "id": "a776ca00-da1c-4e94-99d2-f5b85d98d872",
+  "age": 33,
+  "birth_date": "1993-04-18",
+  "marital_status": "divorced",
+  "region": "Chvaletice",
+  "nationality": "czech",
+  "company": "Jarošová Jelínková v.o.s.",
+  "car_brand": "Kia",
+  "self_first_name": "Marta",
+  "self_last_name": "Krejčová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Petr"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivní lázně",
+    "hudba Karla Gotta",
+    "vaření piva",
+    "FC Chvaletice"
+  ],
+  "previous_passwords": [
+    "KarlaGotta22",
+    "PetrTurtle93",
+    "KiaChvaletice!",
+    "TuristikaFC!",
+    "PivniLazne1993",
+    "GottaHudba_Marta",
+    "VařeníPiva93",
+    "MessiFanMarta",
+    "ChvaleticeBeer!",
+    "FCChvaletice22"
+  ]
+}

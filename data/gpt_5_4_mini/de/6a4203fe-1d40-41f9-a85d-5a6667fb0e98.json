@@ -1,0 +1,39 @@
+{
+  "id": "6a4203fe-1d40-41f9-a85d-5a6667fb0e98",
+  "age": 49,
+  "birth_date": "1977-02-18",
+  "marital_status": "single",
+  "region": "Wismar",
+  "nationality": "german",
+  "company": "Gerlach Söding AG",
+  "car_brand": "Mazda",
+  "self_first_name": "Nikolaus",
+  "self_last_name": "Weihmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Gesa"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Gartenarbeit",
+    "Radfahren",
+    "Norddeutsche Küche"
+  ],
+  "previous_passwords": [
+    "Hansa77!",
+    "Gesa2026",
+    "MazdaWismar7",
+    "Radeln77_",
+    "KielerWoche18",
+    "Nordsee77!",
+    "FuBball49",
+    "Garten77!",
+    "Wismar78#",
+    "FischGesa49"
+  ]
+}

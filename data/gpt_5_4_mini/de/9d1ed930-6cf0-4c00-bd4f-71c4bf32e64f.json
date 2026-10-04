@@ -1,0 +1,40 @@
+{
+  "id": "9d1ed930-6cf0-4c00-bd4f-71c4bf32e64f",
+  "age": 40,
+  "birth_date": "1986-10-15",
+  "marital_status": "married",
+  "region": "Neunburg vorm Wald",
+  "nationality": "german",
+  "company": "Scholl GbR",
+  "car_brand": "Audi",
+  "self_first_name": "Recep",
+  "self_last_name": "Ritter",
+  "partner_first_name": "Jolanta",
+  "partner_last_name": "Klemt",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Hans-Günter"
+    }
+  ],
+  "interests": [
+    "Wandern in der Oberpfalz",
+    "FC Bayern München",
+    "Gartenarbeit",
+    "Kochen",
+    "Tagesausflüge in Bayern"
+  ],
+  "previous_passwords": [
+    "Bayern1986!",
+    "AudiWandern15",
+    "Jolanta86_",
+    "KochenBayern3",
+    "HansGuenter86!",
+    "Oberpfalz40",
+    "GartenRecep86",
+    "FCBayern15!",
+    "Neunburg86_",
+    "Bayerntour40!"
+  ]
+}

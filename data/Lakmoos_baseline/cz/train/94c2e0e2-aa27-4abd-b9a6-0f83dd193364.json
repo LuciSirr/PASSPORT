@@ -1,0 +1,35 @@
+{
+  "id": "94c2e0e2-aa27-4abd-b9a6-0f83dd193364",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "cyklistika",
+    "turistika",
+    "technika"
+  ],
+  "pets": [],
+  "company": "Moravská Komunikace s.r.o.",
+  "previous_passwords": [
+    "Radek1984",
+    "Petra2023",
+    "Fabia2007",
+    "Morava79",
+    "Kofola123",
+    "dmnakup",
+    "Globus2022",
+    "Vesely68",
+    "CykloBrno",
+    "PetraRadek21"
+  ],
+  "favorite_hobby": "cyklistika",
+  "birth_date": "1997-03-25"
+}

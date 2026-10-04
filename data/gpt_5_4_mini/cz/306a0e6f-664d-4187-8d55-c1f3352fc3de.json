@@ -1,0 +1,35 @@
+{
+  "id": "306a0e6f-664d-4187-8d55-c1f3352fc3de",
+  "age": 22,
+  "birth_date": "2004-12-18",
+  "marital_status": "single",
+  "region": "Náměšť nad Oslavou",
+  "nationality": "czech",
+  "company": "Nováková",
+  "car_brand": "Škoda",
+  "self_first_name": "Nikola",
+  "self_last_name": "Bednářová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hraní her",
+    "fitness",
+    "poslech hudby",
+    "cestování",
+    "fotbal"
+  ],
+  "previous_passwords": [
+    "Skoda2004!",
+    "Messi18Fit",
+    "GamingNamus5",
+    "HudbaNIKI22",
+    "Travel18_04",
+    "Fitness88!",
+    "Barcelona04",
+    "OslavaRun22",
+    "BednarovaGYM",
+    "Fotbal_SKODA7"
+  ]
+}

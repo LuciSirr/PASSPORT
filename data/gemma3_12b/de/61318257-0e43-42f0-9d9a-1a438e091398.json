@@ -1,0 +1,48 @@
+{
+  "id": "61318257-0e43-42f0-9d9a-1a438e091398",
+  "age": 34,
+  "birth_date": "1992-08-14",
+  "marital_status": "married",
+  "region": "Ansbach",
+  "nationality": "german",
+  "company": "Steuer Conradi GmbH & Co. KG",
+  "car_brand": "Opel",
+  "self_first_name": "Leonard",
+  "self_last_name": "Briemer",
+  "partner_first_name": "Lieselotte",
+  "partner_last_name": "Briemer",
+  "children": [
+    {
+      "first_name": "Margita",
+      "last_name": "Briemer"
+    },
+    {
+      "first_name": "Ingmar",
+      "last_name": "Briemer"
+    },
+    {
+      "first_name": "Frieder",
+      "last_name": "Briemer"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Bierbrauen",
+    "Wandern",
+    "Metal Musik",
+    "FC Ansbach"
+  ],
+  "previous_passwords": [
+    "IngmarFoto1992",
+    "OpelWanderlust!",
+    "FCAnsbachLieselotte",
+    "MargitaBrewing814",
+    "MetalMusikFrieder",
+    "AnsbachBirbrauen23",
+    "LieselotteFoto2010",
+    "WandernIngmar!",
+    "BriemerMetall!",
+    "1992_Ansbach_FC"
+  ]
+}

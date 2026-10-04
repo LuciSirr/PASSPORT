@@ -1,0 +1,35 @@
+{
+  "id": "2fdee71a-5587-44ff-9834-f2d92c41f93e",
+  "age": 46,
+  "birth_date": "1980-08-20",
+  "marital_status": "married",
+  "region": "Bad Kreuznach",
+  "nationality": "german",
+  "company": "Rogge AG & Co. OHG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Marion",
+  "self_last_name": "Fröhlich",
+  "partner_first_name": "Kay-Uwe",
+  "partner_last_name": "Fröhlich",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern im Nahetal",
+    "Weinproben im Rheinhessen",
+    "Fußball",
+    "Gartenarbeit",
+    "Tatort"
+  ],
+  "previous_passwords": [
+    "Nahetal80!",
+    "Rheinhessen46",
+    "Tatort0808!",
+    "VWWander80",
+    "FussballKU46",
+    "Weinprobe20!",
+    "TatortMainz80",
+    "Garten2020!",
+    "Nahe_KayUwe46",
+    "Volkswagen46!"
+  ]
+}

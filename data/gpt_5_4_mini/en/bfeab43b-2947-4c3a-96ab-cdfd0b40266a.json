@@ -1,0 +1,48 @@
+{
+  "id": "bfeab43b-2947-4c3a-96ab-cdfd0b40266a",
+  "age": 62,
+  "birth_date": "1964-08-02",
+  "marital_status": "married",
+  "region": "Masonport",
+  "nationality": "english",
+  "company": "Wall-Reynolds",
+  "car_brand": "Ford",
+  "self_first_name": "Chelsea",
+  "self_last_name": "Lees",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Lees",
+  "children": [
+    {
+      "first_name": "Antony",
+      "last_name": "Lees"
+    },
+    {
+      "first_name": "Kirsty",
+      "last_name": "Lees"
+    },
+    {
+      "first_name": "Allan",
+      "last_name": "Lees"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "gardening",
+    "birdwatching",
+    "classic rock",
+    "history documentaries",
+    "walking trails"
+  ],
+  "previous_passwords": [
+    "Chelsea64!",
+    "Ford1964!",
+    "Peter62_",
+    "Antony64!",
+    "Kirsty64_",
+    "Allan64!",
+    "Garden64!",
+    "Birdwatch64!",
+    "Rock64!",
+    "Trail62!"
+  ]
+}

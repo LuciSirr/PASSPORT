@@ -1,0 +1,35 @@
+{
+  "id": "00d69c5f-3889-47a7-9bba-0b8f6af93c28",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "Subaru",
+  "self_first_name": "Gisela",
+  "self_last_name": "Kuhn",
+  "birth_date": "1955-06-14",
+  "partner_first_name": "Werner",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "klassische musik",
+    "kunstgeschichte"
+  ],
+  "pets": [],
+  "company": "Berliner Makler & Beratung GmbH",
+  "previous_passwords": [
+    "Gisela1955",
+    "KuhnBerlin77",
+    "Pilcher!14",
+    "Werner2020",
+    "Rosamunde123",
+    "Klassik_55",
+    "KuhnMusik1",
+    "Kunstgeschichte2022",
+    "Gisela!Kuhn",
+    "PilcherWerner"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

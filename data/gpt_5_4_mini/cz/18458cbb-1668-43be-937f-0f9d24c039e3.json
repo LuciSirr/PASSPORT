@@ -1,0 +1,40 @@
+{
+  "id": "18458cbb-1668-43be-937f-0f9d24c039e3",
+  "age": 39,
+  "birth_date": "1987-07-08",
+  "marital_status": "married",
+  "region": "Nové Strašecí",
+  "nationality": "czech",
+  "company": "Krejčová Macháčková s.r.o.",
+  "car_brand": "Toyota",
+  "self_first_name": "Robin",
+  "self_last_name": "Šmíd",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Šmídová",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Žofie"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "turistika",
+    "vaření",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Messi1987!",
+    "HokejJana87",
+    "Toyota7uP!",
+    "Turistika08",
+    "Vareni_Zofie7",
+    "CeskeFilmy39",
+    "RobinHokej87",
+    "JanaMessi07",
+    "StrasneC10",
+    "ZofieToyota87"
+  ]
+}

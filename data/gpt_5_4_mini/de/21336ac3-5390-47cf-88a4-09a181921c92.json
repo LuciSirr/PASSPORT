@@ -1,0 +1,35 @@
+{
+  "id": "21336ac3-5390-47cf-88a4-09a181921c92",
+  "age": 45,
+  "birth_date": "1981-07-18",
+  "marital_status": "single",
+  "region": "Güstrow",
+  "nationality": "german",
+  "company": "Döhn",
+  "car_brand": "Audi",
+  "self_first_name": "Rosalie",
+  "self_last_name": "Lachmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Gartenarbeit",
+    "Fußball",
+    "Radfahren",
+    "Regionalgeschichte"
+  ],
+  "previous_passwords": [
+    "Wandern1981!",
+    "AudiGustrow81",
+    "BayernRad7",
+    "ElbeWandern45",
+    "Garten1981_",
+    "Hanse08Rad!",
+    "MDRGarten81",
+    "RostockFuss7",
+    "Bikes2024!",
+    "Lachmann45#"
+  ]
+}

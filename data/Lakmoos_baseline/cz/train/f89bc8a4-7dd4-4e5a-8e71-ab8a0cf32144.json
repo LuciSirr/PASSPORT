@@ -1,0 +1,35 @@
+{
+  "id": "f89bc8a4-7dd4-4e5a-8e71-ab8a0cf32144",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Iveta",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "automobilismus",
+    "turistika",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Ministerstvo obrany ČR",
+  "previous_passwords": [
+    "RadekIveta",
+    "Superb2001",
+    "Budvar41",
+    "Prague5000",
+    "Lidl946",
+    "Iveta2020",
+    "Tury123",
+    "Fotky2015",
+    "SkodaEstate23",
+    "Radek!2024"
+  ],
+  "favorite_hobby": "automobilismus",
+  "birth_date": "1984-09-07"
+}

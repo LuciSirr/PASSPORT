@@ -1,0 +1,35 @@
+{
+  "id": "99635cd8-c7a7-4784-b129-28381344f070",
+  "gender": "male",
+  "age": 82,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Geoffrey",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "coronation street",
+    "cricket"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Geoffrey1942",
+    "Margaret15!",
+    "Hollingsworth42",
+    "CoronationStreet123",
+    "Cricket_1942",
+    "Gardening4Life",
+    "London_42",
+    "Margaret_Garden",
+    "CricketStreet15",
+    "Hollingsworth!gardening"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1942-06-15"
+}

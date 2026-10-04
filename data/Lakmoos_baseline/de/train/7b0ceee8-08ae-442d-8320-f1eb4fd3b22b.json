@@ -1,0 +1,35 @@
+{
+  "id": "7b0ceee8-08ae-442d-8320-f1eb4fd3b22b",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "single/in a relationship",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "wandern",
+    "audiobooks",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Thüringer IT-Dienstleistungen GmbH",
+  "previous_passwords": [
+    "Jens1979",
+    "Krause123",
+    "Tiguan2010",
+    "Sommer07!",
+    "Wandern2020",
+    "AOK_Thuringen",
+    "VW4Life",
+    "Berlin!79",
+    "Reisen2023",
+    "Krause!1979"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1980-11-19"
+}

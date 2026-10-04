@@ -1,0 +1,35 @@
+{
+  "id": "f51aecc6-2c44-4a02-86e8-2f508b21c0da",
+  "age": 34,
+  "birth_date": "1992-06-10",
+  "marital_status": "single",
+  "region": "Lörrach",
+  "nationality": "german",
+  "company": "Lehmann Bolzmann AG & Co. KG",
+  "car_brand": "Seat",
+  "self_first_name": "Marianne",
+  "self_last_name": "Holsten",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern im Schwarzwald",
+    "FC Bayern München",
+    "Deutsche Küche",
+    "Klassische Musik",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "Bayern2010!",
+    "SchwarzwaldWander1992",
+    "FCBMessi_Holsten",
+    "DeutscheKueche_MH",
+    "FotografieLörrach",
+    "SeatIbiza23",
+    "KlassischeMusikMH",
+    "BayernMunchen_23",
+    "MH_Wandern2005",
+    "FotografieBayern!"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ea68c564-60b5-4684-904a-c51d71487fed",
+  "age": 31,
+  "birth_date": "1995-11-18",
+  "marital_status": "married",
+  "region": "Úsov",
+  "nationality": "czech",
+  "company": "Marek v.o.s.",
+  "car_brand": "Dacia",
+  "self_first_name": "Luděk",
+  "self_last_name": "Bláha",
+  "partner_first_name": "Apolena",
+  "partner_last_name": "Bláhá",
+  "children": [
+    {
+      "first_name": "Radim",
+      "last_name": "Bláha"
+    },
+    {
+      "first_name": "Ignác",
+      "last_name": "Procházka"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "vaření",
+    "poslech podcastů",
+    "hokej"
+  ],
+  "previous_passwords": [
+    "Messi95!",
+    "Dacia1995",
+    "Apolena_18",
+    "Turistika95",
+    "Fotbal_Usov",
+    "Hokej11!",
+    "VařeníRadim7",
+    "JoeRogan95",
+    "Blaha_11",
+    "Podcast95!"
+  ]
+}

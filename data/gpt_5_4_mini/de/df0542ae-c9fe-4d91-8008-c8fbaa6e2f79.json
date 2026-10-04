@@ -1,0 +1,44 @@
+{
+  "id": "df0542ae-c9fe-4d91-8008-c8fbaa6e2f79",
+  "age": 46,
+  "birth_date": "1980-03-04",
+  "marital_status": "divorced",
+  "region": "Ahaus",
+  "nationality": "german",
+  "company": "Flantz",
+  "car_brand": "Audi",
+  "self_first_name": "Sofia",
+  "self_last_name": "Nohlmans",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Samir"
+    },
+    {
+      "pet_type": "bird",
+      "pet_name": "Madeleine"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Gartenarbeit",
+    "Radfahren",
+    "Kochen",
+    "Schalke 04"
+  ],
+  "previous_passwords": [
+    "Schalke04!",
+    "Fussball80",
+    "AudiAhaus46",
+    "Samir_1980",
+    "Garten80!",
+    "Radfahren04",
+    "KochenNohlman",
+    "Madeleine46!",
+    "S04_Sofia80",
+    "AhausBike46"
+  ]
+}

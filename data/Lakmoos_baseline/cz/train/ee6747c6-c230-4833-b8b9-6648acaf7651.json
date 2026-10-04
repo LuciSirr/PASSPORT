@@ -1,0 +1,39 @@
+{
+  "id": "ee6747c6-c230-4833-b8b9-6648acaf7651",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselík",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "fotbal",
+    "lego"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bertík"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej2018",
+    "Bertik123",
+    "lego2020",
+    "Veselik6",
+    "malovani22",
+    "fotbalek!",
+    "Zlin2023",
+    "Bertik6",
+    "domecek2023"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2019-12-13"
+}

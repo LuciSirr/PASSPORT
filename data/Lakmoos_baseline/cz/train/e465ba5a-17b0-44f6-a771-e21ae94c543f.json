@@ -1,0 +1,34 @@
+{
+  "id": "e465ba5a-17b0-44f6-a771-e21ae94c543f",
+  "gender": "male",
+  "age": 2,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselík",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "autíčka"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Matej2022",
+    "auticko123",
+    "hradecKralove",
+    "maminka",
+    "slunicko",
+    "Malovani22",
+    "Veselik2022",
+    "Auticka!",
+    "Matej_2roky",
+    "Slun1ck0"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2023-07-11"
+}

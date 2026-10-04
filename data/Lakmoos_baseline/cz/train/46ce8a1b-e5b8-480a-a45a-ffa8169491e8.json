@@ -1,0 +1,34 @@
+{
+  "id": "46ce8a1b-e5b8-480a-a45a-ffa8169491e8",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "divorced",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "KIA",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "křížovky",
+    "zahrádka",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "AutoServis Zlín",
+  "previous_passwords": [
+    "Vladimir1959",
+    "KonecnY64",
+    "Zlin123",
+    "Budvar2018",
+    "KiaProceed6",
+    "krizovky2020",
+    "Albert565",
+    "TankOno2020",
+    "Hudba!64"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1962-03-11"
+}

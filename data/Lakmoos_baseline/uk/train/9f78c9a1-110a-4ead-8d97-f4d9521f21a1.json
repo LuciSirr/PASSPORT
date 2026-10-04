@@ -1,0 +1,40 @@
+{
+  "id": "9f78c9a1-110a-4ead-8d97-f4d9521f21a1",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Suzuki",
+  "self_first_name": "Judith",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "East Midlands Social Services",
+  "previous_passwords": [
+    "Judith1969",
+    "Graham23!",
+    "MistyCat1",
+    "Hollingsworth3000",
+    "Gardening_123",
+    "EastMidlands69",
+    "Reading4Life",
+    "SwiftSport2023",
+    "Walking!69",
+    "Misty_69"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1973-01-20"
+}

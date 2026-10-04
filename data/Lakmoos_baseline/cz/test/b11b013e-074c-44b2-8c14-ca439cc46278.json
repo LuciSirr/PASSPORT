@@ -1,0 +1,34 @@
+{
+  "id": "b11b013e-074c-44b2-8c14-ca439cc46278",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "divorced",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1977-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cesky hokej",
+    "cestovani",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Vysočina Kovovýroba s.r.o.",
+  "previous_passwords": [
+    "Radek1977",
+    "KohoutFabia99",
+    "hokej123",
+    "Vysočina2020",
+    "cestovani77",
+    "Fabia_1999",
+    "autaKohout",
+    "Kohout!77",
+    "ceskyhokej2024"
+  ],
+  "favorite_hobby": "cesky hokej"
+}

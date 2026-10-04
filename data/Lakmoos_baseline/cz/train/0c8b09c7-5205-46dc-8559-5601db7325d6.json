@@ -1,0 +1,36 @@
+{
+  "id": "0c8b09c7-5205-46dc-8559-5601db7325d6",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "čtení",
+    "procházky",
+    "jóga"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Praha2018",
+    "kofola123",
+    "dobrakava50",
+    "Vesela2020",
+    "zahrada79",
+    "Ivana1974",
+    "Cteni2022",
+    "Prochazka!",
+    "Yoga_123",
+    "V3s3l4!"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1976-02-19"
+}

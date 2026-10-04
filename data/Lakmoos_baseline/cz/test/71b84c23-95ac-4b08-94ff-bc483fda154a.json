@@ -1,0 +1,40 @@
+{
+  "id": "71b84c23-95ac-4b08-94ff-bc483fda154a",
+  "gender": "female",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Kohoutová",
+  "birth_date": "2012-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "harry potter",
+    "volejbal",
+    "minecraft"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Míca"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2012",
+    "Kohoutova14",
+    "Mica123",
+    "harrypotter_2020",
+    "volejbal!12",
+    "minecraft_kočka",
+    "MicaVolejbal",
+    "potter14",
+    "KohoutovaMica",
+    "harry123"
+  ],
+  "favorite_hobby": "harry potter"
+}

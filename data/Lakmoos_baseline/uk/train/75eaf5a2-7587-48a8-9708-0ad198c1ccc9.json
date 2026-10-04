@@ -1,0 +1,40 @@
+{
+  "id": "75eaf5a2-7587-48a8-9708-0ad198c1ccc9",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Volvo",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Hollingworth",
+  "children": [],
+  "interests": [
+    "cycling",
+    "travelling",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "NorthWest Strategy Partners",
+  "previous_passwords": [
+    "Baxter2010",
+    "Callum34!",
+    "Emily123",
+    "VolvoXC90",
+    "Hollingworth2024",
+    "Cycling_99",
+    "NorthWest!11",
+    "Travelling4",
+    "Baxter!3",
+    "EmilyHollingworth"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1992-01-31"
+}

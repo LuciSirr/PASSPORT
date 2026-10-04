@@ -1,0 +1,44 @@
+{
+  "id": "e164e399-209d-4bbe-a240-2afe06d2f8e6",
+  "age": 34,
+  "birth_date": "1992-06-24",
+  "marital_status": "married",
+  "region": "Guben",
+  "nationality": "german",
+  "company": "Haase e.G.",
+  "car_brand": "Skoda",
+  "self_first_name": "Zdravko",
+  "self_last_name": "Girschner",
+  "partner_first_name": "Hildegund",
+  "partner_last_name": "Girschner",
+  "children": [
+    {
+      "first_name": "Aurelia",
+      "last_name": "Girschner"
+    },
+    {
+      "first_name": "Otto",
+      "last_name": "Girschner"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Gaming",
+    "Reisen"
+  ],
+  "previous_passwords": [
+    "Fussball92!",
+    "HildeWandern24",
+    "SkodaGuben7",
+    "KochenAurelia92",
+    "GamingOtto_34",
+    "Reisen24Guben",
+    "Bayern92!",
+    "Wandern1992",
+    "Kochen!24",
+    "SkodaReisen92"
+  ]
+}

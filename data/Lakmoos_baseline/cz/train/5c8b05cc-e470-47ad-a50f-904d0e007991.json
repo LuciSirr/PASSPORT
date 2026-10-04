@@ -1,0 +1,35 @@
+{
+  "id": "5c8b05cc-e470-47ad-a50f-904d0e007991",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lego",
+    "fotbal",
+    "malování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "matysek2016",
+    "liberec123",
+    "vesely8",
+    "skolakamarad",
+    "jablkohruska",
+    "Fotbal2024",
+    "LegoLiberec",
+    "Malovani8",
+    "Matysek8!",
+    "Vesely2023"
+  ],
+  "favorite_hobby": "lego",
+  "birth_date": "2017-11-09"
+}

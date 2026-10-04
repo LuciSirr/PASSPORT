@@ -1,0 +1,44 @@
+{
+  "id": "c1bed0fa-97bc-41ce-b587-a9a6e136824d",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Tobias",
+  "self_last_name": "Krause",
+  "birth_date": "1995-02-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Mila",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "stranger things",
+    "bundesliga",
+    "fifa"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2019",
+    "Mila2022!",
+    "Krause95",
+    "stranger11",
+    "bundesliga123",
+    "Fifa_2020",
+    "Tobi!17",
+    "MilaLukas22",
+    "KrauseFifa95",
+    "Str4ng3rThings"
+  ],
+  "favorite_hobby": "stranger things"
+}

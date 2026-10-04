@@ -1,0 +1,40 @@
+{
+  "id": "5c52560b-d253-4e32-9565-39649d27e51a",
+  "age": 40,
+  "birth_date": "1986-04-22",
+  "marital_status": "divorced",
+  "region": "Germersheim",
+  "nationality": "german",
+  "company": "Mohaupt Dowerg AG & Co. KG",
+  "car_brand": "Toyota",
+  "self_first_name": "Falk",
+  "self_last_name": "Seidel",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Aline",
+      "last_name": "Seidel"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fußball",
+    "Kochen",
+    "Radfahren",
+    "Wein"
+  ],
+  "previous_passwords": [
+    "Wandern86!",
+    "Fussball86",
+    "Kochen22!",
+    "Radfahren40",
+    "WeinGermersheim",
+    "Toyota86_",
+    "Aline2022!",
+    "Schalke86!",
+    "Bergtour40",
+    "KochenWein86"
+  ]
+}

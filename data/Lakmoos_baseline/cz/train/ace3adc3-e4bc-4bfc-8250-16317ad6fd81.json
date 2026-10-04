@@ -1,0 +1,36 @@
+{
+  "id": "ace3adc3-e4bc-4bfc-8250-16317ad6fd81",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "divorced",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "čtení",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radek1985",
+    "Morava123",
+    "Lidl2020",
+    "Hornbach59",
+    "Dobravoda",
+    "Turistika2021",
+    "Sebesta59",
+    "Zahrada!2022",
+    "Cteni_987",
+    "Vaření123"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1966-05-02"
+}

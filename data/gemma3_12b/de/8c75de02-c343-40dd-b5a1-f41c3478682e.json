@@ -1,0 +1,35 @@
+{
+  "id": "8c75de02-c343-40dd-b5a1-f41c3478682e",
+  "age": 22,
+  "birth_date": "2004-12-07",
+  "marital_status": "married",
+  "region": "Gütersloh",
+  "nationality": "german",
+  "company": "Thanel GmbH & Co. KGaA",
+  "car_brand": "Seat",
+  "self_first_name": "Waldtraut",
+  "self_last_name": "Wulff",
+  "partner_first_name": "Arnd",
+  "partner_last_name": "Wulff",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Gaming",
+    "Musik Festivals",
+    "Fotografie",
+    "Reisen",
+    "Social Media"
+  ],
+  "previous_passwords": [
+    "Messi2004!",
+    "ArndWulffFoto",
+    "SeatTravel22",
+    "JoeRoganGamer",
+    "WaldtrautFest",
+    "ReisenMusik!",
+    "GueterslohPix",
+    "GamingArnd1",
+    "Fotografie2024",
+    "SocialMediaSeat"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "7e2354ab-8707-4fe4-b8ed-f731f942df38",
+  "age": 43,
+  "birth_date": "1983-08-21",
+  "marital_status": "married",
+  "region": "Vilsbiburg",
+  "nationality": "german",
+  "company": "Ruppert Pohl KG",
+  "car_brand": "Audi",
+  "self_first_name": "Hans-Otto",
+  "self_last_name": "Anders",
+  "partner_first_name": "Eileen",
+  "partner_last_name": "Anders",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Pasquale"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Radfahren",
+    "Kochen",
+    "FC Bayern München"
+  ],
+  "previous_passwords": [
+    "FCBayern83!",
+    "AudiVilsbiburg43",
+    "Wandern21_Hans",
+    "Radfahren83!",
+    "KochenEileen83",
+    "BirdPasquale43",
+    "Muenchen21Hans",
+    "FußballBayern83",
+    "EileenAnders43!",
+    "Vilsbiburg83_Audi"
+  ]
+}

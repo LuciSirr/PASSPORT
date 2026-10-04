@@ -1,0 +1,36 @@
+{
+  "id": "e758e313-feee-436f-82c1-7a1a2383a85c",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radka",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "cestování",
+    "literatura",
+    "móda"
+  ],
+  "pets": [],
+  "company": "Ateliér Modrý Štětec",
+  "previous_passwords": [
+    "Radka1989",
+    "VeselaPraha1",
+    "Hyundaii10_2024",
+    "Malovani123",
+    "Literatura89",
+    "PrahaArt!",
+    "Divadlo2020",
+    "Cestovani_321",
+    "VodaMineral1",
+    "NetflixObliba"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "1997-01-21"
+}

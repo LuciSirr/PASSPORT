@@ -1,0 +1,44 @@
+{
+  "id": "00a84dcf-792a-4687-956b-e57853d04fe4",
+  "age": 23,
+  "birth_date": "2003-02-07",
+  "marital_status": "divorced",
+  "region": "Teplice nad Metují",
+  "nationality": "czech",
+  "company": "Sýkorová Blažková s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Hana",
+  "self_last_name": "Kovářová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Miroslav"
+    },
+    {
+      "pet_type": "dog",
+      "pet_name": "Evelína"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "Netflix",
+    "cestování",
+    "hudba",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "Messi2003!",
+    "SkodaMiroslav",
+    "NetflixHana",
+    "CestovaniEva!",
+    "HudbaTeplice",
+    "Varovani23",
+    "Messi_Fan91",
+    "TravelHana1",
+    "SkodaMiroslav07",
+    "EvaNetflix03"
+  ]
+}

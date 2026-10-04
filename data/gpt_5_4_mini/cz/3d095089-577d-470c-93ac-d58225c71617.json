@@ -1,0 +1,48 @@
+{
+  "id": "3d095089-577d-470c-93ac-d58225c71617",
+  "age": 37,
+  "birth_date": "1989-02-23",
+  "marital_status": "married",
+  "region": "Košťany",
+  "nationality": "czech",
+  "company": "Pavlíková Vlček a.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivo",
+  "self_last_name": "Kubíček",
+  "partner_first_name": "Simona",
+  "partner_last_name": "Kubíčková",
+  "children": [
+    {
+      "first_name": "Věra",
+      "last_name": "Horváthová Kubíčková"
+    },
+    {
+      "first_name": "Artur",
+      "last_name": "Tůma Kubíček"
+    },
+    {
+      "first_name": "Felix",
+      "last_name": "Polák Kubíček"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika v Krušných horách",
+    "hokej",
+    "vaření",
+    "cyklistika",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "KrusneHory89!",
+    "Hokej1989_Ivo",
+    "SkodaVera23",
+    "Vareni_Simona7",
+    "CykloKubicek89",
+    "CeskeFilmy02!",
+    "ArturHory89",
+    "FelixSkoda89",
+    "TuristikaVera23",
+    "KostanyIvo89!"
+  ]
+}

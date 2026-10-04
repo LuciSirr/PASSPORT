@@ -1,0 +1,35 @@
+{
+  "id": "f7d2a067-8905-4df5-8219-fde77883a1a4",
+  "age": 31,
+  "birth_date": "1995-02-21",
+  "marital_status": "single",
+  "region": "Franklinton",
+  "nationality": "english",
+  "company": "Atkinson, Hartley and Graham",
+  "car_brand": "Nissan",
+  "self_first_name": "Ruth",
+  "self_last_name": "Kay",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Hiking",
+    "Indie Music",
+    "Craft Beer",
+    "Photography",
+    "Board Games"
+  ],
+  "previous_passwords": [
+    "FranklintonHike21",
+    "IndieSoundsRuth",
+    "BreweryPhoto!",
+    "NissanBoardGame95",
+    "BoardGameRuthHike",
+    "Kay_IndieMusic1995",
+    "PhotographyFranklinton",
+    "HikeNissan21!",
+    "RuthCraftBeer95",
+    "IndieRuthHike"
+  ]
+}

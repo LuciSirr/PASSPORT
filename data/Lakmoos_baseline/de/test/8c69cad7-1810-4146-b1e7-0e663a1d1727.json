@@ -1,0 +1,39 @@
+{
+  "id": "8c69cad7-1810-4146-b1e7-0e663a1d1727",
+  "gender": "female",
+  "age": 43,
+  "marital_status": "married",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Anja",
+  "self_last_name": "Krause",
+  "birth_date": "1981-06-14",
+  "partner_first_name": "Jens",
+  "partner_last_name": "Krause",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lena2011",
+    "Tatort_81",
+    "Krause123",
+    "AnjaJens14",
+    "nordic2020",
+    "Tat0rt!2018",
+    "LenaKrause13",
+    "KrauseWalking",
+    "Anja!Juni",
+    "TatortLena"
+  ],
+  "favorite_hobby": "tatort"
+}

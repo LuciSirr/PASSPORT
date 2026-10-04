@@ -1,0 +1,35 @@
+{
+  "id": "15bdf216-4709-41a9-b503-580cadca80f4",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "divorced",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Heike",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gartenarbeit",
+    "lesen",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Nordhannover Management GmbH",
+  "previous_passwords": [
+    "Heike1971",
+    "Kreutzmann123",
+    "Sommer!22",
+    "Niedersachsen2020",
+    "Gartenarbeit77",
+    "KiaNiro2022",
+    "Lesen_456",
+    "Nordhannover!8",
+    "Heike!Kia",
+    "Wandern1978"
+  ],
+  "favorite_hobby": "gartenarbeit",
+  "birth_date": "1973-03-18"
+}

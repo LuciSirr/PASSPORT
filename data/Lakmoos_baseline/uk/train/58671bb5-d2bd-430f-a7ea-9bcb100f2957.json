@@ -1,0 +1,41 @@
+{
+  "id": "58671bb5-d2bd-430f-a7ea-9bcb100f2957",
+  "gender": "male",
+  "age": 39,
+  "marital_status": "single/in a relationship",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "KIA",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Barker",
+  "children": [],
+  "interests": [
+    "hiking",
+    "fishing",
+    "travel",
+    "pubs"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bruno"
+    }
+  ],
+  "company": "Dales Quarry Services",
+  "previous_passwords": [
+    "Bruno2011",
+    "Hollings39",
+    "KiaSportage21",
+    "Rachel4Ever",
+    "Dales123",
+    "Fishing!88",
+    "Yorkshire2020",
+    "Hiking_169",
+    "Bruno!dog",
+    "Travel4Life"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1986-08-14"
+}

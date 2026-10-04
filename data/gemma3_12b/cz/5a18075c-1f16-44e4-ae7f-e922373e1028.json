@@ -1,0 +1,44 @@
+{
+  "id": "5a18075c-1f16-44e4-ae7f-e922373e1028",
+  "age": 66,
+  "birth_date": "1960-04-25",
+  "marital_status": "married",
+  "region": "Kostelec na Hané",
+  "nationality": "czech",
+  "company": "Kolářová",
+  "car_brand": "Škoda",
+  "self_first_name": "Františka",
+  "self_last_name": "Petrová",
+  "partner_first_name": "Vojtěch",
+  "partner_last_name": "Petrová",
+  "children": [
+    {
+      "first_name": "Dalibor",
+      "last_name": "Pavlík"
+    },
+    {
+      "first_name": "Samuel",
+      "last_name": "Jaroš"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "rybaření",
+    "turistika",
+    "zahradničení",
+    "folklorní festivaly",
+    "pěv v místním sboru"
+  ],
+  "previous_passwords": [
+    "HanackeRybarskeMisto",
+    "Dalibor1960Turistika",
+    "SkodaFolklorní25",
+    "SamuelPěvJaroš!",
+    "VojtechZahrada76",
+    "KostelecNaHaneRýbář",
+    "Turistika Dalibor!",
+    "ŠkodaPěv1960",
+    "Zahrada Samuel!",
+    "PěvFolklorní25"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "81bd8003-574e-44e6-b4f8-93aec80abb57",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "Tesla",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "autos"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tesla2019",
+    "Kreutzmann123",
+    "Reisen!2022",
+    "Sommer08",
+    "Thuringen7",
+    "Podcasts2020",
+    "Tobi_7000",
+    "AutoFan88",
+    "Berlin!2011"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1996-01-26"
+}

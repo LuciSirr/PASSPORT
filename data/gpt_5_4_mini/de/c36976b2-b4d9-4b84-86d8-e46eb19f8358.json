@@ -1,0 +1,43 @@
+{
+  "id": "c36976b2-b4d9-4b84-86d8-e46eb19f8358",
+  "age": 19,
+  "birth_date": "2007-02-15",
+  "marital_status": "single",
+  "region": "Weißenfels",
+  "nationality": "german",
+  "company": "Weller Schüler e.G.",
+  "car_brand": "Opel",
+  "self_first_name": "Lieschen",
+  "self_last_name": "Pärtzelt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Iwona"
+    },
+    {
+      "pet_type": "lizard",
+      "pet_name": "Xaver"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Fitness",
+    "Deutsche Rapmusik"
+  ],
+  "previous_passwords": [
+    "BVB1907!",
+    "Kobe07_",
+    "Opel2007!",
+    "AggroLiese19",
+    "IwonaSnake07",
+    "Fortnite07!",
+    "Weißenfels19",
+    "RBLieschen07",
+    "Fitness_19!",
+    "Xaver2007!"
+  ]
+}

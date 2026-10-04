@@ -1,0 +1,35 @@
+{
+  "id": "e7a8832e-0edd-4a53-9a8b-181d1e4b5f4e",
+  "gender": "male",
+  "age": 72,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "BMW",
+  "self_first_name": "Heinrich",
+  "self_last_name": "Kraus",
+  "partner_first_name": "Gisela",
+  "partner_last_name": "Kraus",
+  "children": [],
+  "interests": [
+    "wandern",
+    "audiobücher",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "Kraus Handelskontor NRW",
+  "previous_passwords": [
+    "Heinrich1952",
+    "Gisela123",
+    "Kraus2020",
+    "BMWiX1!",
+    "Wandern_77",
+    "NRW!33000",
+    "Gartenarbeit22",
+    "AOK_1952",
+    "Sommer07",
+    "Kraus!Gisela"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1954-02-07"
+}

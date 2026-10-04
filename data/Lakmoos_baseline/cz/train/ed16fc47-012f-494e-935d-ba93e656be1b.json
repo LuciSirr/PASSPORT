@@ -1,0 +1,40 @@
+{
+  "id": "ed16fc47-012f-494e-935d-ba93e656be1b",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "divorced",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "facebook"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "Penzion Vysočina",
+  "previous_passwords": [
+    "Ben2010",
+    "Vysočina45",
+    "Fabia2010",
+    "Turistika123",
+    "Sebestova1979",
+    "Ben!2022",
+    "Vaření_321",
+    "Albert123",
+    "Netflix2022",
+    "Iveta7.4"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1980-06-13"
+}

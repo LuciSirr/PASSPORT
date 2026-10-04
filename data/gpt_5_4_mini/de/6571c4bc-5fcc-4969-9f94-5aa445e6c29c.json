@@ -1,0 +1,44 @@
+{
+  "id": "6571c4bc-5fcc-4969-9f94-5aa445e6c29c",
+  "age": 52,
+  "birth_date": "1974-06-13",
+  "marital_status": "married",
+  "region": "Wolgast",
+  "nationality": "german",
+  "company": "Möchlichen GmbH",
+  "car_brand": "Audi",
+  "self_first_name": "Hans-Uwe",
+  "self_last_name": "Karz",
+  "partner_first_name": "Heinz-Dieter",
+  "partner_last_name": "Steckel",
+  "children": [
+    {
+      "first_name": "Sabrina",
+      "last_name": "Karz"
+    },
+    {
+      "first_name": "Christl",
+      "last_name": "Karz"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Radfahren",
+    "Kochen",
+    "Gartenarbeit",
+    "Fußball"
+  ],
+  "previous_passwords": [
+    "Wandern74!",
+    "AudiWeg52",
+    "HeinzRad13",
+    "Kochen13_74",
+    "Garten74!",
+    "Werder52#",
+    "Radtour13!",
+    "Sabrina06!",
+    "Spargel74_",
+    "Hertha52!"
+  ]
+}

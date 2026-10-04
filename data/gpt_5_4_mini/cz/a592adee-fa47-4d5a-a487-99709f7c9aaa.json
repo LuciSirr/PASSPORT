@@ -1,0 +1,35 @@
+{
+  "id": "a592adee-fa47-4d5a-a487-99709f7c9aaa",
+  "age": 40,
+  "birth_date": "1986-10-17",
+  "marital_status": "single",
+  "region": "Luby",
+  "nationality": "czech",
+  "company": "Mašková o.s.",
+  "car_brand": "Suzuki",
+  "self_first_name": "Samuel",
+  "self_last_name": "Vávra",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "hokej",
+    "vaření",
+    "zahrádkaření",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Turistika86!",
+    "Hokej17_Sam",
+    "Vareni10!",
+    "Zahradka1986",
+    "CeskeFilmy17",
+    "Suzuki86_hike",
+    "LubyHokej17",
+    "Samuel_1017",
+    "Vareni_Sam86",
+    "Turistika_Luby"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "e3fbb09c-b447-456d-b900-4473e9e28ce0",
+  "age": 42,
+  "birth_date": "1984-10-22",
+  "marital_status": "married",
+  "region": "Holýšov",
+  "nationality": "czech",
+  "company": "Pavlík Toman o.s.",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Miloslav",
+  "self_last_name": "Bílek",
+  "partner_first_name": "Bohumila",
+  "partner_last_name": "Bílková",
+  "children": [
+    {
+      "first_name": "Vlasta",
+      "last_name": "Kolářová"
+    },
+    {
+      "first_name": "Štěpán",
+      "last_name": "Bílek"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivovarnictví",
+    "návštěva zámků",
+    "folklorní festivaly"
+  ],
+  "previous_passwords": [
+    "Vlasta1984!",
+    "MercedesTuristika22",
+    "HolasovRybar!",
+    "BohumilaZamek87",
+    "StepanFolklorní!5",
+    "PivovarnictviKolář",
+    "TuristikaŠtěpán2",
+    "RybařeníBílek90",
+    "MercedesBílková",
+    "ZámkyVlasta1984"
+  ]
+}

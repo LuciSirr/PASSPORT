@@ -1,0 +1,35 @@
+{
+  "id": "b2c00609-c515-4460-9b8a-e5d988516e2d",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Ivana",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "cestování",
+    "turistika",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "Vysočina Energetika",
+  "previous_passwords": [
+    "Radek1964",
+    "Ivana2023",
+    "Superb2000",
+    "Vysocina62000",
+    "Turistika123",
+    "Hornbach79",
+    "FioBanka123",
+    "Krizovky2024",
+    "Vese1y!",
+    "Cestovani77"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1966-01-06"
+}

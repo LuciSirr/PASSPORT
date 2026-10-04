@@ -1,0 +1,35 @@
+{
+  "id": "aa093c51-8063-4f3b-8d2e-55e412c4398e",
+  "age": 36,
+  "birth_date": "1990-07-18",
+  "marital_status": "married",
+  "region": "Železný Brod",
+  "nationality": "czech",
+  "company": "Zemanová a.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Natálie",
+  "self_last_name": "Matoušková",
+  "partner_first_name": "Arnošt",
+  "partner_last_name": "Matoušková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "hudba Karla Gotta",
+    "filmové festivaly",
+    "historie"
+  ],
+  "previous_passwords": [
+    "KarlaGotta2018!",
+    "SkodaFabiaHiking",
+    "ArnostMatous1990",
+    "FilmfestivalZelezny",
+    "VařeníHistorie11",
+    "TuristikaArnost!",
+    "MessiFanNatalia",
+    "GottaMusic_77",
+    "ZeleznyBrod2024",
+    "NataliaSkodaFilm"
+  ]
+}

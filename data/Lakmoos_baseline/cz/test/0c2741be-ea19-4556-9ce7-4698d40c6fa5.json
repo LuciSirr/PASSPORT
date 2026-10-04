@@ -1,0 +1,40 @@
+{
+  "id": "0c2741be-ea19-4556-9ce7-4698d40c6fa5",
+  "gender": "male",
+  "age": 65,
+  "marital_status": "married",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jaroslav",
+  "self_last_name": "Šimáček",
+  "birth_date": "1959-06-10",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Šimáčková",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "české filmy",
+    "turistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Zlínská výroba s.r.o.",
+  "previous_passwords": [
+    "Jaroslav1959",
+    "ŠimáčekRex123",
+    "Marie0610",
+    "fotbal2020",
+    "turistika!59",
+    "RexŠimáček1",
+    "cesk3filmy",
+    "Zlín_789",
+    "ŠimáčekMarie2023",
+    "Rex!fotbal"
+  ],
+  "favorite_hobby": "fotbal"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ec497992-2efb-4821-b0ac-c2debbfb156a",
+  "age": 28,
+  "birth_date": "1998-04-20",
+  "marital_status": "single",
+  "region": "Biedenkopf",
+  "nationality": "german",
+  "company": "Kraus KG",
+  "car_brand": "Toyota",
+  "self_first_name": "Aleksandr",
+  "self_last_name": "Hartmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Ivanka",
+      "last_name": "Hartmann"
+    },
+    {
+      "first_name": "Lisette",
+      "last_name": "Hartmann"
+    },
+    {
+      "first_name": "Helmuth",
+      "last_name": "Hartmann"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Diana"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Dietlinde"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern im Rothaargebirge",
+    "Kochen",
+    "Gaming",
+    "Regionalliga Fußball"
+  ],
+  "previous_passwords": [
+    "Fussball98!",
+    "Rothaar20_Hart",
+    "Toyota98Kochen",
+    "Ivanka07Gaming",
+    "Regionalliga24!",
+    "DianaFish20",
+    "Wandern98Bied",
+    "Lisette98Cook",
+    "Hartmann28!",
+    "Helmuth20Game"
+  ]
+}

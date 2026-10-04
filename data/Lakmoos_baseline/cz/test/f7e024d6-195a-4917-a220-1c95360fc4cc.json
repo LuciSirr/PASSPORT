@@ -1,0 +1,39 @@
+{
+  "id": "f7e024d6-195a-4917-a220-1c95360fc4cc",
+  "gender": "male",
+  "age": 46,
+  "marital_status": "married",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1978-06-12",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "kriminálky",
+    "škoda auto"
+  ],
+  "pets": [],
+  "company": "AutoServis Plzeň s.r.o.",
+  "previous_passwords": [
+    "Radek1978",
+    "Matej2024",
+    "Kohout123",
+    "Petra12.6",
+    "SkodaKaroq17",
+    "kriminalky2023",
+    "Plzen!78",
+    "AutoServis2022",
+    "Kohout!Matěj",
+    "PetraRadek1"
+  ],
+  "favorite_hobby": "kriminálky"
+}

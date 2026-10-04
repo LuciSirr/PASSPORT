@@ -1,0 +1,40 @@
+{
+  "id": "69099fd3-6df3-40aa-9077-cf2923d3796a",
+  "age": 38,
+  "birth_date": "1988-12-18",
+  "marital_status": "divorced",
+  "region": "Ivanovice na Hané",
+  "nationality": "czech",
+  "company": "Holub",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Horáčková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Ladislava"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivovarnictví",
+    "lokální fotbalový klub",
+    "knižní klub",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "TuristikaBeskydy88",
+    "MessiFanIvana1988",
+    "LadislavaSwimz1!",
+    "SkodaOctaviaBook",
+    "PivovarnictviHanza",
+    "IvanoviceHanaz22",
+    "KnihniKlubDec18",
+    "Cestovani1988Iv",
+    "TuristikaMapa_12",
+    "MessiGoalIvanka"
+  ]
+}

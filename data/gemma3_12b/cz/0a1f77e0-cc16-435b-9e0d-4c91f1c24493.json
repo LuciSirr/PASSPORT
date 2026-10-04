@@ -1,0 +1,35 @@
+{
+  "id": "0a1f77e0-cc16-435b-9e0d-4c91f1c24493",
+  "age": 23,
+  "birth_date": "2003-11-08",
+  "marital_status": "married",
+  "region": "Budyně nad Ohří",
+  "nationality": "czech",
+  "company": "Musilová a.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Viktorie",
+  "self_last_name": "Bláhová",
+  "partner_first_name": "Eduard",
+  "partner_last_name": "Stejskalová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "Netflix",
+    "cestování",
+    "hudba",
+    "turistika"
+  ],
+  "previous_passwords": [
+    "Messi2003!",
+    "NetflixBudyně",
+    "SkodaEduard7",
+    "TuristikaViktorie",
+    "HudbaBlahova23",
+    "CestovaniSFC",
+    "FotbalViktorie2011",
+    "Netflix_viktorie",
+    "Skoda_Budyne!",
+    "MessiViktorie8"
+  ]
+}

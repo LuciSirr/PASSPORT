@@ -1,0 +1,40 @@
+{
+  "id": "50f947eb-fe3b-43f9-86dc-adfdab7b3dad",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "widower/widow",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "politika",
+    "facebook",
+    "snackování"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Ben2022",
+    "Fabia2006",
+    "Kofola123",
+    "Hradec2024",
+    "SpokojenyDum",
+    "TankOno1396",
+    "Politika!1",
+    "Ben!2024",
+    "Šebesta70",
+    "Facebook_123"
+  ],
+  "favorite_hobby": "politika",
+  "birth_date": "1956-02-15"
+}

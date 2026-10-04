@@ -1,0 +1,35 @@
+{
+  "id": "a16fe4fe-3cff-4e29-8f22-313fd86ac2d5",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "nakupování",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vesely2003",
+    "Scala19!",
+    "Morava123",
+    "Lidl564",
+    "Bonprix2022",
+    "Matej21",
+    "Kofola_777",
+    "Auta2020",
+    "NetflixCZ",
+    "Skoda!999"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2005-02-08"
+}

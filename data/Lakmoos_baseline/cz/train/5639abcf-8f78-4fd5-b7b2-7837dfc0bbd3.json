@@ -1,0 +1,36 @@
+{
+  "id": "5639abcf-8f78-4fd5-b7b2-7837dfc0bbd3",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "filmy",
+    "facebook",
+    "cestování"
+  ],
+  "pets": [],
+  "company": "Zlínská výroba s.r.o.",
+  "previous_passwords": [
+    "Radek1999",
+    "Fabia2007",
+    "Zlin1234",
+    "kaufland57",
+    "Bigshock2023",
+    "vyletnik",
+    "auta!2021",
+    "Vesely99",
+    "McDonalds123",
+    "filmynoc"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2003-01-16"
+}

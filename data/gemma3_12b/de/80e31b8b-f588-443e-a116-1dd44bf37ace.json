@@ -1,0 +1,40 @@
+{
+  "id": "80e31b8b-f588-443e-a116-1dd44bf37ace",
+  "age": 20,
+  "birth_date": "2006-01-05",
+  "marital_status": "married",
+  "region": "Rastatt",
+  "nationality": "german",
+  "company": "Hartmann",
+  "car_brand": "BMW",
+  "self_first_name": "Enver",
+  "self_last_name": "Binner",
+  "partner_first_name": "Sophia",
+  "partner_last_name": "Binner",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Grazyna"
+    }
+  ],
+  "interests": [
+    "Gaming",
+    "Musik Festivals",
+    "Fotografie",
+    "Reisen",
+    "Fußball"
+  ],
+  "previous_passwords": [
+    "Messi2006!",
+    "GrazynaFoto19",
+    "BMW_Rastatt05",
+    "JoeRoganMusik!",
+    "EnverSophia_20",
+    "FIFA23_Gaming",
+    "ReisenBinner!",
+    "fotografieGrazyna",
+    "Messi_BMW2024",
+    "FestivalEnver05"
+  ]
+}

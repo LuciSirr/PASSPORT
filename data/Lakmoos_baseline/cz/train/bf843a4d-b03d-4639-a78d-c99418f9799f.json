@@ -1,0 +1,45 @@
+{
+  "id": "bf843a4d-b03d-4639-a78d-c99418f9799f",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Lucie",
+  "partner_last_name": "Šebesta",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Šebesta"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "grilování",
+    "auta"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "Vysočina Kovovýroba s.r.o.",
+  "previous_passwords": [
+    "Matysek2019",
+    "Beny123",
+    "RadekLucie19",
+    "Vysočina79",
+    "Fotbal!2021",
+    "Grilovani_123",
+    "Superb2002",
+    "LucieMatěj3",
+    "Beny!2020",
+    "Auta_112"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1996-01-21"
+}

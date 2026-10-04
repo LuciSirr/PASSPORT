@@ -1,0 +1,40 @@
+{
+  "id": "275ea248-8571-4c82-b9d0-9a47f2ddb5d9",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "netball",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Northwood Student Services",
+  "previous_passwords": [
+    "Imogen2008",
+    "Milo123",
+    "Netball4Life",
+    "Hollingsworth16",
+    "BakingQueen!",
+    "Reading_101",
+    "Milo!2008",
+    "Northwood2023",
+    "Im0g3nCat",
+    "Holl1ngs"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2010-02-28"
+}

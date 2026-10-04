@@ -1,0 +1,43 @@
+{
+  "id": "48f10039-b7c6-4b57-add5-ea0bc1d1e7c3",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "divorced",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "auta",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Severočeské strojírny s.r.o.",
+  "previous_passwords": [
+    "MatyEli10",
+    "Usti81cz",
+    "Kofola2020",
+    "Byt123",
+    "SkodaKamiq2019",
+    "Vesely2013",
+    "Auta!2021",
+    "Hudba_47",
+    "MatějEliška21",
+    "Kof0l4!"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1979-01-26"
+}

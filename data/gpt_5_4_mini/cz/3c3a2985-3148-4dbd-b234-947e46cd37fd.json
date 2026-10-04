@@ -1,0 +1,35 @@
+{
+  "id": "3c3a2985-3148-4dbd-b234-947e46cd37fd",
+  "age": 23,
+  "birth_date": "2003-08-10",
+  "marital_status": "married",
+  "region": "Meziměstí",
+  "nationality": "czech",
+  "company": "Petrová",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Nela",
+  "self_last_name": "Beránková",
+  "partner_first_name": "Matěj",
+  "partner_last_name": "Beránková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "posilovna",
+    "hraní her",
+    "pěší turistika",
+    "hokej",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "GymMat24!",
+    "Hockey03_Nela",
+    "VWmezi10",
+    "Witcher23!",
+    "Turistika10N",
+    "MatjGym03",
+    "Ceskefilmy!23",
+    "GamingNela8",
+    "Posilovna03!",
+    "BeranHokej10"
+  ]
+}

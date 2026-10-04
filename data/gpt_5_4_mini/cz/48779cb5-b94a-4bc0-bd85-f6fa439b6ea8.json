@@ -1,0 +1,35 @@
+{
+  "id": "48779cb5-b94a-4bc0-bd85-f6fa439b6ea8",
+  "age": 24,
+  "birth_date": "2002-12-24",
+  "marital_status": "married",
+  "region": "Hradec nad Moravicí",
+  "nationality": "czech",
+  "company": "Macháček Veselá s.r.o.",
+  "car_brand": "Toyota",
+  "self_first_name": "Šimon",
+  "self_last_name": "Kadlec",
+  "partner_first_name": "Dorota",
+  "partner_last_name": "Kadlecová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "hraní her",
+    "poslech hudby",
+    "cestování po Česku"
+  ],
+  "previous_passwords": [
+    "Slavia24!",
+    "Hokej92_Toyota",
+    "DorotaFotbal7",
+    "PES2024Simon",
+    "HradecGame24",
+    "ToyotaHockey9",
+    "TravelCzech24",
+    "Hudba2002!",
+    "KadlecMessi7",
+    "Jagr!2002"
+  ]
+}

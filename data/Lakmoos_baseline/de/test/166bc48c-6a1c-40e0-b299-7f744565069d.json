@@ -1,0 +1,35 @@
+{
+  "id": "166bc48c-6a1c-40e0-b299-7f744565069d",
+  "gender": "female",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Fiat",
+  "self_first_name": "Lena",
+  "self_last_name": "Kuhn",
+  "birth_date": "1996-05-14",
+  "partner_first_name": "Jonas",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "dark",
+    "bouldern",
+    "tatort"
+  ],
+  "pets": [],
+  "company": "Gesundheitszentrum Rheinblick",
+  "previous_passwords": [
+    "Lena1996",
+    "KuhnDark14",
+    "bouldern_123",
+    "Tatort!2020",
+    "JonasLena96",
+    "Dark_2017",
+    "Gesundheit!96",
+    "rheinblick14",
+    "KuhnBouldern!",
+    "TatortKuhn2023"
+  ],
+  "favorite_hobby": "dark"
+}

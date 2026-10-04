@@ -1,0 +1,34 @@
+{
+  "id": "c5eafcb4-3843-48a5-9f21-36825a3b63ce",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "married",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1960-06-12",
+  "partner_first_name": "Vladimír",
+  "partner_last_name": "Kohoutová",
+  "children": [],
+  "interests": [
+    "ordinace v růžové zahradě",
+    "pečení",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "Liberecká finanční kancelář",
+  "previous_passwords": [
+    "Jitka1960",
+    "Kohoutova123",
+    "Ordinace2020",
+    "Vladimir60",
+    "Peceni2022",
+    "krizovky_12",
+    "Liberec!64",
+    "KohoutovaOrdinace",
+    "JitkaVladka2023"
+  ],
+  "favorite_hobby": "ordinace v růžové zahradě"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "07fda845-05f2-4e1b-8e17-cd35600b9e8c",
+  "age": 51,
+  "birth_date": "1975-02-14",
+  "marital_status": "divorced",
+  "region": "Günzburg",
+  "nationality": "german",
+  "company": "Röhricht GmbH",
+  "car_brand": "Audi",
+  "self_first_name": "Deborah",
+  "self_last_name": "Schottin",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Juliana",
+      "last_name": "Schottin"
+    },
+    {
+      "first_name": "Constance",
+      "last_name": "Schottin"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Irmi"
+    },
+    {
+      "pet_type": "snake",
+      "pet_name": "Jan"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Deutsche Küche",
+    "Lesen",
+    "Autos"
+  ],
+  "previous_passwords": [
+    "Messi1975!",
+    "AudiWander123",
+    "JanIrmiWandern",
+    "JulianaFußball24",
+    "DeutscheKuche75",
+    "ConstanceAudi!",
+    "LesenIrmi1990",
+    "GünzburgMessi1",
+    "AudiJan2023",
+    "FußballLesen75"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "02055b8a-7669-4f9b-b689-fcabd474b375",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "knihy",
+    "turistika",
+    "malování",
+    "plavání"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Strojírny Zdice",
+  "previous_passwords": [
+    "Micka2017",
+    "Iveta38!",
+    "Turistika123",
+    "Sebestova79",
+    "Knihy2024",
+    "RajecVoda!",
+    "Hyundaii30",
+    "Malovani_89",
+    "Plavani2023",
+    "M1cka_123"
+  ],
+  "favorite_hobby": "knihy",
+  "birth_date": "1988-03-12"
+}

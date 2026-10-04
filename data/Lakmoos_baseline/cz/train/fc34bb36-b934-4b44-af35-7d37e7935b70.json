@@ -1,0 +1,40 @@
+{
+  "id": "fc34bb36-b934-4b44-af35-7d37e7935b70",
+  "gender": "female",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Vacková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "tanec",
+    "malování",
+    "seriály"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2009",
+    "mojezivot123",
+    "slunicko13",
+    "Vackova2022",
+    "Micka_09",
+    "tanec123",
+    "malovani2021",
+    "serialy_13",
+    "M1cka!",
+    "TerezkaVackova"
+  ],
+  "favorite_hobby": "tanec",
+  "birth_date": "2012-11-25"
+}

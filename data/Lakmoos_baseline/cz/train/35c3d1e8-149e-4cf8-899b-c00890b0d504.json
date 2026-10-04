@@ -1,0 +1,41 @@
+{
+  "id": "35c3d1e8-149e-4cf8-899b-c00890b0d504",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Suzuki",
+  "self_first_name": "Tereza",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Jakub",
+  "partner_last_name": "Šebestová",
+  "children": [],
+  "interests": [
+    "malování",
+    "plavání",
+    "knihy",
+    "cestování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Míca"
+    }
+  ],
+  "company": "Knihy a Barvy s.r.o.",
+  "previous_passwords": [
+    "Tereza19",
+    "Mica2020",
+    "Jakub123",
+    "Plavani_11",
+    "Sebestova98",
+    "KnihyDobro",
+    "Cestovani2022",
+    "Malovani!",
+    "SuzukiSwift24",
+    "M1ca_kočka"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2006-09-09"
+}

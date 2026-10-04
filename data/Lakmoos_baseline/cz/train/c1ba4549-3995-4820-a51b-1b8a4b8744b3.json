@@ -1,0 +1,36 @@
+{
+  "id": "c1ba4549-3995-4820-a51b-1b8a4b8744b3",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "Citroën",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "auta",
+    "technologie",
+    "cestování"
+  ],
+  "pets": [],
+  "company": "Pardubická IT komunikace",
+  "previous_passwords": [
+    "Citroen2013",
+    "Kofola98",
+    "Pardubice123",
+    "Kaufland2020",
+    "TigerEnergy",
+    "Vesely1995",
+    "Fotbal!21",
+    "RadekC4",
+    "KFCmenu22",
+    "Auta_987"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1997-02-10"
+}

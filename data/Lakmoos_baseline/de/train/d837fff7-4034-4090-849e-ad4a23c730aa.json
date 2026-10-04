@@ -1,0 +1,34 @@
+{
+  "id": "d837fff7-4034-4090-849e-ad4a23c730aa",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Subaru",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Krause",
+  "partner_first_name": "Birgit",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "camping",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Westfalen Service GmbH",
+  "previous_passwords": [
+    "Juergen1969",
+    "Birgit123",
+    "SubaruXV2015",
+    "Krause!55",
+    "Camping2023",
+    "Westfalen85",
+    "Wandern_1",
+    "BKK_5000",
+    "Nokia_Android",
+    "FussballNRW"
+  ],
+  "favorite_hobby": "camping",
+  "birth_date": "1971-03-09"
+}

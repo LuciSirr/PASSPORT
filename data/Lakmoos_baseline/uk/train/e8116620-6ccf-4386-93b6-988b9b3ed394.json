@@ -1,0 +1,40 @@
+{
+  "id": "e8116620-6ccf-4386-93b6-988b9b3ed394",
+  "gender": "female",
+  "age": 54,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Fenland Public Services",
+  "previous_passwords": [
+    "Fiona1969",
+    "Misty123",
+    "Ashcroft2020",
+    "Travel4Fun",
+    "Reading!54",
+    "Fenland2022",
+    "Martin69",
+    "Gardening_1",
+    "Misty!Ash",
+    "Fiona!Martin"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1971-06-05"
+}

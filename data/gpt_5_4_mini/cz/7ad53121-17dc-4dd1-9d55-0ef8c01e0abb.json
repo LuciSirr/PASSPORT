@@ -1,0 +1,44 @@
+{
+  "id": "7ad53121-17dc-4dd1-9d55-0ef8c01e0abb",
+  "age": 43,
+  "birth_date": "1983-12-25",
+  "marital_status": "divorced",
+  "region": "Rudná",
+  "nationality": "czech",
+  "company": "Krejčová",
+  "car_brand": "Škoda",
+  "self_first_name": "Olga",
+  "self_last_name": "Šmídová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Hubert"
+    },
+    {
+      "pet_type": "ferret",
+      "pet_name": "Dita"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "hokej",
+    "vaření",
+    "zahradničení"
+  ],
+  "previous_passwords": [
+    "Turistika83!",
+    "SkodaHubert25",
+    "HokejRuda83",
+    "CykloDita12",
+    "Vareni25_olga",
+    "Zahrada1983!",
+    "RudnaBike83",
+    "HubertHike12",
+    "OlgaSkoda43",
+    "CzechHokej!"
+  ]
+}

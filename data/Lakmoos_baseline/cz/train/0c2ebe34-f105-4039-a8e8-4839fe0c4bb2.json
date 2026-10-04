@@ -1,0 +1,35 @@
+{
+  "id": "0c2ebe34-f105-4039-a8e8-4839fe0c4bb2",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vít",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "nakupování",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Pražská Administrativa s.r.o.",
+  "previous_passwords": [
+    "VitSebe2019",
+    "Kamiq2019",
+    "Budvar123",
+    "Prague2020",
+    "Shell567",
+    "Nakupovani21",
+    "Hudba2024",
+    "Tesco867",
+    "Zalando21",
+    "Auta999"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2004-05-14"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "1ba995af-7878-49f5-a58a-1f3f26777910",
+  "age": 38,
+  "birth_date": "1988-08-09",
+  "marital_status": "married",
+  "region": "Flöha",
+  "nationality": "german",
+  "company": "Ziegert",
+  "car_brand": "Seat",
+  "self_first_name": "Helma",
+  "self_last_name": "Beckmann",
+  "partner_first_name": "Gotthilf",
+  "partner_last_name": "Beckmann",
+  "children": [
+    {
+      "first_name": "Mahmoud",
+      "last_name": "Beckmann"
+    },
+    {
+      "first_name": "Mikhail",
+      "last_name": "Beckmann"
+    },
+    {
+      "first_name": "Tilly",
+      "last_name": "Beckmann"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Autos",
+    "Fotografie",
+    "Metal Musik",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "SeatWandern88",
+    "MahmoudFoto22!",
+    "MetalMusikFlöha",
+    "Messi19Beckmann",
+    "TillyAuto89_",
+    "GotthilfWandern!",
+    "Fotografie88TJ",
+    "Metal_Mahmoud",
+    "Lokalerfussball8",
+    "SeatMetal_89"
+  ]
+}

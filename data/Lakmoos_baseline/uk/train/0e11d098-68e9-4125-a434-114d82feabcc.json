@@ -1,0 +1,40 @@
+{
+  "id": "0e11d098-68e9-4125-a434-114d82feabcc",
+  "gender": "female",
+  "age": 4,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Loxley",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dolls",
+    "puzzles"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Maisie2019",
+    "Mittens123",
+    "Loxley4",
+    "DrawingFun!",
+    "Dolls2023",
+    "LondonCat",
+    "M4isie",
+    "MittensLoxley",
+    "Puzzles19",
+    "Maisie_Mittens"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2022-01-15"
+}

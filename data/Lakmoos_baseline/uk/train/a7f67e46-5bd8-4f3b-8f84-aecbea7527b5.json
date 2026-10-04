@@ -1,0 +1,40 @@
+{
+  "id": "a7f67e46-5bd8-4f3b-8f84-aecbea7527b5",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Smart",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Fenland Strategic Solutions",
+  "previous_passwords": [
+    "Fiona1971",
+    "Milo123",
+    "Gardening!21",
+    "Hollingsworth2020",
+    "Travel4Life",
+    "Martin2022",
+    "Reading_53",
+    "SmartCar23",
+    "Fenland15",
+    "Milo!2021"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1972-05-04"
+}

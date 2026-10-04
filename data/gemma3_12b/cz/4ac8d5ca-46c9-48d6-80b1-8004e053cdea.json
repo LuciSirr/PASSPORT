@@ -1,0 +1,35 @@
+{
+  "id": "4ac8d5ca-46c9-48d6-80b1-8004e053cdea",
+  "age": 55,
+  "birth_date": "1971-02-21",
+  "marital_status": "married",
+  "region": "Blšany",
+  "nationality": "czech",
+  "company": "Čech Bartoš o.s.",
+  "car_brand": "Kia",
+  "self_first_name": "Luděk",
+  "self_last_name": "Kovář",
+  "partner_first_name": "Anežka",
+  "partner_last_name": "Kovářová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "zahradničení",
+    "česká kuchyně",
+    "historie"
+  ],
+  "previous_passwords": [
+    "BlsanyTuristika21",
+    "AnežkaRybářství1971",
+    "KiaZahrada_2023",
+    "CeskaKuchyněMessi!",
+    "HistorieBlšanyKovar",
+    "LudekTuristika71",
+    "Blsany_Rybar!",
+    "ZahradniHistorie23",
+    "KiaAnežka_Turistika",
+    "MessiCeskaKuchyne"
+  ]
+}

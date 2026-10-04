@@ -1,0 +1,33 @@
+{
+  "id": "3d500457-00ef-40a0-b3d4-6d7322af999b",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Ford",
+  "self_first_name": "Heinrich",
+  "self_last_name": "Krause",
+  "birth_date": "1954-06-12",
+  "partner_first_name": "Brigitte",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "schach"
+  ],
+  "pets": [],
+  "company": "Krause & Partner Unternehmensberatung",
+  "previous_passwords": [
+    "Krause1954",
+    "Tatort123",
+    "Brigitte12",
+    "Schachmeister54",
+    "Krause!Schach",
+    "Tat0rt_1954",
+    "BrigitteKrause",
+    "Krause_Tatort",
+    "Schach!1954"
+  ],
+  "favorite_hobby": "tatort"
+}

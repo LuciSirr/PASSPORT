@@ -1,0 +1,36 @@
+{
+  "id": "d47fc54b-f1b3-4be2-bf06-e42e02fc28b9",
+  "gender": "female",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Audi",
+  "self_first_name": "Annika",
+  "self_last_name": "Schwanitz",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "musik",
+    "streaming",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Annika1996",
+    "AudiQ2_2024",
+    "Schwanitz123",
+    "Sommer06!",
+    "Reisen2023",
+    "Musik_4ever",
+    "Nordrhein2010",
+    "Berlin_96",
+    "Schatz9000",
+    "AOK_123"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1997-11-06"
+}

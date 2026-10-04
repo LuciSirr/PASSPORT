@@ -1,0 +1,40 @@
+{
+  "id": "87c1ce18-0af2-496c-8370-e2a4aad6575b",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Suzuki",
+  "self_first_name": "Gareth",
+  "self_last_name": "Penrose",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Penrose",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "antiques"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Gareth1954",
+    "Baxter123",
+    "Penrose!54",
+    "Margaret4",
+    "SuzukiIgnis18",
+    "Gardening2020",
+    "Wales_999",
+    "BaxterPenrose",
+    "Walking54",
+    "Antiques!1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1956-02-20"
+}

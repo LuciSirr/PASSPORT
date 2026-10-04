@@ -1,0 +1,35 @@
+{
+  "id": "9f680eb0-af55-41bb-8fc4-8cf52b573641",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Rhiannon",
+  "self_last_name": "Pritchard",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "walking",
+    "baking",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Rhiannon1993",
+    "MercedesGLC22",
+    "Wales123",
+    "Baking4Life",
+    "Pritchard!1",
+    "Walking2022",
+    "Netflix_99",
+    "GLC4WD",
+    "Rhi4nn0n",
+    "Wales_987"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1995-05-21"
+}

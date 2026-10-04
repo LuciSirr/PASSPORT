@@ -1,0 +1,48 @@
+{
+  "id": "c8f04d1b-ba54-457d-a2dc-fe40053dc4c8",
+  "age": 52,
+  "birth_date": "1974-08-03",
+  "marital_status": "married",
+  "region": "Ronov nad Doubravou",
+  "nationality": "czech",
+  "company": "Sedláková",
+  "car_brand": "Škoda",
+  "self_first_name": "Lýdie",
+  "self_last_name": "Procházková",
+  "partner_first_name": "Zikmund",
+  "partner_last_name": "Procházková",
+  "children": [
+    {
+      "first_name": "Felix",
+      "last_name": "Procházka"
+    },
+    {
+      "first_name": "Otýlie",
+      "last_name": "Procházková"
+    },
+    {
+      "first_name": "Jindřich",
+      "last_name": "Procházka"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "zahradničení",
+    "turistika",
+    "chalupaření",
+    "fotbal",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "Zahrada74!",
+    "Skoda1974",
+    "Turistika52",
+    "Rybarska74",
+    "FotbalJindrich7",
+    "ChalupaRonov74",
+    "Zikmund3!",
+    "FelixTour24",
+    "Doubrouvka52",
+    "OtylieGarden8"
+  ]
+}

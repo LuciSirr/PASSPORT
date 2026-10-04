@@ -1,0 +1,33 @@
+{
+  "id": "9aa386d1-bccd-40f8-833f-428997450f28",
+  "gender": "male",
+  "age": 32,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "BMW",
+  "self_first_name": "Gareth",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "cycling",
+    "football",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "South Downs Construction Ltd",
+  "previous_passwords": [
+    "Gareth1989",
+    "BMW1Series!",
+    "Sophie2023",
+    "Merrick123",
+    "Football4Life",
+    "SouthDowns22",
+    "Cycling_89",
+    "Gardening!1"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1993-05-18"
+}

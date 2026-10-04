@@ -1,0 +1,34 @@
+{
+  "id": "f7141e10-b3d7-4b21-baaf-07b16e8eade9",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Seat",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "hiking",
+    "football",
+    "travelling"
+  ],
+  "pets": [],
+  "company": "Northway Motor Parts",
+  "previous_passwords": [
+    "Arona2017",
+    "Callum28",
+    "Hollis999",
+    "SeatFan123",
+    "Liverpool19",
+    "MotorParts21",
+    "Hiking2020",
+    "Travel4Fun",
+    "NorthWest88"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1998-02-01"
+}

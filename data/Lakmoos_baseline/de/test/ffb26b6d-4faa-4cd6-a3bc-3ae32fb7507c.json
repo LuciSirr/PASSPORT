@@ -1,0 +1,34 @@
+{
+  "id": "ffb26b6d-4faa-4cd6-a3bc-3ae32fb7507c",
+  "gender": "male",
+  "age": 80,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Jeep",
+  "self_first_name": "Heinz",
+  "self_last_name": "Kuhn",
+  "birth_date": "1944-06-15",
+  "partner_first_name": "Gertrud",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "tatort",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heinz1944",
+    "Tatort123",
+    "Kuhn!2019",
+    "Gertrud15",
+    "Audiobuch2020",
+    "Tat0rt_44",
+    "KuhnTatort",
+    "Gertrud1944",
+    "Niedersachsen1",
+    "Tatort!Kuhn"
+  ],
+  "favorite_hobby": "tatort"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0bd986c7-b996-4f8e-a487-a40a55198d63",
+  "gender": "female",
+  "age": 62,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "procházky",
+    "facebook",
+    "nakupování",
+    "křížovky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Jarmila1962",
+    "Miroslav62",
+    "Micka123",
+    "Vesela16",
+    "KFCobliba",
+    "prochazky2020",
+    "Lidl725",
+    "MiroslavJarmila",
+    "křížovky2023",
+    "Micka!"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1964-01-18"
+}

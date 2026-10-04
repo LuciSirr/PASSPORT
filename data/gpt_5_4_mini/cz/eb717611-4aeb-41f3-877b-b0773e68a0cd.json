@@ -1,0 +1,35 @@
+{
+  "id": "eb717611-4aeb-41f3-877b-b0773e68a0cd",
+  "age": 51,
+  "birth_date": "1975-10-30",
+  "marital_status": "single",
+  "region": "Loštice",
+  "nationality": "czech",
+  "company": "Bureš",
+  "car_brand": "Hyundai",
+  "self_first_name": "Karolína",
+  "self_last_name": "Moravcová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "české filmy",
+    "vaření",
+    "fotbal"
+  ],
+  "previous_passwords": [
+    "Hory1975!",
+    "Zahrada30",
+    "Batistuta75",
+    "Hyundai51",
+    "Ceskefilmy10",
+    "VareniLostice",
+    "Sparta1975",
+    "Moravcova!30",
+    "Turistika75",
+    "Lostice!51"
+  ]
+}

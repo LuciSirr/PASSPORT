@@ -1,0 +1,35 @@
+{
+  "id": "6809bfb6-66c5-43e9-96cd-72fb4d381a75",
+  "gender": "male",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kohout",
+  "birth_date": "2008-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "rychle a zběsile",
+    "motorsport"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Matej2008",
+    "KohoutFifa14",
+    "fifa123",
+    "RychleZbesile08",
+    "motorsport_998",
+    "Aygo2021",
+    "Kohout!16",
+    "fifaKohout08",
+    "FastFurious54",
+    "matej_fifa08"
+  ],
+  "favorite_hobby": "fifa"
+}

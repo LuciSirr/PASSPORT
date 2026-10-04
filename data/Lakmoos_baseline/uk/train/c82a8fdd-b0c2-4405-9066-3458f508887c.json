@@ -1,0 +1,33 @@
+{
+  "id": "c82a8fdd-b0c2-4405-9066-3458f508887c",
+  "gender": "male",
+  "age": 56,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Graham",
+  "self_last_name": "Fenwick",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Fenwick",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "East Midlands Scientific Consulting",
+  "previous_passwords": [
+    "Fenwick1968",
+    "Helen2023",
+    "Polestar2!",
+    "Walking123",
+    "EastMidlands56",
+    "Graham!68",
+    "Travel2022",
+    "Gardening_1"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1969-12-19"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "da839e48-48ce-4d7e-a16f-90ca3daf9dd7",
+  "gender": "female",
+  "age": 84,
+  "marital_status": "widower/widow",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Libuše",
+  "self_last_name": "Krejzová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "křížovky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Libuse1939",
+    "JizniBohemia84",
+    "Krejzova19",
+    "Penny618",
+    "Mattoni2022",
+    "Cteni123",
+    "Krizovky!84",
+    "Lidka_999",
+    "Vitana2020",
+    "Kaufland39"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1942-03-05"
+}

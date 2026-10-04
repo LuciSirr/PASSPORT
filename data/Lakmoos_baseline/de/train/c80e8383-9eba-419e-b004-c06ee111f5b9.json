@@ -1,0 +1,35 @@
+{
+  "id": "c80e8383-9eba-419e-b004-c06ee111f5b9",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "single/in a relationship",
+  "region": "bremen",
+  "nationality": "german",
+  "car_brand": "Porsche",
+  "self_first_name": "Rainer",
+  "self_last_name": "Kühn",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "musik",
+    "auto"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Kuehn1956",
+    "Rainer123",
+    "Macan2016!",
+    "Bremen_58",
+    "Sommerurlaub2022",
+    "Porsche2894",
+    "Musikliebhaber!",
+    "ReisenAugust",
+    "Sparkasse253",
+    "Auto4ever"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1968-03-08"
+}

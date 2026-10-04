@@ -1,0 +1,48 @@
+{
+  "id": "78a95eab-d18b-41e7-8195-c54c398dc0d3",
+  "age": 43,
+  "birth_date": "1983-08-17",
+  "marital_status": "married",
+  "region": "Rosenheim",
+  "nationality": "german",
+  "company": "Siering",
+  "car_brand": "Audi",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Trüb",
+  "partner_first_name": "Kristin",
+  "partner_last_name": "Trüb",
+  "children": [
+    {
+      "first_name": "Gerold",
+      "last_name": "Trüb"
+    },
+    {
+      "first_name": "Anneli",
+      "last_name": "Trüb"
+    },
+    {
+      "first_name": "Centa",
+      "last_name": "Trüb"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Biergarten",
+    "Lokaler Fußballverein",
+    "Gitarre"
+  ],
+  "previous_passwords": [
+    "Gerold2011Wandern",
+    "Messi83Foto",
+    "AudiRosenheim23",
+    "AnneliGitarre!",
+    "CentaTrubBayern",
+    "KristinWanderlust83",
+    "RosenheimFCB2024",
+    "Gerold_Fotografie",
+    "JuergenBiergarten1983",
+    "Audi_Berg2011"
+  ]
+}

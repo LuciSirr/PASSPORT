@@ -1,0 +1,35 @@
+{
+  "id": "50f70a41-cec2-44a3-a634-b0932e5a4e19",
+  "age": 48,
+  "birth_date": "1978-07-19",
+  "marital_status": "married",
+  "region": "East Graemehaven",
+  "nationality": "english",
+  "company": "Hall-Thompson",
+  "car_brand": "Hyundai",
+  "self_first_name": "Marian",
+  "self_last_name": "Jones",
+  "partner_first_name": "Douglas",
+  "partner_last_name": "Young",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "cooking",
+    "history documentaries",
+    "local football"
+  ],
+  "previous_passwords": [
+    "Garden78!",
+    "Walking19",
+    "Hyundai48",
+    "History77!",
+    "Footy1978",
+    "Douglas19!",
+    "EastGraeme48",
+    "CookBook78",
+    "Marian07!",
+    "Walk_Hy78"
+  ]
+}

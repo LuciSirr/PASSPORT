@@ -1,0 +1,38 @@
+{
+  "id": "f12dff6b-855b-421c-9f70-aa5756f22519",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Macrae",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Willow"
+    }
+  ],
+  "company": "Highland Study Buddies",
+  "previous_passwords": [
+    "Maisie2018",
+    "WillowCat1",
+    "Macrae123",
+    "Drawing4Fun",
+    "ReadingRocks!",
+    "Highland2020",
+    "Willow_18",
+    "MaisieCat!",
+    "Macrae4Life"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2019-08-11"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "aaa4b057-c8a6-4185-911c-6d6301d85712",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Citroën",
+  "self_first_name": "Annika",
+  "self_last_name": "Schröder",
+  "partner_first_name": "Markus",
+  "partner_last_name": "Schröder",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Schröder"
+    },
+    {
+      "first_name": "Jonas",
+      "last_name": "Schröder"
+    },
+    {
+      "first_name": "Mila",
+      "last_name": "Schröder"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "gartenarbeit",
+    "backen"
+  ],
+  "pets": [
+    {
+      "pet_type": "katze",
+      "pet_name": "Momo"
+    }
+  ],
+  "company": "Pflegezentrum Hessen",
+  "previous_passwords": [
+    "Annika1989",
+    "Lena2016",
+    "Schröder123",
+    "Momo!2020",
+    "Markus_08",
+    "PflegezentrumHessen",
+    "Backen4ever",
+    "Jonas2019",
+    "Sommerurlaub2023",
+    "Mila1.2023"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1990-10-20"
+}

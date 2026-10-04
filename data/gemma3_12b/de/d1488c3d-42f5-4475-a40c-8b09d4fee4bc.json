@@ -1,0 +1,35 @@
+{
+  "id": "d1488c3d-42f5-4475-a40c-8b09d4fee4bc",
+  "age": 54,
+  "birth_date": "1972-10-18",
+  "marital_status": "single",
+  "region": "Bad Kreuznach",
+  "nationality": "german",
+  "company": "Seifert KG",
+  "car_brand": "BMW",
+  "self_first_name": "Alma",
+  "self_last_name": "Striebitz",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Deutsche Küche",
+    "Fußball (1. FC Kaiserslautern)",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "Kaiserslautern1972",
+    "WanderlustAlma72",
+    "FotografieBMW!",
+    "DeutscheKueche23",
+    "BachFanAlma_88",
+    "MessiBadKreuznach",
+    "AlmasFotoWander",
+    "Klassik1968Alma",
+    "BMW_Kaisers1970",
+    "AlmaFotoClassic!"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "a4990d11-eb76-4e4e-acab-efccf9297c62",
+  "age": 37,
+  "birth_date": "1989-04-03",
+  "marital_status": "divorced",
+  "region": "Barnesport",
+  "nationality": "english",
+  "company": "Phillips Ltd",
+  "car_brand": "Volvo",
+  "self_first_name": "Eileen",
+  "self_last_name": "Carr",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Leslie"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Sophie"
+    }
+  ],
+  "interests": [
+    "hiking",
+    "podcasts",
+    "home cooking",
+    "live music",
+    "football"
+  ],
+  "previous_passwords": [
+    "LeslieHike89!",
+    "SophieCook03",
+    "VolvoPod89_",
+    "BarnesportFC37",
+    "CarrMusic!04",
+    "HikeVolvo3",
+    "LeslieCats89",
+    "PodcastsCarr!",
+    "Hike03Sophie",
+    "VolvoFootball37"
+  ]
+}

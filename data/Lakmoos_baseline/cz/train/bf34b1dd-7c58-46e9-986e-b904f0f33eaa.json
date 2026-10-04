@@ -1,0 +1,40 @@
+{
+  "id": "bf34b1dd-7c58-46e9-986e-b904f0f33eaa",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "auta",
+    "turistika",
+    "grilování"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "AutoServis U Labe",
+  "previous_passwords": [
+    "ToyotaHilux2011",
+    "Fabia999",
+    "Usti2024",
+    "Kofola123",
+    "Svatba2024",
+    "Rexik07",
+    "PetraRadek22",
+    "Grilovani!",
+    "Auta4life",
+    "Vesely2024"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1999-02-06"
+}

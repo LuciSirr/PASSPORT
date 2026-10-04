@@ -1,0 +1,35 @@
+{
+  "id": "328eab8c-2d30-483b-a3eb-99f4700243cb",
+  "gender": "female",
+  "age": 48,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Křivánková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "křížovky",
+    "čtení",
+    "kavárna"
+  ],
+  "pets": [],
+  "company": "Pražské administrativní služby s.r.o.",
+  "previous_passwords": [
+    "Iveta1976",
+    "Fabia2014",
+    "Praha51k",
+    "Krizovky123",
+    "Kavarna2020",
+    "LidlOblibena",
+    "BohemiaSekt2020",
+    "Rohlik123",
+    "Křivánková76",
+    "Cteni!2021"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1978-03-08"
+}

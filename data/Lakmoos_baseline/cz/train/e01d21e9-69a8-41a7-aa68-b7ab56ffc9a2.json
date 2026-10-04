@@ -1,0 +1,34 @@
+{
+  "id": "e01d21e9-69a8-41a7-aa68-b7ab56ffc9a2",
+  "gender": "male",
+  "age": 69,
+  "marital_status": "divorced",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "KIA",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "auta",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "Stavby Olomouc s.r.o.",
+  "previous_passwords": [
+    "Konečný1955",
+    "Olomouc59",
+    "Kia2018",
+    "Kofola2020",
+    "Zahrada123",
+    "Cestovani!55",
+    "Stavba_2017",
+    "AutoKia18",
+    "Vlado!59"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1956-12-27"
+}

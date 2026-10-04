@@ -1,0 +1,35 @@
+{
+  "id": "080c746a-41b5-4750-8c48-451d9d9b31f3",
+  "age": 24,
+  "birth_date": "2002-03-03",
+  "marital_status": "married",
+  "region": "Saarbrücken",
+  "nationality": "german",
+  "company": "Trüb GmbH & Co. OHG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Claudia",
+  "self_last_name": "Gude",
+  "partner_first_name": "Eitel",
+  "partner_last_name": "Gude",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Techno Musik",
+    "Fotografie",
+    "Brettspiele",
+    "FC Saarbrücken",
+    "Reisen"
+  ],
+  "previous_passwords": [
+    "TechnoLiebe2002",
+    "SaarbrueckenFoto!",
+    "EitelClaudia1998",
+    "VWGolfTravel",
+    "FC_Saarbruecken7",
+    "MessiFanClaudia",
+    "Brettspiele24",
+    "Reisen_Claudia03",
+    "Techno_Flow_2003",
+    "SaarlandFoto!"
+  ]
+}

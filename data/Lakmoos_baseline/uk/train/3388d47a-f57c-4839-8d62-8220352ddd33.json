@@ -1,0 +1,40 @@
+{
+  "id": "3388d47a-f57c-4839-8d62-8220352ddd33",
+  "gender": "female",
+  "age": 5,
+  "marital_status": "single/in a relationship",
+  "region": "northern ireland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Kerrigan",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dolls",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "Belfast Study Support",
+  "previous_passwords": [
+    "Maisie2019",
+    "Mittens123",
+    "Kerrigan22",
+    "Drawing4Fun",
+    "Dolls2021",
+    "MaisieCat!",
+    "Reading_5",
+    "Belfast2020",
+    "Mittens!",
+    "K3rr1g4n"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2021-01-29"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cbe4c6b1-881f-42bd-a5da-a4a7fbb687c4",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Dacia",
+  "self_first_name": "Graham",
+  "self_last_name": "Carmichael",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Carmichael",
+  "children": [],
+  "interests": [
+    "hillwalking",
+    "gardening",
+    "motoring"
+  ],
+  "pets": [],
+  "company": "Lochside Scientific Consulting",
+  "previous_passwords": [
+    "Graham1977",
+    "Fiona4ever",
+    "DaciaSandero16",
+    "Carmichael5000",
+    "Lochside2020",
+    "Hillwalking123",
+    "Porsche84122",
+    "Gardening!",
+    "Fiona1979",
+    "Motoring999"
+  ],
+  "favorite_hobby": "hillwalking",
+  "birth_date": "1978-09-24"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "71185d75-fb6b-44a6-8e1f-88f9329597d1",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "čtení",
+    "malování",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Ivana1987",
+    "Šebestová123",
+    "PetrIvana2020",
+    "Bohemia59",
+    "Učení2024",
+    "Malování!59",
+    "Čtení_123",
+    "Turistika2021",
+    "Petr_Šebestová",
+    "IvanaPetr2023"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1964-10-12"
+}

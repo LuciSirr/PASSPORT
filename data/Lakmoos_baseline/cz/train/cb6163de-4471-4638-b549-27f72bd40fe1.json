@@ -1,0 +1,36 @@
+{
+  "id": "cb6163de-4471-4638-b549-27f72bd40fe1",
+  "gender": "female",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "čtení",
+    "nakupování",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Škola EduPraha",
+  "previous_passwords": [
+    "Barca2018",
+    "Praha79",
+    "Cestovani123",
+    "Vesela_63000",
+    "NetflixBarca",
+    "Kofola2020",
+    "Nakupovani!",
+    "ZalandoCZ",
+    "Seriály2024",
+    "Ucitelka33"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1993-02-06"
+}

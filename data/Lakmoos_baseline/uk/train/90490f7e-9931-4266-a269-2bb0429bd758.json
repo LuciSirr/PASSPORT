@@ -1,0 +1,39 @@
+{
+  "id": "90490f7e-9931-4266-a269-2bb0429bd758",
+  "gender": "female",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "north east",
+  "nationality": "british",
+  "car_brand": "Seat",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "driving",
+    "baking",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Milo2021",
+    "Ibiza999",
+    "Imogen15",
+    "BakeOff23",
+    "Hollingsworth1",
+    "VWSeat22",
+    "Walking123",
+    "Milo!cat",
+    "NorthEast24"
+  ],
+  "favorite_hobby": "driving",
+  "birth_date": "2002-03-14"
+}

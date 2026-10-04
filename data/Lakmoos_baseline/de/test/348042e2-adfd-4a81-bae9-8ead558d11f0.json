@@ -1,0 +1,34 @@
+{
+  "id": "348042e2-adfd-4a81-bae9-8ead558d11f0",
+  "gender": "female",
+  "age": 85,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gertrud",
+  "self_last_name": "Kuhn",
+  "birth_date": "1939-06-15",
+  "partner_first_name": "Heinrich",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosenzucht",
+    "krimiromane"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gertrud1933",
+    "KuhnRos3n",
+    "Heinrich15",
+    "rosenzucht_33",
+    "Krimi2020",
+    "Kuhn!Krimi",
+    "Sachsen_1948",
+    "G3rtrudKuhn",
+    "rosen!15",
+    "KuhnKrimi33"
+  ],
+  "favorite_hobby": "rosenzucht"
+}

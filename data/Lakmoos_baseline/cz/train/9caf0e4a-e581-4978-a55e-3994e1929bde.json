@@ -1,0 +1,35 @@
+{
+  "id": "9caf0e4a-e581-4978-a55e-3994e1929bde",
+  "gender": "male",
+  "age": 82,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "procházky",
+    "čtení",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1942",
+    "Marie1965",
+    "Superb17",
+    "domekHradec",
+    "prochazky123",
+    "Konecny2020",
+    "zahrada55",
+    "Tesco731",
+    "Skoda1968",
+    "Penny16"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1944-03-20"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "80445058-f493-4fd7-8a5a-97d76ad9f5e1",
+  "age": 49,
+  "birth_date": "1977-10-18",
+  "marital_status": "single",
+  "region": "Teplice",
+  "nationality": "czech",
+  "company": "Ševčík Havlíček s.r.o.",
+  "car_brand": "Ford",
+  "self_first_name": "Jana",
+  "self_last_name": "Pospíšilová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika v Krušných horách",
+    "vaření české kuchyně",
+    "fotbal",
+    "hokej",
+    "křížovky"
+  ],
+  "previous_passwords": [
+    "KrusneHory77!",
+    "SpartaHokej18",
+    "Krizovky_77",
+    "FordTeplice77",
+    "CeskeJidlo49",
+    "BohemianFC18",
+    "Turistika10!",
+    "Hokej_1977",
+    "JanaKrizovky",
+    "Krusne_18Ford"
+  ]
+}

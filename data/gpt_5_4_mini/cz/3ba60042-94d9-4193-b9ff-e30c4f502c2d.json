@@ -1,0 +1,35 @@
+{
+  "id": "3ba60042-94d9-4193-b9ff-e30c4f502c2d",
+  "age": 45,
+  "birth_date": "1981-12-27",
+  "marital_status": "divorced",
+  "region": "Javorník",
+  "nationality": "czech",
+  "company": "Růžičková o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Olivie",
+  "self_last_name": "Nováková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika v Jeseníkách",
+    "sledování hokeje",
+    "zahradničení",
+    "domácí kutilství",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "Jeseniky81!",
+    "Skoda1981",
+    "Hokej27",
+    "Rybareni45",
+    "Zahrada81",
+    "Turistika27!",
+    "Javornik81",
+    "Kutil21",
+    "Olivie81!",
+    "SkodaJeseniky"
+  ]
+}

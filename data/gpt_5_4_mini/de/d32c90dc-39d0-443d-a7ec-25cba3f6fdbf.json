@@ -1,0 +1,44 @@
+{
+  "id": "d32c90dc-39d0-443d-a7ec-25cba3f6fdbf",
+  "age": 30,
+  "birth_date": "1996-10-08",
+  "marital_status": "divorced",
+  "region": "Rudolstadt",
+  "nationality": "german",
+  "company": "Bruder Döhn AG & Co. KGaA",
+  "car_brand": "BMW",
+  "self_first_name": "Wigbert",
+  "self_last_name": "Margraf",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Hans-Martin"
+    },
+    {
+      "pet_type": "ferret",
+      "pet_name": "Lilo"
+    }
+  ],
+  "interests": [
+    "Wandern im Thüringer Wald",
+    "Fußball",
+    "Kochen",
+    "Gaming",
+    "Musikfestivals"
+  ],
+  "previous_passwords": [
+    "Wandern96!",
+    "ThueringerWald08",
+    "FussballBMW30",
+    "LiloKicker96",
+    "KochenHans99",
+    "GamingRudol!",
+    "FestivalWigbert26",
+    "BayernLilo08",
+    "MusikBMW96",
+    "WigbertWandert!"
+  ]
+}

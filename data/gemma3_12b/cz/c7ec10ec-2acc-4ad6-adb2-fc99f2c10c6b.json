@@ -1,0 +1,48 @@
+{
+  "id": "c7ec10ec-2acc-4ad6-adb2-fc99f2c10c6b",
+  "age": 49,
+  "birth_date": "1977-05-15",
+  "marital_status": "married",
+  "region": "Slavonice",
+  "nationality": "czech",
+  "company": "Kovářová",
+  "car_brand": "Hyundai",
+  "self_first_name": "Felix",
+  "self_last_name": "Kubíček",
+  "partner_first_name": "Světlana",
+  "partner_last_name": "Kubíčková",
+  "children": [
+    {
+      "first_name": "Růžena",
+      "last_name": "Kubíčková"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Kubíčková"
+    },
+    {
+      "first_name": "Vlastimil",
+      "last_name": "Kubíček"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivo",
+    "historie",
+    "škoda auto"
+  ],
+  "previous_passwords": [
+    "HyundaiSlavonice77",
+    "RuzenaTuristika22",
+    "SvencarPivo2024",
+    "TerezaSkoda1977",
+    "VlastimilRybar_15",
+    "TuristikaRuzena!",
+    "HyundaiHistorie98",
+    "SlavoniceMessi24",
+    "PivoSkodaTereza",
+    "Ruzena_77_Fish"
+  ]
+}

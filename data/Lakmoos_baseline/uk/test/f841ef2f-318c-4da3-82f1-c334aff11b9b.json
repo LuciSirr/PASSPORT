@@ -1,0 +1,44 @@
+{
+  "id": "f841ef2f-318c-4da3-82f1-c334aff11b9b",
+  "gender": "female",
+  "age": 42,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Harriet",
+  "self_last_name": "Caldwell",
+  "partner_first_name": "Simon",
+  "partner_last_name": "Caldwell",
+  "children": [
+    {
+      "first_name": "Oscar",
+      "last_name": "Caldwell"
+    }
+  ],
+  "interests": [
+    "travel",
+    "british baking",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "NorthWest Executive Solutions",
+  "previous_passwords": [
+    "Harriet1982",
+    "Milo!15",
+    "Travel2020",
+    "CaldwellGardening",
+    "Simon07_15",
+    "Baking123",
+    "NorthWestExec",
+    "MiloBaking",
+    "Caldwell!1982"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1982-07-15"
+}

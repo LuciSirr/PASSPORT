@@ -1,0 +1,34 @@
+{
+  "id": "0ab3decc-b35c-462d-88a5-343f02a4ebaf",
+  "gender": "male",
+  "age": 49,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Nissan",
+  "self_first_name": "Jörg",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "wandern",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "Westfalen Broker & Beratung GmbH",
+  "previous_passwords": [
+    "Joerg1975",
+    "Sabine123",
+    "NissanJuke2017",
+    "Westfalen21",
+    "Kleinschmidt!21000",
+    "Sommerurlaub2023",
+    "AOK_49",
+    "Wandern2022",
+    "BVB1909",
+    "Audiobuch!75"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1976-07-19"
+}

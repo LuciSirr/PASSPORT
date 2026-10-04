@@ -1,0 +1,40 @@
+{
+  "id": "7e592644-e112-4d47-922f-9175451d1c57",
+  "age": 23,
+  "birth_date": "2003-02-02",
+  "marital_status": "married",
+  "region": "Port Judithfurt",
+  "nationality": "english",
+  "company": "Gardner-Clarke",
+  "car_brand": "Ford",
+  "self_first_name": "Kyle",
+  "self_last_name": "Cook",
+  "partner_first_name": "Lynn",
+  "partner_last_name": "Cook",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Claire"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "fitness",
+    "streaming",
+    "indie music",
+    "travel"
+  ],
+  "previous_passwords": [
+    "LynnF1tness03",
+    "ClaireGaming23!",
+    "FordStream02",
+    "IndieLynn03",
+    "Travel2003!",
+    "CookBeat02",
+    "PortJudithTV23",
+    "LizardFit02",
+    "KyleRogue03",
+    "LynnArcade23"
+  ]
+}

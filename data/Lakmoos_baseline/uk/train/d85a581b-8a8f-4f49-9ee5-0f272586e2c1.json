@@ -1,0 +1,34 @@
+{
+  "id": "d85a581b-8a8f-4f49-9ee5-0f272586e2c1",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Callum",
+  "self_last_name": "Whittaker",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Whittaker",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "cooking"
+  ],
+  "pets": [],
+  "company": "Mersey Stay & Dine",
+  "previous_passwords": [
+    "Callum1994",
+    "Emily4ever",
+    "Whittaker2020",
+    "Polestar2!",
+    "Travel123",
+    "MerseyStay22",
+    "Cycling_94",
+    "Wh1tt4k3r",
+    "Emily!2023"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1995-12-23"
+}

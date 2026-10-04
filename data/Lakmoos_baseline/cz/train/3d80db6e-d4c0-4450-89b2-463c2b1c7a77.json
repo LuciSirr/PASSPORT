@@ -1,0 +1,36 @@
+{
+  "id": "3d80db6e-d4c0-4450-89b2-463c2b1c7a77",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radka",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "malování",
+    "procházky",
+    "vaření",
+    "streamování"
+  ],
+  "pets": [],
+  "company": "Divadlo U Stromu",
+  "previous_passwords": [
+    "Radka1980",
+    "PetrVesely45",
+    "Praha99",
+    "Divadlo2022",
+    "Albert123",
+    "Karoq2017",
+    "Malovani!23",
+    "VeselaPetr2023",
+    "Prochazky_80",
+    "Praha4ever"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "1981-01-30"
+}

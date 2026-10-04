@@ -1,0 +1,40 @@
+{
+  "id": "7db958a8-66f8-4465-978d-573b348134da",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "procházky",
+    "zahrada"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Jarmila1963",
+    "vranaByt100",
+    "Micka123",
+    "zahrada2024",
+    "Cteni!61",
+    "Prochazky77",
+    "BohemiaSekt",
+    "Globus18",
+    "uceni2024",
+    "M1cka!"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1964-08-16"
+}

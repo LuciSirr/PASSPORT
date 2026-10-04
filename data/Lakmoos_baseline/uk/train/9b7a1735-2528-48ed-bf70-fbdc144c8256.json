@@ -1,0 +1,41 @@
+{
+  "id": "9b7a1735-2528-48ed-bf70-fbdc144c8256",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Volvo",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Eastfield Learning Services",
+  "previous_passwords": [
+    "Margaret1963",
+    "Baxter123",
+    "Hollingsworth!61",
+    "Peter1960",
+    "Eastfield2020",
+    "Travel4Fun",
+    "Gardening_1",
+    "Reading3",
+    "Baxter!2023",
+    "Walking1963"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1964-07-23"
+}

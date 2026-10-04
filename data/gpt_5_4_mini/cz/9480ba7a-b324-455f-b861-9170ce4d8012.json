@@ -1,0 +1,35 @@
+{
+  "id": "9480ba7a-b324-455f-b861-9170ce4d8012",
+  "age": 27,
+  "birth_date": "1999-09-12",
+  "marital_status": "divorced",
+  "region": "Opava",
+  "nationality": "czech",
+  "company": "Kopecká Pokorný v.o.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Zdeněk",
+  "self_last_name": "Matějka",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hokej",
+    "fotbal",
+    "turistika",
+    "vaření",
+    "hraní her"
+  ],
+  "previous_passwords": [
+    "Hokej1999!",
+    "Sparta99_",
+    "Toyota27!",
+    "Turistika12",
+    "Warrior99!",
+    "VareniOpava7",
+    "ZdenekHokej9",
+    "Fotbal_99",
+    "GamingToyota27",
+    "Opava1999!"
+  ]
+}

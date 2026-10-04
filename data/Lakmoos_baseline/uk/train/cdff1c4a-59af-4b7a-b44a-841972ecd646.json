@@ -1,0 +1,33 @@
+{
+  "id": "cdff1c4a-59af-4b7a-b44a-841972ecd646",
+  "gender": "female",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Callum",
+  "partner_last_name": "Barker",
+  "children": [],
+  "interests": [
+    "reading",
+    "yoga",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Westfield Student Services",
+  "previous_passwords": [
+    "Imogen2001",
+    "Hollis23",
+    "Reading123",
+    "Callum4Eva",
+    "Baking!22",
+    "WestMidlands99",
+    "Yoga_2023",
+    "Hollis!01"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2003-03-24"
+}

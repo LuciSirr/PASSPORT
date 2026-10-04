@@ -1,0 +1,48 @@
+{
+  "id": "b617c03a-0330-4c62-8d98-4c1715e673b2",
+  "age": 38,
+  "birth_date": "1988-12-19",
+  "marital_status": "married",
+  "region": "Březnice",
+  "nationality": "czech",
+  "company": "Burešová o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Renáta",
+  "self_last_name": "Strnadová",
+  "partner_first_name": "Adam",
+  "partner_last_name": "Strnad",
+  "children": [
+    {
+      "first_name": "Zdeněk",
+      "last_name": "Štěpánek"
+    },
+    {
+      "first_name": "Edita",
+      "last_name": "Procházková"
+    },
+    {
+      "first_name": "Zora",
+      "last_name": "Čermáková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivo",
+    "rybaření",
+    "hudba Karla Gotta",
+    "lokální historie"
+  ],
+  "previous_passwords": [
+    "Zdenek1988",
+    "SkodaBreznice!",
+    "KarlaGotta1219",
+    "TuristikaAdam",
+    "Edita_Ryrka",
+    "ZoraPivo23",
+    "Stapanek2024",
+    "BrezniceTour!",
+    "MessiFan87",
+    "ProchazkovaFish"
+  ]
+}

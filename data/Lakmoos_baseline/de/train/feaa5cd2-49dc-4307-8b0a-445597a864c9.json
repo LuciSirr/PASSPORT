@@ -1,0 +1,35 @@
+{
+  "id": "feaa5cd2-49dc-4307-8b0a-445597a864c9",
+  "gender": "male",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Jannis",
+  "self_last_name": "Kleinfeld",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fussball",
+    "gaming",
+    "skaten"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Jannis2010",
+    "Kleinfeld13",
+    "Fussball123",
+    "Niedersachsen07",
+    "Skaten2023",
+    "Gaming!1",
+    "Jannis_Fifa",
+    "Schule2024",
+    "Kleinfeld!",
+    "Bremen04"
+  ],
+  "favorite_hobby": "fussball",
+  "birth_date": "2013-02-20"
+}

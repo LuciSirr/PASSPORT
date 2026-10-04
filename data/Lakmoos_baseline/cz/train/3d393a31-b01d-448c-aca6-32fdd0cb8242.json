@@ -1,0 +1,35 @@
+{
+  "id": "3d393a31-b01d-448c-aca6-32fdd0cb8242",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Iveta",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "auta",
+    "kutilství",
+    "snackování"
+  ],
+  "pets": [],
+  "company": "Stavby Praha s.r.o.",
+  "previous_passwords": [
+    "Octavia1998",
+    "Bauhaus123",
+    "Globus2019",
+    "Vitana55",
+    "PraceVystavba",
+    "Radek1973",
+    "IvetaSebe$ta",
+    "Kutilstvi_321",
+    "Praha!98",
+    "McDonald270"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1975-01-18"
+}

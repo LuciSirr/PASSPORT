@@ -1,0 +1,40 @@
+{
+  "id": "d989b954-bb25-4696-9467-b304f83a2da7",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "fotografie",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Divadlo Malá Scéna Praha",
+  "previous_passwords": [
+    "Matysek2011",
+    "Jana58",
+    "Divadlo32",
+    "Praha2024",
+    "Turistika123",
+    "Vesely1976",
+    "Hudba!2020",
+    "Matej_13",
+    "Pilsner2020",
+    "Fotografie11"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1968-03-11"
+}

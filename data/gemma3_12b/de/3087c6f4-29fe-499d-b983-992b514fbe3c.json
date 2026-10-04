@@ -1,0 +1,49 @@
+{
+  "id": "3087c6f4-29fe-499d-b983-992b514fbe3c",
+  "age": 42,
+  "birth_date": "1984-09-30",
+  "marital_status": "married",
+  "region": "Gifhorn",
+  "nationality": "german",
+  "company": "Salz",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Karl-Ludwig",
+  "self_last_name": "Ladeck",
+  "partner_first_name": "Ottilie",
+  "partner_last_name": "Ladeck",
+  "children": [
+    {
+      "first_name": "Gloria",
+      "last_name": "Ladeck"
+    },
+    {
+      "first_name": "Niklas",
+      "last_name": "Ladeck"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Anthony"
+    }
+  ],
+  "interests": [
+    "Fotografie",
+    "Wandern",
+    "Autos",
+    "Lokaler Fußballverein",
+    "Gartenarbeit"
+  ],
+  "previous_passwords": [
+    "GloriaNiklas84!",
+    "AnthonyFoto2024",
+    "VW_Wanderer93",
+    "LadeckMessi19",
+    "OttilieGarten!",
+    "FotografieGifhorn",
+    "NiklasAuto81",
+    "KarlLudwigWalk",
+    "AnthonyVW2000",
+    "GartenGloria_84"
+  ]
+}

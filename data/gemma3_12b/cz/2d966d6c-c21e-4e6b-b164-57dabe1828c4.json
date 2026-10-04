@@ -1,0 +1,40 @@
+{
+  "id": "2d966d6c-c21e-4e6b-b164-57dabe1828c4",
+  "age": 48,
+  "birth_date": "1978-06-11",
+  "marital_status": "married",
+  "region": "Nový Knín",
+  "nationality": "czech",
+  "company": "Sedláčková",
+  "car_brand": "Škoda",
+  "self_first_name": "Lukáš",
+  "self_last_name": "Vaněk",
+  "partner_first_name": "Erika",
+  "partner_last_name": "Vánková",
+  "children": [
+    {
+      "first_name": "Eduard",
+      "last_name": "Vaněk"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivovarnictví",
+    "Český ráj",
+    "folklorní festivaly"
+  ],
+  "previous_passwords": [
+    "CeskyRaj2011",
+    "EduardVanekTuristika!",
+    "SkodaOctaviaRybář",
+    "PivovarnictviErika",
+    "FolklorníFestivaly78",
+    "LukášVaněkTuristika",
+    "MessiFan2024",
+    "NovyKninRybolov!",
+    "Vanek_CeskyRaj",
+    "EduardPivo2023"
+  ]
+}

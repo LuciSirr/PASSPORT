@@ -1,0 +1,40 @@
+{
+  "id": "965b052d-8932-4a1d-b652-aef2392b34c9",
+  "gender": "female",
+  "age": 48,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Ford",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "West Midlands Strategic Solutions",
+  "previous_passwords": [
+    "Fiona1976",
+    "Milo123",
+    "Ashcroft9",
+    "Gardening!21",
+    "Travel2020",
+    "Martin76",
+    "WestMidlands88",
+    "Reading4Fun",
+    "Milo!Ash",
+    "Fiona_Martin"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1978-01-09"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "65924ed2-4050-4df2-9dd7-de08a2caeb16",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Seat",
+  "self_first_name": "Cerys",
+  "self_last_name": "Holliman",
+  "partner_first_name": "Rhys",
+  "partner_last_name": "Davies",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Dragon Manufacturing Ltd",
+  "previous_passwords": [
+    "Cerys1997",
+    "Milo123",
+    "Holliman27",
+    "Dragon2022",
+    "Travel4Life",
+    "SeatLeon81",
+    "RhysDavies!",
+    "Wales_2023",
+    "Hiking!21"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1999-03-18"
+}

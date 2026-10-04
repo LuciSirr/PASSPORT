@@ -1,0 +1,35 @@
+{
+  "id": "5564a04b-ae27-4dda-8505-b7ca50a4771a",
+  "gender": "female",
+  "age": 54,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "cestování",
+    "křížovky",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "Finservis Ostrava",
+  "previous_passwords": [
+    "Ivana1970",
+    "PetrVesely54",
+    "Cestovani123",
+    "Krizovky2022",
+    "Vesela1970",
+    "Bonprix2022",
+    "Kofola123",
+    "Morava1970",
+    "LidlOblibena32",
+    "PilsnerUrquell54"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1971-08-14"
+}

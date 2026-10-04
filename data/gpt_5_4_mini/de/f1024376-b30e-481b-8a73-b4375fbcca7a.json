@@ -1,0 +1,48 @@
+{
+  "id": "f1024376-b30e-481b-8a73-b4375fbcca7a",
+  "age": 68,
+  "birth_date": "1958-07-02",
+  "marital_status": "single",
+  "region": "Calau",
+  "nationality": "german",
+  "company": "Bärer AG",
+  "car_brand": "Hyundai",
+  "self_first_name": "Heinz-Otto",
+  "self_last_name": "Trupp",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Arnfried",
+      "last_name": "Trupp"
+    },
+    {
+      "first_name": "Valerie",
+      "last_name": "Trupp"
+    },
+    {
+      "first_name": "Wenke",
+      "last_name": "Trupp"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Gartenarbeit",
+    "Radfahren",
+    "Wandern",
+    "Schrebergarten",
+    "Heimatkunde"
+  ],
+  "previous_passwords": [
+    "Garten58!",
+    "RadCalau68",
+    "Wander1958",
+    "Hyundai02!",
+    "Schrebergarten_58",
+    "Heimatkunde68",
+    "HeinzRad22",
+    "TruppGarten!",
+    "CalauBike58",
+    "WenkeWandern2"
+  ]
+}

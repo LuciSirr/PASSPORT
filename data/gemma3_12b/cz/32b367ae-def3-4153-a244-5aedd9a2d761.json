@@ -1,0 +1,35 @@
+{
+  "id": "32b367ae-def3-4153-a244-5aedd9a2d761",
+  "age": 24,
+  "birth_date": "2002-03-17",
+  "marital_status": "married",
+  "region": "Chabařovice",
+  "nationality": "czech",
+  "company": "Havlíček",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Tereza",
+  "self_last_name": "Kučerová",
+  "partner_first_name": "Vladimír",
+  "partner_last_name": "Kučerová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hudba",
+    "cestování",
+    "vaření",
+    "filmy"
+  ],
+  "previous_passwords": [
+    "Messi2002!",
+    "VolkswagenHudba17",
+    "CestovaniTereza",
+    "FilmyVladimír",
+    "FotbalChabařovice",
+    "Vaření24Messi",
+    "TerezaMusic!",
+    "VolksWagenFilm",
+    "MessiCestovani",
+    "Hudba2002Tereza"
+  ]
+}

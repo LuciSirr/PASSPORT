@@ -1,0 +1,35 @@
+{
+  "id": "574badd4-ffbb-47d7-b1df-25b06f147826",
+  "age": 27,
+  "birth_date": "1999-03-16",
+  "marital_status": "divorced",
+  "region": "Bernburg",
+  "nationality": "german",
+  "company": "Finke AG & Co. KG",
+  "car_brand": "Hyundai",
+  "self_first_name": "Marianna",
+  "self_last_name": "Beyer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Techno",
+    "Wandern",
+    "Fotografie",
+    "Eishockey",
+    "Videospiele"
+  ],
+  "previous_passwords": [
+    "TechnoRave99",
+    "WandernBernburg27",
+    "HyundaiFoto!",
+    "EishockeyJoeRogan",
+    "VideospieleMarianna",
+    "Messi2024!",
+    "BeyerWandern!",
+    "TechnoBerg99",
+    "Hyundai_Foto1",
+    "JoeRoganRave"
+  ]
+}

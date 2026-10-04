@@ -1,0 +1,35 @@
+{
+  "id": "2bb1a225-04e5-4fd9-946a-4af82ce286ab",
+  "age": 52,
+  "birth_date": "1974-01-03",
+  "marital_status": "married",
+  "region": "Velké Pavlovice",
+  "nationality": "czech",
+  "company": "Macháčková Bláha o.s.",
+  "car_brand": "Ford",
+  "self_first_name": "Oldřich",
+  "self_last_name": "Němec",
+  "partner_first_name": "Jolana",
+  "partner_last_name": "Němcová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "vinohradnictví",
+    "čtení knih",
+    "regionální folklór"
+  ],
+  "previous_passwords": [
+    "FordFocus74",
+    "VelkePavloviceRybář",
+    "TuristikaJoeRogan",
+    "MessiOldrich2023",
+    "JolanaNemeckovaVinice",
+    "FordFiesta1974",
+    "ČteníKnihOldřich",
+    "Rybářsk_á_Život",
+    "vinohrad74_Ford",
+    "Oldrich_Turistika1!"
+  ]
+}

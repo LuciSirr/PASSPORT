@@ -1,0 +1,44 @@
+{
+  "id": "c078bf7a-da49-47b6-9c24-88acad1e001c",
+  "age": 57,
+  "birth_date": "1969-05-03",
+  "marital_status": "married",
+  "region": "Ludwigsburg",
+  "nationality": "german",
+  "company": "Buchholz AG & Co. KG",
+  "car_brand": "Seat",
+  "self_first_name": "Julia",
+  "self_last_name": "Franke",
+  "partner_first_name": "Emin",
+  "partner_last_name": "Franke",
+  "children": [
+    {
+      "first_name": "Günter",
+      "last_name": "Franke"
+    },
+    {
+      "first_name": "Ingeburg",
+      "last_name": "Franke"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern im Schwäbischen",
+    "Fußball",
+    "Gartenarbeit",
+    "Weinverkostung",
+    "Regionale Geschichte"
+  ],
+  "previous_passwords": [
+    "Wandern69!",
+    "Fussball1969",
+    "Wein123!",
+    "Garten57_",
+    "SeatLudi69",
+    "EminWandern!",
+    "SVE1969!",
+    "Schwaben57",
+    "FrankeWein69",
+    "Ludwigsburg!"
+  ]
+}

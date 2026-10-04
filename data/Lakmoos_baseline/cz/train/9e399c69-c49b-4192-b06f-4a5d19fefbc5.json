@@ -1,0 +1,40 @@
+{
+  "id": "9e399c69-c49b-4192-b06f-4a5d19fefbc5",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "single/in a relationship",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "grilování",
+    "televize"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Stavby Olomouc s.r.o.",
+  "previous_passwords": [
+    "Radek1979",
+    "PetraRex49",
+    "Konecny2020",
+    "Grilovani123",
+    "Olomouc!59",
+    "RexPes2021",
+    "StavbyOlomouc",
+    "F0tb4l2022",
+    "PetraRadek",
+    "Globus49"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1983-02-04"
+}

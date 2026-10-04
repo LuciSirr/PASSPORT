@@ -1,0 +1,35 @@
+{
+  "id": "e696faa6-4439-4946-a964-455855c6ca24",
+  "gender": "male",
+  "age": 68,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "zahrada",
+    "televize"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1956",
+    "Marie1960",
+    "Konecny68",
+    "zahrada123",
+    "krizovky2020",
+    "Superb2011",
+    "usti1234",
+    "makro2019",
+    "relax2020",
+    "Televize68"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1958-02-07"
+}

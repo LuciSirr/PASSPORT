@@ -1,0 +1,40 @@
+{
+  "id": "be280532-ef10-4da9-973f-ca192f0416cb",
+  "gender": "female",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Llewellyn",
+  "partner_first_name": "Rhys",
+  "partner_last_name": "Llewellyn",
+  "children": [],
+  "interests": [
+    "yoga",
+    "reading",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Cardiff Creative Ventures",
+  "previous_passwords": [
+    "Imogen1999",
+    "MiloCat!",
+    "Llewellyn123",
+    "Rhys2022",
+    "Yoga4Life",
+    "Baking_99",
+    "Cardiff2023",
+    "Reading3",
+    "Milo_99",
+    "Im0g3n!"
+  ],
+  "favorite_hobby": "yoga",
+  "birth_date": "2000-11-25"
+}

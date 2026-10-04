@@ -1,0 +1,40 @@
+{
+  "id": "e2892b3d-5713-47f3-aeb4-ff9e02dee74f",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Yorkshire Scientific Consulting",
+  "previous_passwords": [
+    "Baxter2016",
+    "Hollings42",
+    "Rachel123",
+    "CupraAteca!",
+    "Yorkshire4",
+    "Walking2020",
+    "Travel!19",
+    "GenesisGV60",
+    "FordPuma20",
+    "Baxter!42"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1984-02-04"
+}

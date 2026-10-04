@@ -1,0 +1,35 @@
+{
+  "id": "c606c589-93e3-47ea-a90b-948a40790ec2",
+  "gender": "female",
+  "age": 68,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollingworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crosswords"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Marion1956",
+    "Geoffrey68",
+    "Hollingworth123",
+    "Knitting4Fun",
+    "Garden2020",
+    "Crosswords!",
+    "Marion_Geoff",
+    "SouthEast56",
+    "H0llingw0rth",
+    "Marion!68"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1958-02-07"
+}

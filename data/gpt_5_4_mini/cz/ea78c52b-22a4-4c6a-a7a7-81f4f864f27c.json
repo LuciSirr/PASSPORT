@@ -1,0 +1,44 @@
+{
+  "id": "ea78c52b-22a4-4c6a-a7a7-81f4f864f27c",
+  "age": 41,
+  "birth_date": "1985-08-31",
+  "marital_status": "single",
+  "region": "Hluboká nad Vltavou",
+  "nationality": "czech",
+  "company": "Poláková Müller v.o.s.",
+  "car_brand": "Dacia",
+  "self_first_name": "Vojtěch",
+  "self_last_name": "Bláha",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Dita",
+      "last_name": "Blahová"
+    },
+    {
+      "first_name": "Hubert",
+      "last_name": "Bláha"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "vaření",
+    "hokej",
+    "zahradničení"
+  ],
+  "previous_passwords": [
+    "Turistika85!",
+    "CykloVltava31",
+    "VareniDita31",
+    "HokejBlaha85",
+    "ZahradaVojta31",
+    "DaciaVltava85",
+    "HubertCyklo!",
+    "BlahaHokej31",
+    "TuristikaDita!",
+    "Vltava85_"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "a5a9073c-6237-407b-8610-db23c7a79a1c",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Graham",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "walking holidays",
+    "british history",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Baxter1965",
+    "Ashcroft!17",
+    "Walking2020",
+    "Helen4ever",
+    "HistoryBuff65",
+    "Gardening_123",
+    "LondonWalker65",
+    "Baxter!Ash",
+    "HelenApril17",
+    "BritishHistory65"
+  ],
+  "favorite_hobby": "walking holidays",
+  "birth_date": "1965-04-17"
+}

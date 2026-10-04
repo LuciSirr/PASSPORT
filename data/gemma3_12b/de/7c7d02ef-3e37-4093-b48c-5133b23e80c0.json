@@ -1,0 +1,44 @@
+{
+  "id": "7c7d02ef-3e37-4093-b48c-5133b23e80c0",
+  "age": 38,
+  "birth_date": "1988-01-09",
+  "marital_status": "married",
+  "region": "Sigmaringen",
+  "nationality": "german",
+  "company": "van der Dussen Textor KG",
+  "car_brand": "Seat",
+  "self_first_name": "Reni",
+  "self_last_name": "Margraf",
+  "partner_first_name": "Jakob",
+  "partner_last_name": "Margraf",
+  "children": [
+    {
+      "first_name": "Svea",
+      "last_name": "Margraf"
+    },
+    {
+      "first_name": "Lidija",
+      "last_name": "Margraf"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Autos",
+    "Lokaler Fußballverein",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "SveaWandern88!",
+    "MessiSigmaringen",
+    "FotografieJakob23",
+    "SeatLidija1988",
+    "KlassischeMusik!",
+    "WandernSvea_1988",
+    "SigmaringenAuto",
+    "JakobFotografie!",
+    "LidijaSeat2024",
+    "FotografieMessi8"
+  ]
+}

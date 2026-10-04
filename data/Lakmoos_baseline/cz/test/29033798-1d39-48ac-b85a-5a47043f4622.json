@@ -1,0 +1,35 @@
+{
+  "id": "29033798-1d39-48ac-b85a-5a47043f4622",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "divorced",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Šimáček",
+  "birth_date": "1982-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "české filmy",
+    "moderní architektura"
+  ],
+  "pets": [],
+  "company": "Stavební služby Ustí s.r.o.",
+  "previous_passwords": [
+    "Radek1982",
+    "simacekFotbal123",
+    "Usti2023!",
+    "architektura_82",
+    "ceskefilmy15",
+    "StavebniSlužby2022",
+    "Šimáček_1982",
+    "fotbal_Šimáček",
+    "Radek!15",
+    "usti_nad_labem"
+  ],
+  "favorite_hobby": "fotbal"
+}

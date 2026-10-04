@@ -1,0 +1,48 @@
+{
+  "id": "ed9098f1-b51e-44b0-8dfe-4445d4b4248a",
+  "gender": "male",
+  "age": 44,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Polestar",
+  "self_first_name": "Markus",
+  "self_last_name": "Schwenke",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Schwenke",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Schwenke"
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Schwenke"
+    },
+    {
+      "first_name": "Johanna",
+      "last_name": "Schwenke"
+    }
+  ],
+  "interests": [
+    "reisen",
+    "lesen",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Nordbroker GmbH",
+  "previous_passwords": [
+    "Lukas2010",
+    "Mia_2019",
+    "Johanna13!",
+    "Sabine44",
+    "Schwenke36000",
+    "Nordbroker2022",
+    "Reisen123",
+    "Markus_09",
+    "Polestar2!",
+    "SommerSept"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1981-06-10"
+}

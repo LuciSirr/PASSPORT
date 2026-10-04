@@ -1,0 +1,36 @@
+{
+  "id": "169b94ca-f679-4c07-9531-802946445a7c",
+  "gender": "male",
+  "age": 86,
+  "marital_status": "widower/widow",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "procházky",
+    "kultura",
+    "vzdělávání"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladek1938",
+    "Praha59",
+    "Hyundai2010",
+    "Globus747",
+    "KFCsnack",
+    "PilsnerUrquell86",
+    "Sebesta123",
+    "Kultura2024",
+    "Cteni!86",
+    "Prochazka_747"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1940-01-05"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "692bf242-85ae-4c4c-87b5-a0e08fff6e26",
+  "age": 73,
+  "birth_date": "1953-08-07",
+  "marital_status": "married",
+  "region": "Frýdlant",
+  "nationality": "czech",
+  "company": "Čermák v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Lenka",
+  "self_last_name": "Procházková",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Procházka",
+  "children": [
+    {
+      "first_name": "Hubert",
+      "last_name": "Procházka"
+    },
+    {
+      "first_name": "Bořivoj",
+      "last_name": "Dvořáková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Mahulena"
+    },
+    {
+      "pet_type": "turtle",
+      "pet_name": "Drahomíra"
+    }
+  ],
+  "interests": [
+    "zahrádkaření",
+    "turistika v Jizerských horách",
+    "české filmy",
+    "čtení detektivek",
+    "sledování hokeje"
+  ],
+  "previous_passwords": [
+    "Jizerky73!",
+    "Slepicek1953",
+    "Skoda_Hokej7",
+    "Mahulena8!",
+    "DvorakovaDetektiv",
+    "TuristikaFr!",
+    "Frldant_53",
+    "Martin73cz!",
+    "BoivojFilm7",
+    "CteniHokej53"
+  ]
+}

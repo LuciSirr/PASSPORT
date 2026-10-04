@@ -1,0 +1,35 @@
+{
+  "id": "d7495784-dad1-4334-8857-493394cb5dc4",
+  "gender": "female",
+  "age": 26,
+  "marital_status": "married",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "Mazda",
+  "self_first_name": "Annika",
+  "self_last_name": "Krause",
+  "birth_date": "1998-06-14",
+  "partner_first_name": "Lukas",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "dark",
+    "tatort",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Nordlicht Consulting",
+  "previous_passwords": [
+    "Annika1998",
+    "KrauseDark19",
+    "Tatort_123",
+    "Lukas0614",
+    "DarkKrause2020",
+    "audiobooks!98",
+    "Nordlicht2022",
+    "TatortLukas",
+    "Krause!0614",
+    "Dark_Annika98"
+  ],
+  "favorite_hobby": "dark"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "020e0d45-2fd5-4c44-bc9d-1441aee7b097",
+  "age": 26,
+  "birth_date": "2000-01-16",
+  "marital_status": "married",
+  "region": "Stárkov",
+  "nationality": "czech",
+  "company": "Kříž o.s.",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Světlana",
+  "self_last_name": "Janečková",
+  "partner_first_name": "Dobroslav",
+  "partner_last_name": "Janečková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "hokej",
+    "posilovna",
+    "poslech hudby",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "Turistika16!",
+    "Hokej2000",
+    "Posilovna26",
+    "HudbaStarkov1",
+    "Vareni16_",
+    "Mercedes26!",
+    "Dobroslav16",
+    "Janeckova2000",
+    "StarkovHike!",
+    "CzechHockey26"
+  ]
+}

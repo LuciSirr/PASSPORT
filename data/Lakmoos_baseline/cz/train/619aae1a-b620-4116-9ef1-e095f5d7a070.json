@@ -1,0 +1,35 @@
+{
+  "id": "619aae1a-b620-4116-9ef1-e095f5d7a070",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "čtení",
+    "procházky",
+    "divadlo"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Ivana1976",
+    "Vesela56",
+    "Malovani123",
+    "Divadlo2020",
+    "Cteni!76",
+    "RajecVoda",
+    "Rossmann2020",
+    "LidlOblibena1",
+    "HBOmax123"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "1969-11-16"
+}

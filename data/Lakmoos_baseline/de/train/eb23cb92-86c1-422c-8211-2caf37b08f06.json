@@ -1,0 +1,35 @@
+{
+  "id": "eb23cb92-86c1-422c-8211-2caf37b08f06",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gisela",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Manfred",
+  "partner_last_name": "Kronenberg",
+  "children": [],
+  "interests": [
+    "wandern",
+    "lesen",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "Westfalen Metallbau GmbH",
+  "previous_passwords": [
+    "Gisela1963",
+    "Manfred123",
+    "Kronenberg!61",
+    "Wandern2020",
+    "AOK_2000",
+    "Westfalen78",
+    "Sommerurlaub09",
+    "Gartenarbeit1",
+    "Lesen!2023",
+    "O2Handy"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1964-10-02"
+}

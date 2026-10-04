@@ -1,0 +1,40 @@
+{
+  "id": "4cfdf6db-9e69-42d2-9bcf-8965e683e00c",
+  "age": 45,
+  "birth_date": "1981-05-17",
+  "marital_status": "married",
+  "region": "Hersbruck",
+  "nationality": "german",
+  "company": "Trüb",
+  "car_brand": "BMW",
+  "self_first_name": "Gisa",
+  "self_last_name": "Hartung",
+  "partner_first_name": "Adelbert",
+  "partner_last_name": "Hartung",
+  "children": [
+    {
+      "first_name": "Resi",
+      "last_name": "Hartung"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Handwerk",
+    "Fotografie",
+    "FC Bayern München",
+    "Gitarre spielen"
+  ],
+  "previous_passwords": [
+    "ResiBayern2023!",
+    "AdelbertWander1981",
+    "HersbruckFoto_FCB",
+    "BayernMessi87",
+    "GitarreResi24",
+    "BMW_Wandern1978",
+    "HartungFoto2010",
+    "FCBayern1981!",
+    "WanderGitarre_R",
+    "AdelbertBMW_81"
+  ]
+}

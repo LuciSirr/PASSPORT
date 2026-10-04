@@ -1,0 +1,40 @@
+{
+  "id": "5cea8182-fdf6-4b55-b04b-bf12673669df",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Fiat",
+  "self_first_name": "Marion",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crossword",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Northwest Brokers & Consultants Ltd",
+  "previous_passwords": [
+    "Marion1955",
+    "Misty123",
+    "Geoffrey!69",
+    "Hollingsworth2020",
+    "Gardening4U",
+    "Fiat500!",
+    "Baking_55",
+    "Northwest99",
+    "MistyMum",
+    "AudiA316"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1956-11-24"
+}

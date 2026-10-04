@@ -1,0 +1,35 @@
+{
+  "id": "18d19608-899e-45ca-8432-759f99ae5fa4",
+  "age": 35,
+  "birth_date": "1991-07-23",
+  "marital_status": "single",
+  "region": "Horní Bříza",
+  "nationality": "czech",
+  "company": "Matějková Zeman a.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Veronika",
+  "self_last_name": "Pavlíková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "hudba Karla Gotta",
+    "fotbal",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "KarlaGotta23",
+    "SkodaTourista!",
+    "Messi1991_fan",
+    "TuristikaHorni",
+    "vareni_brizka",
+    "Fotbal2019VG",
+    "Rybář_forever",
+    "VeronikaFish7",
+    "GottaMusic2024",
+    "Skoda_rybar1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "a2770efc-cd6a-40c1-ba4d-6181793f56fd",
+  "age": 27,
+  "birth_date": "1999-09-19",
+  "marital_status": "married",
+  "region": "Cottbus",
+  "nationality": "german",
+  "company": "Kabus GmbH",
+  "car_brand": "Ford",
+  "self_first_name": "Rotraut",
+  "self_last_name": "Reuter",
+  "partner_first_name": "Leonid",
+  "partner_last_name": "Reuter",
+  "children": [
+    {
+      "first_name": "Juri",
+      "last_name": "Reuter"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Musik Festivals",
+    "Fotografie",
+    "Wandern",
+    "Gaming",
+    "Lokaler FC Cottbus"
+  ],
+  "previous_passwords": [
+    "JuriLeon1999",
+    "FCottbusWandern!",
+    "FordFoto27",
+    "MusikFestJuri",
+    "Messi1999_RR",
+    "RotrautGaming!",
+    "CottbusLeon!",
+    "WandernRR99",
+    "JoeRogan_Foto",
+    "FordJuri2024"
+  ]
+}

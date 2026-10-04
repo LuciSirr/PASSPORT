@@ -1,0 +1,40 @@
+{
+  "id": "eb64d09d-2e81-4f86-b7f3-097d61281def",
+  "gender": "female",
+  "age": 47,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1977-04-18",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "krimi romány",
+    "cestování",
+    "české filmy"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Domov Zdraví České Budějovice",
+  "previous_passwords": [
+    "Jitka1977",
+    "Kohoutova123",
+    "Micka2015",
+    "krimi2020",
+    "Budějovice77",
+    "PetrJitka18",
+    "cestovani_77",
+    "ceskefilmy2022",
+    "Micka!77",
+    "K0h0ut0va"
+  ],
+  "favorite_hobby": "krimi romány"
+}

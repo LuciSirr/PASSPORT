@@ -1,0 +1,40 @@
+{
+  "id": "c3d7db29-d5a8-4422-8ecb-68f1c63b8e27",
+  "gender": "male",
+  "age": 75,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Peugeot",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Janet",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "bridge",
+    "antiques"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Hollingsworth Business Solutions",
+  "previous_passwords": [
+    "Malcolm1949",
+    "Misty123",
+    "Janet4ever",
+    "Hollingsworth99",
+    "Gardening2020",
+    "BridgeClub!1",
+    "Antiques_49",
+    "MistyJanet!",
+    "SouthEast50k",
+    "Peugeot208"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1950-07-30"
+}

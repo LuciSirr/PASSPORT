@@ -1,0 +1,41 @@
+{
+  "id": "6ae5d0dd-e8ba-4cc8-8ddb-8137a743d9d2",
+  "gender": "female",
+  "age": 66,
+  "marital_status": "divorced",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Libuše",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "procházky",
+    "nakupování",
+    "čtení",
+    "televize"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Auto Olomouc servis",
+  "previous_passwords": [
+    "Micka2010",
+    "Olomouc59",
+    "Hyundai07",
+    "Kofola66",
+    "Prochazky123",
+    "Vranova1958",
+    "Lidl852",
+    "Tchibo982",
+    "Televize!",
+    "M1cka_2022"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1959-05-15"
+}

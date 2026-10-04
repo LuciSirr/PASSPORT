@@ -1,0 +1,35 @@
+{
+  "id": "25ff7269-962c-468c-93ad-9ad7afa549fd",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "turistika",
+    "malování",
+    "cyklistika"
+  ],
+  "pets": [],
+  "company": "Ateliér Sever",
+  "previous_passwords": [
+    "RadekPetra48",
+    "Usti2020",
+    "Toyota2019",
+    "Fabia123",
+    "Malovani!21",
+    "PetraRadek79",
+    "Vesely2024",
+    "Turistika_99",
+    "Cyklistika123",
+    "Lidl!99"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1977-05-03"
+}

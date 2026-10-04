@@ -1,0 +1,39 @@
+{
+  "id": "dae234cc-1f5b-447c-8c5c-93bfe3ceb7e7",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Katrin",
+  "self_last_name": "Vogelsang",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Vogelsang"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Rheinland Businessberatung",
+  "previous_passwords": [
+    "Lukas2016",
+    "Vogelsang45",
+    "Katrin!1979",
+    "Sommerurlaub123",
+    "Rheinland2020",
+    "Lesen_88",
+    "K4tr1n!",
+    "V0gel$ang",
+    "LukasLesen",
+    "Reisen2023"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1980-06-25"
+}

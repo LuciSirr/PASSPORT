@@ -1,0 +1,35 @@
+{
+  "id": "9aa5bbca-d7f8-43a4-a962-65f1b9303780",
+  "gender": "male",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gaming",
+    "football",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "NorthWest Student Services",
+  "previous_passwords": [
+    "Callum2009",
+    "Hollingsworth11",
+    "Football123",
+    "Gaming!14",
+    "ManCity2023",
+    "Cycling_09",
+    "NorthWest14",
+    "Callum!123",
+    "Holl1ngs",
+    "F00tball!"
+  ],
+  "favorite_hobby": "gaming",
+  "birth_date": "2012-03-24"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "c719cd34-22b7-4d6f-aaac-11cc7e00f1ed",
+  "age": 38,
+  "birth_date": "1988-02-08",
+  "marital_status": "married",
+  "region": "Velké Opatovice",
+  "nationality": "czech",
+  "company": "Pešková",
+  "car_brand": "Škoda",
+  "self_first_name": "Alexandr",
+  "self_last_name": "Sedláček",
+  "partner_first_name": "Alice",
+  "partner_last_name": "Sedláčková",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Žofie"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivo",
+    "hudba",
+    "škoda auto",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "VelkeOpatovice88!",
+    "SkodaSuperb2018",
+    "AliceSedlackovaZofie",
+    "TuristikaPivo1988",
+    "MessiFanSedlacek",
+    "HudbaJoeRogan!",
+    "Zofie_Snake8",
+    "ŠkodaOctavia23",
+    "CestovaniAlice2018",
+    "SedlacekTurista!"
+  ]
+}

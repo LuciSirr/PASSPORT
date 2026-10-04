@@ -1,0 +1,35 @@
+{
+  "id": "e30e1d31-7472-4efa-a23e-96adffac9ea0",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "auta",
+    "hudba",
+    "filmy"
+  ],
+  "pets": [],
+  "company": "Kreativní Studio Sever",
+  "previous_passwords": [
+    "Radek1987",
+    "Petra27",
+    "Hilux2011",
+    "Vesely123",
+    "UstiNadLabem!",
+    "Kofola4ever",
+    "ToyotaRevo15",
+    "Hudba2020",
+    "Auta_112",
+    "Filmy2023"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1998-12-01"
+}

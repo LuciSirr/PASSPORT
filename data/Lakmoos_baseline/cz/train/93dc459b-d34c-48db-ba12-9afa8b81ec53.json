@@ -1,0 +1,34 @@
+{
+  "id": "93dc459b-d34c-48db-ba12-9afa8b81ec53",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Citroën",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "netflix",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Liberecké strojírny s.r.o.",
+  "previous_passwords": [
+    "Radek1999",
+    "VeselyLiberec",
+    "CitroenC4_2021",
+    "Kofola2020",
+    "Octavia98",
+    "Auta123",
+    "Hudba!22",
+    "NetflixCZ",
+    "Liberec789"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2003-09-11"
+}

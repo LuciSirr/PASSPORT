@@ -1,0 +1,44 @@
+{
+  "id": "d502581f-b0f3-440d-a52c-4ed25a2706cb",
+  "age": 31,
+  "birth_date": "1995-12-12",
+  "marital_status": "married",
+  "region": "Riesa",
+  "nationality": "german",
+  "company": "Meyer Dehmel GbR",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Rudolf",
+  "self_last_name": "Vollbrecht",
+  "partner_first_name": "Gabi",
+  "partner_last_name": "Hering",
+  "children": [
+    {
+      "first_name": "Nelli",
+      "last_name": "Vollbrecht"
+    },
+    {
+      "first_name": "Rudolph",
+      "last_name": "Vollbrecht"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Digitale Fotografie",
+    "Konzerte",
+    "Wandern",
+    "Gaming"
+  ],
+  "previous_passwords": [
+    "Messi2019Riesa",
+    "NelliGaming95!",
+    "VW_Fotografie_23",
+    "RudolfHering12",
+    "KonzerteGabi!",
+    "WandernNelliRV",
+    "MessiFoto95",
+    "RiesaGaming2012",
+    "RV_Fußball23",
+    "DigitalFoto95!"
+  ]
+}

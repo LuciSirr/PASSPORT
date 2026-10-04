@@ -1,0 +1,33 @@
+{
+  "id": "8f51a168-df86-4561-b3f3-fcdc5bd7a75f",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "peaky blinders",
+    "arsenal fc"
+  ],
+  "pets": [],
+  "company": "Hollings Business Solutions",
+  "previous_passwords": [
+    "Gareth1984",
+    "Hollings!84",
+    "PeakyBlinders1919",
+    "Arsenal123",
+    "Shelby4Life",
+    "London_2020",
+    "Blinders!15",
+    "HollingsPeaky",
+    "ArsenalFC_84"
+  ],
+  "favorite_hobby": "peaky blinders",
+  "birth_date": "1984-06-15"
+}

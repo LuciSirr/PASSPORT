@@ -1,0 +1,34 @@
+{
+  "id": "8d02a4b4-a674-4464-af22-3d277f3bc04b",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Smart",
+  "self_first_name": "Ralf",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kronenberg",
+  "children": [],
+  "interests": [
+    "wandern",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Ingenieurbüro Kronenberg",
+  "previous_passwords": [
+    "Ralf1969",
+    "Sabine123",
+    "Smart#1!",
+    "Kronenberg2020",
+    "Wandern2022",
+    "Fotografie_69",
+    "O2Lieblings",
+    "BerlinFebruar",
+    "ING253",
+    "Sabine!1969"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1974-03-24"
+}

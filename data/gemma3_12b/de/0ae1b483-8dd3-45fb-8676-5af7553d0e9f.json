@@ -1,0 +1,35 @@
+{
+  "id": "0ae1b483-8dd3-45fb-8676-5af7553d0e9f",
+  "age": 38,
+  "birth_date": "1988-06-20",
+  "marital_status": "married",
+  "region": "Fulda",
+  "nationality": "german",
+  "company": "Graf Rose AG & Co. OHG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Rena",
+  "self_last_name": "Linke",
+  "partner_first_name": "Heimo",
+  "partner_last_name": "Linke",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Autos",
+    "Handwerk",
+    "Metal Musik"
+  ],
+  "previous_passwords": [
+    "MetalMusik88!",
+    "VW_FuldaWander",
+    "FotografieHeimo",
+    "Messi2024",
+    "Handwerk_Rena",
+    "WanderFulda1988",
+    "AutosLinke88",
+    "JoeRoganPics!",
+    "WanderBerg23",
+    "FotografieVW"
+  ]
+}

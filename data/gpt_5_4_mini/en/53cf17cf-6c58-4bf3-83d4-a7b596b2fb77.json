@@ -1,0 +1,43 @@
+{
+  "id": "53cf17cf-6c58-4bf3-83d4-a7b596b2fb77",
+  "age": 69,
+  "birth_date": "1957-08-13",
+  "marital_status": "married",
+  "region": "Lambview",
+  "nationality": "english",
+  "company": "Goodwin, Stephenson and Williamson",
+  "car_brand": "Hyundai",
+  "self_first_name": "Denis",
+  "self_last_name": "Barnes",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Barnes",
+  "children": [
+    {
+      "first_name": "Katherine",
+      "last_name": "Barnes"
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Barnes"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "local history",
+    "classical music"
+  ],
+  "previous_passwords": [
+    "KewGard57!",
+    "HydePark57",
+    "LambView13",
+    "BarnesHist57",
+    "MozartBarnes69",
+    "HelenWalk57!",
+    "TulipWalk13",
+    "Hyundai69!",
+    "KatherineClass57",
+    "JackHistory57"
+  ]
+}

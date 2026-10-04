@@ -1,0 +1,40 @@
+{
+  "id": "d1470704-0920-407d-9b06-65be0e633d62",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Subaru",
+  "self_first_name": "Gillian",
+  "self_last_name": "Pritchard",
+  "partner_first_name": "Malcolm",
+  "partner_last_name": "Pritchard",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Molly"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Gillian1968",
+    "Molly123",
+    "Pritchard56",
+    "Malcolm2020",
+    "Gardening4",
+    "Wales!68",
+    "MollyPritchard",
+    "Reading_56",
+    "MalcolmMolly",
+    "Gillian!2023"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1970-01-16"
+}

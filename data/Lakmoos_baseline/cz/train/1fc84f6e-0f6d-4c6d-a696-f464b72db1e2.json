@@ -1,0 +1,34 @@
+{
+  "id": "1fc84f6e-0f6d-4c6d-a696-f464b72db1e2",
+  "gender": "male",
+  "age": 77,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Křivánek",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Křivánek",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "technika"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir77",
+    "Marie2024",
+    "Nakupovani123",
+    "Křivánek1977",
+    "Tesco2020",
+    "Vitana123",
+    "PennyBohemia",
+    "Xiaomi77",
+    "Technika2023",
+    "PennyMarket!"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1949-02-21"
+}

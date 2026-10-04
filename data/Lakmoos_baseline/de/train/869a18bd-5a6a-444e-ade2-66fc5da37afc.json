@@ -1,0 +1,35 @@
+{
+  "id": "869a18bd-5a6a-444e-ade2-66fc5da37afc",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Jörg",
+  "self_last_name": "Kaltenbach",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobücher",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Sachsen Business Beratung",
+  "previous_passwords": [
+    "Jörg1969",
+    "Sachsen5000",
+    "Reisen!2022",
+    "Kaltenbach123",
+    "Fotografie77",
+    "AOK_1948",
+    "AppleUser!",
+    "Business2024",
+    "SommerMai",
+    "ING253"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1974-03-23"
+}

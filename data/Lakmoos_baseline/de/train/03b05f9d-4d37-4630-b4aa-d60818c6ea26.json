@@ -1,0 +1,35 @@
+{
+  "id": "03b05f9d-4d37-4630-b4aa-d60818c6ea26",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "married",
+  "region": "brandenburg",
+  "nationality": "german",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Katrin",
+  "self_last_name": "Schreber",
+  "partner_first_name": "Andreas",
+  "partner_last_name": "Schreber",
+  "children": [],
+  "interests": [
+    "lesen",
+    "audiobooks",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Brandenburger Service GmbH",
+  "previous_passwords": [
+    "Katrin1988",
+    "Andreas2023",
+    "Schreber123",
+    "Brandenburg!22",
+    "Caddy2002",
+    "Lesen_88",
+    "Sommerurlaub09",
+    "Audiobook4life",
+    "AndiKati2023",
+    "Volkswagen_1"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1989-07-19"
+}

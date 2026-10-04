@@ -1,0 +1,35 @@
+{
+  "id": "9e40b946-63c6-484d-9a9c-fe50e5e9f511",
+  "gender": "male",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gaming",
+    "football",
+    "music"
+  ],
+  "pets": [],
+  "company": "NorthWest Student Services",
+  "previous_passwords": [
+    "Callum2009",
+    "Hollis123",
+    "LiverpoolFC!",
+    "Music4Life",
+    "G4ming2023",
+    "NorthWest15",
+    "Footb4ll!",
+    "Callum_football",
+    "Hollis09",
+    "Student2024"
+  ],
+  "favorite_hobby": "gaming",
+  "birth_date": "2010-05-30"
+}

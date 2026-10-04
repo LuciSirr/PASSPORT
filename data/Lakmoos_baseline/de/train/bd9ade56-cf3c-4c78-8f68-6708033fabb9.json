@@ -1,0 +1,40 @@
+{
+  "id": "bd9ade56-cf3c-4c78-8f68-6708033fabb9",
+  "gender": "female",
+  "age": 34,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Toyota",
+  "self_first_name": "Annika",
+  "self_last_name": "Kreutzer",
+  "partner_first_name": "Felix",
+  "partner_last_name": "Kreutzer",
+  "children": [],
+  "interests": [
+    "reisen",
+    "musik",
+    "wandern"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mila"
+    }
+  ],
+  "company": "Ingenieurberatung Rhein",
+  "previous_passwords": [
+    "Annika1989",
+    "Mila123",
+    "Felix2020!",
+    "Kreutzer_89",
+    "Sommerreise",
+    "Musik4ever",
+    "Wandern2023",
+    "Rhein!5000",
+    "MilaFelix",
+    "Ann1ka!"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1991-07-06"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "c65ebe8a-8243-4450-b521-d83e08cd892e",
+  "age": 38,
+  "birth_date": "1988-11-24",
+  "marital_status": "divorced",
+  "region": "Protivín",
+  "nationality": "czech",
+  "company": "Beránek Matoušková s.r.o.",
+  "car_brand": "Tesla",
+  "self_first_name": "Karolína",
+  "self_last_name": "Kadlecová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Ivo",
+      "last_name": "Kadlec"
+    },
+    {
+      "first_name": "Blanka",
+      "last_name": "Kadlecová"
+    },
+    {
+      "first_name": "Vasyl",
+      "last_name": "Kadlec"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "turistika",
+    "vaření",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "Messi1988!",
+    "HokejTesla24",
+    "Turistika_88",
+    "VařeníVoda7",
+    "Rybareni11",
+    "IvoFotbal88",
+    "BlankaHokej!",
+    "ProtivinTour24",
+    "TeslaRybak88",
+    "Kadlecova_24"
+  ]
+}

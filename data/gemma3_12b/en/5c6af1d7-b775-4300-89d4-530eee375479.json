@@ -1,0 +1,49 @@
+{
+  "id": "5c6af1d7-b775-4300-89d4-530eee375479",
+  "age": 52,
+  "birth_date": "1974-04-20",
+  "marital_status": "married",
+  "region": "Port Victor",
+  "nationality": "english",
+  "company": "Elliott-Smith",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Nigel",
+  "self_last_name": "Murphy",
+  "partner_first_name": "Tina",
+  "partner_last_name": "Murphy",
+  "children": [
+    {
+      "first_name": "Frances",
+      "last_name": "Murphy"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Gillian"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Martyn"
+    }
+  ],
+  "interests": [
+    "Sailing",
+    "Gardening",
+    "Classic Rock Music",
+    "Local History",
+    "Wildlife Photography"
+  ],
+  "previous_passwords": [
+    "Martyn74!",
+    "ClassicRockTina",
+    "GillianSails2023",
+    "VW_PortVictor",
+    "Frances_History",
+    "SailingMurphy",
+    "JoeRogan1974",
+    "TinaGardens!",
+    "PortVictorRocks",
+    "Messi88_VW"
+  ]
+}

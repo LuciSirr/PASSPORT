@@ -1,0 +1,34 @@
+{
+  "id": "e5c5ad77-64ec-4c04-af94-b3f35a4b68f0",
+  "gender": "female",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "hudba",
+    "malování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2010",
+    "mojekniha13",
+    "jablko123",
+    "Vesela2023",
+    "Hudba_123",
+    "malovani2022",
+    "Cteni!2021",
+    "Terezka13",
+    "Bohemia2024"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "2012-10-19"
+}

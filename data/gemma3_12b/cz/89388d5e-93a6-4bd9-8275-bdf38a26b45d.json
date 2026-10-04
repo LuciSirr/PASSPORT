@@ -1,0 +1,45 @@
+{
+  "id": "89388d5e-93a6-4bd9-8275-bdf38a26b45d",
+  "age": 52,
+  "birth_date": "1974-12-14",
+  "marital_status": "married",
+  "region": "Andělská Hora",
+  "nationality": "czech",
+  "company": "Müllerová",
+  "car_brand": "Toyota",
+  "self_first_name": "Zora",
+  "self_last_name": "Malá",
+  "partner_first_name": "Jindřich",
+  "partner_last_name": "Malý",
+  "children": [
+    {
+      "first_name": "Oto",
+      "last_name": "Malý"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Ivana"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivo",
+    "historie",
+    "hudba Karla Gotta"
+  ],
+  "previous_passwords": [
+    "KarlaGotta2024",
+    "ToyotaAndelskaH",
+    "Oto_Ivana1974",
+    "JindrichRybar!",
+    "TuristikaZora74",
+    "HistorieMalá1",
+    "PivoOto_2000",
+    "AndelskaHoraZ",
+    "KarlaGotta_IV",
+    "Toyota_Messi"
+  ]
+}

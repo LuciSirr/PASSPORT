@@ -1,0 +1,35 @@
+{
+  "id": "c2c1b2dd-bffb-46f2-af4f-d9c625cdbf9d",
+  "age": 38,
+  "birth_date": "1988-08-13",
+  "marital_status": "single",
+  "region": "Karlsruhe",
+  "nationality": "german",
+  "company": "Mälzer Zorbach GmbH",
+  "car_brand": "Audi",
+  "self_first_name": "Siglinde",
+  "self_last_name": "Graf",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Radfahren",
+    "Karlsruher SC"
+  ],
+  "previous_passwords": [
+    "KSC1988!",
+    "AudiRadel38",
+    "Karlsruhe88",
+    "Fussball13!",
+    "Wandern_88",
+    "KochenGraf1",
+    "Radfahren38!",
+    "KSC_Audi88",
+    "KSCGraf813",
+    "Wandern_KSC8"
+  ]
+}

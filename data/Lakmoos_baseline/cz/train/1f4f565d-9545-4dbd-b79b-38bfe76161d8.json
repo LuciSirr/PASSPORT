@@ -1,0 +1,40 @@
+{
+  "id": "1f4f565d-9545-4dbd-b79b-38bfe76161d8",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "grilování",
+    "cestování"
+  ],
+  "pets": [],
+  "company": "Strojírny Beroun",
+  "previous_passwords": [
+    "Matysek2022",
+    "PetraRadek51",
+    "Vesely1998",
+    "Octavia25",
+    "Grilovani123",
+    "PilsnerUrquell!",
+    "CentralBohemia1",
+    "Matěj_2022",
+    "Petra4Radek",
+    "Fotbal2024"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1975-01-24"
+}

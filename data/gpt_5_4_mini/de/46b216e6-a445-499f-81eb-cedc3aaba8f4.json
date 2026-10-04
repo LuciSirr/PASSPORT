@@ -1,0 +1,53 @@
+{
+  "id": "46b216e6-a445-499f-81eb-cedc3aaba8f4",
+  "age": 35,
+  "birth_date": "1991-05-26",
+  "marital_status": "married",
+  "region": "Regensburg",
+  "nationality": "german",
+  "company": "Nette",
+  "car_brand": "Hyundai",
+  "self_first_name": "Veronika",
+  "self_last_name": "Riehl",
+  "partner_first_name": "Anatol",
+  "partner_last_name": "Riehl",
+  "children": [
+    {
+      "first_name": "Ljiljana",
+      "last_name": "Riehl"
+    },
+    {
+      "first_name": "Peter-Michael",
+      "last_name": "Riehl"
+    },
+    {
+      "first_name": "Folkert",
+      "last_name": "Riehl"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Murat"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Radfahren",
+    "Bayerische Küche",
+    "FC Bayern München"
+  ],
+  "previous_passwords": [
+    "FCBayern91!",
+    "Murat_Hamster7",
+    "Hyundai26_FC",
+    "WandernRiehl91",
+    "Radfahren26!",
+    "Regensburg91#",
+    "AnatolBayern7",
+    "Ljiljana_FCB26",
+    "PeterMichael91",
+    "Bayerische26!"
+  ]
+}

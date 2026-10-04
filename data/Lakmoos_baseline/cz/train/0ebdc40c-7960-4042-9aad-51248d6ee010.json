@@ -1,0 +1,35 @@
+{
+  "id": "0ebdc40c-7960-4042-9aad-51248d6ee010",
+  "gender": "female",
+  "age": 48,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "streamování",
+    "snackování"
+  ],
+  "pets": [],
+  "company": "Úřad obrany Praha",
+  "previous_passwords": [
+    "Fabia1999",
+    "Prague48",
+    "BohemiaSekt2020",
+    "Lidl1234",
+    "Rossmann2022",
+    "Nakupovani2021",
+    "Sebestova1976",
+    "BurgerKing48",
+    "HBOmax2023",
+    "KosikCZ!"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1977-06-19"
+}

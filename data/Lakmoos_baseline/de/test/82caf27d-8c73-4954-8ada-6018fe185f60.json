@@ -1,0 +1,34 @@
+{
+  "id": "82caf27d-8c73-4954-8ada-6018fe185f60",
+  "gender": "male",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Kuhn",
+  "birth_date": "2009-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "attack on titan"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lennart2009",
+    "KuhnFifa17",
+    "aot_123",
+    "FifaAttack09",
+    "ErenJaeger17",
+    "Kuhn!fifa",
+    "Fifa2009!",
+    "L3nnartFifa",
+    "AttackTitan09",
+    "Kuhn_17"
+  ],
+  "favorite_hobby": "fifa"
+}

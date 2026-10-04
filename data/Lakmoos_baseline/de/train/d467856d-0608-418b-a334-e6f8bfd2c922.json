@@ -1,0 +1,44 @@
+{
+  "id": "d467856d-0608-418b-a334-e6f8bfd2c922",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Jeep",
+  "self_first_name": "Jens",
+  "self_last_name": "Krahl",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krahl"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Krahl"
+    }
+  ],
+  "interests": [
+    "reisen",
+    "elektroauto",
+    "musik"
+  ],
+  "pets": [],
+  "company": "Rheinland Management GmbH",
+  "previous_passwords": [
+    "Lukas2009",
+    "Marlene12!",
+    "JeepAvenger23",
+    "Krahl27000",
+    "Rheinland123",
+    "SommerMarch",
+    "Musik2024",
+    "LukasMarlene15",
+    "Jens!NRW",
+    "AOK_451"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1980-04-19"
+}

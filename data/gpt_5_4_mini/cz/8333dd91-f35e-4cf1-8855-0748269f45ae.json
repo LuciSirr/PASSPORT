@@ -1,0 +1,45 @@
+{
+  "id": "8333dd91-f35e-4cf1-8855-0748269f45ae",
+  "age": 39,
+  "birth_date": "1987-08-31",
+  "marital_status": "married",
+  "region": "Blšany",
+  "nationality": "czech",
+  "company": "Kovářová",
+  "car_brand": "Škoda",
+  "self_first_name": "Milena",
+  "self_last_name": "Horváthová",
+  "partner_first_name": "Šimon",
+  "partner_last_name": "Horváthová",
+  "children": [
+    {
+      "first_name": "Jolana",
+      "last_name": "Kopecká"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Karolína"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "vaření",
+    "cyklistika",
+    "hokej"
+  ],
+  "previous_passwords": [
+    "Sparta87!",
+    "Skoda39_",
+    "JolanaBike87",
+    "SimonHockey!",
+    "Turistika31",
+    "Vaření2024!",
+    "KarolinaSnake87",
+    "Fotbal87!",
+    "BrnoHike39",
+    "Cyklo1987!"
+  ]
+}

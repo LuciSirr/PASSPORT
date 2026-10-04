@@ -1,0 +1,40 @@
+{
+  "id": "7db4d59d-338a-4d41-a7f6-59cc345ccd16",
+  "gender": "male",
+  "age": 18,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Hyundai",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "autos",
+    "kreuzfahrten",
+    "musik"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bruno"
+    }
+  ],
+  "company": "Krause Mobilservice",
+  "previous_passwords": [
+    "Bruno2019",
+    "Krause123",
+    "Hyundai23MY",
+    "Fiat500!",
+    "Lennart_18",
+    "Mobilservice2022",
+    "SommerJuni",
+    "Nordrhein90",
+    "Autos3000",
+    "BrunoKrause"
+  ],
+  "favorite_hobby": "autos",
+  "birth_date": "2007-08-27"
+}

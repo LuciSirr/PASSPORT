@@ -1,0 +1,34 @@
+{
+  "id": "01af02d4-b017-40f5-99eb-3b7aa23e42f2",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "divorced",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heinrich",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "zeitunglesen"
+  ],
+  "pets": [],
+  "company": "Hessen Servicebüro",
+  "previous_passwords": [
+    "Heinrich1964",
+    "Kronenberg5000",
+    "Hessen!123",
+    "Reisen2022",
+    "AOK_451",
+    "SommerJuni",
+    "ServiceBüro64",
+    "Zeitunglesen1",
+    "Samsung2020",
+    "Kronenberg!"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1965-04-14"
+}

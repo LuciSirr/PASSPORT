@@ -1,0 +1,35 @@
+{
+  "id": "890238bf-7874-46a5-b426-2da1b6f39d7a",
+  "age": 46,
+  "birth_date": "1980-10-17",
+  "marital_status": "married",
+  "region": "Jablonné v Podještědí",
+  "nationality": "czech",
+  "company": "Novák",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Renata",
+  "self_last_name": "Matějková",
+  "partner_first_name": "Alois",
+  "partner_last_name": "Matějková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika v Lužických horách",
+    "zahrádkářství",
+    "chalupaření",
+    "fotbal",
+    "vaření české kuchyně"
+  ],
+  "previous_passwords": [
+    "Turistika80!",
+    "LuzickeHory17",
+    "Zahradka1980",
+    "ChalupaRenata46",
+    "Sparta1980!",
+    "Mercedes17CZ",
+    "CeskaKuchyne80",
+    "MatEjkova80!",
+    "AloisHory46",
+    "Jablonne80_"
+  ]
+}

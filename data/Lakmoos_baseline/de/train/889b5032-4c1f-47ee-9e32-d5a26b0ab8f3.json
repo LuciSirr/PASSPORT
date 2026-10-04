@@ -1,0 +1,35 @@
+{
+  "id": "889b5032-4c1f-47ee-9e32-d5a26b0ab8f3",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Mazda",
+  "self_first_name": "Annika",
+  "self_last_name": "Schrader",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "yoga",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Nordblick Beratung",
+  "previous_passwords": [
+    "Annika1993",
+    "MazdaCX60!",
+    "Nordblick123",
+    "Schrader11",
+    "Reisen2022",
+    "Fotografie_4ever",
+    "Y0gaLieb3",
+    "Hannover!93",
+    "Sparkasse253",
+    "Sommerurlaub21"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1996-02-19"
+}

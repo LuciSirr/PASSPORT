@@ -1,0 +1,35 @@
+{
+  "id": "b824f16f-ed22-4996-9f71-c1882cc708f0",
+  "gender": "female",
+  "age": 70,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Libuše",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Vránová",
+  "children": [],
+  "interests": [
+    "malování",
+    "čtení",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Libuse1954",
+    "Miroslav2020",
+    "Fabia2005",
+    "Mountfield23",
+    "BohemiaSekt70",
+    "Prague1000",
+    "Zalando2022",
+    "Hudba123",
+    "Malovani_54",
+    "Vranova!23"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "1956-01-29"
+}

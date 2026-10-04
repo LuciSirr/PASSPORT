@@ -1,0 +1,40 @@
+{
+  "id": "142bb041-68b0-4e7c-92fe-5d3dde6d0913",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Archie",
+  "self_last_name": "MacLeod",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "lego",
+    "dinosaurs"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Archie2019",
+    "MacLeodPaw123",
+    "Baxter!14",
+    "legoDin0s",
+    "pawpatrol_19",
+    "DinoMacLeod",
+    "BaxterPaw!",
+    "ArchieLego",
+    "Dinosaurs2019",
+    "Baxter_2019"
+  ],
+  "favorite_hobby": "paw patrol",
+  "birth_date": "2018-05-14"
+}

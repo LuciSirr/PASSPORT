@@ -1,0 +1,35 @@
+{
+  "id": "987bdccf-f0ad-4c55-80ef-7e8265f91971",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lena",
+  "self_last_name": "Schröder",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lesen",
+    "schwimmen",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Bäckerei Müller",
+  "previous_passwords": [
+    "Lena2008",
+    "Schröder123",
+    "B4ckerei!",
+    "Sachsen2022",
+    "Fotografie_16",
+    "Sommerliebe",
+    "Vodafone!",
+    "LenaLesen",
+    "Müller4000",
+    "Schwimmen07"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "2009-06-15"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "7ee82667-5e08-481f-888c-e4294e23cf58",
+  "gender": "male",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Ashford",
+  "partner_first_name": "Megan",
+  "partner_last_name": "Hughes",
+  "children": [],
+  "interests": [
+    "gaming",
+    "football",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "Cityline Retail",
+  "previous_passwords": [
+    "Callum2007",
+    "AshfordLondon",
+    "Megan123",
+    "Football4Life",
+    "Cityline14",
+    "Cycling_99",
+    "G4ming!",
+    "Ashford_17",
+    "MeganHughes07",
+    "LondonBoy07"
+  ],
+  "favorite_hobby": "gaming",
+  "birth_date": "2008-06-10"
+}

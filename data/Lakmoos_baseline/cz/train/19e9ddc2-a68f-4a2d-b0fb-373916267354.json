@@ -1,0 +1,35 @@
+{
+  "id": "19e9ddc2-a68f-4a2d-b0fb-373916267354",
+  "gender": "female",
+  "age": 80,
+  "marital_status": "widower/widow",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Božena",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "křížovky",
+    "zahrada",
+    "voyo"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Bozena1944",
+    "Vesela80",
+    "Liberec2024",
+    "Krizovky123",
+    "Zahrada44",
+    "Voyo!2021",
+    "Albert123",
+    "Cteni2020",
+    "Rossmann21"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1946-01-10"
+}

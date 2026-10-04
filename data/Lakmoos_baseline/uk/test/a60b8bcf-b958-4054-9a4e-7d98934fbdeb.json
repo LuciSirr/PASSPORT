@@ -1,0 +1,35 @@
+{
+  "id": "a60b8bcf-b958-4054-9a4e-7d98934fbdeb",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Toyota",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Linda",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "midsomer murders",
+    "walking",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "Willow Health Services",
+  "previous_passwords": [
+    "Graham1969",
+    "LindaWalking21",
+    "Hollis!123",
+    "Midsomer17",
+    "Gardening_2020",
+    "Linda1969!",
+    "WillowHealth69",
+    "Walking4Life",
+    "MidsomerMurders!",
+    "HollisMidsomer21"
+  ],
+  "favorite_hobby": "midsomer murders",
+  "birth_date": "1969-04-17"
+}

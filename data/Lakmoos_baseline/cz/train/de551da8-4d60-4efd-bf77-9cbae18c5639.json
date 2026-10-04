@@ -1,0 +1,35 @@
+{
+  "id": "de551da8-4d60-4efd-bf77-9cbae18c5639",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Iveta",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "AutoServis Ustí",
+  "previous_passwords": [
+    "Radek1976",
+    "Iveta2023",
+    "Usti_nad_Labem48",
+    "Scala2019",
+    "Fotbal123",
+    "Kaufland2020",
+    "Turistika!59",
+    "Sebesta_999",
+    "Kamiq459",
+    "Vitana123"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1978-01-16"
+}

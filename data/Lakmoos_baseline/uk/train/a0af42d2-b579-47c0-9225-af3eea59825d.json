@@ -1,0 +1,33 @@
+{
+  "id": "a0af42d2-b579-47c0-9225-af3eea59825d",
+  "gender": "male",
+  "age": 7,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finley",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lego",
+    "football",
+    "drawing"
+  ],
+  "pets": [],
+  "company": "West Midlands Tuition",
+  "previous_passwords": [
+    "Finley2017",
+    "Hollis123",
+    "Lego4Life",
+    "WestMidlands9",
+    "Drawing2024",
+    "Football7",
+    "FinleyLego",
+    "Hollis!7"
+  ],
+  "favorite_hobby": "lego",
+  "birth_date": "2019-02-04"
+}

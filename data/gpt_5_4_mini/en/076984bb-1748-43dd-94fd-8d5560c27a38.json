@@ -1,0 +1,44 @@
+{
+  "id": "076984bb-1748-43dd-94fd-8d5560c27a38",
+  "age": 53,
+  "birth_date": "1973-07-25",
+  "marital_status": "married",
+  "region": "New Jessicafurt",
+  "nationality": "english",
+  "company": "Kaur PLC",
+  "car_brand": "Toyota",
+  "self_first_name": "George",
+  "self_last_name": "Thomas",
+  "partner_first_name": "Diane",
+  "partner_last_name": "Thomas",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "James"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Lorraine"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "classic rock",
+    "home improvement",
+    "travel",
+    "local sports"
+  ],
+  "previous_passwords": [
+    "DianeRoses73",
+    "Yorkshire25!",
+    "ToyotaRock73",
+    "LionsGarden25",
+    "Lynyrd77_James",
+    "RabbitHome73!",
+    "ThomasTravel25",
+    "NewJessicafurt73",
+    "GaragesDIY73!",
+    "RoversRock25"
+  ]
+}

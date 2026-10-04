@@ -1,0 +1,57 @@
+{
+  "id": "2b0b500f-d692-4bee-b11c-3081f8690474",
+  "age": 59,
+  "birth_date": "1967-05-30",
+  "marital_status": "married",
+  "region": "Dresden",
+  "nationality": "german",
+  "company": "Schomber Haase AG",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Clarissa",
+  "self_last_name": "Karz",
+  "partner_first_name": "Sönke",
+  "partner_last_name": "Karz",
+  "children": [
+    {
+      "first_name": "Ignatz",
+      "last_name": "Karz"
+    },
+    {
+      "first_name": "Dorit",
+      "last_name": "Karz"
+    },
+    {
+      "first_name": "Ricardo",
+      "last_name": "Karz"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Berta"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Gudula"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Klassische Musik",
+    "Fotografie",
+    "Lokale Geschichte",
+    "Schach"
+  ],
+  "previous_passwords": [
+    "BertaWandern67",
+    "DoritSchach2024",
+    "RicardoKlasMusik!",
+    "MercedesFoto1967",
+    "IgnatzDresden!",
+    "BertaBergwandern",
+    "SönkeKarz_Foto",
+    "Wandern_2000",
+    "GudulaKlasMusik",
+    "KlasMusikKarz"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "f582d86c-a909-46c9-bd52-d7e6e45ef6d3",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Seat",
+  "self_first_name": "Annika",
+  "self_last_name": "Krause",
+  "birth_date": "1995-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Luca",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "dark",
+    "true crime podcasts",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Luca2009",
+    "KrauseDark95",
+    "tru3cr1me!",
+    "Annika123",
+    "Dark_2017",
+    "podcastLuca",
+    "Krause!12",
+    "audiobook_95",
+    "Ann1kaDark",
+    "LucaTrueCrime09"
+  ],
+  "favorite_hobby": "dark"
+}

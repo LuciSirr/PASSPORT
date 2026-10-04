@@ -1,0 +1,36 @@
+{
+  "id": "b3563362-8901-460c-8033-1abfed6e36b2",
+  "gender": "male",
+  "age": 77,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "cestování",
+    "čtení",
+    "křížovky",
+    "historie"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Morava1950",
+    "Karoq112",
+    "PilsnerUrquell77",
+    "Kaufland896",
+    "CountryRadio",
+    "Jana2020",
+    "Cestovani123",
+    "Sebesta77",
+    "Krizovky2024",
+    "Pivo!1950"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1948-12-22"
+}

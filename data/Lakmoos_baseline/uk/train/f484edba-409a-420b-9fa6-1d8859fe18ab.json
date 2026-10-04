@@ -1,0 +1,34 @@
+{
+  "id": "f484edba-409a-420b-9fa6-1d8859fe18ab",
+  "gender": "male",
+  "age": 31,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "pubs"
+  ],
+  "pets": [],
+  "company": "East Midlands Defence Services",
+  "previous_passwords": [
+    "Hollis1993",
+    "Renault104",
+    "Ateca2024",
+    "Travel123",
+    "EastMidlands!",
+    "Cycling2020",
+    "PubNight7",
+    "Opel4Life",
+    "Defence3000"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1995-02-26"
+}

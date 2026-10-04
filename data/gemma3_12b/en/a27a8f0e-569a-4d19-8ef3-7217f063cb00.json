@@ -1,0 +1,40 @@
+{
+  "id": "a27a8f0e-569a-4d19-8ef3-7217f063cb00",
+  "age": 23,
+  "birth_date": "2003-10-26",
+  "marital_status": "married",
+  "region": "East Derek",
+  "nationality": "english",
+  "company": "King, Wright and Owens",
+  "car_brand": "Renault",
+  "self_first_name": "Tina",
+  "self_last_name": "Watson",
+  "partner_first_name": "Brett",
+  "partner_last_name": "Watson",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Geraldine"
+    }
+  ],
+  "interests": [
+    "photography",
+    "indie music",
+    "hiking",
+    "local brewery tours",
+    "video games"
+  ],
+  "previous_passwords": [
+    "GeraldinePics2003",
+    "RenaultHike!",
+    "IndieBrewT!na",
+    "MessiTina23",
+    "PhotoEastDerek",
+    "HikingGeraldine",
+    "LocalBrewBrett",
+    "VG_2003_Tina",
+    "geraldine_pics",
+    "Renault_Hike"
+  ]
+}

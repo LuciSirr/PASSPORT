@@ -1,0 +1,40 @@
+{
+  "id": "98c56993-795f-4449-8725-90e15e2243e8",
+  "age": 20,
+  "birth_date": "2006-01-04",
+  "marital_status": "divorced",
+  "region": "Chyše",
+  "nationality": "czech",
+  "company": "Horák s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Matěj",
+  "self_last_name": "Tichý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Svatopluk"
+    }
+  ],
+  "interests": [
+    "videohry",
+    "hudba",
+    "cestování",
+    "Instagram",
+    "kreslení"
+  ],
+  "previous_passwords": [
+    "Svatopluk2006!",
+    "MessiSkoda17",
+    "FortniteMT23",
+    "InstagramChyše",
+    "HudbaMatěj14",
+    "Minecraft_2004",
+    "Travel20Skoda",
+    "KresleniMT!",
+    "FortniteSvatopluk",
+    "SkodaMessi2024"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "aedca1c0-6bec-448b-84da-46140720ec29",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Suzuki",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "knihy",
+    "fitness",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Albert Studentská brigáda",
+  "previous_passwords": [
+    "Tereza2005",
+    "Vesela19",
+    "SuzukiSwift24",
+    "Albert123",
+    "Kofola19",
+    "BohemiaChips",
+    "Teta2022",
+    "Malovani_321",
+    "Fitness2023",
+    "Knihy!2021"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2007-01-08"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "f8619b44-7002-463c-a59b-1222f3d3dc52",
+  "age": 42,
+  "birth_date": "1984-07-15",
+  "marital_status": "married",
+  "region": "Neunburg vorm Wald",
+  "nationality": "german",
+  "company": "Kaul Zorbach KG",
+  "car_brand": "Skoda",
+  "self_first_name": "Horst-Dieter",
+  "self_last_name": "Schomber",
+  "partner_first_name": "Karin",
+  "partner_last_name": "Schomber",
+  "children": [
+    {
+      "first_name": "Tilman",
+      "last_name": "Schomber"
+    },
+    {
+      "first_name": "Marian",
+      "last_name": "Schomber"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Bayerischer Wald",
+    "Fußball",
+    "Kochen",
+    "Heimatverein"
+  ],
+  "previous_passwords": [
+    "Wandern84!",
+    "BayerWald15",
+    "SkodaTilman42",
+    "KochenKarin7",
+    "FCBayern84",
+    "Heimatverein24",
+    "Marian_Wald42",
+    "Tilman07!",
+    "Neunburg84",
+    "FuessenKoch15"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "dc0410be-bf5b-43a0-850a-41643c43ccc7",
+  "age": 55,
+  "birth_date": "1971-09-29",
+  "marital_status": "single",
+  "region": "Neuss",
+  "nationality": "german",
+  "company": "Schleich",
+  "car_brand": "Skoda",
+  "self_first_name": "Klaus-Günter",
+  "self_last_name": "Knappe",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Denise",
+      "last_name": "Knappe"
+    },
+    {
+      "first_name": "Friedbert",
+      "last_name": "Knappe"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Deutsche Küche",
+    "Klassische Musik",
+    "Lokale Geschichte"
+  ],
+  "previous_passwords": [
+    "Messi2909",
+    "WandernDenise!",
+    "SkodaKlaus71",
+    "DeutscheKueche_91",
+    "KlassischeMusik42",
+    "LokaleGeschichte88",
+    "FußballKlaus",
+    "Denise_Messi",
+    "NeussWanderer",
+    "Skoda71_FC"
+  ]
+}

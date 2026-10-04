@@ -1,0 +1,40 @@
+{
+  "id": "fd4b7ccb-65e0-47cc-93bc-ad8649a8947f",
+  "age": 30,
+  "birth_date": "1996-10-25",
+  "marital_status": "married",
+  "region": "Karlstad",
+  "nationality": "english",
+  "company": "Lloyd Inc",
+  "car_brand": "Vauxhall",
+  "self_first_name": "Jill",
+  "self_last_name": "Duffy",
+  "partner_first_name": "Nigel",
+  "partner_last_name": "Hall",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Kate"
+    }
+  ],
+  "interests": [
+    "hiking",
+    "electronic music",
+    "photography",
+    "board games",
+    "local craft beer"
+  ],
+  "previous_passwords": [
+    "KateHikes96!",
+    "VauxhallKraft!",
+    "NigelPhoto25",
+    "BoardsAndBeer!",
+    "MessiKarlstad",
+    "AphexTwinKate",
+    "HikingDuffy1996",
+    "LocalBrewNigel",
+    "KarlstadPhoto!",
+    "ElectronicHike!"
+  ]
+}

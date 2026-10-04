@@ -1,0 +1,48 @@
+{
+  "id": "1bd8fe3c-4377-49bc-9829-950e20b21bb9",
+  "age": 48,
+  "birth_date": "1978-08-13",
+  "marital_status": "married",
+  "region": "Hohenmölsen",
+  "nationality": "german",
+  "company": "Lübs",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Nicolaus",
+  "self_last_name": "Mülichen",
+  "partner_first_name": "Alwina",
+  "partner_last_name": "Mitschke",
+  "children": [
+    {
+      "first_name": "Isabell",
+      "last_name": "Mülichen"
+    },
+    {
+      "first_name": "Alina",
+      "last_name": "Mülichen"
+    },
+    {
+      "first_name": "Gertraut",
+      "last_name": "Mülichen"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Gärtnern",
+    "Heimwerken",
+    "Regionalgeschichte"
+  ],
+  "previous_passwords": [
+    "Bayern78!",
+    "Wandern08_",
+    "Muenchen13",
+    "Mercedes48!",
+    "Garten_78",
+    "Elster75!",
+    "Heimwerken8",
+    "Mitschke13!",
+    "Saale2024",
+    "FuBball13!"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "4e157132-32da-4e6e-b95f-6e0d79d559cd",
+  "age": 69,
+  "birth_date": "1957-05-07",
+  "marital_status": "single",
+  "region": "Bojkovice",
+  "nationality": "czech",
+  "company": "Liška Fišer o.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Daniela",
+  "self_last_name": "Macháčková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Zikmund",
+      "last_name": "Macháček"
+    },
+    {
+      "first_name": "Milena",
+      "last_name": "Macháčková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "čtení knih",
+    "lidové tance",
+    "návštěva zámků"
+  ],
+  "previous_passwords": [
+    "ZikmundTuristika1957",
+    "VolkswagenBojkovice!",
+    "MilenaZamek2024",
+    "cteniKnih_Dania",
+    "lidoveTanceD1",
+    "TuristikaZahrada!",
+    "MachacekZikmund57",
+    "zahradniceniBoja",
+    "VolkswagenMilena",
+    "DaniaCteni23"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "1523bd5d-9dfc-4d1e-a749-7a43e0dab4ee",
+  "age": 44,
+  "birth_date": "1982-12-18",
+  "marital_status": "married",
+  "region": "Jevišovice",
+  "nationality": "czech",
+  "company": "Urban a.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Johana",
+  "self_last_name": "Krejčová",
+  "partner_first_name": "Vratislav",
+  "partner_last_name": "Krejčová",
+  "children": [
+    {
+      "first_name": "Štefan",
+      "last_name": "Krejčovič"
+    },
+    {
+      "first_name": "Alexander",
+      "last_name": "Krejčovič"
+    },
+    {
+      "first_name": "Šárka",
+      "last_name": "Krejčová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivo",
+    "historie",
+    "škoda auto"
+  ],
+  "previous_passwords": [
+    "Škoda1982",
+    "JevisoviceTuristika!",
+    "Stefan_Rybář",
+    "ŠárkaHistory2023",
+    "VratislavPivo18",
+    "AlexanderSkodaAuto",
+    "ŠtefanMessi_fan",
+    "JohanaTuristika77",
+    "ŠárkaKrejcova22",
+    "Rybář_Alexander"
+  ]
+}

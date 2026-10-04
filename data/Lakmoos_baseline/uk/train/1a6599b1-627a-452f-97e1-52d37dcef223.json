@@ -1,0 +1,35 @@
+{
+  "id": "1a6599b1-627a-452f-97e1-52d37dcef223",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Citroën",
+  "self_first_name": "Gareth",
+  "self_last_name": "Mackinnon",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Mackinnon",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travelling",
+    "photography"
+  ],
+  "pets": [],
+  "company": "Lochside Ventures Ltd",
+  "previous_passwords": [
+    "Gareth1976",
+    "Fiona123",
+    "Mackinnon2020",
+    "Lochside!76",
+    "C3Aircross",
+    "Scotland_48",
+    "Hiking2022",
+    "Travel4Fun",
+    "Fiona&Gareth",
+    "Mack1nn0n!"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1978-03-26"
+}

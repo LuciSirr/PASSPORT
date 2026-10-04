@@ -1,0 +1,35 @@
+{
+  "id": "7b329fca-635a-43f4-a1f9-abe3345ec23e",
+  "gender": "male",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Callum",
+  "self_last_name": "McEwan",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "hiking",
+    "reading",
+    "football"
+  ],
+  "pets": [],
+  "company": "Lochside Learning Centre",
+  "previous_passwords": [
+    "Polestar2023",
+    "McEwan123",
+    "Callum26",
+    "Hiking2022!",
+    "Lochside1",
+    "Reading4Life",
+    "Football_99",
+    "Scotland21",
+    "Pol3st4r!",
+    "McEwan2020"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "2000-01-31"
+}

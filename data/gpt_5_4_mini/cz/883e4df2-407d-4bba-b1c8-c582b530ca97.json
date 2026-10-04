@@ -1,0 +1,40 @@
+{
+  "id": "883e4df2-407d-4bba-b1c8-c582b530ca97",
+  "age": 23,
+  "birth_date": "2003-07-14",
+  "marital_status": "single",
+  "region": "Unhošť",
+  "nationality": "czech",
+  "company": "Beran Kučera k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Ševčík",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Helena"
+    }
+  ],
+  "interests": [
+    "hraní her",
+    "posilovna",
+    "fotbal",
+    "turistika",
+    "sledování seriálů"
+  ],
+  "previous_passwords": [
+    "Skoda2003!",
+    "Vladimir14",
+    "HelenaFish23",
+    "MessiUnhost",
+    "GymPower03",
+    "FIFAŠkoda7",
+    "Bayern14_03",
+    "Turistika23!",
+    "NetflixVlad",
+    "Fotbal_2003"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "dcb9c4ef-9b7a-4ad1-af1b-96a3bfef3bf0",
+  "age": 27,
+  "birth_date": "1999-07-10",
+  "marital_status": "married",
+  "region": "Alisonshire",
+  "nationality": "english",
+  "company": "Robinson Group",
+  "car_brand": "Honda",
+  "self_first_name": "Stanley",
+  "self_last_name": "Banks",
+  "partner_first_name": "Megan",
+  "partner_last_name": "Taylor",
+  "children": [
+    {
+      "first_name": "Danielle",
+      "last_name": "Banks"
+    },
+    {
+      "first_name": "Gordon",
+      "last_name": "Banks"
+    },
+    {
+      "first_name": "Helen",
+      "last_name": "Banks"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Julian"
+    }
+  ],
+  "interests": [
+    "Hiking",
+    "Indie Music",
+    "Photography",
+    "Board Games",
+    "Local History"
+  ],
+  "previous_passwords": [
+    "GordonHike1999",
+    "MeganPhoto_27",
+    "JulianIndie!",
+    "HondaAlisonshire",
+    "DanielleBoard9",
+    "HelenMessi27",
+    "LocalHist_Banks",
+    "HikingJulian!",
+    "Alisonshire1999",
+    "IndieMusic_TB"
+  ]
+}

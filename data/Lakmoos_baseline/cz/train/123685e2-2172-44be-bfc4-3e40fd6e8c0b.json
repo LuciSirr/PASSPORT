@@ -1,0 +1,35 @@
+{
+  "id": "123685e2-2172-44be-bfc4-3e40fd6e8c0b",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "divadlo",
+    "čtení",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radomir63",
+    "Vesely2008",
+    "Praha!123",
+    "Divadlo2020",
+    "Kofola_63",
+    "Superb2008",
+    "Nakupovani11",
+    "Cteni2024",
+    "Globus123",
+    "VeselyCZ"
+  ],
+  "favorite_hobby": "divadlo",
+  "birth_date": "1963-01-17"
+}

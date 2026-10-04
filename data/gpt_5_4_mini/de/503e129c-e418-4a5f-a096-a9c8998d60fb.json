@@ -1,0 +1,49 @@
+{
+  "id": "503e129c-e418-4a5f-a096-a9c8998d60fb",
+  "age": 44,
+  "birth_date": "1982-01-17",
+  "marital_status": "married",
+  "region": "Bogen",
+  "nationality": "german",
+  "company": "Ackermann",
+  "car_brand": "BMW",
+  "self_first_name": "Martine",
+  "self_last_name": "Lange",
+  "partner_first_name": "Michel",
+  "partner_last_name": "Lange",
+  "children": [
+    {
+      "first_name": "Gabriela",
+      "last_name": "Lange"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Ferenc"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Elly"
+    }
+  ],
+  "interests": [
+    "Wandern im Bayerischen Wald",
+    "Fußball",
+    "Biergärten",
+    "Heimatgeschichte",
+    "Radfahren"
+  ],
+  "previous_passwords": [
+    "Waldweg82!",
+    "FCBayern17",
+    "BMW_Bogen44",
+    "EllyKatz9",
+    "MichelBike82",
+    "Donau2024!",
+    "Loewe19_Hike",
+    "Biergarten44",
+    "Gabriela89",
+    "Radeln_17!"
+  ]
+}

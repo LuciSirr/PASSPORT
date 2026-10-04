@@ -1,0 +1,34 @@
+{
+  "id": "59f46ce7-dbbc-4e20-bbe3-096f8ebc2299",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Peugeot",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "South Downs Logistics",
+  "previous_passwords": [
+    "Peugeot208!",
+    "Callum2002",
+    "Hollis123",
+    "Football4Life",
+    "SouthEast22",
+    "Gaming_07",
+    "Peugeot4ever",
+    "Logistics2020",
+    "Cycling!1"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2004-03-02"
+}

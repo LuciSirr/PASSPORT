@@ -1,0 +1,48 @@
+{
+  "id": "b9cabec7-13a5-4190-9997-bb81fb5f8926",
+  "age": 60,
+  "birth_date": "1966-12-20",
+  "marital_status": "married",
+  "region": "Naila",
+  "nationality": "german",
+  "company": "Junitz AG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Reimund",
+  "self_last_name": "Söding",
+  "partner_first_name": "Muharrem",
+  "partner_last_name": "Söding",
+  "children": [
+    {
+      "first_name": "Gretchen",
+      "last_name": "Söding"
+    },
+    {
+      "first_name": "Heinz-Wilhelm",
+      "last_name": "Söding"
+    },
+    {
+      "first_name": "Ludwig",
+      "last_name": "Söding"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern im Frankenwald",
+    "Heimat- und Regionalgeschichte",
+    "Gartenarbeit",
+    "Fußball",
+    "Kochen"
+  ],
+  "previous_passwords": [
+    "Frankenwald66!",
+    "NailaWandern66",
+    "Heimat1966_",
+    "Rasenball60!",
+    "Volkswagen66",
+    "Garten66!",
+    "KochenNaila6",
+    "MuhaWald66",
+    "HeinzWolgast66",
+    "Franken1966!"
+  ]
+}

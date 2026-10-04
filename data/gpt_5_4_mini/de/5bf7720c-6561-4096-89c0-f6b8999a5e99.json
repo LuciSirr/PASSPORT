@@ -1,0 +1,49 @@
+{
+  "id": "5bf7720c-6561-4096-89c0-f6b8999a5e99",
+  "age": 53,
+  "birth_date": "1973-06-27",
+  "marital_status": "married",
+  "region": "Luckenwalde",
+  "nationality": "german",
+  "company": "Weitzel",
+  "car_brand": "Mini",
+  "self_first_name": "Korinna",
+  "self_last_name": "Schwital",
+  "partner_first_name": "Micha",
+  "partner_last_name": "Rädel",
+  "children": [
+    {
+      "first_name": "Emine",
+      "last_name": "Schwital"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Hanna"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Anka"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Gärtnern",
+    "Wandern",
+    "Schlager",
+    "Heimatverein"
+  ],
+  "previous_passwords": [
+    "Fussball73!",
+    "Micha1973",
+    "MiniLucken3",
+    "HannaHase73",
+    "AnkaFish27",
+    "HeimatVerein53",
+    "GartenEmine!",
+    "WanderMicha73",
+    "Schlager27_",
+    "Luckenwald73"
+  ]
+}

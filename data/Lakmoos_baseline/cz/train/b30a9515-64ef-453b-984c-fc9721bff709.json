@@ -1,0 +1,35 @@
+{
+  "id": "b30a9515-64ef-453b-984c-fc9721bff709",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "seriály",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Papírnictví Veselka",
+  "previous_passwords": [
+    "Tereza2008",
+    "kofola123",
+    "dmnakup",
+    "voyo2023",
+    "lidlka",
+    "Vesela16",
+    "malovani2022",
+    "Hudba!123",
+    "Seriály_08",
+    "Papirnictvi59"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2010-02-26"
+}

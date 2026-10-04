@@ -1,0 +1,34 @@
+{
+  "id": "0f40e663-cd02-4d30-8af2-463d8e26b7c3",
+  "gender": "female",
+  "age": 5,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Leni",
+  "self_last_name": "Krausberger",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malen",
+    "puzzeln",
+    "spielen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Leni2019",
+    "Krausberger123",
+    "Malen2024",
+    "Hessen5",
+    "LeniMalt!",
+    "Puzzeln_19",
+    "K1nderG4rten",
+    "LeniKraus",
+    "Spielzeit2023"
+  ],
+  "favorite_hobby": "malen",
+  "birth_date": "2021-03-22"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "fdfe1fda-a2c5-402f-ae32-e2358ec6367e",
+  "gender": "female",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Kohoutová",
+  "birth_date": "2011-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "stranger things",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2011",
+    "Micka123",
+    "Kohoutova14",
+    "stranger11",
+    "malovani2024",
+    "Micka!2011",
+    "TerezaST",
+    "KohoutovaMicka",
+    "strangerthings14",
+    "malovani_11"
+  ],
+  "favorite_hobby": "stranger things"
+}

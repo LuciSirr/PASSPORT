@@ -1,0 +1,35 @@
+{
+  "id": "87ae1e53-a3a5-4788-944f-1e82fa7a5b8b",
+  "gender": "male",
+  "age": 77,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "čtení",
+    "křížovky",
+    "divadlo"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1947",
+    "Marie2020",
+    "Konecny77",
+    "Superb2018",
+    "Morava77",
+    "Divadlo123",
+    "Cteni2024",
+    "Rossmann123",
+    "FioBanka2020",
+    "Krizovky!77"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1948-11-11"
+}

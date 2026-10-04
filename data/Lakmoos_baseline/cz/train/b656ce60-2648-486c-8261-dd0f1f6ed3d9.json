@@ -1,0 +1,36 @@
+{
+  "id": "b656ce60-2648-486c-8261-dd0f1f6ed3d9",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "malování",
+    "knihy",
+    "cyklistika"
+  ],
+  "pets": [],
+  "company": "Středočeská doprava s.r.o.",
+  "previous_passwords": [
+    "Tereza2005",
+    "Fabia999",
+    "Kofola2022",
+    "LetniVylet",
+    "Malovani123",
+    "Dobravoda68",
+    "Cestovani2023",
+    "Vesela!19",
+    "Knihy_321",
+    "Cyklovylet05"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "2006-10-15"
+}

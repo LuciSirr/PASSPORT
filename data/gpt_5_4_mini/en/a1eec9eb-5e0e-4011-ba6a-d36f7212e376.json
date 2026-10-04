@@ -1,0 +1,44 @@
+{
+  "id": "a1eec9eb-5e0e-4011-ba6a-d36f7212e376",
+  "age": 51,
+  "birth_date": "1975-09-28",
+  "marital_status": "divorced",
+  "region": "Bellbury",
+  "nationality": "english",
+  "company": "Gregory, Brookes and Jackson",
+  "car_brand": "Hyundai",
+  "self_first_name": "Mark",
+  "self_last_name": "Mitchell",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Nicole"
+    },
+    {
+      "pet_type": "lizard",
+      "pet_name": "Rosemary"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "walking",
+    "cooking",
+    "cricket",
+    "classic rock"
+  ],
+  "previous_passwords": [
+    "Hyundai75!",
+    "Rosemary78",
+    "Cricket75_28",
+    "GardenBell75",
+    "WalksSep75!",
+    "ClassicRock28",
+    "Cooking51_09",
+    "NicoleLizard75",
+    "MitchellCricket51",
+    "Bellbury75!"
+  ]
+}

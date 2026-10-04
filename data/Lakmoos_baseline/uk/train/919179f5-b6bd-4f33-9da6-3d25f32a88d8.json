@@ -1,0 +1,39 @@
+{
+  "id": "919179f5-b6bd-4f33-9da6-3d25f32a88d8",
+  "gender": "female",
+  "age": 74,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marjorie",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crosswords",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Hollingsworth Consulting",
+  "previous_passwords": [
+    "Marjorie1949",
+    "Misty123",
+    "Geoffrey74",
+    "Hollingsworth2020",
+    "Gardening4Life",
+    "Baking!22",
+    "Crosswords_1",
+    "MistyGeoff",
+    "MarjCat49"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1952-01-30"
+}

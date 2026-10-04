@@ -1,0 +1,35 @@
+{
+  "id": "5a56747e-8c12-4373-a820-21c72902c880",
+  "age": 52,
+  "birth_date": "1974-05-30",
+  "marital_status": "married",
+  "region": "Ochsenfurt",
+  "nationality": "german",
+  "company": "Sager Stiffel GmbH & Co. OHG",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Robert",
+  "self_last_name": "Hentschel",
+  "partner_first_name": "Gisa",
+  "partner_last_name": "Hentschel",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Wein aus Franken",
+    "Radfahren",
+    "Fußball",
+    "Gartenarbeit"
+  ],
+  "previous_passwords": [
+    "Wandern74!",
+    "WeinFranken52",
+    "Radfahren30",
+    "FCBayern74!",
+    "Mercedes52",
+    "Garten2024!",
+    "MainRiver74",
+    "GisaWein52",
+    "Ochsenfurt!74",
+    "WanderPro74"
+  ]
+}

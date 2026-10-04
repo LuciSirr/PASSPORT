@@ -1,0 +1,39 @@
+{
+  "id": "1692e3f3-aff9-475c-a756-c445089f0ae3",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "married",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1982-06-14",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohoutová",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "star wars"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Plzeňská doprava a skladování s.r.o.",
+  "previous_passwords": [
+    "Radek1982",
+    "KohoutRex21",
+    "Petra14.6",
+    "StarWars123",
+    "fotbal2020",
+    "Rex!2022",
+    "K0h0ut82",
+    "Plzen123",
+    "PetraRadek2023",
+    "RexStarWars"
+  ],
+  "favorite_hobby": "fotbal"
+}

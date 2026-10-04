@@ -1,0 +1,35 @@
+{
+  "id": "ff1beb36-2415-4679-8fc2-ad7bbddbeb72",
+  "gender": "male",
+  "age": 61,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Mazda",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Krause",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "wandern",
+    "audiobücher",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Krause Handelskontor GmbH",
+  "previous_passwords": [
+    "Juergen1963",
+    "Krause123",
+    "MazdaMX30!",
+    "Sabine2020",
+    "Wandern2022",
+    "Niedersachsen63",
+    "Handel_6000",
+    "Reisen!2023",
+    "Audiobuch7",
+    "Krause!63"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1965-02-08"
+}

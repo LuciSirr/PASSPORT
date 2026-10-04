@@ -1,0 +1,44 @@
+{
+  "id": "65b85e96-21fa-4602-a6a1-f8fc8a39f015",
+  "age": 34,
+  "birth_date": "1992-06-12",
+  "marital_status": "married",
+  "region": "South Christineborough",
+  "nationality": "english",
+  "company": "Price Inc",
+  "car_brand": "MG",
+  "self_first_name": "Julia",
+  "self_last_name": "Arnold",
+  "partner_first_name": "Darren",
+  "partner_last_name": "Baker",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ellie"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Stewart"
+    }
+  ],
+  "interests": [
+    "Hiking",
+    "Indie Music",
+    "Photography",
+    "Local History",
+    "Board Games"
+  ],
+  "previous_passwords": [
+    "EllieHike92!",
+    "DarrenLocalHist",
+    "StewartMG2024",
+    "IndiePhoto_34",
+    "HikingEllie!",
+    "BoardGamesJB",
+    "MGSouthChris",
+    "PhotoStewart1",
+    "EllieIndie!",
+    "LocalHistDarren92"
+  ]
+}

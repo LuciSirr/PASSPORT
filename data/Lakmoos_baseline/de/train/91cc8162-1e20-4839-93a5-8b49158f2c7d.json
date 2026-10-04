@@ -1,0 +1,35 @@
+{
+  "id": "91cc8162-1e20-4839-93a5-8b49158f2c7d",
+  "gender": "male",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Kraus",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fussball",
+    "gaming",
+    "skaten"
+  ],
+  "pets": [],
+  "company": "Jugendhilfe Niedersachsen e.V.",
+  "previous_passwords": [
+    "Lennart2010",
+    "Kraus123",
+    "Fussball!13",
+    "Niedersachsen04",
+    "Gaming_2009",
+    "Skaten2022",
+    "Lenny!13",
+    "Jugendhilfe2023",
+    "Berlin_04",
+    "KrausLenny"
+  ],
+  "favorite_hobby": "fussball",
+  "birth_date": "2013-01-17"
+}

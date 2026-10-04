@@ -1,0 +1,52 @@
+{
+  "id": "236bad98-5222-483c-9aa6-b281c0c313a6",
+  "age": 42,
+  "birth_date": "1984-03-29",
+  "marital_status": "married",
+  "region": "Parkershire",
+  "nationality": "english",
+  "company": "Fisher Group",
+  "car_brand": "Kia",
+  "self_first_name": "Cameron",
+  "self_last_name": "Harris",
+  "partner_first_name": "Jasmine",
+  "partner_last_name": "Wilson",
+  "children": [
+    {
+      "first_name": "Adrian",
+      "last_name": "Harris"
+    },
+    {
+      "first_name": "Elaine",
+      "last_name": "Harris"
+    },
+    {
+      "first_name": "Kate",
+      "last_name": "Harris"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Toby"
+    }
+  ],
+  "interests": [
+    "home gardening",
+    "walking trails",
+    "classic rock",
+    "true crime podcasts"
+  ],
+  "previous_passwords": [
+    "TobyRock84!",
+    "KiaTrail29",
+    "JasmineGarden42",
+    "AdrianWalk03",
+    "KateKia1984",
+    "WilsonRock29",
+    "ElainePod84",
+    "Parkershire7",
+    "HarrisTrail!",
+    "JasmineToby42"
+  ]
+}

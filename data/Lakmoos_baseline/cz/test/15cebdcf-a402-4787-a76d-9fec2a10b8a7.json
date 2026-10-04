@@ -1,0 +1,40 @@
+{
+  "id": "15cebdcf-a402-4787-a76d-9fec2a10b8a7",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Petr",
+  "self_last_name": "Šimáček",
+  "birth_date": "1996-04-17",
+  "partner_first_name": "Lucie",
+  "partner_last_name": "Šimáček",
+  "children": [],
+  "interests": [
+    "expedice",
+    "top gear",
+    "kempování"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Stavby Jihočech s.r.o.",
+  "previous_passwords": [
+    "Petr1996",
+    "ŠimáčekRex17",
+    "expedice2023",
+    "Lucie_0417",
+    "Rex!96",
+    "topgear123",
+    "StavbyJihočech2022",
+    "Šimáček!expedice",
+    "kempovani_17",
+    "RexŠimáček!"
+  ],
+  "favorite_hobby": "expedice"
+}

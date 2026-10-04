@@ -1,0 +1,48 @@
+{
+  "id": "360007ed-f76c-47d5-9b43-a29a9097429c",
+  "age": 34,
+  "birth_date": "1992-08-16",
+  "marital_status": "married",
+  "region": "Lynnebury",
+  "nationality": "english",
+  "company": "Hardy Inc",
+  "car_brand": "Toyota",
+  "self_first_name": "Joseph",
+  "self_last_name": "Howells",
+  "partner_first_name": "Stacey",
+  "partner_last_name": "Howells",
+  "children": [
+    {
+      "first_name": "Connor",
+      "last_name": "Howells"
+    },
+    {
+      "first_name": "Joanne",
+      "last_name": "Howells"
+    },
+    {
+      "first_name": "Lisa",
+      "last_name": "Howells"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "hiking",
+    "photography",
+    "indie music",
+    "local history",
+    "board games"
+  ],
+  "previous_passwords": [
+    "ToyotaLynnebury92",
+    "HikingPeaksJo",
+    "MessiConnor2024",
+    "IndieSoundsStacey",
+    "LocalHistJoanne!",
+    "BoardGamesLisa1992",
+    "PhotographyC!",
+    "Howells_Hike23",
+    "Lynnebury_Messi",
+    "Joanne_BoardG"
+  ]
+}

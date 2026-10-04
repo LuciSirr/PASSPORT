@@ -1,0 +1,35 @@
+{
+  "id": "6c2ca2e9-079c-4f37-99c4-f3ef58dce94f",
+  "gender": "male",
+  "age": 69,
+  "marital_status": "married",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kubeš",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Kubešová",
+  "children": [],
+  "interests": [
+    "procházky",
+    "televize",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1955",
+    "Fabia2006",
+    "Plzen123",
+    "RelaxVoda",
+    "Shell999",
+    "Marie2020",
+    "Kubesova15",
+    "krizovky321",
+    "Billa2020",
+    "Prochazka!"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1957-03-05"
+}

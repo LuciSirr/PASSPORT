@@ -1,0 +1,35 @@
+{
+  "id": "16fda4ec-f5a6-4e85-835f-301af90c39f1",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Cupra",
+  "self_first_name": "Lennart",
+  "self_last_name": "Kuhn",
+  "birth_date": "1999-06-18",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "dark souls",
+    "bundesliga"
+  ],
+  "pets": [],
+  "company": "Nordwest Management GmbH",
+  "previous_passwords": [
+    "Kuhn1999",
+    "Fifa18!",
+    "DarkSouls_99",
+    "Bundesliga123",
+    "Lennart!2020",
+    "Soulsborne_18",
+    "KuhnFifa2023",
+    "DSIII_2016",
+    "BayernMuenchen99",
+    "L3nn4rt_Fifa"
+  ],
+  "favorite_hobby": "fifa"
+}

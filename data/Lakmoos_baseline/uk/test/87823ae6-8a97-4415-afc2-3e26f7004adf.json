@@ -1,0 +1,44 @@
+{
+  "id": "87823ae6-8a97-4415-afc2-3e26f7004adf",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Citroën",
+  "self_first_name": "Gareth",
+  "self_last_name": "Morrison",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Morrison",
+  "children": [
+    {
+      "first_name": "Isla",
+      "last_name": "Morrison"
+    },
+    {
+      "first_name": "Arthur",
+      "last_name": "Morrison"
+    }
+  ],
+  "interests": [
+    "travel",
+    "top gear",
+    "hiking"
+  ],
+  "pets": [],
+  "company": "South Coast Motor Repairs",
+  "previous_passwords": [
+    "Gareth1983",
+    "Emily15!",
+    "TopGear123",
+    "MorrisonTravel2024",
+    "Hiking4Life",
+    "SouthCoast!83",
+    "EmilyMorrison_1983",
+    "TravelGear15",
+    "TopGear!Emily",
+    "MorrisonHiking2023"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1983-06-15"
+}

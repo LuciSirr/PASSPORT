@@ -1,0 +1,39 @@
+{
+  "id": "480c3091-a91d-4b9e-8bf1-66f9a40238ed",
+  "gender": "female",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading",
+    "netball"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Imogen2014",
+    "MistyCat7",
+    "Hatherleigh123",
+    "Drawing4Fun",
+    "Netball_10",
+    "ReadingRocks!",
+    "M1sty2020",
+    "Im0gen!cat",
+    "SouthWest14"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2016-03-03"
+}

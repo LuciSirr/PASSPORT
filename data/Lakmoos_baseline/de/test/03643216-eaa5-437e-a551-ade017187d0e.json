@@ -1,0 +1,36 @@
+{
+  "id": "03643216-eaa5-437e-a551-ade017187d0e",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Jens",
+  "self_last_name": "Kuhn",
+  "birth_date": "1983-04-17",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "krimis",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Berliner Managementberatung GmbH",
+  "previous_passwords": [
+    "Tatort1983",
+    "Kuhn!Berlin",
+    "Sabine17",
+    "Bundesliga04",
+    "Krimi_123",
+    "Reisen2022",
+    "KuhnTatort!",
+    "SabineKuhn83",
+    "BerlinKrimi17",
+    "Tat0rt!Sabine"
+  ],
+  "favorite_hobby": "tatort"
+}

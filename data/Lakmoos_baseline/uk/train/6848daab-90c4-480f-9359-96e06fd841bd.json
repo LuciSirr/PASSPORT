@@ -1,0 +1,39 @@
+{
+  "id": "6848daab-90c4-480f-9359-96e06fd841bd",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Ailsa",
+  "self_last_name": "McKinnon",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "baking",
+    "netflix"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Willow"
+    }
+  ],
+  "company": "Lochside Brokers",
+  "previous_passwords": [
+    "Willow2022",
+    "Ailsa19",
+    "McKinnon123",
+    "Lochside!10",
+    "Netflix4Life",
+    "Baking_101",
+    "ReadingCat",
+    "Willow!cat",
+    "Ailsa_McK"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2007-03-16"
+}

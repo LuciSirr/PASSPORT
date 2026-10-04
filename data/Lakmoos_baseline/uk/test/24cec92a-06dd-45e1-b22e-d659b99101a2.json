@@ -1,0 +1,40 @@
+{
+  "id": "24cec92a-06dd-45e1-b22e-d659b99101a2",
+  "gender": "female",
+  "age": 52,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "gardening",
+    "british bake off",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Molly"
+    }
+  ],
+  "company": "Meadow View Guesthouse",
+  "previous_passwords": [
+    "Fiona1972",
+    "Molly123",
+    "Ashcroft!18",
+    "BakeOff2020",
+    "Graham72",
+    "Gard3n1ng!",
+    "Walking_1972",
+    "MollyBakeOff",
+    "AshcroftMolly18",
+    "BritishBakeOff!"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1972-03-18"
+}

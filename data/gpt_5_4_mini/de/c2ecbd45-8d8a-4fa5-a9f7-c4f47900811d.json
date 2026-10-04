@@ -1,0 +1,44 @@
+{
+  "id": "c2ecbd45-8d8a-4fa5-a9f7-c4f47900811d",
+  "age": 22,
+  "birth_date": "2004-01-29",
+  "marital_status": "single",
+  "region": "Brand",
+  "nationality": "german",
+  "company": "Müller GbR",
+  "car_brand": "Dacia",
+  "self_first_name": "Marjan",
+  "self_last_name": "Freudenberger",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Knut"
+    },
+    {
+      "pet_type": "turtle",
+      "pet_name": "Elke"
+    }
+  ],
+  "interests": [
+    "Gaming",
+    "Fitnessstudio",
+    "Fußball",
+    "Netflix-Serien",
+    "Mountainbiken"
+  ],
+  "previous_passwords": [
+    "KnutGaming04!",
+    "DaciaRacing29",
+    "NetflixBranD22",
+    "FIFAFreuden04",
+    "MtbBrand29!",
+    "ElkeFit2004",
+    "BVBKnut22",
+    "GymMarjan29",
+    "GTA_Dacia04",
+    "FCBayern04!"
+  ]
+}

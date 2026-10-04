@@ -1,0 +1,34 @@
+{
+  "id": "8013d3c7-d8ba-46cd-a167-10b9ba179332",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Fiat",
+  "self_first_name": "Heike",
+  "self_last_name": "Kuhn",
+  "birth_date": "1968-06-12",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heike1968",
+    "KuhnPilcher12",
+    "Jürgen_1234",
+    "rosamunde2020",
+    "Nordic!Walking68",
+    "PilcherKuhn",
+    "Heike!Jürgen",
+    "Kuhn_1968",
+    "walking_123",
+    "Pilcher12!"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

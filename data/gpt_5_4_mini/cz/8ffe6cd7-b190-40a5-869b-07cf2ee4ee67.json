@@ -1,0 +1,34 @@
+{
+  "id": "8ffe6cd7-b190-40a5-869b-07cf2ee4ee67",
+  "age": 18,
+  "birth_date": "2008-07-16",
+  "marital_status": "married",
+  "region": "Bochov",
+  "nationality": "czech",
+  "company": "Novotný",
+  "car_brand": "Škoda",
+  "self_first_name": "Zdeněk",
+  "self_last_name": "Macháček",
+  "partner_first_name": "Sára",
+  "partner_last_name": "Macháčková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hraní her",
+    "fotbal",
+    "poslech hudby",
+    "sledování filmů a seriálů"
+  ],
+  "previous_passwords": [
+    "SkodaGamer18!",
+    "Messi0708_Z",
+    "SaraFotbal16",
+    "BochovFIFA08",
+    "ApexMach16!",
+    "NetflixZdenek8",
+    "Rammstein2008",
+    "MachacekHudba1",
+    "SkodaFilm07!",
+    "PS5Sakra18"
+  ]
+}

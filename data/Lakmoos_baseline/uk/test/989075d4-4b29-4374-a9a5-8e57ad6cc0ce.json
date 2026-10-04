@@ -1,0 +1,34 @@
+{
+  "id": "989075d4-4b29-4374-a9a5-8e57ad6cc0ce",
+  "gender": "male",
+  "age": 35,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "top gear",
+    "arsenal fc"
+  ],
+  "pets": [],
+  "company": "Hollingsworth Business Solutions",
+  "previous_passwords": [
+    "Callum1989",
+    "Ateca221!",
+    "Hollingsworth123",
+    "TopGear2018",
+    "Arsenal4Life",
+    "London_89",
+    "Cupra!2021",
+    "BusinessMan15",
+    "Gunners_1989",
+    "HollingsworthTopGear"
+  ],
+  "favorite_hobby": "top gear",
+  "birth_date": "1989-04-17"
+}

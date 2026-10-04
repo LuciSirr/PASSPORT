@@ -1,0 +1,41 @@
+{
+  "id": "cf882ae4-367a-4ecc-9bef-e338324a25c9",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "widower/widow",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "facebook",
+    "vlastivěda",
+    "domácnost"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Ben2017",
+    "Sebesta24000",
+    "HradecKralove74",
+    "Budvar1974",
+    "Domacnost123",
+    "Vlastiveda!2024",
+    "Ben!597",
+    "Albert_24000",
+    "SkodaKaroq2017",
+    "Cteni1974"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1955-09-09"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "65c1d79b-9720-44f9-94f7-29d9a7ac9937",
+  "gender": "male",
+  "age": 38,
+  "marital_status": "married",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Seat",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "auta",
+    "technologie"
+  ],
+  "pets": [],
+  "company": "Olomouc ICT Solutions",
+  "previous_passwords": [
+    "Radek1986",
+    "PetraVesela123",
+    "Olomouc59000",
+    "Kofola123",
+    "SeatAlhambra2001",
+    "dmTesco2020",
+    "Vesely38",
+    "Technologie2024",
+    "Auta!112",
+    "Nakupovani_9999"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1987-10-24"
+}

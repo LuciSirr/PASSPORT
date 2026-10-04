@@ -1,0 +1,34 @@
+{
+  "id": "3aef4e52-6fd4-4988-ac5b-11977282e8e3",
+  "gender": "male",
+  "age": 74,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Porsche",
+  "self_first_name": "Gerhard",
+  "self_last_name": "Krause",
+  "birth_date": "1950-04-17",
+  "partner_first_name": "Ingrid",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "klassische musik"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tatort1950",
+    "Krause123",
+    "Ingrid17",
+    "klassikMusik!50",
+    "Tatort_Krause",
+    "Gerhard1950",
+    "Krause!17",
+    "Tatort_123",
+    "Musik1950",
+    "IngridKrause50"
+  ],
+  "favorite_hobby": "tatort"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1f69f1a6-c38b-41d4-b74b-a9bf0d665400",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Krejčí",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Krejčí",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Krejčí"
+    }
+  ],
+  "interests": [
+    "auta",
+    "seriály",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Pražské služby s.r.o.",
+  "previous_passwords": [
+    "Matysek2014",
+    "PetraRadek34",
+    "SuperbEstate15",
+    "Praha123",
+    "Krejci2024",
+    "Auta!112",
+    "Seri4ly2022",
+    "Globus79",
+    "Matysek10",
+    "RadekPetra1"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1992-03-17"
+}

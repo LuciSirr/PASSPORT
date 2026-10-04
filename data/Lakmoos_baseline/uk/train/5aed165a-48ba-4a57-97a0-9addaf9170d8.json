@@ -1,0 +1,40 @@
+{
+  "id": "5aed165a-48ba-4a57-97a0-9addaf9170d8",
+  "gender": "female",
+  "age": 5,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dolls",
+    "singing"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "Little Learners Nursery",
+  "previous_passwords": [
+    "Imogen2019",
+    "Mittens123",
+    "Hollis5",
+    "Drawing4Fun",
+    "D0lls2022",
+    "LondonCat!",
+    "Nursery_19",
+    "Singing_5",
+    "Im0g3n!",
+    "HollisMittens"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2021-03-10"
+}

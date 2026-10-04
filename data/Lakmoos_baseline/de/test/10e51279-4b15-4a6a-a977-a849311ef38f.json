@@ -1,0 +1,43 @@
+{
+  "id": "10e51279-4b15-4a6a-a977-a849311ef38f",
+  "gender": "female",
+  "age": 37,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Peugeot",
+  "self_first_name": "Anja",
+  "self_last_name": "Kuhn",
+  "birth_date": "1987-04-15",
+  "partner_first_name": "Markus",
+  "partner_last_name": "Kuhn",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Kuhn"
+    },
+    {
+      "first_name": "Jonas",
+      "last_name": "Kuhn"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "Autohaus Winterfeld",
+  "previous_passwords": [
+    "Lena2009",
+    "Jonas2015",
+    "Tatort_87",
+    "Kuhn1234",
+    "podcast!15",
+    "AnjaMarkus2010",
+    "Winterfeld2022",
+    "LenaJonas09",
+    "Tat0rt!2023",
+    "Kuhn_podcast"
+  ],
+  "favorite_hobby": "tatort"
+}

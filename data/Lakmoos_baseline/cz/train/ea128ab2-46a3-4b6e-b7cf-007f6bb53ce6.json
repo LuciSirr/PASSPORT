@@ -1,0 +1,35 @@
+{
+  "id": "ea128ab2-46a3-4b6e-b7cf-007f6bb53ce6",
+  "gender": "male",
+  "age": 37,
+  "marital_status": "divorced",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "auta",
+    "grilování"
+  ],
+  "pets": [],
+  "company": "Jihočeská Energetika s.r.o.",
+  "previous_passwords": [
+    "Fabia2001",
+    "Kofola32",
+    "Hornbach2022",
+    "Lidl991",
+    "Radek123",
+    "Vesely1977",
+    "Grilovani2020",
+    "Slavia1905",
+    "Auta!2021",
+    "KFCmiluju"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1988-06-05"
+}

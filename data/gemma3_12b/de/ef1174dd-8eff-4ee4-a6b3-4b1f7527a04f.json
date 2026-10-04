@@ -1,0 +1,35 @@
+{
+  "id": "ef1174dd-8eff-4ee4-a6b3-4b1f7527a04f",
+  "age": 30,
+  "birth_date": "1996-09-15",
+  "marital_status": "divorced",
+  "region": "Sulzbach-Rosenberg",
+  "nationality": "german",
+  "company": "Sager GmbH",
+  "car_brand": "Renault",
+  "self_first_name": "Stella",
+  "self_last_name": "Jacobi Jäckel",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Wandern",
+    "Metal Musik",
+    "Lokaler Fußballverein",
+    "Brettspiele"
+  ],
+  "previous_passwords": [
+    "Metallica96",
+    "WandernStella2016",
+    "RenaultFoto!",
+    "MessiSulzbach",
+    "BrettspieleStella",
+    "FotografieJJ!",
+    "RosenbergMetal!",
+    "StellaJacobi1996",
+    "WanderlustStella",
+    "BayernMunich23"
+  ]
+}

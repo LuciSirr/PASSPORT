@@ -1,0 +1,49 @@
+{
+  "id": "1e9c6e3d-7824-4f43-b6bf-1bb39a243343",
+  "age": 75,
+  "birth_date": "1951-12-14",
+  "marital_status": "married",
+  "region": "Brand",
+  "nationality": "german",
+  "company": "Keudel KG",
+  "car_brand": "Skoda",
+  "self_first_name": "Ramazan",
+  "self_last_name": "Albers",
+  "partner_first_name": "Ann-Kathrin",
+  "partner_last_name": "Albers",
+  "children": [
+    {
+      "first_name": "Alwin",
+      "last_name": "Albers"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Walfried"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Frieder"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Volksmusik",
+    "Schallplatten",
+    "Gartenarbeit",
+    "Lokale Geschichte"
+  ],
+  "previous_passwords": [
+    "Waltrafried1951",
+    "SchallplattenAlbers",
+    "SkodaWandern!",
+    "AnnKathrin75!",
+    "AlwinGarten",
+    "VolksmusikBrand",
+    "Frieder_Wandern",
+    "LokaleGeschichte23",
+    "WaltrafriedAlbers",
+    "WandernSkoda07"
+  ]
+}

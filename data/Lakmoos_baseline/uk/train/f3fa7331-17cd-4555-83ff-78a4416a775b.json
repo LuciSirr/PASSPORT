@@ -1,0 +1,40 @@
+{
+  "id": "f3fa7331-17cd-4555-83ff-78a4416a775b",
+  "gender": "female",
+  "age": 43,
+  "marital_status": "widower/widow",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Yorkshire Heritage Consulting",
+  "previous_passwords": [
+    "Fiona1979",
+    "Ashcroft21",
+    "Milo123",
+    "Travel4Life",
+    "Reading2020",
+    "Yorkshire!43",
+    "Clio2002",
+    "Walking_88",
+    "Milo!Ash",
+    "Heritage999"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1983-01-25"
+}

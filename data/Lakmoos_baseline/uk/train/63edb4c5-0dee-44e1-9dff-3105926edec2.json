@@ -1,0 +1,38 @@
+{
+  "id": "63edb4c5-0dee-44e1-9dff-3105926edec2",
+  "gender": "female",
+  "age": 66,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Marion1958",
+    "Graham66",
+    "Misty123",
+    "Hollis2020",
+    "Gardening1",
+    "Kn1tt1ng!",
+    "Crosswords58",
+    "Wales!2022"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1960-02-06"
+}

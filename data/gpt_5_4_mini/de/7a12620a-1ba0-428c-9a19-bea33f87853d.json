@@ -1,0 +1,44 @@
+{
+  "id": "7a12620a-1ba0-428c-9a19-bea33f87853d",
+  "age": 35,
+  "birth_date": "1991-08-29",
+  "marital_status": "single",
+  "region": "Sigmaringen",
+  "nationality": "german",
+  "company": "Junitz KG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Justina",
+  "self_last_name": "Dippel",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Günther"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Reinhart"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fußball",
+    "Kochen",
+    "Radfahren",
+    "Tatort"
+  ],
+  "previous_passwords": [
+    "Tatort1991!",
+    "Wandern89_",
+    "GunterKickers7",
+    "VWRadeln91",
+    "KochenReinhart",
+    "Bayern291",
+    "Sigmaringen8",
+    "Fussball91!",
+    "DippelRun29",
+    "HikingGunter1"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "70874d8e-9662-4160-8298-5a56c47e9ff6",
+  "gender": "male",
+  "age": 69,
+  "marital_status": "divorced",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "čtení",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1955",
+    "Superb2008",
+    "Olomouc59",
+    "Lidl321",
+    "RadioImpuls69",
+    "Hudba123",
+    "Cteni2024",
+    "Konecny!59"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1956-09-09"
+}

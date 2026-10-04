@@ -1,0 +1,35 @@
+{
+  "id": "3c7523ee-5cd3-4190-8cb8-191081889f0a",
+  "age": 59,
+  "birth_date": "1967-01-16",
+  "marital_status": "married",
+  "region": "Chyše",
+  "nationality": "czech",
+  "company": "Dvořák k.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Květa",
+  "self_last_name": "Dušková",
+  "partner_first_name": "Dušan",
+  "partner_last_name": "Dušková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "chalupaření",
+    "české filmy",
+    "hokej"
+  ],
+  "previous_passwords": [
+    "Turistika67!",
+    "ChyseHokej16",
+    "DusanVW67",
+    "Zahrada_67",
+    "CeskeFilmy59",
+    "ChalupaDu63!",
+    "LiberecHokej!",
+    "GolfVW16",
+    "Turistika_Duska",
+    "Kveta1967!"
+  ]
+}

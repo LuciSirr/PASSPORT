@@ -1,0 +1,40 @@
+{
+  "id": "f6660e27-0d70-42e0-9370-0016383adf25",
+  "age": 57,
+  "birth_date": "1969-11-29",
+  "marital_status": "divorced",
+  "region": "Plauen",
+  "nationality": "german",
+  "company": "Hesse Gertz GbR",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Darius",
+  "self_last_name": "Siering",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Anne-Rose"
+    }
+  ],
+  "interests": [
+    "Wandern im Vogtland",
+    "Gartenarbeit",
+    "Fußball",
+    "Krimis lesen",
+    "Schlager"
+  ],
+  "previous_passwords": [
+    "Vogtland69!",
+    "AnneRose1969",
+    "Schalke57_11",
+    "Krimi29Plauen",
+    "Garten69Wolf",
+    "Volkswagen57",
+    "WanderVogt69",
+    "Fußball1969!",
+    "Schlager29D!",
+    "Darius_57Dog"
+  ]
+}

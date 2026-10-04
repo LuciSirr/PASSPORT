@@ -1,0 +1,35 @@
+{
+  "id": "052727eb-132c-43e6-b136-f8abed9d9505",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "BMW",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "football",
+    "cycling",
+    "gaming"
+  ],
+  "pets": [],
+  "company": "NorthWest Brokers & Consultants",
+  "previous_passwords": [
+    "Callum1996",
+    "BMW225xe!",
+    "Sophie28",
+    "Hollingsworth12",
+    "Football123",
+    "ManCity2020",
+    "ActiveTourer22",
+    "Cycling_96",
+    "NorthWest49",
+    "Sophie!96"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "1997-12-28"
+}

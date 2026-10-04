@@ -1,0 +1,40 @@
+{
+  "id": "009608b5-54ac-42be-8eca-92d5f5ab7c73",
+  "age": 50,
+  "birth_date": "1976-11-27",
+  "marital_status": "single",
+  "region": "Burglengenfeld",
+  "nationality": "german",
+  "company": "Drub Bolander e.V.",
+  "car_brand": "BMW",
+  "self_first_name": "Annelise",
+  "self_last_name": "Käster",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Niko",
+      "last_name": "Käster"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Gartenarbeit",
+    "Deutsche Filme",
+    "Lesen"
+  ],
+  "previous_passwords": [
+    "Messi2711",
+    "WandernNiko!",
+    "Bayernduetsch1976",
+    "DeutscheFilmeA",
+    "BMWgarten1976",
+    "LesenAnnelise!",
+    "FußballMessi_76",
+    "BurglengenfeldNiko",
+    "MessiWandern!",
+    "GartenBayernduetsch"
+  ]
+}

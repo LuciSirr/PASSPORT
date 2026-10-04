@@ -1,0 +1,40 @@
+{
+  "id": "eeb8aee6-db45-44a8-b7ee-ed0bc45ef51f",
+  "gender": "female",
+  "age": 33,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "East Midlands Venture Hub",
+  "previous_passwords": [
+    "Imogen1989",
+    "MiloClubman!",
+    "Hollingsworth74",
+    "Oliver2020",
+    "Travel4Fun",
+    "EastMidlands123",
+    "Reading_89",
+    "MiniPetrol",
+    "Milo_224",
+    "VentureHub!"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1992-04-06"
+}

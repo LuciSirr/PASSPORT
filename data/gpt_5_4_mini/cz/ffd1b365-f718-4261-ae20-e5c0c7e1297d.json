@@ -1,0 +1,35 @@
+{
+  "id": "ffd1b365-f718-4261-ae20-e5c0c7e1297d",
+  "age": 36,
+  "birth_date": "1990-06-09",
+  "marital_status": "single",
+  "region": "Červený Kostelec",
+  "nationality": "czech",
+  "company": "Sedláková v.o.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Anežka",
+  "self_last_name": "Kopecká",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "hokej",
+    "vaření",
+    "cyklistika",
+    "čtení"
+  ],
+  "previous_passwords": [
+    "Turistika90!",
+    "Hokej1990",
+    "VasekBike09",
+    "Cteni_06",
+    "Toyota1990!",
+    "VltavaTrail90",
+    "JagrHokej09",
+    "Kolo_Anezka90",
+    "Vareni!1990",
+    "Cestky_06"
+  ]
+}

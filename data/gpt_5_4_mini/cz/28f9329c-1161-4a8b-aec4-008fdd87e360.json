@@ -1,0 +1,40 @@
+{
+  "id": "28f9329c-1161-4a8b-aec4-008fdd87e360",
+  "age": 44,
+  "birth_date": "1982-08-31",
+  "marital_status": "married",
+  "region": "Hradec Králové",
+  "nationality": "czech",
+  "company": "Růžička Horváthová s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Ignác",
+  "self_last_name": "Fiala",
+  "partner_first_name": "Ema",
+  "partner_last_name": "Fialová",
+  "children": [
+    {
+      "first_name": "Karolína",
+      "last_name": "Fialová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "hokej",
+    "turistika",
+    "cyklistika",
+    "vaření",
+    "fotbal"
+  ],
+  "previous_passwords": [
+    "Hokej1982!",
+    "SkiHK_31",
+    "Skoda44tur",
+    "EmaFiala82",
+    "Karolina31!",
+    "BikeHK82",
+    "PastaEma44",
+    "Fotbal82HK",
+    "Turistika31",
+    "CykloFiala8"
+  ]
+}

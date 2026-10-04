@@ -1,0 +1,35 @@
+{
+  "id": "b07dd5ce-4c51-41c2-af4a-0303dd21b26e",
+  "gender": "male",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Timo",
+  "self_last_name": "Schwanitz",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "musik",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Niedersächsische Energieversorgung GmbH",
+  "previous_passwords": [
+    "Timo1998",
+    "Schwanitz123",
+    "Reisen2022!",
+    "Musik_98",
+    "Niedersachsen4ever",
+    "Wandern_2023",
+    "Sommerurlaub06",
+    "Energie_4000",
+    "Samsung2020",
+    "TimoSchatz!"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "2000-01-08"
+}

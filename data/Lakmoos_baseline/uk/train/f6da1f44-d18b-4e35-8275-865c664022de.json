@@ -1,0 +1,34 @@
+{
+  "id": "f6da1f44-d18b-4e35-8275-865c664022de",
+  "gender": "female",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "yoga",
+    "baking",
+    "reading"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Imogen2003",
+    "Ashcroft21",
+    "LondonGirl!",
+    "Yoga_123",
+    "Baking4Life",
+    "ImoAsh_23",
+    "Reading2022",
+    "Ashcroft!1",
+    "Imogen.LDN"
+  ],
+  "favorite_hobby": "yoga",
+  "birth_date": "2004-12-01"
+}

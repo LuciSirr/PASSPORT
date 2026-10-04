@@ -1,0 +1,34 @@
+{
+  "id": "24ba9fb6-f191-462b-a988-f7621838579e",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "čtení",
+    "křížovky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1954",
+    "Marie987",
+    "Konecny8000",
+    "BytVysočina",
+    "Cteni123",
+    "Krizovky2020",
+    "Lidl573",
+    "Budvar!",
+    "Vysočina54"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1956-02-28"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ca796990-33f3-440a-8b81-c01facaf5544",
+  "gender": "male",
+  "age": 57,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "televize",
+    "auta",
+    "kutilství"
+  ],
+  "pets": [],
+  "company": "Stavby Hradec s.r.o.",
+  "previous_passwords": [
+    "Radek1967",
+    "JanaVesela123",
+    "SkodaScala19",
+    "Kofola56",
+    "Byt120m2",
+    "Kutil2020",
+    "Lidl2020",
+    "Vesely!71",
+    "Auta999",
+    "Televize123"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1969-02-07"
+}

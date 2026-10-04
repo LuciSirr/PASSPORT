@@ -1,0 +1,44 @@
+{
+  "id": "d131f3f5-5456-41a7-afa6-cd98bd68a32c",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Mitsubishi",
+  "self_first_name": "Heike",
+  "self_last_name": "Krause",
+  "birth_date": "1961-06-15",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Krause",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "camping",
+    "krimis",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "Autohaus Buschmann GmbH",
+  "previous_passwords": [
+    "Heike1961",
+    "KrauseCamping21",
+    "Marlene2019",
+    "Lukas2017!",
+    "CampingKrause123",
+    "Jürgen_0615",
+    "Krimi!2020",
+    "n0rd1cWalk",
+    "Autohaus2022",
+    "Krause!Krimi"
+  ],
+  "favorite_hobby": "camping"
+}

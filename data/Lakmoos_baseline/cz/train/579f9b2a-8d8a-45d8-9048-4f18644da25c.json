@@ -1,0 +1,35 @@
+{
+  "id": "579f9b2a-8d8a-45d8-9048-4f18644da25c",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Ivana",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "grilování"
+  ],
+  "pets": [],
+  "company": "Moravská Strojírna s.r.o.",
+  "previous_passwords": [
+    "Radek1966",
+    "Ivana123",
+    "Sebesta58",
+    "Turistika2020",
+    "Grilovani!",
+    "Fotbal1977",
+    "MoravskaSlezska123",
+    "PilsnerUrquell58",
+    "Makro2020",
+    "KFC298"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1968-03-02"
+}

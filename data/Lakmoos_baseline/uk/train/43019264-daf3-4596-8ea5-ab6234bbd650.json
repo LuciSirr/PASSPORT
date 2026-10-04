@@ -1,0 +1,33 @@
+{
+  "id": "43019264-daf3-4596-8ea5-ab6234bbd650",
+  "gender": "female",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Nia",
+  "self_last_name": "Pritchard",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "netball",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Cymru Student Services",
+  "previous_passwords": [
+    "Nia2009",
+    "Pritchard14",
+    "Netball123",
+    "Wales4Life",
+    "Drawing_09",
+    "Cymru!11",
+    "NiaNetball",
+    "Reading_123"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2011-08-08"
+}

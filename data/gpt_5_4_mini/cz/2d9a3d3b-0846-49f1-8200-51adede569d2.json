@@ -1,0 +1,44 @@
+{
+  "id": "2d9a3d3b-0846-49f1-8200-51adede569d2",
+  "age": 21,
+  "birth_date": "2005-10-17",
+  "marital_status": "married",
+  "region": "Skuteč",
+  "nationality": "czech",
+  "company": "Prokop k.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Květoslava",
+  "self_last_name": "Pospíšilová",
+  "partner_first_name": "Boleslav",
+  "partner_last_name": "Pospíšilová",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Markéta"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "František"
+    }
+  ],
+  "interests": [
+    "hraní her",
+    "fotbal",
+    "posilování",
+    "poslech rapu",
+    "sledování hokeje"
+  ],
+  "previous_passwords": [
+    "FIFA17Boleslav!",
+    "Slavia2005!",
+    "Ronaldo17Skutec",
+    "Volks88Hockey",
+    "RapMarketa05",
+    "FrantisekGym21",
+    "PS5Pospisilova",
+    "Messi1017!",
+    "BerlinHokej21",
+    "VlkGym2005"
+  ]
+}

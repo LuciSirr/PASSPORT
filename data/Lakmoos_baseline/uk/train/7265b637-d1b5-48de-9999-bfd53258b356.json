@@ -1,0 +1,40 @@
+{
+  "id": "7265b637-d1b5-48de-9999-bfd53258b356",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Graham",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Merrick & Co Consulting",
+  "previous_passwords": [
+    "Graham1979",
+    "FionaMilo123",
+    "Merrick!45",
+    "Cycling4Life",
+    "Milo2020",
+    "Reading_79",
+    "Gardening3",
+    "Fiona4Graham",
+    "MerrickCo2024",
+    "SouthEast!1"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1981-02-28"
+}

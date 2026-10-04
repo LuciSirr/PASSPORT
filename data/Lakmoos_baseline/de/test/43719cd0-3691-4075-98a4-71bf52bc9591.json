@@ -1,0 +1,40 @@
+{
+  "id": "43719cd0-3691-4075-98a4-71bf52bc9591",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Porsche",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Kuhn",
+  "birth_date": "1969-05-14",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kuhn",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kuhn"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Hotel & Gasthof Am Rhein",
+  "previous_passwords": [
+    "Lukas2010",
+    "Tatort!69",
+    "Kuhn1969",
+    "Sabine_14",
+    "Bundesliga123",
+    "Wandern2022",
+    "JueRgen!55",
+    "SabineKuhn69",
+    "Tatort_Bundesliga",
+    "Kuhn!wandern"
+  ],
+  "favorite_hobby": "tatort"
+}

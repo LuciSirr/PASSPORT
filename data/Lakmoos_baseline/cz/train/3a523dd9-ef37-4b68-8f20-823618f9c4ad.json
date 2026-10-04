@@ -1,0 +1,34 @@
+{
+  "id": "3a523dd9-ef37-4b68-8f20-823618f9c4ad",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "grilování",
+    "cyklistika"
+  ],
+  "pets": [],
+  "company": "Stavby Vysočina s.r.o.",
+  "previous_passwords": [
+    "Radek1996",
+    "Vesely77",
+    "Fabia2021",
+    "Kofola123",
+    "Stavba2016",
+    "Grilovani!",
+    "Vysočina2024",
+    "Fotbal_123",
+    "Cyklo2022"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1997-07-19"
+}

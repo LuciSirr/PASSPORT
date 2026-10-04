@@ -1,0 +1,40 @@
+{
+  "id": "e10faceb-8bf3-4846-ae87-06b92225e0fa",
+  "gender": "female",
+  "age": 67,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Honda",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "West Midlands Executive Consulting",
+  "previous_passwords": [
+    "Margaret1957",
+    "Baxter123",
+    "Hollingsworth12",
+    "Peter4Me!",
+    "JazzCrosstar2020",
+    "Gardening_67",
+    "WestMidlands1",
+    "MiniClubman22",
+    "Baxter!2022",
+    "Reading4Life"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1958-09-08"
+}

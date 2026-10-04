@@ -1,0 +1,41 @@
+{
+  "id": "33a734d5-8626-4598-af68-7679f95655e3",
+  "gender": "male",
+  "age": 67,
+  "marital_status": "widower/widow",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Caldwell",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "crossword",
+    "history"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Whiskers"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Malcolm1957",
+    "Whiskers123",
+    "Caldwell67!",
+    "Gardening4",
+    "History2020",
+    "Walking_10",
+    "Crossword3",
+    "Scotland1957",
+    "Wh1sk3rs!",
+    "Malcolm_Cat"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1959-03-26"
+}

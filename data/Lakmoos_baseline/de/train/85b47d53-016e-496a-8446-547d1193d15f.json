@@ -1,0 +1,35 @@
+{
+  "id": "85b47d53-016e-496a-8446-547d1193d15f",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Fiat",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "podcasts",
+    "reisen",
+    "e-books"
+  ],
+  "pets": [],
+  "company": "Rheinland Consulting GmbH",
+  "previous_passwords": [
+    "Lennart98",
+    "Krause2020",
+    "Fiat500!",
+    "Podcasts123",
+    "Sommer07",
+    "Rheinland88",
+    "Xiaomi2021",
+    "Ebooks_321",
+    "Krause!23",
+    "Reisen2022"
+  ],
+  "favorite_hobby": "podcasts",
+  "birth_date": "2003-03-28"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "87381849-3644-4d55-b9ce-efc26c39f5e0",
+  "age": 47,
+  "birth_date": "1979-12-24",
+  "marital_status": "married",
+  "region": "Jablonec nad Nisou",
+  "nationality": "czech",
+  "company": "Kubíček Horáček v.o.s.",
+  "car_brand": "Opel",
+  "self_first_name": "Vít",
+  "self_last_name": "Musil",
+  "partner_first_name": "Vladimíra",
+  "partner_last_name": "Musilová",
+  "children": [
+    {
+      "first_name": "Hynek",
+      "last_name": "Musil"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "škoda auto",
+    "rybaření",
+    "divadelní představení",
+    "česká kuchyně"
+  ],
+  "previous_passwords": [
+    "HynekOpel24",
+    "VladimirTourism!",
+    "SkodaRapid79",
+    "Rybarstvicar!",
+    "DivadloJablonec",
+    "CeskaKuchyne1979",
+    "OpelHynekS!",
+    "TuristikaVít",
+    "RybarstvicarHynek",
+    "SkodaAuto24!"
+  ]
+}

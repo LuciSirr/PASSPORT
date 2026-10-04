@@ -1,0 +1,49 @@
+{
+  "id": "bb31b149-6740-43f2-a61a-80ba3f863148",
+  "age": 58,
+  "birth_date": "1968-10-17",
+  "marital_status": "divorced",
+  "region": "Neustadtner Waldnaab",
+  "nationality": "german",
+  "company": "Caspar Röhricht AG",
+  "car_brand": "Citroën",
+  "self_first_name": "Wilfriede",
+  "self_last_name": "Nohlmans",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Adam",
+      "last_name": "Nohlmans"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Winfried"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Hans-Jürgen"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Gartenarbeit",
+    "Schafkopf",
+    "Heimatgeschichte",
+    "Bayern München"
+  ],
+  "previous_passwords": [
+    "Wandern68!",
+    "Bayern1968",
+    "Winfried_17",
+    "Schafkopf58",
+    "GartenAdam!",
+    "Citroen68",
+    "Heimat_1968",
+    "Nohlmans17!",
+    "HansJuergen8",
+    "NeustadtWandern"
+  ]
+}

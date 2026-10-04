@@ -1,0 +1,39 @@
+{
+  "id": "b3067f40-aeb7-4bfb-858d-4f1cce5991da",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kohout",
+  "birth_date": "2018-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "krteček",
+    "autíčka"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bertík"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej2021",
+    "KohoutBertik",
+    "krtecek123",
+    "auticka2024",
+    "Bertik!21",
+    "KohoutKrtecek",
+    "MatejBertik10",
+    "auticka_21",
+    "krtecekKohout",
+    "Bertik2021"
+  ],
+  "favorite_hobby": "krteček"
+}

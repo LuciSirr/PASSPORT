@@ -1,0 +1,35 @@
+{
+  "id": "b1d8a54a-c81e-49df-a24e-f0be23dc4515",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Porsche",
+  "self_first_name": "Gareth",
+  "self_last_name": "Penhaligon",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Penhaligon",
+  "children": [],
+  "interests": [
+    "travel",
+    "walking",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "Celtic Horizons Management",
+  "previous_passwords": [
+    "Gareth1966",
+    "Elaine58",
+    "Porsche911!",
+    "Penhaligon123",
+    "Wales4ever",
+    "Travel2020",
+    "Gardening66",
+    "Celtic!13",
+    "911Turbo19",
+    "Elaine&Gareth"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1968-01-08"
+}

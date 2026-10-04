@@ -1,0 +1,34 @@
+{
+  "id": "4ac675be-e847-42b2-b4b9-279d1a30a517",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Suzuki",
+  "self_first_name": "Lucie",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1997-04-18",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "ordinace v růžové zahradě",
+    "nakupování oblečení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lucie1997",
+    "Kohoutova18",
+    "ordinace123",
+    "nakupovani2022",
+    "Kohoutova_97",
+    "LucieNakupovani!",
+    "ruzovazahrada97",
+    "KohoutovaOrdinace18",
+    "Nakupovani_18",
+    "Lucie!ordinace"
+  ],
+  "favorite_hobby": "ordinace v růžové zahradě"
+}

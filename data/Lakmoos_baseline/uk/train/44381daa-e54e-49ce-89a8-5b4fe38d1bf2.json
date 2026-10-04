@@ -1,0 +1,40 @@
+{
+  "id": "44381daa-e54e-49ce-89a8-5b4fe38d1bf2",
+  "gender": "male",
+  "age": 7,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finley",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lego",
+    "football",
+    "drawing"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "West Midlands Youth Tutoring",
+  "previous_passwords": [
+    "Finley2017",
+    "Milo123",
+    "Ashcroft7",
+    "LegoLover!",
+    "Football_07",
+    "MiloCat2023",
+    "WestMidlands1",
+    "Drawing4Fun",
+    "Finley_Milo",
+    "Ashcroft2024"
+  ],
+  "favorite_hobby": "lego",
+  "birth_date": "2019-02-04"
+}

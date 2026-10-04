@@ -1,0 +1,33 @@
+{
+  "id": "a2d16174-fde5-40b1-9155-7a50c8d02adb",
+  "gender": "male",
+  "age": 69,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Janet",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "classic cars",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Malcolm1955",
+    "JanetHollis123",
+    "ClassicCars55",
+    "Gardening!2020",
+    "Hollis2024",
+    "Polestar2Drive",
+    "Janet!55",
+    "HollisGardener",
+    "ClassicCar_2022"
+  ],
+  "favorite_hobby": "classic cars",
+  "birth_date": "1955-06-15"
+}

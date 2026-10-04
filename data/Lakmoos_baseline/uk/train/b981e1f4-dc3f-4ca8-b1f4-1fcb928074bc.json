@@ -1,0 +1,35 @@
+{
+  "id": "b981e1f4-dc3f-4ca8-b1f4-1fcb928074bc",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Ford",
+  "self_first_name": "Gareth",
+  "self_last_name": "Whittingham",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Whittingham",
+  "children": [],
+  "interests": [
+    "rambling",
+    "gardening",
+    "cricket"
+  ],
+  "pets": [],
+  "company": "Fenland Technical Consulting",
+  "previous_passwords": [
+    "FordRanger2006",
+    "Helen41!",
+    "Whittingham123",
+    "Cricket4Life",
+    "Fenland2022",
+    "Gareth!2000",
+    "DieselPickUp",
+    "Rambling22",
+    "Citroen07",
+    "Gardening_1"
+  ],
+  "favorite_hobby": "rambling",
+  "birth_date": "1984-07-26"
+}

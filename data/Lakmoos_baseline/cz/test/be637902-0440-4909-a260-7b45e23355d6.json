@@ -1,0 +1,40 @@
+{
+  "id": "be637902-0440-4909-a260-7b45e23355d6",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1977-06-12",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "ivysilani",
+    "ikea",
+    "kofola"
+  ],
+  "pets": [],
+  "company": "Zdraví a Sociální Péče Hradec",
+  "previous_passwords": [
+    "Radek1977",
+    "Matej2021",
+    "Kohout123",
+    "ivysilani2023",
+    "Petra12.6",
+    "Kofola!77",
+    "IkeaKohout",
+    "Mat3jKofola",
+    "Kohout!2020",
+    "PetraMatej77"
+  ],
+  "favorite_hobby": "ivysilani"
+}

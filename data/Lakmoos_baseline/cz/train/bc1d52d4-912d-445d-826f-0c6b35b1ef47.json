@@ -1,0 +1,36 @@
+{
+  "id": "bc1d52d4-912d-445d-826f-0c6b35b1ef47",
+  "gender": "male",
+  "age": 39,
+  "marital_status": "divorced",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "fotbal",
+    "auta",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "AutoServis Ustí",
+  "previous_passwords": [
+    "Octavia2003",
+    "Kofola123",
+    "Usti2020",
+    "Spdvolby",
+    "Skoda21",
+    "Fotbal1977",
+    "Radek59",
+    "Hudba!2024",
+    "Vesely123",
+    "Cestovani_88"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1987-02-09"
+}

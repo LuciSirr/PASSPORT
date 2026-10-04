@@ -1,0 +1,35 @@
+{
+  "id": "57413071-5682-447e-8d39-788d98d49ef9",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "single/in a relationship",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Iveta",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "seriály",
+    "nakupování",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Divadlo Pardubice",
+  "previous_passwords": [
+    "Hyundai2006",
+    "Bonprix39",
+    "Kofola123",
+    "VeselaPardubice",
+    "Relax2024",
+    "Hudba_1985",
+    "Nakupovani!",
+    "Seri4ly321",
+    "Pardubice998",
+    "Vesela!39"
+  ],
+  "favorite_hobby": "seriály",
+  "birth_date": "1987-02-10"
+}

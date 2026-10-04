@@ -1,0 +1,38 @@
+{
+  "id": "2df3ee90-beb4-4206-9642-0a7d8f5351c6",
+  "gender": "male",
+  "age": 67,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "BMW",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "classic cars",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Milo1957",
+    "HollisClassic57",
+    "Gardening!14",
+    "Margaret2020",
+    "ClassicCars_67",
+    "Milo!cat",
+    "GrahamJune14",
+    "H0llisGard3n",
+    "Margaret!57"
+  ],
+  "favorite_hobby": "classic cars",
+  "birth_date": "1957-06-14"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "64fb90ad-bb28-4347-913e-48f8c7c64f4c",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Graham",
+  "self_last_name": "Fenwick",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Fenwick",
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "travel"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Graham1966",
+    "Elaine58",
+    "Baxter123",
+    "Fenwick2020",
+    "Walking4Fun",
+    "Travel!66",
+    "Gardening_1",
+    "Baxter!2022"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1967-05-31"
+}

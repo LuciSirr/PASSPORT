@@ -1,0 +1,35 @@
+{
+  "id": "3486cb6c-3d98-4114-be83-688642942ef9",
+  "gender": "female",
+  "age": 43,
+  "marital_status": "single/in a relationship",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Nissan",
+  "self_first_name": "Katrin",
+  "self_last_name": "Schreiner",
+  "partner_first_name": "Jens",
+  "partner_last_name": "Schreiner",
+  "children": [],
+  "interests": [
+    "wandern",
+    "podcasts",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "RheinMetall Fertigung GmbH",
+  "previous_passwords": [
+    "Katrin1981",
+    "NissanLeaf21",
+    "Wandern123",
+    "Schreiner3000",
+    "BKK!2024",
+    "Rheinland78",
+    "Podcasts!1",
+    "Jens2020",
+    "F3rtigung!",
+    "Apfel_43"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1983-02-22"
+}

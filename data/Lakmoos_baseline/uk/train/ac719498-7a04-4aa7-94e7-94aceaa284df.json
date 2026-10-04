@@ -1,0 +1,35 @@
+{
+  "id": "ac719498-7a04-4aa7-94e7-94aceaa284df",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Seat",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cycling",
+    "travelling",
+    "reading"
+  ],
+  "pets": [],
+  "company": "NorthWest Venture Solutions",
+  "previous_passwords": [
+    "Callum1996",
+    "SeatAteca16",
+    "Hollingsworth123",
+    "CyclingNW!",
+    "Venture2020",
+    "Reading4Life",
+    "Ateca1498",
+    "NorthWest_13",
+    "Travel2022",
+    "Callum!13"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1998-01-14"
+}

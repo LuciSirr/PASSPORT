@@ -1,0 +1,36 @@
+{
+  "id": "341a3534-1145-4f4e-8625-3d59023153da",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Lucie",
+  "partner_last_name": "Šebestová",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "auta",
+    "kávování"
+  ],
+  "pets": [],
+  "company": "Agro Vysočina s.r.o.",
+  "previous_passwords": [
+    "Radek1996",
+    "Lucie2020",
+    "Fabia21!",
+    "Vysočina123",
+    "Fotbal2024",
+    "Shell1752",
+    "Globus1061",
+    "Kavovani!",
+    "Sebesta88",
+    "Auta999"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1997-06-02"
+}

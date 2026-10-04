@@ -1,0 +1,36 @@
+{
+  "id": "bc35189c-752a-42d7-8f2d-0baf2b6fb5e1",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Polestar",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Vogelsang",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "wandern",
+    "fotografie",
+    "krimis",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Stadtverwaltung Düsseldorf",
+  "previous_passwords": [
+    "Juergen1969",
+    "Polestar2!",
+    "Vogelsang3000",
+    "Düsseldorf123",
+    "Wandern2022",
+    "KrimiFan69",
+    "Fotografie_77",
+    "Reisen!2024",
+    "AllianzIKK",
+    "BMW2Polestar"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1970-07-26"
+}

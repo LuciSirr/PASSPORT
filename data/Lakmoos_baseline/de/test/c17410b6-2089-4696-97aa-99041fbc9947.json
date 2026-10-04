@@ -1,0 +1,35 @@
+{
+  "id": "c17410b6-2089-4696-97aa-99041fbc9947",
+  "gender": "male",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lukas",
+  "self_last_name": "Krause",
+  "birth_date": "2005-03-18",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "tatort",
+    "bvb dortmund"
+  ],
+  "pets": [],
+  "company": "Krause Innovations GmbH",
+  "previous_passwords": [
+    "Krause2005",
+    "fifa123",
+    "Tat0rt!18",
+    "BVBdortmund05",
+    "LukasFifa05",
+    "Krause!fifa",
+    "bvb_1909",
+    "TatortKrause",
+    "Lukas!18",
+    "F1faKrause"
+  ],
+  "favorite_hobby": "fifa"
+}

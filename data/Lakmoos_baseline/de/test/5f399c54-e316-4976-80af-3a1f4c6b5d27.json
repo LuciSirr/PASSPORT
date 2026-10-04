@@ -1,0 +1,35 @@
+{
+  "id": "5f399c54-e316-4976-80af-3a1f4c6b5d27",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Porsche",
+  "self_first_name": "Bernd",
+  "self_last_name": "Krause",
+  "birth_date": "1966-04-15",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "krimis"
+  ],
+  "pets": [],
+  "company": "Gesundheitszentrum Rhein",
+  "previous_passwords": [
+    "Bernd1966",
+    "KrauseTatort123",
+    "Sabine15.04",
+    "Bundesliga2020!",
+    "Tat0rt_66",
+    "KrimisKrause!",
+    "GesundheitRhein_1966",
+    "Sabine1966",
+    "TatortBundesliga",
+    "Krause!15_04"
+  ],
+  "favorite_hobby": "tatort"
+}

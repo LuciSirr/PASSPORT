@@ -1,0 +1,36 @@
+{
+  "id": "19df5c12-cda8-407f-adf8-800e7754c605",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "cestování",
+    "malování",
+    "turistika",
+    "divadlo"
+  ],
+  "pets": [],
+  "company": "Penzion U Lesa",
+  "previous_passwords": [
+    "Ivana1968",
+    "Vesela123",
+    "Fabia1998",
+    "Kofola2020",
+    "Petr2023",
+    "Cestovani56",
+    "Malovani_77",
+    "Divadlo!2022",
+    "CentralniBohemia56",
+    "Kultura2022"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1969-06-30"
+}

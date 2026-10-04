@@ -1,0 +1,36 @@
+{
+  "id": "dcf9c3e3-3c98-4cfd-9fb8-dc25e1b46f4b",
+  "gender": "female",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Lucie",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "plavání",
+    "seriály",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Hotel Morava Brno",
+  "previous_passwords": [
+    "Lucie2020",
+    "Morava79",
+    "PilsnerUrquell",
+    "Vinted123",
+    "Lidl839",
+    "Brno2024",
+    "Turistika1",
+    "Plavani!23",
+    "Sebestova26",
+    "Seriály_2021"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1999-12-23"
+}

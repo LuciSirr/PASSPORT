@@ -1,0 +1,34 @@
+{
+  "id": "9cd8639e-03e0-4566-b98d-a64d37542da5",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Franziska",
+  "self_last_name": "Kuhn",
+  "birth_date": "1992-06-14",
+  "partner_first_name": "Lena",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "dark",
+    "tatort",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Gesundheitszentrum Sachsen",
+  "previous_passwords": [
+    "Franzi1992",
+    "tatort123",
+    "Kuhn!14",
+    "Dark2020",
+    "Wandern92",
+    "FranziTatort!",
+    "LenaKuhn2022",
+    "dark_wandern",
+    "Tatort!1992"
+  ],
+  "favorite_hobby": "dark"
+}

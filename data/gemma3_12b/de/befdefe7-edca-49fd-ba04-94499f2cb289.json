@@ -1,0 +1,48 @@
+{
+  "id": "befdefe7-edca-49fd-ba04-94499f2cb289",
+  "age": 50,
+  "birth_date": "1976-01-04",
+  "marital_status": "married",
+  "region": "Kleve",
+  "nationality": "german",
+  "company": "Rörricht",
+  "car_brand": "Renault",
+  "self_first_name": "Holm",
+  "self_last_name": "Löwer",
+  "partner_first_name": "Babette",
+  "partner_last_name": "Löwer",
+  "children": [
+    {
+      "first_name": "Lidija",
+      "last_name": "Löwer"
+    },
+    {
+      "first_name": "Sahin",
+      "last_name": "Löwer"
+    },
+    {
+      "first_name": "Gertrude",
+      "last_name": "Löwer"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Deutsche Fußball Bundesliga",
+    "Klassische Musik",
+    "Lokale Klever Geschichte"
+  ],
+  "previous_passwords": [
+    "SahinWandern2023",
+    "RenaultKlever1976",
+    "LidijaFotoKleve!",
+    "MessiBundesliga04",
+    "BabetteClassicMusik",
+    "KleverGeschichteSahin",
+    "GertrudeWandern1998",
+    "FotografieSahinLöwer",
+    "RenaultKleveBabette",
+    "MessiClassic1976!"
+  ]
+}

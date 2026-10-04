@@ -1,0 +1,35 @@
+{
+  "id": "089a0983-345a-42c3-a07c-787151ff9ed4",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Fenwick",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Fenwick",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crossword",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Fenwick & Co. Consulting",
+  "previous_passwords": [
+    "Marion1955",
+    "Fenwick17",
+    "Graham123",
+    "Gardening!55",
+    "Baking2020",
+    "Crossword_1",
+    "Fenwick!17",
+    "MarionGraham",
+    "SouthEast55",
+    "FenwickCo2023"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1956-09-26"
+}

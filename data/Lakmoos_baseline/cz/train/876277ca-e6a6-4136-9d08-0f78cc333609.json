@@ -1,0 +1,48 @@
+{
+  "id": "876277ca-e6a6-4136-9d08-0f78cc333609",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "single/in a relationship",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    },
+    {
+      "first_name": "Šimon",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "grilování",
+    "filmy"
+  ],
+  "pets": [],
+  "company": "Jihočeské vodní služby",
+  "previous_passwords": [
+    "Matysek2017",
+    "Tesik2020",
+    "Voda47",
+    "Tesco820",
+    "Rajec2022",
+    "Matej4Tereza7",
+    "Grilovani123",
+    "Vesely1982",
+    "Simonek2020",
+    "Turistika!47"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1983-05-18"
+}

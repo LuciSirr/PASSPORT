@@ -1,0 +1,40 @@
+{
+  "id": "5d7508ec-0336-43ce-8870-625d1b1e0854",
+  "age": 29,
+  "birth_date": "1997-12-31",
+  "marital_status": "married",
+  "region": "Adamov",
+  "nationality": "czech",
+  "company": "Moravcová Bureš v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Jana",
+  "self_last_name": "Jarošová",
+  "partner_first_name": "Bořivoj",
+  "partner_last_name": "Jarošová",
+  "children": [
+    {
+      "first_name": "Vanda",
+      "last_name": "Křížová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivo",
+    "hudba",
+    "filmy",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "VandaKrizova97!",
+    "SkodaAdamov29",
+    "MessiTuristika!",
+    "FilmyBorivoj23",
+    "HudbaVanda_1997",
+    "CestovaniBořivoj",
+    "PivoAdamovVanda",
+    "TuristikaSkoda",
+    "BorivojFilmy29",
+    "VandaKrizovaHudba"
+  ]
+}

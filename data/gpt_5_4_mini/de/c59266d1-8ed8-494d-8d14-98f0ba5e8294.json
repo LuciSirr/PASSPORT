@@ -1,0 +1,35 @@
+{
+  "id": "c59266d1-8ed8-494d-8d14-98f0ba5e8294",
+  "age": 43,
+  "birth_date": "1983-04-18",
+  "marital_status": "married",
+  "region": "Rathenow",
+  "nationality": "german",
+  "company": "Hornig Franke AG & Co. OHG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Thorsten",
+  "self_last_name": "Jessel",
+  "partner_first_name": "Irene",
+  "partner_last_name": "Jessel",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Gärtnern",
+    "Kochen",
+    "Wandern"
+  ],
+  "previous_passwords": [
+    "Fussball83!",
+    "Bayern1983",
+    "Radfahren43",
+    "Kochen_Irene7",
+    "WandernRathenow",
+    "VWJessi83",
+    "Garten_418",
+    "RacingWolf83",
+    "KochenVW24",
+    "IreneRadeln!"
+  ]
+}

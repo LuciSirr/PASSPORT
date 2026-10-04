@@ -1,0 +1,35 @@
+{
+  "id": "75696b60-0117-43bd-a864-ea7c5259460a",
+  "gender": "female",
+  "age": 31,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Annika",
+  "self_last_name": "Schreyer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "kreuzfahrten",
+    "audiobooks",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Nordblick Consulting GmbH",
+  "previous_passwords": [
+    "Annika1993",
+    "Schreyer123",
+    "Kreuzfahrt!2022",
+    "Niedersachsen88",
+    "Sommerliebe93",
+    "Fotografie_321",
+    "Infinix2023",
+    "Aprilreise!",
+    "Buecher4life",
+    "Miners2024"
+  ],
+  "favorite_hobby": "kreuzfahrten",
+  "birth_date": "1994-10-12"
+}

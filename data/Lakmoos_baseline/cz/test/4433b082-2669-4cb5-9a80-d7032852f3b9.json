@@ -1,0 +1,42 @@
+{
+  "id": "4433b082-2669-4cb5-9a80-d7032852f3b9",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "divorced",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Lucie",
+  "self_last_name": "Burešová",
+  "birth_date": "1989-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Burešová"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Bureš"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "české filmy"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2014",
+    "Matej2024",
+    "Buresova123",
+    "cestovani2020",
+    "Lucie!89",
+    "ceskefilmy_10",
+    "Matysek14",
+    "BuresovaTereza",
+    "KarlovyVary2023"
+  ],
+  "favorite_hobby": "cestování"
+}

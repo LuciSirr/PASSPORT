@@ -1,0 +1,39 @@
+{
+  "id": "53bc4f3d-dcad-4bb2-a203-61858a7a13be",
+  "gender": "female",
+  "age": 9,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Carmichael",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading",
+    "football"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Maisie2015",
+    "Mittens123",
+    "Carmichael9",
+    "Drawing4Fun",
+    "Football_09",
+    "ReadingRocks",
+    "Mittens!",
+    "MaisieCat",
+    "Scotland2020"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2016-11-19"
+}

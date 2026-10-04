@@ -1,0 +1,35 @@
+{
+  "id": "52136073-e9da-45b3-a883-ab793402c622",
+  "age": 55,
+  "birth_date": "1971-03-11",
+  "marital_status": "single",
+  "region": "Weimar",
+  "nationality": "german",
+  "company": "Stey GbR",
+  "car_brand": "Audi",
+  "self_first_name": "Rainer",
+  "self_last_name": "Hettner",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern im Thüringer Wald",
+    "Klassische Musik",
+    "Geschichte und Kultur in Weimar",
+    "Gartenarbeit",
+    "Fußball"
+  ],
+  "previous_passwords": [
+    "Wandern1971!",
+    "AudiWeimar55",
+    "Bach1810_71",
+    "Ilmpark2024",
+    "ThueringerWald55",
+    "Hertha03Weimar",
+    "GoetheHaus71",
+    "Garden1971!",
+    "Classical55",
+    "Rainer11!"
+  ]
+}

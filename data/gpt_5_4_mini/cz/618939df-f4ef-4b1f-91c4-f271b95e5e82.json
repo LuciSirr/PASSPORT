@@ -1,0 +1,35 @@
+{
+  "id": "618939df-f4ef-4b1f-91c4-f271b95e5e82",
+  "age": 36,
+  "birth_date": "1990-12-10",
+  "marital_status": "married",
+  "region": "Slatiňany",
+  "nationality": "czech",
+  "company": "Havel v.o.s.",
+  "car_brand": "Fiat",
+  "self_first_name": "Blanka",
+  "self_last_name": "Vaňková",
+  "partner_first_name": "Vratislav",
+  "partner_last_name": "Vaňková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika v Železných horách",
+    "hokej",
+    "vaření",
+    "cyklistika",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Hokej1990!",
+    "Turistika90",
+    "Fiat_12",
+    "Vankova99",
+    "Vareni2024",
+    "ZelezneHory!",
+    "Cyklo36",
+    "CzechoslovakFilm90",
+    "Slatinany12",
+    "Vratislav90!"
+  ]
+}

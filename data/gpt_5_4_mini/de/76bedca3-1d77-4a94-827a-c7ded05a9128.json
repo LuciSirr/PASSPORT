@@ -1,0 +1,40 @@
+{
+  "id": "76bedca3-1d77-4a94-827a-c7ded05a9128",
+  "age": 24,
+  "birth_date": "2002-02-20",
+  "marital_status": "married",
+  "region": "Luckau",
+  "nationality": "german",
+  "company": "Kühnert Stiftung & Co. KGaA",
+  "car_brand": "Opel",
+  "self_first_name": "Jolanthe",
+  "self_last_name": "Dehmel",
+  "partner_first_name": "Ignatz",
+  "partner_last_name": "Dehmel",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Matteo"
+    }
+  ],
+  "interests": [
+    "Gaming",
+    "Fitnessstudio",
+    "Fußball",
+    "Reisen",
+    "Technik"
+  ],
+  "previous_passwords": [
+    "Gaming2002!",
+    "OpelJola24",
+    "FuBallLuckau7",
+    "Fitness_0202",
+    "ReisenMatteo!",
+    "TechDehmel22",
+    "IgnatzGaming!",
+    "Turtle2024",
+    "Opel_Fussball8",
+    "JolaTech#02"
+  ]
+}

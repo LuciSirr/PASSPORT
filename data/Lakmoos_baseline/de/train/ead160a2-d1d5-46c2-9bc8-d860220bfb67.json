@@ -1,0 +1,39 @@
+{
+  "id": "ead160a2-d1d5-46c2-9bc8-d860220bfb67",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "divorced",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kreutzmann"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "schach"
+  ],
+  "pets": [],
+  "company": "Ingenieurbüro HessenTech",
+  "previous_passwords": [
+    "Lukas2022",
+    "Kreutzmann123",
+    "HessenTech!22",
+    "Jürgen1974",
+    "Wandern2023",
+    "Schachmeister1",
+    "Lukas!Kreutzmann",
+    "Sommerurlaub09",
+    "Briquette_1978",
+    "Jurg3n!Lukas"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1965-06-05"
+}

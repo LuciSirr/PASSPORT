@@ -1,0 +1,35 @@
+{
+  "id": "28ef3d14-133e-4a41-ba5a-758062defc7a",
+  "age": 29,
+  "birth_date": "1997-04-09",
+  "marital_status": "single",
+  "region": "Witzenhausen",
+  "nationality": "german",
+  "company": "Krein",
+  "car_brand": "Opel",
+  "self_first_name": "Czeslaw",
+  "self_last_name": "Tlustek",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Wandern",
+    "Metal Musik",
+    "Lokaler Fußballverein",
+    "Brettspiele"
+  ],
+  "previous_passwords": [
+    "OpelFotografie97",
+    "MessiWandern2013",
+    "MetalMusikCzes97",
+    "BrettspieleWitzenh",
+    "FotografieTlustek!",
+    "WandernCzeslaw97",
+    "MetalMusikOpel!",
+    "Fotografie_Messi",
+    "BrettspieleWitzen!",
+    "Czes_Foto2024"
+  ]
+}

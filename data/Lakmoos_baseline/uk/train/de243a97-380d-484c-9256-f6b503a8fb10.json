@@ -1,0 +1,36 @@
+{
+  "id": "de243a97-380d-484c-9256-f6b503a8fb10",
+  "gender": "male",
+  "age": 31,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Seat",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Rebecca",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "hiking",
+    "photography",
+    "travel",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "NorthWest Digital Solutions",
+  "previous_passwords": [
+    "Callum2016",
+    "Rebecca31",
+    "Ateca1498",
+    "Hollingsworth7",
+    "Travel2020",
+    "NorthWest88",
+    "SeatAteca!",
+    "Hiking123",
+    "C4llum!",
+    "Rebecca_2015"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1995-03-24"
+}

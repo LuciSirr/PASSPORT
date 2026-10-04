@@ -1,0 +1,35 @@
+{
+  "id": "4f5dd04b-d601-46f7-88e0-78e383f38f63",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "televize",
+    "auta",
+    "facebook",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Veselý podnikání s.r.o.",
+  "previous_passwords": [
+    "Radek1982",
+    "PetraVesela42",
+    "Fabia2009",
+    "Kofola2020",
+    "UstiNL42",
+    "Hudba123",
+    "Auta!841",
+    "Albert841",
+    "Tmobile123"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1984-02-25"
+}

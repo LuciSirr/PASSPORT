@@ -1,0 +1,35 @@
+{
+  "id": "5cbc5d9d-5394-4179-8025-b106bdce2071",
+  "gender": "female",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Tereza",
+  "self_last_name": "Kohoutová",
+  "birth_date": "2003-07-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "stranger things",
+    "běhání",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Plzeňská studentská služba",
+  "previous_passwords": [
+    "Tereza2003",
+    "Kohoutova123",
+    "strangerthings14",
+    "Plzen!2021",
+    "behani2022",
+    "netflix_03",
+    "Kohoutova!stranger",
+    "TerezaJuly14",
+    "Str4ng3r2023",
+    "plzenka_2003"
+  ],
+  "favorite_hobby": "stranger things"
+}

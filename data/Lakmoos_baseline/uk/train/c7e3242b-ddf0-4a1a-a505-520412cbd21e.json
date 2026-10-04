@@ -1,0 +1,39 @@
+{
+  "id": "c7e3242b-ddf0-4a1a-a505-520412cbd21e",
+  "gender": "female",
+  "age": 46,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Toyota",
+  "self_first_name": "Fiona",
+  "self_last_name": "Radcliffe",
+  "partner_first_name": "Simon",
+  "partner_last_name": "Radcliffe",
+  "children": [],
+  "interests": [
+    "travel",
+    "walking",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "East Midlands Motor Trade Ltd",
+  "previous_passwords": [
+    "Fiona1978",
+    "Radcliffe24",
+    "Misty123",
+    "Travel4Fun!",
+    "Simon2021",
+    "Gardening_78",
+    "EastMidlands50",
+    "ToyotaC-HR",
+    "Walking!2022"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1979-10-12"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "a06a6468-c91a-412d-8c57-1021a5db4adf",
+  "age": 26,
+  "birth_date": "2000-07-10",
+  "marital_status": "married",
+  "region": "Valtice",
+  "nationality": "czech",
+  "company": "Kadlecová Hájková a.s.",
+  "car_brand": "Ford",
+  "self_first_name": "Štěpánka",
+  "self_last_name": "Tůmová",
+  "partner_first_name": "Zikmund",
+  "partner_last_name": "Tůmová",
+  "children": [
+    {
+      "first_name": "Adéla",
+      "last_name": "Zemanová"
+    },
+    {
+      "first_name": "Drahoslav",
+      "last_name": "Mach"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Dorota"
+    }
+  ],
+  "interests": [
+    "víno",
+    "cyklistika",
+    "turistika",
+    "fotbal",
+    "tradiční moravská kuchyně"
+  ],
+  "previous_passwords": [
+    "VinoValtice26",
+    "CykloFord10",
+    "Turistika07!",
+    "ZikmundVino2000",
+    "FotbalAdela26",
+    "MoravaKuchyne10",
+    "DorotaBird26",
+    "ValticeTour2000",
+    "SpartanFord07",
+    "TumuvaVino10"
+  ]
+}

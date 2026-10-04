@@ -1,0 +1,35 @@
+{
+  "id": "0f0aba70-144f-484d-a39e-c63430a6e39f",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "vaření",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Pražská výroba s.r.o.",
+  "previous_passwords": [
+    "Fabia2001",
+    "Pilsner55",
+    "Praha123",
+    "Kaufland2020",
+    "Vesely789",
+    "Radek1970",
+    "Auta!2023",
+    "Nakupovani11",
+    "SkodaFabia99",
+    "PivoPraha1"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1971-03-18"
+}

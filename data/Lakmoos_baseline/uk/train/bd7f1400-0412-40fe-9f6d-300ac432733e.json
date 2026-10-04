@@ -1,0 +1,35 @@
+{
+  "id": "bd7f1400-0412-40fe-9f6d-300ac432733e",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "north east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Fenwick",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gaming",
+    "football",
+    "drawing"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Callum2011",
+    "Fenwick12",
+    "football123",
+    "Newcastle4ever",
+    "GamerBoy07",
+    "drawing_2023",
+    "Fenwick!12",
+    "ToonArmy21",
+    "Callum_123",
+    "Footb4ll!"
+  ],
+  "favorite_hobby": "gaming",
+  "birth_date": "2013-07-27"
+}

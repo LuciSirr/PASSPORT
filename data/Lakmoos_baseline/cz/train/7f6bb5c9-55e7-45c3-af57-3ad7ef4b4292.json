@@ -1,0 +1,53 @@
+{
+  "id": "7f6bb5c9-55e7-45c3-af57-3ad7ef4b4292",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "filmy",
+    "kutilství",
+    "auta",
+    "hbo"
+  ],
+  "pets": [],
+  "company": "Bohemia Tech Solutions",
+  "previous_passwords": [
+    "Matysek15",
+    "PetraRadek",
+    "Fabia2009",
+    "Vesely123",
+    "Lidl2021",
+    "Tereza2018",
+    "Kutil2020",
+    "AdamEliška22",
+    "HBOmax!",
+    "Budvar77"
+  ],
+  "favorite_hobby": "filmy",
+  "birth_date": "1981-03-22"
+}

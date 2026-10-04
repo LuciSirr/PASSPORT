@@ -1,0 +1,40 @@
+{
+  "id": "126c030d-506c-450e-9561-ee1745679cff",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Porsche",
+  "self_first_name": "Jörg",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kleinschmidt",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kleinschmidt"
+    }
+  ],
+  "interests": [
+    "fotografie",
+    "reisen",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "Kulturwerkstatt Rhein",
+  "previous_passwords": [
+    "Lukas2012",
+    "Jörg!47",
+    "Macan283",
+    "Sabine123",
+    "Kulturwerkstatt90",
+    "Rhein_2015",
+    "Fotografie2020",
+    "Kleinschmidt11",
+    "Sommer!May",
+    "Porsche!9"
+  ],
+  "favorite_hobby": "fotografie",
+  "birth_date": "1978-06-17"
+}

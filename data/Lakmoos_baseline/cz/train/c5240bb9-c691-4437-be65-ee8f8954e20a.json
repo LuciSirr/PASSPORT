@@ -1,0 +1,35 @@
+{
+  "id": "c5240bb9-c691-4437-be65-ee8f8954e20a",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "auta",
+    "cestování",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Finanční služby Praha",
+  "previous_passwords": [
+    "Radek1973",
+    "JanaVesela77",
+    "Karoq2020",
+    "Praha!59",
+    "auta123",
+    "Kofola2020",
+    "Vesely1973",
+    "Datart3354",
+    "Cestovani2021",
+    "Seriály!77"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1975-01-15"
+}

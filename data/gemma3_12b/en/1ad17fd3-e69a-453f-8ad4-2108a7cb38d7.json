@@ -1,0 +1,49 @@
+{
+  "id": "1ad17fd3-e69a-453f-8ad4-2108a7cb38d7",
+  "age": 26,
+  "birth_date": "2000-12-05",
+  "marital_status": "married",
+  "region": "Christianberg",
+  "nationality": "english",
+  "company": "Payne-Kennedy",
+  "car_brand": "Vauxhall",
+  "self_first_name": "Irene",
+  "self_last_name": "Wallis",
+  "partner_first_name": "Leslie",
+  "partner_last_name": "Wallis",
+  "children": [
+    {
+      "first_name": "Abigail",
+      "last_name": "Wallis"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Stephen"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Gordon"
+    }
+  ],
+  "interests": [
+    "Indie Music",
+    "Hiking",
+    "Photography",
+    "Local Craft Beer",
+    "Copenhagen Fashion Week"
+  ],
+  "previous_passwords": [
+    "AbigailStephen2000",
+    "CphFashionHike!",
+    "VauxhallIndie26",
+    "StephenWallisCam",
+    "MessiCopenhagen12",
+    "GordonWalls_Photo",
+    "LeslieHike2005",
+    "IndieCraftBeer!",
+    "Wallis_Stephen_05",
+    "AbigailVauxhall"
+  ]
+}

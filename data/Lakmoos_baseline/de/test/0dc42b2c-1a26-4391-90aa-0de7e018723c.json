@@ -1,0 +1,39 @@
+{
+  "id": "0dc42b2c-1a26-4391-90aa-0de7e018723c",
+  "gender": "female",
+  "age": 57,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Mini",
+  "self_first_name": "Heike",
+  "self_last_name": "Kuhn",
+  "birth_date": "1967-06-14",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kuhn",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Kuhn"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "nordic walking",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "Rheinland Finanzberatung Busch & Partner",
+  "previous_passwords": [
+    "Lena2016",
+    "Tatort!67",
+    "Kuhn1234",
+    "HeikeJürgen57",
+    "Gartenarbeit2020",
+    "nordicWalking_14",
+    "TatortKuhn67",
+    "LenaTatort8",
+    "Jürgen!1967"
+  ],
+  "favorite_hobby": "tatort"
+}

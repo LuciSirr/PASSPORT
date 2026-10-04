@@ -1,0 +1,49 @@
+{
+  "id": "810b15ac-6d25-45ec-84b0-8d7483947785",
+  "age": 34,
+  "birth_date": "1992-12-12",
+  "marital_status": "married",
+  "region": "East Bruceberg",
+  "nationality": "english",
+  "company": "Nicholson, Parry and Smith",
+  "car_brand": "Tesla",
+  "self_first_name": "Pauline",
+  "self_last_name": "Mellor",
+  "partner_first_name": "Ryan",
+  "partner_last_name": "Mellor",
+  "children": [
+    {
+      "first_name": "Kim",
+      "last_name": "Mellor"
+    },
+    {
+      "first_name": "Joe",
+      "last_name": "Mellor"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Glenn"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "cooking",
+    "fitness",
+    "podcasts",
+    "local football"
+  ],
+  "previous_passwords": [
+    "KimFifa92!",
+    "Ryancook12",
+    "TeslaGym34",
+    "GlennPod12!",
+    "JoeFoot12",
+    "PauliGaming92",
+    "MellorFit12",
+    "MessiEast34!",
+    "CookBook12",
+    "Ryan_F1_92"
+  ]
+}

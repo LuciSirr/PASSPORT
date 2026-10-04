@@ -1,0 +1,34 @@
+{
+  "id": "b96dd70b-8594-42ac-9b17-2d616fa09a9e",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1969-06-10",
+  "partner_first_name": "Ivana",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "krimi filmy"
+  ],
+  "pets": [],
+  "company": "Strojírny Ústecko s.r.o.",
+  "previous_passwords": [
+    "Radek1969",
+    "Kohout10.6",
+    "Ivana2020",
+    "fotbal123",
+    "krimiFilmy69",
+    "ustiNadLabem_69",
+    "Strojirny2022",
+    "Kohout!fotbal",
+    "Ivana_10.6",
+    "krimi!Kohout"
+  ],
+  "favorite_hobby": "fotbal"
+}

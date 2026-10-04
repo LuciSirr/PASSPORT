@@ -1,0 +1,35 @@
+{
+  "id": "be93a9fc-0b98-4512-acf7-2c883d9eeb5b",
+  "age": 51,
+  "birth_date": "1975-01-09",
+  "marital_status": "single",
+  "region": "Bogen",
+  "nationality": "german",
+  "company": "Weinhold",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Bernhardine",
+  "self_last_name": "Weihmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Schlossbesichtigungen",
+    "Gartenarbeit",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "Neuschwanstein75!",
+    "MercedesBogen23",
+    "WandernSchloss1975",
+    "FotografieBogen!",
+    "ClassicMusikB",
+    "GartenarbeitBernhardine",
+    "Bergwandern71",
+    "BogenFoto!",
+    "MercedesClassic09",
+    "Wanderlust75"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "fc5da84a-7059-4e4b-9c1a-67d37ea8cef6",
+  "gender": "female",
+  "age": 11,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Jurčová",
+  "birth_date": "2013-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "miraculous ladybug",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2013",
+    "Micka123",
+    "Jurcova14",
+    "miraculous2024",
+    "ladybugMicka",
+    "malovani_11",
+    "Tereza!cat",
+    "MickaJurcova",
+    "ladybug14",
+    "malovani2023"
+  ],
+  "favorite_hobby": "miraculous ladybug"
+}

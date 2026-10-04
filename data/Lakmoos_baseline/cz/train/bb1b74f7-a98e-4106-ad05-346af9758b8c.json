@@ -1,0 +1,40 @@
+{
+  "id": "bb1b74f7-a98e-4106-ad05-346af9758b8c",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "procházky",
+    "vaření",
+    "nakupování"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "Domov Zdraví Beroun",
+  "previous_passwords": [
+    "Ben2017",
+    "Karoq112",
+    "Rajec99",
+    "Ivana63",
+    "Prochazky123",
+    "Sebestova42000",
+    "Ben!2020",
+    "Kaufland_63",
+    "Nakupovani77",
+    "Vaření2024"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1963-02-22"
+}

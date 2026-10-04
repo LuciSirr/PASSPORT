@@ -1,0 +1,34 @@
+{
+  "id": "554cdb01-222b-43b7-b6f3-8841c9378bcb",
+  "gender": "female",
+  "age": 31,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Nathan",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "reading",
+    "walking",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Willowbrook Care Services",
+  "previous_passwords": [
+    "Imogen1993",
+    "Hollis2020",
+    "Nathan!31",
+    "Reading123",
+    "Baking4Life",
+    "London_2021",
+    "Willowbrook22",
+    "ImoNate2023",
+    "Hollis!88"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1994-10-09"
+}

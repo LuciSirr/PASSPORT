@@ -1,0 +1,34 @@
+{
+  "id": "d61334e5-d3c3-4bc4-a3a9-7b23e405751c",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "nakupování",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "VwCaddy2013",
+    "Morava123",
+    "Maturita2024",
+    "RelaxCola",
+    "Vesely21",
+    "Radek1999",
+    "Audi2012",
+    "Hudba321",
+    "Auta!2024"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2005-01-24"
+}

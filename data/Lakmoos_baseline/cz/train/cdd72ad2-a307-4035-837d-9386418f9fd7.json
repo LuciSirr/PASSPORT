@@ -1,0 +1,33 @@
+{
+  "id": "cdd72ad2-a307-4035-837d-9386418f9fd7",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "married",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "cestování",
+    "grilování",
+    "filmy"
+  ],
+  "pets": [],
+  "company": "Pardubická Energetika",
+  "previous_passwords": [
+    "Radek1984",
+    "Jitka2024",
+    "VeselyPardubice",
+    "Grilovani123",
+    "Kofola40",
+    "JitkaRadek",
+    "Cestovani2020",
+    "Filmy!2022"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1985-10-19"
+}

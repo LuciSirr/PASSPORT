@@ -1,0 +1,34 @@
+{
+  "id": "3561d24a-76d5-4550-939c-07bbed1c00a3",
+  "gender": "female",
+  "age": 85,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Irmgard",
+  "self_last_name": "Kuhn",
+  "birth_date": "1939-03-15",
+  "partner_first_name": "Wilhelm",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosenzucht",
+    "krimiromane"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Irmgard1931",
+    "Kuhn!Rosenzucht",
+    "Wilhelm1950",
+    "Krimi123",
+    "R0s3n!1955",
+    "KuhnKrimi2020",
+    "Irmgard_Krimi",
+    "Rosenzucht15",
+    "Wilhelm!Kuhn",
+    "Kuhn1951"
+  ],
+  "favorite_hobby": "rosenzucht"
+}

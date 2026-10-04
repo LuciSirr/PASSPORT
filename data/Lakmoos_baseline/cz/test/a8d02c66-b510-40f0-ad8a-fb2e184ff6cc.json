@@ -1,0 +1,35 @@
+{
+  "id": "a8d02c66-b510-40f0-ad8a-fb2e184ff6cc",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Adam",
+  "self_last_name": "Kohout",
+  "birth_date": "2002-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "fotbal",
+    "šifra mistře leonardo"
+  ],
+  "pets": [],
+  "company": "Stavby Praha s.r.o.",
+  "previous_passwords": [
+    "Adam2002",
+    "KohoutPraha17",
+    "cestovani123",
+    "fotbal_2002",
+    "StavbyPraha!",
+    "Leonardo17",
+    "KohoutFotbal04",
+    "PrahaKohout2002",
+    "cestovani!17",
+    "Šifra2002"
+  ],
+  "favorite_hobby": "cestování"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "8148c6b7-4aa2-436e-b016-3f0d6a00c630",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Iveta",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotografie",
+    "automobilismus"
+  ],
+  "pets": [],
+  "company": "AutoServis Morava",
+  "previous_passwords": [
+    "Radek1973",
+    "IvetaVesela123",
+    "Octavia1998",
+    "Morava60m2",
+    "Turistika2020",
+    "Vesely34000",
+    "Shell112",
+    "Fotografie_73",
+    "Radekdm2021",
+    "Brno!1973"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1974-06-21"
+}

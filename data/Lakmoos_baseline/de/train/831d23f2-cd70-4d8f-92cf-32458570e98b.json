@@ -1,0 +1,40 @@
+{
+  "id": "831d23f2-cd70-4d8f-92cf-32458570e98b",
+  "gender": "female",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lesen",
+    "zeichnen",
+    "tanzen"
+  ],
+  "pets": [
+    {
+      "pet_type": "katze",
+      "pet_name": "Mimi"
+    }
+  ],
+  "company": "Bücherwurm Nachhilfe NRW",
+  "previous_passwords": [
+    "Lina2014",
+    "Mimi123",
+    "Kreutzmann10",
+    "Lesen!2020",
+    "Tanzen_321",
+    "MimiKreutzmann",
+    "NRW2022",
+    "Zeichnen4",
+    "Buecherwurm!",
+    "LinaMimi"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "2016-02-29"
+}

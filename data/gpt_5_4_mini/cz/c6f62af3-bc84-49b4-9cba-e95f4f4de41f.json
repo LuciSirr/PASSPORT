@@ -1,0 +1,35 @@
+{
+  "id": "c6f62af3-bc84-49b4-9cba-e95f4f4de41f",
+  "age": 41,
+  "birth_date": "1985-09-04",
+  "marital_status": "single",
+  "region": "Letohrad",
+  "nationality": "czech",
+  "company": "Dostál s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Dominik",
+  "self_last_name": "Říha",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika v Orlických horách",
+    "cyklistika",
+    "hokej",
+    "chalupaření",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "Turistika85!",
+    "SkiOrlice84",
+    "Skoda1985",
+    "HokejRiha04",
+    "OrlickeBike9",
+    "VareniLetohrad7",
+    "Chalupa44_",
+    "Dominik09!",
+    "CykloRiha85",
+    "Letohrad!85"
+  ]
+}

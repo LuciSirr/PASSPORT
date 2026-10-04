@@ -1,0 +1,34 @@
+{
+  "id": "c85aed59-14cf-4fbe-a25c-ea94060b3934",
+  "gender": "male",
+  "age": 35,
+  "marital_status": "married",
+  "region": "north east",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rebecca",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "cycling",
+    "travelling",
+    "reading"
+  ],
+  "pets": [],
+  "company": "NorthEast Brokers & Consultants",
+  "previous_passwords": [
+    "Polestar2020",
+    "Rebecca35",
+    "Gareth1989",
+    "Hollings123",
+    "Cycling!21",
+    "Travelling_88",
+    "Seat2Polestar",
+    "Reading4Life",
+    "NorthEast2024"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1990-05-10"
+}

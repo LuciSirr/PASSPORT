@@ -1,0 +1,34 @@
+{
+  "id": "71614a28-ee44-441e-9a5e-a2488613024a",
+  "gender": "male",
+  "age": 1,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matyáš",
+  "self_last_name": "Krejčí",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "autíčka"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "matysek2023",
+    "maminka123",
+    "plzenko",
+    "auticko",
+    "hracka1",
+    "Krejci2023",
+    "malovani123",
+    "Plzen2022",
+    "Matysek!",
+    "auticka2024"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2025-01-17"
+}

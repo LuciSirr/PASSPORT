@@ -1,0 +1,48 @@
+{
+  "id": "de1a8ff5-71e1-4aae-9d9a-611195844ea9",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "northern ireland",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Hollis",
+  "children": [
+    {
+      "first_name": "Ava",
+      "last_name": "Hollis"
+    },
+    {
+      "first_name": "Ava",
+      "last_name": "Hollis"
+    }
+  ],
+  "interests": [
+    "top gear",
+    "fishing"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Baxter2010",
+    "HollisFishing73",
+    "TopGear!123",
+    "Elaine1975",
+    "Baxter!TopGear",
+    "Fishing_1973",
+    "GrahamBaxter14",
+    "Hollis!Elaine",
+    "TopGearBaxter",
+    "Fishing!73"
+  ],
+  "favorite_hobby": "top gear",
+  "birth_date": "1973-05-14"
+}

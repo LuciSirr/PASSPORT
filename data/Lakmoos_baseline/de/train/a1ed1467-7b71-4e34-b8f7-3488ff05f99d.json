@@ -1,0 +1,40 @@
+{
+  "id": "a1ed1467-7b71-4e34-b8f7-3488ff05f99d",
+  "gender": "female",
+  "age": 57,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heike",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kronenberg",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Kronenberg"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "kreuzfahrten",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "Gesundheitspflege Hessen GmbH",
+  "previous_passwords": [
+    "Lena2019",
+    "Heike57!",
+    "Kronenberg_123",
+    "Sommerurlaub07",
+    "Jürgen2020",
+    "Wandern4ever",
+    "LenaKreuzfahrt",
+    "Gesundheit2024",
+    "Hessen_5000",
+    "KronenbergLena"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1969-03-28"
+}

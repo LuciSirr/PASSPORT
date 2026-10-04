@@ -1,0 +1,40 @@
+{
+  "id": "7436343c-f99b-4507-9245-9bd5cddb3419",
+  "age": 21,
+  "birth_date": "2005-01-17",
+  "marital_status": "single",
+  "region": "Schwarzenberg",
+  "nationality": "german",
+  "company": "Rose Nohlmans Stiftung & Co. KGaA",
+  "car_brand": "Hyundai",
+  "self_first_name": "Svenja",
+  "self_last_name": "Hölzenbecher",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Eduard"
+    }
+  ],
+  "interests": [
+    "Gaming",
+    "Fußball",
+    "Fitnessstudio",
+    "TikTok",
+    "Wandern im Erzgebirge"
+  ],
+  "previous_passwords": [
+    "Eduard2005!",
+    "Hyundai21_Sven",
+    "Fussball05!",
+    "TikTok2005",
+    "GamingSven21",
+    "Wandern_17!",
+    "Fitness2005",
+    "Erzgebirge21",
+    "Schwarzenberg!",
+    "EduardTurtle05"
+  ]
+}

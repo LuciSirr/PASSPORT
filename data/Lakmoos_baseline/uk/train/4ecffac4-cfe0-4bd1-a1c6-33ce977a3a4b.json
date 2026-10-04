@@ -1,0 +1,35 @@
+{
+  "id": "4ecffac4-cfe0-4bd1-a1c6-33ce977a3a4b",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "travelling",
+    "gardening",
+    "history"
+  ],
+  "pets": [],
+  "company": "South Downs Ventures",
+  "previous_passwords": [
+    "Malcolm63",
+    "Renault2015",
+    "SouthDowns22",
+    "Hollingsworth1",
+    "Gardening123",
+    "Kadjar!9",
+    "History1961",
+    "Travel4Fun",
+    "Mercedes2",
+    "Divorce2024"
+  ],
+  "favorite_hobby": "travelling",
+  "birth_date": "1963-03-01"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "74ab8551-f667-4fba-b7ec-f2bae4c3f611",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "křížovky",
+    "vaření",
+    "rádio"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Brno1954",
+    "Tesco18",
+    "Konečný2020",
+    "pensioner59",
+    "Lidl123",
+    "krizovky2024",
+    "Vaření!54",
+    "RadioBlanik1",
+    "Konečný!18",
+    "Brno_123"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1956-01-31"
+}

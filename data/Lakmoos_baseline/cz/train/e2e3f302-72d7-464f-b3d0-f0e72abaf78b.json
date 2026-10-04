@@ -1,0 +1,35 @@
+{
+  "id": "e2e3f302-72d7-464f-b3d0-f0e72abaf78b",
+  "gender": "female",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "puzzle",
+    "tanec"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Terezka2021",
+    "maminka123",
+    "slunicko",
+    "hracka",
+    "jablko",
+    "Vesela03",
+    "tanec2022",
+    "malovani_321",
+    "puzzle!23",
+    "jablko_2021"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2023-03-24"
+}

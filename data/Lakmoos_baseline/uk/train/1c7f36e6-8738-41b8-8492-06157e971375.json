@@ -1,0 +1,34 @@
+{
+  "id": "1c7f36e6-8738-41b8-8492-06157e971375",
+  "gender": "female",
+  "age": 74,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marjorie",
+  "self_last_name": "Fenwick",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Fenwick",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crosswords"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Marjorie1950",
+    "Fenwick8",
+    "Geoffrey74",
+    "Knitting123",
+    "Gardening!50",
+    "Crosswords2020",
+    "Fenwick_8000",
+    "MarjFen1",
+    "SouthEast74"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1951-06-08"
+}

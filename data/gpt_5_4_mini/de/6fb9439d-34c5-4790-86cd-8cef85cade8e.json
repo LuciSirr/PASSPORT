@@ -1,0 +1,57 @@
+{
+  "id": "6fb9439d-34c5-4790-86cd-8cef85cade8e",
+  "age": 61,
+  "birth_date": "1965-08-16",
+  "marital_status": "married",
+  "region": "Gunzenhausen",
+  "nationality": "german",
+  "company": "Tlustek",
+  "car_brand": "Kia",
+  "self_first_name": "Katy",
+  "self_last_name": "Junitz",
+  "partner_first_name": "Walfried",
+  "partner_last_name": "Junitz",
+  "children": [
+    {
+      "first_name": "Ottmar",
+      "last_name": "Junitz"
+    },
+    {
+      "first_name": "Isabel",
+      "last_name": "Junitz"
+    },
+    {
+      "first_name": "Danica",
+      "last_name": "Junitz"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Grete"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Diethelm"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Radfahren",
+    "Gartenpflege",
+    "Schwimmen",
+    "Bayerische Geschichte"
+  ],
+  "previous_passwords": [
+    "Wandern61!",
+    "Radeln1965",
+    "KiaGrete16",
+    "Garten65_",
+    "Schwimm61!",
+    "Bayern1965",
+    "JunitzRadtour",
+    "Ottmar65!",
+    "IsabelWald61",
+    "Gunzen65Kia"
+  ]
+}

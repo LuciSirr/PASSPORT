@@ -1,0 +1,45 @@
+{
+  "id": "b689a311-7cf0-4a9c-9ecf-96a27b0c6d83",
+  "age": 55,
+  "birth_date": "1971-07-03",
+  "marital_status": "married",
+  "region": "Chvaletice",
+  "nationality": "czech",
+  "company": "Navrátilová a.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Lumír",
+  "self_last_name": "Němeček",
+  "partner_first_name": "Viktorie",
+  "partner_last_name": "Němečková",
+  "children": [
+    {
+      "first_name": "Anežka",
+      "last_name": "Blažková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Žofie"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěstitví zeleniny",
+    "historie",
+    "folklór"
+  ],
+  "previous_passwords": [
+    "AnežkaTuristika71",
+    "ŠkodaRybaření2023",
+    "ViktorieBlažkováFish",
+    "JosefLáďákZelenina!",
+    "ŽofieHistory2000",
+    "TuristikaChvaletice",
+    "MessiPěstitví80",
+    "FolklórViktorie_Z",
+    "73HistTuristika!",
+    "AnežkaŠkodaFish"
+  ]
+}

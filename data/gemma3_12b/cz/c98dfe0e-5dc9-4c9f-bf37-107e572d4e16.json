@@ -1,0 +1,44 @@
+{
+  "id": "c98dfe0e-5dc9-4c9f-bf37-107e572d4e16",
+  "age": 41,
+  "birth_date": "1985-09-07",
+  "marital_status": "single",
+  "region": "Brno",
+  "nationality": "czech",
+  "company": "Dušek Černá k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Adéla",
+  "self_last_name": "Horáková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Romana"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Libor"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "pivo",
+    "filmové večery",
+    "brněnské divadlo"
+  ],
+  "previous_passwords": [
+    "Messi2004!",
+    "Romana_Brno",
+    "SkodaLibor85",
+    "TuristikaAdela",
+    "FotbalFilm23",
+    "PivoBrno1985",
+    "DivadloMessi!",
+    "AdelaRoma85",
+    "FilmoveVecery!",
+    "BrnoSkoda23"
+  ]
+}

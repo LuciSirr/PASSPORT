@@ -1,0 +1,33 @@
+{
+  "id": "2c020bff-572c-4c1e-98c6-363c27cfe220",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "cestování",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1958",
+    "Marie66",
+    "Morava123",
+    "Zahrada2020",
+    "Konechny58",
+    "Cestovani2021",
+    "RelaxVoda",
+    "Tesco1234",
+    "Kaufland21"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1960-01-20"
+}

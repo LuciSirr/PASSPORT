@@ -1,0 +1,40 @@
+{
+  "id": "6bbb8e49-f5fa-4cb6-8438-ec9d3e990b1f",
+  "gender": "male",
+  "age": 32,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Škoda",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travelling",
+    "football"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "SouthEast Buildworks Ltd",
+  "previous_passwords": [
+    "Callum1989",
+    "Emily4ever",
+    "Baxter123",
+    "Hollingsworth17",
+    "SouthEastBuildworks!",
+    "Football_89",
+    "Hiking2020",
+    "Trav3l!ng",
+    "Baxter!89",
+    "Emily_1989"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1993-08-05"
+}

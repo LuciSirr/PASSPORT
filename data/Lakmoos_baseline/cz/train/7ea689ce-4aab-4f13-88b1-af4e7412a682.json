@@ -1,0 +1,40 @@
+{
+  "id": "7ea689ce-4aab-4f13-88b1-af4e7412a682",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "seriály",
+    "hudba"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Obchodní služby Veselá",
+  "previous_passwords": [
+    "Terezka2005",
+    "Micka123",
+    "kofola19",
+    "Veselá2022",
+    "hudba!23",
+    "seriály_05",
+    "Nakupovani321",
+    "Micka!05",
+    "TerezaMicka",
+    "Lidl2022"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "2006-07-19"
+}

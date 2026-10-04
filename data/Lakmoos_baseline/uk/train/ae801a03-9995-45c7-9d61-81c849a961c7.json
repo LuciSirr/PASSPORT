@@ -1,0 +1,40 @@
+{
+  "id": "ae801a03-9995-45c7-9d61-81c849a961c7",
+  "gender": "female",
+  "age": 58,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Richard",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "gardening",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Molly"
+    }
+  ],
+  "company": "Eastgate Business Solutions",
+  "previous_passwords": [
+    "Fiona1966",
+    "Molly123",
+    "Eastgate17",
+    "Richard!2005",
+    "Travel4Fun",
+    "Hollingsworth_1",
+    "Gardening66",
+    "Molly!66",
+    "Reading_2020",
+    "FionaRichard!"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1967-05-02"
+}

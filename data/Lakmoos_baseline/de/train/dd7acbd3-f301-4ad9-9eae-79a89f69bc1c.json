@@ -1,0 +1,35 @@
+{
+  "id": "dd7acbd3-f301-4ad9-9eae-79a89f69bc1c",
+  "gender": "male",
+  "age": 49,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Citroën",
+  "self_first_name": "Ralf",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "reisen",
+    "musik",
+    "autos"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Ralf1975",
+    "Sabine2023!",
+    "CitroenC3_19",
+    "Kleinschmidt27",
+    "ReisenAugust",
+    "Musik_123",
+    "Nordrhein90",
+    "AutoLeidenschaft",
+    "Sommerurlaub!",
+    "SignalIduna75"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1976-10-18"
+}

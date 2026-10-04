@@ -1,0 +1,32 @@
+{
+  "id": "30e8209e-895b-40d9-ad05-5276ac7201f9",
+  "gender": "male",
+  "age": 9,
+  "marital_status": "single/in a relationship",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lukas",
+  "self_last_name": "Krause",
+  "birth_date": "2015-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "pokemon",
+    "fussball"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2015",
+    "KrausePoke123",
+    "pokemon!15",
+    "fussball10",
+    "P1kachu2015",
+    "KrauseFussball",
+    "LukasPoke10",
+    "Fussball_2015"
+  ],
+  "favorite_hobby": "pokemon"
+}

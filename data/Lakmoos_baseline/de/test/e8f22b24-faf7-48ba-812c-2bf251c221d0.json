@@ -1,0 +1,34 @@
+{
+  "id": "e8f22b24-faf7-48ba-812c-2bf251c221d0",
+  "gender": "female",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Krause",
+  "birth_date": "2009-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gntm",
+    "bouldern"
+  ],
+  "pets": [],
+  "company": "Bäckerei Schulte",
+  "previous_passwords": [
+    "Lina2009",
+    "Krause!14",
+    "gntm2023",
+    "bouldern_123",
+    "SchulteBrot09",
+    "LinaGNTM",
+    "krausebouldern",
+    "Baeckerei2022",
+    "Lina!bouldern",
+    "gntmKrause09"
+  ],
+  "favorite_hobby": "gntm"
+}

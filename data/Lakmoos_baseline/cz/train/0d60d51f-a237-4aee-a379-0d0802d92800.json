@@ -1,0 +1,41 @@
+{
+  "id": "0d60d51f-a237-4aee-a379-0d0802d92800",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šebestová",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "zahrada",
+    "káva",
+    "facebook"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "Moravská výroba s.r.o.",
+  "previous_passwords": [
+    "Iveta50",
+    "Ben2021",
+    "Křížovky813",
+    "Šebestová2024",
+    "Zahrada123",
+    "PetrIveta21",
+    "Bayon998",
+    "Makro813",
+    "Penny644",
+    "KavaBen!"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1976-02-07"
+}

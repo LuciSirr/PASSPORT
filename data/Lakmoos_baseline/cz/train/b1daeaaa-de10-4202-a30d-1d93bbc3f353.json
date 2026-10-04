@@ -1,0 +1,41 @@
+{
+  "id": "b1daeaaa-de10-4202-a30d-1d93bbc3f353",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Šebestová",
+  "children": [],
+  "interests": [
+    "turistika",
+    "plavání",
+    "knihy",
+    "fitness"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Moravia Consulting s.r.o.",
+  "previous_passwords": [
+    "Micka2020",
+    "MartinIveta99",
+    "Brno73000",
+    "Octavia2008",
+    "Turistika123",
+    "Plavani!27",
+    "M4rtinova!",
+    "Globus123",
+    "Micka_07",
+    "Sebestova1987"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1999-01-08"
+}

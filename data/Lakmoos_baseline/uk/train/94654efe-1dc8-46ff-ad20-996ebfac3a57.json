@@ -1,0 +1,36 @@
+{
+  "id": "94654efe-1dc8-46ff-ad20-996ebfac3a57",
+  "gender": "male",
+  "age": 62,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "travel",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Westmoor Financial Services",
+  "previous_passwords": [
+    "Graham1962",
+    "AudiQ3!2019",
+    "Margaret62",
+    "Hollis4000",
+    "Westmoor2020",
+    "Gardening123",
+    "Travel4Life",
+    "Reading_62",
+    "Mazda2014",
+    "SouthWest!"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1964-03-16"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "5ed3c54b-6195-46ae-b1da-d4b915e689e1",
+  "gender": "male",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kohout",
+  "birth_date": "2011-05-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "slavia praha"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej2011",
+    "Rex123",
+    "fifa2023",
+    "Kohout17",
+    "slavia123",
+    "Rex_fifa",
+    "K0h0ut!",
+    "fifaRex11"
+  ],
+  "favorite_hobby": "fifa"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "122743f8-373c-424f-838b-c8fc8c11e336",
+  "age": 42,
+  "birth_date": "1984-08-18",
+  "marital_status": "married",
+  "region": "Chrastava",
+  "nationality": "czech",
+  "company": "Kopecký v.o.s.",
+  "car_brand": "Ford",
+  "self_first_name": "Ivana",
+  "self_last_name": "Vaňková",
+  "partner_first_name": "Tomáš",
+  "partner_last_name": "Čermák",
+  "children": [
+    {
+      "first_name": "Štěpánka",
+      "last_name": "Vaňková"
+    },
+    {
+      "first_name": "Karolína",
+      "last_name": "Vaňková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Ivana"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivo",
+    "hudba Karla Gotta",
+    "rybaření",
+    "automobilismus"
+  ],
+  "previous_passwords": [
+    "KarlaGotta84",
+    "FordChrastava22",
+    "StepankaFord!",
+    "TomasRybar1984",
+    "IvanaSnakePivo",
+    "Turistika88Kc",
+    "KarolinaAuto23",
+    "GettoHudba!",
+    "FordTuristikaSt",
+    "Ryrzeniec84"
+  ]
+}

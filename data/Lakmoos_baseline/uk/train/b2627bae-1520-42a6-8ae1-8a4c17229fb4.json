@@ -1,0 +1,40 @@
+{
+  "id": "b2627bae-1520-42a6-8ae1-8a4c17229fb4",
+  "gender": "female",
+  "age": 62,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "reading",
+    "gardening",
+    "travel",
+    "bridge"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Eastgate Management Consulting",
+  "previous_passwords": [
+    "Margaret1962",
+    "MistyCat12",
+    "Hollingsworth31000",
+    "Peter62!",
+    "Eastgate2020",
+    "Reading4Life",
+    "Bridge_99",
+    "Gardening123",
+    "Misty!1962"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1964-02-26"
+}

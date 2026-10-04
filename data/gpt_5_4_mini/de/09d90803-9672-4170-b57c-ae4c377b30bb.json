@@ -1,0 +1,33 @@
+{
+  "id": "09d90803-9672-4170-b57c-ae4c377b30bb",
+  "age": 41,
+  "birth_date": "1985-01-18",
+  "marital_status": "married",
+  "region": "Eggenfelden",
+  "nationality": "german",
+  "company": "Killer KG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Marlis",
+  "self_last_name": "Gertz",
+  "partner_first_name": "Gottlieb",
+  "partner_last_name": "Gertz",
+  "children": [
+    {
+      "first_name": "Urban",
+      "last_name": "Gertz"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Bayern München",
+    "Kochen",
+    "Radfahren"
+  ],
+  "previous_passwords": [
+    "Bayern85!",
+    "Volkswagen18",
+    "Fußball?"
+  ]
+}

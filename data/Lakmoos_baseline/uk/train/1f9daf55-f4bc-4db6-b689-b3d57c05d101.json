@@ -1,0 +1,40 @@
+{
+  "id": "1f9daf55-f4bc-4db6-b689-b3d57c05d101",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Peugeot",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": "Janet",
+  "partner_last_name": "Hatherleigh",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "antiques"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Malcolm1959",
+    "Janet123",
+    "Misty2012",
+    "Hatherleigh59",
+    "Gardening4",
+    "Peugeot208!",
+    "Walking2020",
+    "SouthWest_63",
+    "Antiques1",
+    "Misty!59"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1963-02-19"
+}

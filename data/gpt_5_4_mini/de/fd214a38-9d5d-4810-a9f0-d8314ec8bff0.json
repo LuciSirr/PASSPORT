@@ -1,0 +1,35 @@
+{
+  "id": "fd214a38-9d5d-4810-a9f0-d8314ec8bff0",
+  "age": 48,
+  "birth_date": "1978-02-12",
+  "marital_status": "married",
+  "region": "Chemnitz",
+  "nationality": "german",
+  "company": "Hahn Lehmann GmbH & Co. KGaA",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Janko",
+  "self_last_name": "Hörle",
+  "partner_first_name": "Ludmilla",
+  "partner_last_name": "Hörle",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern im Erzgebirge",
+    "Gartenarbeit",
+    "Kochen",
+    "FC Erzgebirge Aue"
+  ],
+  "previous_passwords": [
+    "Aue1978!",
+    "Wandern78",
+    "Chemnitz12!",
+    "Volkswagen48",
+    "Kochen#78",
+    "GaertnAue12",
+    "Erzgebirge_78",
+    "Ludmilla48!",
+    "FussballAue!",
+    "Janko0212"
+  ]
+}

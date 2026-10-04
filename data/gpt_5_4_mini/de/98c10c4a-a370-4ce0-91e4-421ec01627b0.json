@@ -1,0 +1,39 @@
+{
+  "id": "98c10c4a-a370-4ce0-91e4-421ec01627b0",
+  "age": 23,
+  "birth_date": "2003-04-03",
+  "marital_status": "married",
+  "region": "Bad Kreuznach",
+  "nationality": "german",
+  "company": "Holsten Bonbach AG",
+  "car_brand": "Audi",
+  "self_first_name": "Alina",
+  "self_last_name": "Reising",
+  "partner_first_name": "Hannes",
+  "partner_last_name": "Reising",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Hans-Josef"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Fitnessstudio",
+    "Wandern im Nahetal"
+  ],
+  "previous_passwords": [
+    "F95Hannes03",
+    "AudiWandern23",
+    "HansJosef!23",
+    "NaheFit2003",
+    "GamingHannes7",
+    "M05Fitness!",
+    "MessiBadKreuz",
+    "Hoeneß03!",
+    "HannesFussball",
+    "AudiCat2003"
+  ]
+}

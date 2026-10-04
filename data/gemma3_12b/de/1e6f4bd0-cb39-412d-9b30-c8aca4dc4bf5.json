@@ -1,0 +1,35 @@
+{
+  "id": "1e6f4bd0-cb39-412d-9b30-c8aca4dc4bf5",
+  "age": 51,
+  "birth_date": "1975-11-06",
+  "marital_status": "single",
+  "region": "Aurich",
+  "nationality": "german",
+  "company": "Kusch GmbH",
+  "car_brand": "Skoda",
+  "self_first_name": "Meinhard",
+  "self_last_name": "Schuster",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Lokaler Fußballverein",
+    "Deutsche Geschichte",
+    "Gartenarbeit"
+  ],
+  "previous_passwords": [
+    "SchusterWander1975",
+    "FotografieAurich!",
+    "Messi2024Skoda",
+    "DeutschesHistorium",
+    "GartenarbeitMeinhard",
+    "LokalerFußball73",
+    "Wanderlust75!",
+    "SchusterFoto2023",
+    "MessiAurich_1975",
+    "SkodaHistorie!"
+  ]
+}

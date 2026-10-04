@@ -1,0 +1,35 @@
+{
+  "id": "07db79c3-62cb-4e57-b2f2-04950a7bb436",
+  "gender": "male",
+  "age": 39,
+  "marital_status": "single/in a relationship",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "KIA",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "auta",
+    "televize"
+  ],
+  "pets": [],
+  "company": "Stavby Olomouc s.r.o.",
+  "previous_passwords": [
+    "Radek1985",
+    "Vesely79",
+    "KiaCeeD2013",
+    "Olomouc123",
+    "Stavba2020",
+    "Lidl774",
+    "Voda79",
+    "Fotbal2022",
+    "Auta!998",
+    "Vesely!123"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1986-10-09"
+}

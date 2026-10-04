@@ -1,0 +1,40 @@
+{
+  "id": "180cc0cf-d945-4446-b2eb-4bf35eec0e16",
+  "gender": "female",
+  "age": 5,
+  "marital_status": "single/in a relationship",
+  "region": "northern ireland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "McAllister",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dolls",
+    "singing"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Whiskers"
+    }
+  ],
+  "company": "Little Learners Daycare",
+  "previous_passwords": [
+    "Maisie2019",
+    "Whiskers123",
+    "McAllister5",
+    "Drawing4Fun",
+    "Dolls2022",
+    "LittleLearner!",
+    "Singing_21",
+    "CatLover5",
+    "MaisieCat!",
+    "Wh1sk3rs"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2021-01-05"
+}

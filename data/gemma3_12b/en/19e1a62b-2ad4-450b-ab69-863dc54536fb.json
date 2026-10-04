@@ -1,0 +1,48 @@
+{
+  "id": "19e1a62b-2ad4-450b-ab69-863dc54536fb",
+  "age": 27,
+  "birth_date": "1999-02-12",
+  "marital_status": "married",
+  "region": "Rosiemouth",
+  "nationality": "english",
+  "company": "Young-O'Sullivan",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Shirley",
+  "self_last_name": "Taylor",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Taylor",
+  "children": [
+    {
+      "first_name": "Graeme",
+      "last_name": "Taylor"
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Taylor"
+    },
+    {
+      "first_name": "Irene",
+      "last_name": "Taylor"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "hiking",
+    "indie music",
+    "photography",
+    "local craft breweries",
+    "video games"
+  ],
+  "previous_passwords": [
+    "IndieFest27!",
+    "Graeme_Hike99",
+    "RyanBrewery1999",
+    "VW_RosiePics!",
+    "Messi_Irene12",
+    "PhotographyMT",
+    "RoganHike!",
+    "GraemeTaylor23",
+    "Martin_Indie!",
+    "IreneVW2024"
+  ]
+}

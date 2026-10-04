@@ -1,0 +1,40 @@
+{
+  "id": "3c1baf9b-2407-460d-8e60-8f13d56e17f4",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Dacia",
+  "self_first_name": "Charlotte",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "James",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "great british bake off",
+    "travel",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Charlotte1994",
+    "Milo!15",
+    "BakeOff2021",
+    "HollingsworthTravel123",
+    "Gard3n!2020",
+    "James94!",
+    "GBBO_Milo",
+    "Travel_9656",
+    "Bake0ff!Charlotte",
+    "Hollingsworth!cat"
+  ],
+  "favorite_hobby": "great british bake off",
+  "birth_date": "1994-06-15"
+}

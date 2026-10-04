@@ -1,0 +1,34 @@
+{
+  "id": "ddc07990-20c9-48db-bbf6-25e0bdf8d2f9",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Poppy",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "peppa pig",
+    "building blocks"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Poppy2024",
+    "PeppaPig123",
+    "Blocks4Fun",
+    "Hollis15",
+    "Peppa!2024",
+    "Piggy_123",
+    "PoppyPiglet",
+    "Blocks2024",
+    "PeppaBlocks",
+    "HollisPeppa"
+  ],
+  "favorite_hobby": "peppa pig",
+  "birth_date": "2019-03-15"
+}

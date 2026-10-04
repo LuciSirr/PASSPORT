@@ -1,0 +1,48 @@
+{
+  "id": "ad944454-795d-4bd8-b45a-089ebf1e50c7",
+  "age": 26,
+  "birth_date": "2000-06-02",
+  "marital_status": "married",
+  "region": "Odry",
+  "nationality": "czech",
+  "company": "Zemanová a.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimíra",
+  "self_last_name": "Jandová",
+  "partner_first_name": "Jakub",
+  "partner_last_name": "Jandovský",
+  "children": [
+    {
+      "first_name": "Robert",
+      "last_name": "Jandovský"
+    },
+    {
+      "first_name": "Jindřich",
+      "last_name": "Jandovský"
+    },
+    {
+      "first_name": "Kateřina",
+      "last_name": "Jandová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "hudba (Kapela: Lucie)",
+    "fotbal (FK Baník Ostrava)",
+    "vaření",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "Lucie2000!",
+    "BanikOstravaRobert",
+    "JakubKateřina85",
+    "TuristikaJindra26",
+    "SkodaVaclav!",
+    "MessiJandova2000",
+    "RobertJandovsky11",
+    "VařeníJindřich",
+    "CestovaniKateřina",
+    "OdryJakub2006"
+  ]
+}

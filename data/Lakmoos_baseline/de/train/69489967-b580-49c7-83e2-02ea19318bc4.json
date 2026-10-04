@@ -1,0 +1,35 @@
+{
+  "id": "69489967-b580-49c7-83e2-02ea19318bc4",
+  "gender": "female",
+  "age": 73,
+  "marital_status": "widower/widow",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Hannelore",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lesen",
+    "audiobücher",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Westfalen Managementberatung",
+  "previous_passwords": [
+    "Hannelore1951",
+    "VWcaddy25",
+    "Westfalen123",
+    "Lesen2020!",
+    "Kleinschmidt!73",
+    "AOK_34000",
+    "Audiobook2023",
+    "Winterreise12",
+    "Widow2024",
+    "Haus1948"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1953-03-28"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "67f4b1dd-372c-4081-a5b7-1c97a7aa59a2",
+  "gender": "female",
+  "age": 43,
+  "marital_status": "widower/widow",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "walking",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Yorkshire Scientific Solutions",
+  "previous_passwords": [
+    "Imogen1979",
+    "Milo22!",
+    "Hollingworth3000",
+    "Reading123",
+    "Yorkshire_79",
+    "Gardening4ever",
+    "MiloHollingworth",
+    "Walking2023",
+    "MiloCat!",
+    "Im0g3n!"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1983-03-02"
+}

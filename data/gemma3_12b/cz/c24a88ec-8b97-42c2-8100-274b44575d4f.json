@@ -1,0 +1,35 @@
+{
+  "id": "c24a88ec-8b97-42c2-8100-274b44575d4f",
+  "age": 26,
+  "birth_date": "2000-01-28",
+  "marital_status": "married",
+  "region": "Harrachov",
+  "nationality": "czech",
+  "company": "Staněk",
+  "car_brand": "Škoda",
+  "self_first_name": "Ludvík",
+  "self_last_name": "Sýkora",
+  "partner_first_name": "Pavla",
+  "partner_last_name": "Sýkorová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "lyžování",
+    "turistika",
+    "hudba Eidy",
+    "fotbal",
+    "Vaření piva"
+  ],
+  "previous_passwords": [
+    "Eida_Music2000",
+    "Messi1987_lyze",
+    "SkodaHarrachov!",
+    "TuristikaPavla",
+    "Fotbal_Vaclav26",
+    "Pivo_Harrachov1",
+    "Ludvik_Skiing!",
+    "Messi_Eida00",
+    "Skoda_2000_Turistika",
+    "VařeníPiva_LS"
+  ]
+}

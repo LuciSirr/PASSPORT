@@ -1,0 +1,39 @@
+{
+  "id": "eb45f081-f838-4958-90f5-cde7e90e91ad",
+  "gender": "male",
+  "age": 49,
+  "marital_status": "married",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "Honda",
+  "self_first_name": "Torsten",
+  "self_last_name": "Krause",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "wandern",
+    "fernsehen"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bruno"
+    }
+  ],
+  "company": "Bauunternehmen Nordstein",
+  "previous_passwords": [
+    "Bruno2001",
+    "Krause49!",
+    "Sabine123",
+    "Torsten1975",
+    "BauNordstein2022",
+    "Wandern_77",
+    "Schleswig1978",
+    "HondaCRV23",
+    "Sommer06!",
+    "Bruno_Sabine"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1976-10-02"
+}

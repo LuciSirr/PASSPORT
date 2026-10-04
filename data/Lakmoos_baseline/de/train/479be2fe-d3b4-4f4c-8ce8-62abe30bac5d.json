@@ -1,0 +1,34 @@
+{
+  "id": "479be2fe-d3b4-4f4c-8ce8-62abe30bac5d",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Nissan",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Monika",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "fernsehen",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Jürgen1965",
+    "Monika123",
+    "Qashqai15",
+    "Kleinschmidt!1000",
+    "ReisenMai21",
+    "AOK2020",
+    "Nissan_45772",
+    "Fernsehen1",
+    "MonikaJürgen",
+    "Nordrhein1948"
+  ],
+  "favorite_hobby": "fernsehen",
+  "birth_date": "1967-02-15"
+}

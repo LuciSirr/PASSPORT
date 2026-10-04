@@ -1,0 +1,40 @@
+{
+  "id": "3ff2e28f-d4c7-44c3-9322-60dfb76dfb3e",
+  "age": 37,
+  "birth_date": "1989-06-20",
+  "marital_status": "married",
+  "region": "Viersen",
+  "nationality": "german",
+  "company": "Holt Bohlander Stiftung & Co. KGaA",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Corina",
+  "self_last_name": "Bohlander",
+  "partner_first_name": "Fedor",
+  "partner_last_name": "Bohlander",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Hans-Henning"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Kochen",
+    "Wandern",
+    "Bayer Leverkusen"
+  ],
+  "previous_passwords": [
+    "Leverkusen89!",
+    "FedorRad89",
+    "KochenViersen7",
+    "MerkurBohlander!",
+    "Turtle1989_",
+    "Bayer06Corina",
+    "HansHenning37",
+    "Wandern_620",
+    "Radfahren89!",
+    "FußballBoh1"
+  ]
+}

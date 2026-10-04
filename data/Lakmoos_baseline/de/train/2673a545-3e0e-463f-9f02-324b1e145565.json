@@ -1,0 +1,35 @@
+{
+  "id": "2673a545-3e0e-463f-9f02-324b1e145565",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "podcasts",
+    "reisen",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Nordwest Gründerberatung",
+  "previous_passwords": [
+    "Lennart1996",
+    "Krause123",
+    "Reisen2023!",
+    "Fotografie_96",
+    "Niedersachsen88",
+    "AppleFan2020",
+    "BKK_Health",
+    "SommerMarch",
+    "Gründer2021",
+    "Podcasts4Life"
+  ],
+  "favorite_hobby": "podcasts",
+  "birth_date": "1997-12-11"
+}

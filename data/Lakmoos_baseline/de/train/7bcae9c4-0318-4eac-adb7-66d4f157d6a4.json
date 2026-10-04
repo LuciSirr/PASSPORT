@@ -1,0 +1,35 @@
+{
+  "id": "7bcae9c4-0318-4eac-adb7-66d4f157d6a4",
+  "gender": "female",
+  "age": 28,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Annika",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Lukas",
+  "partner_last_name": "Kreutzmann",
+  "children": [],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "yoga"
+  ],
+  "pets": [],
+  "company": "Rheinland Gründerberatung",
+  "previous_passwords": [
+    "Annika1995",
+    "Lukas2021",
+    "Kreutzmann123",
+    "Reisen!2022",
+    "Podc4st_88",
+    "Sommerurlaub19",
+    "Yoga_2020",
+    "Rheinland!95",
+    "LukasAnnika21",
+    "Kreutzmann!4"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1997-09-21"
+}

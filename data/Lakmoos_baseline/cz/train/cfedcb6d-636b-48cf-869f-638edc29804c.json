@@ -1,0 +1,36 @@
+{
+  "id": "cfedcb6d-636b-48cf-869f-638edc29804c",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "divorced",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "procházky",
+    "móda",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Městský úřad Pelhřimov",
+  "previous_passwords": [
+    "Fabia2009",
+    "Lidl1234",
+    "Vysocina45",
+    "Kofola2020",
+    "Maturita98",
+    "Nakupovani2021",
+    "Vr4n0v4!",
+    "Serialy789",
+    "Albert2022",
+    "Prochazka_11"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1980-06-22"
+}

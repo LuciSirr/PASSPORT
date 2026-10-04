@@ -1,0 +1,39 @@
+{
+  "id": "16742ce8-c90e-46f9-bdd9-0e387d1f205b",
+  "gender": "female",
+  "age": 67,
+  "marital_status": "married",
+  "region": "hamburg",
+  "nationality": "german",
+  "car_brand": "Subaru",
+  "self_first_name": "Hannelore",
+  "self_last_name": "Krause",
+  "partner_first_name": "Wilhelm",
+  "partner_last_name": "Krause",
+  "children": [
+    {
+      "first_name": "Marlene",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "spazieren",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Hannelore1957",
+    "Wilhelm123",
+    "Krause2021",
+    "Marlene21",
+    "Hamburg!67",
+    "Spazieren2022",
+    "Sommer!57",
+    "Audiobuecher1",
+    "KrauseMarlene",
+    "Wilhelm_67"
+  ],
+  "favorite_hobby": "spazieren",
+  "birth_date": "1959-01-15"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "343416ed-e7e4-4972-9077-e8632cefd312",
+  "gender": "female",
+  "age": 47,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Škoda",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Simon",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "gardening",
+    "british baking",
+    "downton abbey"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Molly"
+    }
+  ],
+  "company": "Ashcroft Consulting Ltd",
+  "previous_passwords": [
+    "Fiona1977",
+    "Molly!2016",
+    "AshcroftDownton123",
+    "Gard3n1ng2020",
+    "Simon77!",
+    "BakingQueen_15",
+    "DowntonAbbey4",
+    "AshcroftMolly!",
+    "LondonGardens77",
+    "MollyAshcroft!"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1977-04-15"
+}

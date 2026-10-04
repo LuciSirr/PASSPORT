@@ -1,0 +1,40 @@
+{
+  "id": "b6c6af97-57ff-476f-8533-d39f4e6d4a74",
+  "age": 35,
+  "birth_date": "1991-12-04",
+  "marital_status": "divorced",
+  "region": "Taylorberg",
+  "nationality": "english",
+  "company": "Banks-Taylor",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Frank",
+  "self_last_name": "Bates",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Angela",
+      "last_name": "Bates"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "podcasts",
+    "home cooking",
+    "fitness",
+    "travel"
+  ],
+  "previous_passwords": [
+    "MercGaming91",
+    "RoganTaylor91",
+    "BatesCook04",
+    "MercedesFit91",
+    "ZeldaTravel91",
+    "AngelaPods04",
+    "TaylorCook12",
+    "FitBates91!",
+    "MarioRides04",
+    "Cook&Bates91"
+  ]
+}

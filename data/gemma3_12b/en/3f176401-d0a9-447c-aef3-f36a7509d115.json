@@ -1,0 +1,35 @@
+{
+  "id": "3f176401-d0a9-447c-aef3-f36a7509d115",
+  "age": 42,
+  "birth_date": "1984-01-10",
+  "marital_status": "married",
+  "region": "South Cliffordstad",
+  "nationality": "english",
+  "company": "Gardner-Bird",
+  "car_brand": "Audi",
+  "self_first_name": "Luke",
+  "self_last_name": "Wilson",
+  "partner_first_name": "Maureen",
+  "partner_last_name": "Edwards",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hiking",
+    "classic rock music",
+    "local history",
+    "gardening",
+    "rugby"
+  ],
+  "previous_passwords": [
+    "ClassicRock84!",
+    "AudiHike22",
+    "SouthCliffGardens",
+    "MaureenRugby10",
+    "LedZep84Luke",
+    "HikingEdwards",
+    "LocalHist1984",
+    "AudiClassic!",
+    "RugbySouthcliff",
+    "GardensLuke84"
+  ]
+}

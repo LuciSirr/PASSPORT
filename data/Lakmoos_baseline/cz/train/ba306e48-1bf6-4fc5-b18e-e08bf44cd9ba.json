@@ -1,0 +1,35 @@
+{
+  "id": "ba306e48-1bf6-4fc5-b18e-e08bf44cd9ba",
+  "gender": "female",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "jóga",
+    "nakupování",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "GeoTech Solutions s.r.o.",
+  "previous_passwords": [
+    "Barca1999",
+    "Vesela53k",
+    "Fabia2006",
+    "Praha!2023",
+    "Joga123",
+    "Kofola22",
+    "Cestovani99",
+    "Nakupovani2021",
+    "Seriály_321"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "2001-06-15"
+}

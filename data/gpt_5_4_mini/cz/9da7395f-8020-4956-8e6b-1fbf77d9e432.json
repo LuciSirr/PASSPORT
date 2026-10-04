@@ -1,0 +1,40 @@
+{
+  "id": "9da7395f-8020-4956-8e6b-1fbf77d9e432",
+  "age": 46,
+  "birth_date": "1980-05-01",
+  "marital_status": "married",
+  "region": "Vyšší Brod",
+  "nationality": "czech",
+  "company": "Matoušek Valentová s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Adam",
+  "self_last_name": "Pokorný",
+  "partner_first_name": "Jaroslava",
+  "partner_last_name": "Pokorná",
+  "children": [
+    {
+      "first_name": "Luboš",
+      "last_name": "Pokorný"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika v Šumavě",
+    "chalupaření",
+    "cyklistika",
+    "hokej",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "Sumava1980!",
+    "Skoda46_Vyssi",
+    "HokejLuboš80",
+    "Rybareni05!",
+    "Turistika_80",
+    "ChalupaJaru46",
+    "CykloSumava80",
+    "LubošSkoda05",
+    "SumavaRybka46",
+    "PokornyHory80!"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "fc58e2e8-df44-4b79-8cef-eab20453117c",
+  "age": 32,
+  "birth_date": "1994-05-30",
+  "marital_status": "married",
+  "region": "Miroslav",
+  "nationality": "czech",
+  "company": "Vítková a.s.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Dominika",
+  "self_last_name": "Zemanová",
+  "partner_first_name": "Luděk",
+  "partner_last_name": "Zemanová",
+  "children": [
+    {
+      "first_name": "David",
+      "last_name": "Zeman"
+    },
+    {
+      "first_name": "Judita",
+      "last_name": "Kučerová"
+    },
+    {
+      "first_name": "Jaroslava",
+      "last_name": "Krejčová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "lokální pivo",
+    "hudba Karla Gotta",
+    "rybaření",
+    "fotbal"
+  ],
+  "previous_passwords": [
+    "KarlaGotta2024",
+    "HyundaiDavid!",
+    "JuditaTuristika1994",
+    "MessiMiroslav1",
+    "DavidLodek21",
+    "JaroslavaRybar!",
+    "LokálPivoDominika",
+    "Kučerová_Fotbal88",
+    "Zemanova_Hyundai",
+    "KarlaGotta_123"
+  ]
+}

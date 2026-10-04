@@ -1,0 +1,35 @@
+{
+  "id": "82b06c40-e455-4284-bdf7-6a55d4f45749",
+  "gender": "female",
+  "age": 65,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Veselková",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Veselková",
+  "children": [],
+  "interests": [
+    "cestování",
+    "čtení",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Jarmila1959",
+    "Fabia2012",
+    "Vysocina123",
+    "Miroslav65",
+    "KofolaOblibena",
+    "Nakupovani2020",
+    "Cteni!2021",
+    "Veselkova59",
+    "dmTeta2020",
+    "Cestovani_123"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1961-03-28"
+}

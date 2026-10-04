@@ -1,0 +1,39 @@
+{
+  "id": "6d7a918a-a041-40c2-a122-84674ec759b7",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Ailsa",
+  "self_last_name": "McEwan",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "cycling",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Willow"
+    }
+  ],
+  "company": "Firthside Books",
+  "previous_passwords": [
+    "Willow19",
+    "Ailsa2005",
+    "McEwan123",
+    "Reading4Life",
+    "Baking_07",
+    "Firthside2023",
+    "Cycling!21",
+    "Will0wCat",
+    "Scotland_19"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2006-12-09"
+}

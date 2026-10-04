@@ -1,0 +1,40 @@
+{
+  "id": "4b2ffc0c-23a4-4987-ac27-1d58682ca715",
+  "gender": "female",
+  "age": 47,
+  "marital_status": "divorced",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Suzuki",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Eastgate Ventures",
+  "previous_passwords": [
+    "Fiona1977",
+    "Milo123",
+    "Ashcroft20",
+    "Travel4Life",
+    "Eastgate2020",
+    "Reading!77",
+    "SuzukiSwift16",
+    "Walking2021",
+    "Milo!Ash",
+    "FionaCat77"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1979-02-28"
+}

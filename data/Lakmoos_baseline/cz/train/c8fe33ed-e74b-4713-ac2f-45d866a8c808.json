@@ -1,0 +1,36 @@
+{
+  "id": "c8fe33ed-e74b-4713-ac2f-45d866a8c808",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Iveta",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "disney",
+    "kfc"
+  ],
+  "pets": [],
+  "company": "Kreativní Studio Ustí",
+  "previous_passwords": [
+    "Radek1982",
+    "Iveta2024",
+    "Sebesta42",
+    "UstiNadLabem",
+    "Kofola2020",
+    "Tesco683",
+    "Budvar42",
+    "Planeo5856",
+    "Fotbal123",
+    "Turistika!2023"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1984-02-15"
+}

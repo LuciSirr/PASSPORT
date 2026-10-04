@@ -1,0 +1,40 @@
+{
+  "id": "275a0c99-d225-4c0d-90f1-399e1b7a84aa",
+  "age": 33,
+  "birth_date": "1993-02-17",
+  "marital_status": "divorced",
+  "region": "Marieberg",
+  "nationality": "english",
+  "company": "West-Wood",
+  "car_brand": "BMW",
+  "self_first_name": "Kenneth",
+  "self_last_name": "Lambert",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Rachel"
+    }
+  ],
+  "interests": [
+    "Photography",
+    "Hiking",
+    "Indie Music",
+    "Board Games",
+    "Scandinavian Design"
+  ],
+  "previous_passwords": [
+    "RachelBmW23",
+    "IndieHike1993",
+    "ScandiPhoto!",
+    "LambertBoardgame7",
+    "MessiMarieberg",
+    "RachelPhoto_93",
+    "BMW_Hike2024",
+    "LambertIndie!",
+    "ScandiBoard17",
+    "RachelDesign8"
+  ]
+}

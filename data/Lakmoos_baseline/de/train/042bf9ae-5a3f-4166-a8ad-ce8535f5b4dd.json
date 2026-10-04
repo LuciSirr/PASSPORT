@@ -1,0 +1,53 @@
+{
+  "id": "042bf9ae-5a3f-4166-a8ad-ce8535f5b4dd",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Polestar",
+  "self_first_name": "Rainer",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kronenberg",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kronenberg"
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Kronenberg"
+    },
+    {
+      "first_name": "Emil",
+      "last_name": "Kronenberg"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "gartenarbeit",
+    "fußball"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bruno"
+    }
+  ],
+  "company": "Bauunternehmen Kronenberg GmbH",
+  "previous_passwords": [
+    "Lukas2009",
+    "Bruno123",
+    "Rainer55!",
+    "Mia2010",
+    "Bauarbeit2020",
+    "Kronenberg_3000",
+    "Sabine1970",
+    "Emil_2021",
+    "FussballNRW",
+    "Wandern!15"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1970-09-19"
+}

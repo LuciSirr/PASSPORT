@@ -1,0 +1,40 @@
+{
+  "id": "a8a422e1-1bc2-4908-8531-b10cf36a4c63",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Harriet",
+  "self_last_name": "Mansell",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Mansell",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Westmoor Engineering",
+  "previous_passwords": [
+    "Harriet1988",
+    "MiloCat22",
+    "Mansell4000",
+    "Baking4Life!",
+    "Oliver88",
+    "Westmoor123",
+    "Gardening_1",
+    "MiloMansell",
+    "Walking1988",
+    "Mansell!88"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1989-04-19"
+}

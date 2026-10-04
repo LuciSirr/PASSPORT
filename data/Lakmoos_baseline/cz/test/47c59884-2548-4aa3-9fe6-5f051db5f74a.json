@@ -1,0 +1,35 @@
+{
+  "id": "47c59884-2548-4aa3-9fe6-5f051db5f74a",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1999-04-17",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "netflix",
+    "auta",
+    "kutilství"
+  ],
+  "pets": [],
+  "company": "InfoKom Usti s.r.o.",
+  "previous_passwords": [
+    "Radek1999",
+    "KohoutPetra23",
+    "netflix123",
+    "Octavia2002",
+    "Albert842",
+    "bauhaus2023",
+    "Petra_0417",
+    "autaKohout",
+    "K0h0ut!99",
+    "kutilstvi_79"
+  ],
+  "favorite_hobby": "netflix"
+}

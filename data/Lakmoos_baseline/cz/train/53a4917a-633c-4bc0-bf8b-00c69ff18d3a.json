@@ -1,0 +1,35 @@
+{
+  "id": "53a4917a-633c-4bc0-bf8b-00c69ff18d3a",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vít",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "cestování",
+    "filmy",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Pražská Správa Projektů",
+  "previous_passwords": [
+    "Vitek2002",
+    "Octavia24",
+    "Budvar21",
+    "Praha123",
+    "auta_568",
+    "SkodaTurbo",
+    "Filmy2023",
+    "Cestovani!",
+    "Nakupovani321"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2004-12-05"
+}

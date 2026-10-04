@@ -1,0 +1,35 @@
+{
+  "id": "b13c375a-6eac-41f2-973a-d611efffbc25",
+  "age": 25,
+  "birth_date": "2001-11-03",
+  "marital_status": "single",
+  "region": "Saarbrücken",
+  "nationality": "german",
+  "company": "Schleich",
+  "car_brand": "Skoda",
+  "self_first_name": "Andrey",
+  "self_last_name": "Preiß",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Kochen",
+    "Wandern",
+    "1. FC Saarbrücken"
+  ],
+  "previous_passwords": [
+    "Saarbruecken11",
+    "FCSaar03!",
+    "Skoda2001",
+    "Kochen24!",
+    "Wandern01",
+    "GamingSaar",
+    "FuBall03#",
+    "Andrey11!",
+    "1FCSB2001",
+    "Preiss_FCSB"
+  ]
+}

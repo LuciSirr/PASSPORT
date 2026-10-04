@@ -1,0 +1,35 @@
+{
+  "id": "7fa0e9c2-b8e2-4e6b-897c-8e2e088247ab",
+  "age": 40,
+  "birth_date": "1986-08-26",
+  "marital_status": "divorced",
+  "region": "Studénka",
+  "nationality": "czech",
+  "company": "Vlčková v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Miluše",
+  "self_last_name": "Němcová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "pivovarské značky",
+    "lokální folklór",
+    "fotbal"
+  ],
+  "previous_passwords": [
+    "SkodaRapid86",
+    "MessiTuristika26",
+    "PivovarskeZnaky1986!",
+    "FolkloreMiluse_1986",
+    "StudenkaCyklika!",
+    "FotbalPlzenMiluše",
+    "TuristikaSkoda!",
+    "Messi86Cyklistika",
+    "Pivovarsky_Rapid",
+    "MiluseFolklore2024"
+  ]
+}

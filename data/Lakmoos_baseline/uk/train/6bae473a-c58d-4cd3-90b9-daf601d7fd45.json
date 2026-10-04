@@ -1,0 +1,34 @@
+{
+  "id": "6bae473a-c58d-4cd3-90b9-daf601d7fd45",
+  "gender": "male",
+  "age": 32,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travel",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "South Downs Engineering",
+  "previous_passwords": [
+    "Callum1989",
+    "RachelHollis21",
+    "Renault1598",
+    "SouthDowns123",
+    "Hiking2020",
+    "Hollis!32",
+    "Travel4Life",
+    "Captur2021",
+    "Cycling_89"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1993-05-13"
+}

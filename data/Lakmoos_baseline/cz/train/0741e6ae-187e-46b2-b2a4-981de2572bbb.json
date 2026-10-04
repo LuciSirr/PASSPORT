@@ -1,0 +1,35 @@
+{
+  "id": "0741e6ae-187e-46b2-b2a4-981de2572bbb",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "počítače",
+    "kreslení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "matej123",
+    "prague2011",
+    "fotbalek",
+    "vesely12",
+    "Kresleni2022",
+    "Slavia1905",
+    "Mat3j_11",
+    "Vesely_123",
+    "Pocitace2024",
+    "F0tbalek!"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2013-09-26"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "c21c055b-7af7-481c-90a8-90782b3c7cb2",
+  "gender": "female",
+  "age": 67,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Škoda",
+  "self_first_name": "Ute",
+  "self_last_name": "Krause",
+  "birth_date": "1957-03-18",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Krause",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Ingenieurbüro Krause & Partner",
+  "previous_passwords": [
+    "Lena2013",
+    "Minka_57",
+    "KrausePilcher123",
+    "UteJürgen1975",
+    "rosamunde!18",
+    "MinkaLena2020",
+    "NordicKrause1",
+    "Pilcher_1957",
+    "Krause!Minka",
+    "LenaMinka18"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

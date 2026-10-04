@@ -1,0 +1,34 @@
+{
+  "id": "ae3b863f-ce35-481c-a80f-ac3d3d670e62",
+  "gender": "male",
+  "age": 57,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Smart",
+  "self_first_name": "Graham",
+  "self_last_name": "Merriton",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Merriton",
+  "children": [],
+  "interests": [
+    "gardening",
+    "cycling",
+    "history"
+  ],
+  "pets": [],
+  "company": "South Downs Management Ltd",
+  "previous_passwords": [
+    "Graham1967",
+    "Helen4ever",
+    "Merriton2020",
+    "SmartSUV23",
+    "Gardening123",
+    "SouthDowns!",
+    "HistoryBuff67",
+    "Helen_67",
+    "Merriton!1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1968-09-10"
+}

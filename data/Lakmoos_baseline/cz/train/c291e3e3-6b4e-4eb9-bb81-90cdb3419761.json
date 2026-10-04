@@ -1,0 +1,35 @@
+{
+  "id": "c291e3e3-6b4e-4eb9-bb81-90cdb3419761",
+  "gender": "female",
+  "age": 66,
+  "marital_status": "divorced",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "procházky",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Jarmila1958",
+    "Olomouc66",
+    "vrana123",
+    "bytdomov17",
+    "kvetiny2020",
+    "Cteni!58",
+    "Prochazka66",
+    "Vranova.1958",
+    "Kucharka123",
+    "Olomouc_17"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1960-03-01"
+}

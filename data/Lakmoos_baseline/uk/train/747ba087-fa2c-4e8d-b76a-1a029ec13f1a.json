@@ -1,0 +1,35 @@
+{
+  "id": "747ba087-fa2c-4e8d-b76a-1a029ec13f1a",
+  "gender": "male",
+  "age": 62,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "walking",
+    "photography",
+    "travel"
+  ],
+  "pets": [],
+  "company": "Westmoor Scientific Consulting",
+  "previous_passwords": [
+    "Graham1962",
+    "Margaret62",
+    "VWID4_2023",
+    "Westmoor123",
+    "Travel!2022",
+    "Hollis4000",
+    "Walking_1",
+    "Phot0graphy!",
+    "Margaret&Graham",
+    "SouthWest62"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1963-08-28"
+}

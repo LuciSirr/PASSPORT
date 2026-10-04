@@ -1,0 +1,40 @@
+{
+  "id": "12ad5f19-0020-4664-be90-a7980f960720",
+  "age": 42,
+  "birth_date": "1984-04-02",
+  "marital_status": "married",
+  "region": "Nasavrky",
+  "nationality": "czech",
+  "company": "Moravcová",
+  "car_brand": "Dacia",
+  "self_first_name": "Bořivoj",
+  "self_last_name": "Zeman",
+  "partner_first_name": "Dobroslav",
+  "partner_last_name": "Zemanová",
+  "children": [
+    {
+      "first_name": "Milada",
+      "last_name": "Zemanová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "lokální historie",
+    "fotbal",
+    "hudba Boba Dylan"
+  ],
+  "previous_passwords": [
+    "BobaDylan84",
+    "DaciaTuristika2024",
+    "MiladaVaření!",
+    "MessiFan1984",
+    "NasavrkyBob!",
+    "DobroslavTuristika",
+    "Dylan_Hiking",
+    "FotbalMessi84",
+    "VařeníMilada23",
+    "DaciaHistory_1984"
+  ]
+}

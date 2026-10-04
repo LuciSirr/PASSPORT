@@ -1,0 +1,35 @@
+{
+  "id": "0e022c4d-f9f9-468b-858c-d6f81e00489b",
+  "gender": "female",
+  "age": 66,
+  "marital_status": "divorced",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vlasta",
+  "self_last_name": "Křivánková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "křížovky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Fabia2008",
+    "Olomouc59",
+    "Kofola66",
+    "Penny584",
+    "Teta392",
+    "Vlasta123",
+    "Krivankova!66",
+    "Cestovani2024",
+    "Krizovky_59",
+    "Nakupovani11"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1959-12-10"
+}

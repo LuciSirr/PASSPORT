@@ -1,0 +1,35 @@
+{
+  "id": "e67a6d01-bab9-435b-a579-e7d96415a3b1",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Fiat",
+  "self_first_name": "Lena",
+  "self_last_name": "Krause",
+  "birth_date": "2005-04-17",
+  "partner_first_name": "Jonas",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "gossip girl",
+    "pinterest",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Autohaus Hessenblick",
+  "previous_passwords": [
+    "Lena2005",
+    "Krause17",
+    "GossipGirl_123",
+    "Jonas!2004",
+    "p1nterest2023",
+    "Autohaus!Hessen",
+    "audiobooks_17",
+    "KrauseGossip",
+    "LenaJonas04",
+    "G0ssipKrause"
+  ],
+  "favorite_hobby": "gossip girl"
+}

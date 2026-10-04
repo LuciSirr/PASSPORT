@@ -1,0 +1,40 @@
+{
+  "id": "3736214d-e21d-451d-bca8-f0dc05c26948",
+  "gender": "male",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Whittaker",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "music"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "NorthWest Student Services",
+  "previous_passwords": [
+    "Callum2009",
+    "Baxter123",
+    "Whittaker15",
+    "football4life",
+    "Music_2023",
+    "Gaming!09",
+    "BaxterWhittaker",
+    "Callum_FC",
+    "NorthWest09",
+    "Baxter!09"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2010-11-07"
+}

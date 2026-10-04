@@ -1,0 +1,40 @@
+{
+  "id": "60cf09bc-d98d-4dea-ade9-b87c66416f83",
+  "gender": "female",
+  "age": 42,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Mazda",
+  "self_first_name": "Katrin",
+  "self_last_name": "Kuhn",
+  "birth_date": "1982-06-14",
+  "partner_first_name": "Markus",
+  "partner_last_name": "Kuhn",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Kuhn"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "nordic walking",
+    "reiseblogs"
+  ],
+  "pets": [],
+  "company": "Westfalen Makler & Beratung GmbH",
+  "previous_passwords": [
+    "Lena2018",
+    "Tatort!82",
+    "KuhnMarkus123",
+    "NordicWalking2022",
+    "Katrin1982",
+    "Reiseblog_14",
+    "Kuhn!Lena",
+    "Tat0rtKuhn",
+    "Westfalen82",
+    "Kuhn!June"
+  ],
+  "favorite_hobby": "tatort"
+}

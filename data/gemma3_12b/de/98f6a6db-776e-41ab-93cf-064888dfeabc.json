@@ -1,0 +1,35 @@
+{
+  "id": "98f6a6db-776e-41ab-93cf-064888dfeabc",
+  "age": 49,
+  "birth_date": "1977-07-19",
+  "marital_status": "married",
+  "region": "Rehau",
+  "nationality": "german",
+  "company": "Ladeck",
+  "car_brand": "Audi",
+  "self_first_name": "Johan",
+  "self_last_name": "Sontag",
+  "partner_first_name": "Edeltraud",
+  "partner_last_name": "Sauer",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Autorenlesungen",
+    "Schlossbesichtigungen",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "EdeltraudWandern77",
+    "MessiRehau2024",
+    "FotografieAudi!",
+    "AutorenlesungenJs",
+    "SchlossBesichtig77",
+    "RehauWandernEdel",
+    "JoergBukowski23",
+    "AudiFotografieJs",
+    "SontagSchloss1977",
+    "WanderlustEdel!"
+  ]
+}

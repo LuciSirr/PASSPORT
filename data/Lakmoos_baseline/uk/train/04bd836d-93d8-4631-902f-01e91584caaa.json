@@ -1,0 +1,40 @@
+{
+  "id": "04bd836d-93d8-4631-902f-01e91584caaa",
+  "gender": "female",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Amelia",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "netball",
+    "music"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Eastside Student Services",
+  "previous_passwords": [
+    "Amelia2009",
+    "Milo123",
+    "Hollingsworth15",
+    "netball4life",
+    "music_2023",
+    "Eastside!11",
+    "reading_09",
+    "Milo!cat",
+    "Amelia_Milo",
+    "Holl1ngsw0rth"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2010-05-17"
+}

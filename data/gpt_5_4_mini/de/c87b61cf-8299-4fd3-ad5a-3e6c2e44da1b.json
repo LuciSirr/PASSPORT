@@ -1,0 +1,44 @@
+{
+  "id": "c87b61cf-8299-4fd3-ad5a-3e6c2e44da1b",
+  "age": 52,
+  "birth_date": "1974-02-01",
+  "marital_status": "single",
+  "region": "Kehl",
+  "nationality": "german",
+  "company": "Misicher Zorbach GmbH & Co. KGaA",
+  "car_brand": "Fiat",
+  "self_first_name": "Therese",
+  "self_last_name": "Carsten",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Volkhard"
+    },
+    {
+      "pet_type": "snake",
+      "pet_name": "Julius"
+    }
+  ],
+  "interests": [
+    "Wandern im Schwarzwald",
+    "Fußball",
+    "Wein aus Baden",
+    "Gärtnern",
+    "Kochrezepte"
+  ],
+  "previous_passwords": [
+    "Wandern74!",
+    "SCFreiburg52",
+    "BadenWein74",
+    "Julius2024!",
+    "FiatKehl74",
+    "Schwarzwald52",
+    "Messerkoch74!",
+    "Volkhard52_",
+    "Wandern_7401",
+    "BadenFuSS74"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5064a416-5e18-4feb-91a4-62fab0881e41",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "turistika",
+    "šachy",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "AutoServis Hradec",
+  "previous_passwords": [
+    "Radek1970",
+    "Jitka2024",
+    "Šebesta6544",
+    "turistika123",
+    "hradecKralove70",
+    "Kofola1970",
+    "Šachy349",
+    "Netflix259",
+    "KFC349",
+    "Lidl6544"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1962-10-09"
+}

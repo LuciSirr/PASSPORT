@@ -1,0 +1,40 @@
+{
+  "id": "27a14cf7-4f98-4ee3-824d-015d2837251f",
+  "age": 35,
+  "birth_date": "1991-05-16",
+  "marital_status": "single",
+  "region": "Groß-Gerau",
+  "nationality": "german",
+  "company": "Steinberg KG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Isolde",
+  "self_last_name": "Mies",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Harriet"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern im Taunus",
+    "Kochen",
+    "Radfahren",
+    "Heimatverein Groß-Gerau"
+  ],
+  "previous_passwords": [
+    "Fussball91!",
+    "TaunusWandern16",
+    "HarrietKocht7",
+    "VolkswagenGG35",
+    "Radfahren1991",
+    "Heimatverein91",
+    "KochenMies16!",
+    "WandernGG_35",
+    "FussballMies91",
+    "HarrietFish16"
+  ]
+}

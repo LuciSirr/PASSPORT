@@ -1,0 +1,50 @@
+{
+  "id": "cfcd89d9-5d03-4082-ad3c-4ccae034a059",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Rainer",
+  "self_last_name": "Köhler",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Köhler",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Köhler"
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Köhler"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "lesen",
+    "urlaub",
+    "autos"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Max"
+    }
+  ],
+  "company": "Hessen Finanzberatung GmbH",
+  "previous_passwords": [
+    "Rainer1964",
+    "Sabine123",
+    "Lukas2010",
+    "Mia2013",
+    "Max!2020",
+    "Koehler4Finanz",
+    "Wandern_64",
+    "UrlaubApril!",
+    "Hessen4000",
+    "VW_Toyota22"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1965-04-22"
+}

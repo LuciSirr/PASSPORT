@@ -1,0 +1,35 @@
+{
+  "id": "2d3a3ffa-1ca2-414b-8584-8ac8e8264f4b",
+  "gender": "female",
+  "age": 52,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "křížovky",
+    "vaření",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Základní škola Praha 10",
+  "previous_passwords": [
+    "Ivana1972",
+    "Fabia1998",
+    "Praha62000",
+    "Vesela79",
+    "Krizovky123",
+    "Mattoni79",
+    "Billa2020",
+    "Ucet1234",
+    "Vareni2021",
+    "Serialy77"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1974-02-15"
+}

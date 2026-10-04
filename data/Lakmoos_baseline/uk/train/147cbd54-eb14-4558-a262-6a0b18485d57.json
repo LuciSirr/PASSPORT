@@ -1,0 +1,35 @@
+{
+  "id": "147cbd54-eb14-4558-a262-6a0b18485d57",
+  "gender": "male",
+  "age": 37,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Gareth",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Elena",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "cycling",
+    "reading",
+    "travel"
+  ],
+  "pets": [],
+  "company": "SouthEast Strategy Partners",
+  "previous_passwords": [
+    "Gareth1987",
+    "ElenaMerrick123",
+    "Polestar2!",
+    "Cycling2020",
+    "Reading4Life",
+    "Merrick9000",
+    "SouthEast2023",
+    "Wedding2024",
+    "Travel_88",
+    "Elena4Gareth"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1988-05-03"
+}

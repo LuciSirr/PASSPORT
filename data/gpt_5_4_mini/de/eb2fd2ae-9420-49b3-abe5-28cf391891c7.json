@@ -1,0 +1,35 @@
+{
+  "id": "eb2fd2ae-9420-49b3-abe5-28cf391891c7",
+  "age": 29,
+  "birth_date": "1997-05-17",
+  "marital_status": "single",
+  "region": "Böblingen",
+  "nationality": "german",
+  "company": "Löwer Köhler GmbH & Co. KG",
+  "car_brand": "Hyundai",
+  "self_first_name": "Georg",
+  "self_last_name": "Müller",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Gaming",
+    "Stuttgart 21"
+  ],
+  "previous_passwords": [
+    "VfB97!",
+    "Hiking97_",
+    "Kochen17!",
+    "Hyundai29",
+    "Gaming97!",
+    "Stuttgart21!",
+    "Maultaschen97",
+    "Fussball29!",
+    "Boeblingen97",
+    "Moehre97!"
+  ]
+}

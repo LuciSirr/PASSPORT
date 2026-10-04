@@ -1,0 +1,39 @@
+{
+  "id": "296f0b06-7e1d-4864-8b53-12041cf0886c",
+  "gender": "female",
+  "age": 67,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "downton abbey"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Misty2014",
+    "Margaret57!",
+    "DowntonAbbey123",
+    "Hollingsworth_1957",
+    "Gardening4Life",
+    "PeterJune12",
+    "MistyDownton",
+    "M4rg4r3tCat",
+    "AbbeyMisty57",
+    "Hollingsworth!Misty"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1957-06-12"
+}

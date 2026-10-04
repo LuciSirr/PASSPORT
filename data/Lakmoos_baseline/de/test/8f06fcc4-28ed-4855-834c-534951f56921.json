@@ -1,0 +1,35 @@
+{
+  "id": "8f06fcc4-28ed-4855-834c-534951f56921",
+  "gender": "female",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lena",
+  "self_last_name": "Krause",
+  "birth_date": "2002-07-15",
+  "partner_first_name": "Jonas",
+  "partner_last_name": "Neumann",
+  "children": [],
+  "interests": [
+    "germanys next topmodel",
+    "bouldern",
+    "stranger things"
+  ],
+  "pets": [],
+  "company": "Krause & Partner Beratung",
+  "previous_passwords": [
+    "Lena2002",
+    "Krause!15",
+    "Jonas_0715",
+    "GNTM2022",
+    "bouldern123",
+    "Stranger11",
+    "krauseGNTM",
+    "Topmodel_22",
+    "LenaStranger",
+    "Neumann!2002"
+  ],
+  "favorite_hobby": "germanys next topmodel"
+}

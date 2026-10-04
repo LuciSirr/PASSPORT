@@ -1,0 +1,35 @@
+{
+  "id": "af892a2f-2655-4cde-ba83-90c2d8d0d163",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "formula 1",
+    "peaky blinders",
+    "bouldering"
+  ],
+  "pets": [],
+  "company": "Westvale Consulting",
+  "previous_passwords": [
+    "Callum1999",
+    "PeakyBlinders14",
+    "F0rmula1!23",
+    "HollingsworthF1",
+    "Bouldering_99",
+    "Westvale2022",
+    "Shelby!1919",
+    "SouthWest_123",
+    "PB!Hollings",
+    "Blinders_314"
+  ],
+  "favorite_hobby": "formula 1",
+  "birth_date": "1999-03-14"
+}

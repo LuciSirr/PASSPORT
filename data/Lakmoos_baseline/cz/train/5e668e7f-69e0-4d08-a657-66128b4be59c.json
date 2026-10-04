@@ -1,0 +1,35 @@
+{
+  "id": "5e668e7f-69e0-4d08-a657-66128b4be59c",
+  "gender": "male",
+  "age": 57,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "houbaření",
+    "cyklistika",
+    "televize"
+  ],
+  "pets": [],
+  "company": "Lesy Hradec s.r.o.",
+  "previous_passwords": [
+    "Radek1967",
+    "Jitka57",
+    "Octavia1998",
+    "Vesely31000",
+    "Houbareni123",
+    "JitkaRadek!",
+    "Lidl2022",
+    "Hornbach80",
+    "Cyklistika77",
+    "Hradec2024"
+  ],
+  "favorite_hobby": "houbaření",
+  "birth_date": "1969-02-21"
+}

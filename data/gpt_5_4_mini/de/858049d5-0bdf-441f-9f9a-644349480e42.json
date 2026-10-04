@@ -1,0 +1,45 @@
+{
+  "id": "858049d5-0bdf-441f-9f9a-644349480e42",
+  "age": 57,
+  "birth_date": "1969-10-05",
+  "marital_status": "single",
+  "region": "Schwäbisch Hall",
+  "nationality": "german",
+  "company": "Conradi AG",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Liesa",
+  "self_last_name": "Rose",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Diethard",
+      "last_name": "Rose"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Donata"
+    }
+  ],
+  "interests": [
+    "Wandern im Hohenloher Land",
+    "Schwäbisch Hall TSG",
+    "Gartenarbeit",
+    "Fußball",
+    "Kochen"
+  ],
+  "previous_passwords": [
+    "Wandern69!",
+    "HallTSG1969",
+    "KochenRose57",
+    "DonataLizard5",
+    "MercedesHall69",
+    "Hohenlohe05!",
+    "TSGFu00ball57",
+    "Garten1969_",
+    "Rose1969!",
+    "Schwaebisch5"
+  ]
+}

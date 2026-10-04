@@ -1,0 +1,40 @@
+{
+  "id": "95cc48c6-a711-45e1-972b-f276333f345f",
+  "gender": "male",
+  "age": 5,
+  "marital_status": "single/in a relationship",
+  "region": "brandenburg",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Schwanitz",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lego",
+    "malen",
+    "spielen"
+  ],
+  "pets": [
+    {
+      "pet_type": "other",
+      "pet_name": "Hoppel"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Lennart2019",
+    "Hoppel123",
+    "Schwanitz2020",
+    "lego4ever",
+    "Brandenburg19",
+    "malen_2021",
+    "spielen!",
+    "Hoppel_19",
+    "Oma7.4",
+    "Kinderzimmer"
+  ],
+  "favorite_hobby": "lego",
+  "birth_date": "2020-12-25"
+}

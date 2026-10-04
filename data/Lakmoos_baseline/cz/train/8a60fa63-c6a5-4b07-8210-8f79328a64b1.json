@@ -1,0 +1,36 @@
+{
+  "id": "8a60fa63-c6a5-4b07-8210-8f79328a64b1",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Krejčí",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Krejčí",
+  "children": [],
+  "interests": [
+    "fotografie",
+    "běh",
+    "hudba",
+    "voyo"
+  ],
+  "pets": [],
+  "company": "Ateliér Vysočina",
+  "previous_passwords": [
+    "Radek1996",
+    "PetraKrejci28",
+    "Fabia2021",
+    "umeni97000",
+    "Běh123",
+    "VoyoCZ!",
+    "Albert806",
+    "Pilsner28",
+    "Zasilkovna1",
+    "Hudba2024"
+  ],
+  "favorite_hobby": "fotografie",
+  "birth_date": "1997-07-31"
+}

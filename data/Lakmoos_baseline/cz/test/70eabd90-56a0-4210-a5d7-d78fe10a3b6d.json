@@ -1,0 +1,44 @@
+{
+  "id": "70eabd90-56a0-4210-a5d7-d78fe10a3b6d",
+  "gender": "male",
+  "age": 36,
+  "marital_status": "married",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1988-06-15",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohoutová",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "rychlá auta"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Zlínská Strojírna s.r.o.",
+  "previous_passwords": [
+    "Matej2011",
+    "Kohout88",
+    "PetraRadek13",
+    "Rexik123",
+    "fotbal2020",
+    "Zlin2023!",
+    "Superb2000",
+    "RychlaAuta88",
+    "Petra!15",
+    "Mat3jKohout"
+  ],
+  "favorite_hobby": "fotbal"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "93b29985-14b6-4832-b394-542b3dea4053",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "KIA",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vacková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "móda",
+    "knihy",
+    "kavárna",
+    "procházky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "AutoServis Beroun",
+  "previous_passwords": [
+    "Micka2020",
+    "Vackova38",
+    "KiaPicanto2003",
+    "Maturita2004",
+    "Datart3701",
+    "Lidl973",
+    "Prochazky123",
+    "Knihy!2022",
+    "M0da_987"
+  ],
+  "favorite_hobby": "móda",
+  "birth_date": "1988-01-17"
+}

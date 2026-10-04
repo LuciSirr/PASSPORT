@@ -1,0 +1,40 @@
+{
+  "id": "1e65957c-3710-4ae9-9e36-c704eb99d28f",
+  "gender": "male",
+  "age": 39,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Subaru",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travelling",
+    "photography"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Yorkshire Venture Solutions",
+  "previous_passwords": [
+    "Gareth1985",
+    "Emily4ever",
+    "Baxter123",
+    "Hollingsworth15",
+    "Yorkshire2020",
+    "SubaruXV11",
+    "Hiking!23",
+    "EmilyBaxter!",
+    "Venture_15000",
+    "Travel4life"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1986-12-02"
+}

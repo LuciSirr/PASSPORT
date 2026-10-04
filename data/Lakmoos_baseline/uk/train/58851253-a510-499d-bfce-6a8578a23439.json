@@ -1,0 +1,40 @@
+{
+  "id": "58851253-a510-499d-bfce-6a8578a23439",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Trentfield Consulting",
+  "previous_passwords": [
+    "Fiona1963",
+    "Ashcroft123",
+    "Milo!2020",
+    "Graham63",
+    "Trentfield1",
+    "Travel4Fun",
+    "Gardening_88",
+    "Reading2022",
+    "MiloAshcroft",
+    "Fiona!cat"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1965-01-16"
+}

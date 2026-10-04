@@ -1,0 +1,40 @@
+{
+  "id": "d0ca99d6-cdd3-4b4c-bb9e-d19a2a0d7fe6",
+  "gender": "male",
+  "age": 38,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1986-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "hbo max",
+    "turistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Agro Lesy Ústí s.r.o.",
+  "previous_passwords": [
+    "Radek1986",
+    "Kohout59",
+    "Rex1234",
+    "fotbal2020",
+    "ustiKohout86",
+    "hboMax!21",
+    "turistika_2022",
+    "Rex!fotbal",
+    "KohoutRex86",
+    "lesy2023"
+  ],
+  "favorite_hobby": "fotbal"
+}

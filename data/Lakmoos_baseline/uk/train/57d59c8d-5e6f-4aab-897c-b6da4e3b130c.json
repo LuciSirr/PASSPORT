@@ -1,0 +1,40 @@
+{
+  "id": "57d59c8d-5e6f-4aab-897c-b6da4e3b130c",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Toyota",
+  "self_first_name": "Fiona",
+  "self_last_name": "Pritchard",
+  "partner_first_name": "Gareth",
+  "partner_last_name": "Pritchard",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "hiking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Cader Business Solutions",
+  "previous_passwords": [
+    "Fiona1979",
+    "Milo123",
+    "Wales!2020",
+    "Pritchard88",
+    "Travel4Life",
+    "Gareth2021",
+    "Cader!19",
+    "Hiking_77",
+    "Milo!cat",
+    "Reading2022"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1980-11-26"
+}

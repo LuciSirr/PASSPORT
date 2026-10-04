@@ -1,0 +1,39 @@
+{
+  "id": "f085322c-ff74-4383-9b60-e2f8cc3b28d7",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lena",
+  "self_last_name": "Krause",
+  "birth_date": "2018-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "bibi und tina",
+    "paw patrol"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mimi"
+    }
+  ],
+  "company": "Studentenhilfe NRW",
+  "previous_passwords": [
+    "Lena2018",
+    "Mimi123",
+    "krausepawpatrol",
+    "bibiundtina_18",
+    "StudentenhilfeNRW2022",
+    "pawpatrolMimi",
+    "krause!12",
+    "bibiundtinaMimi",
+    "pawpatrol_2018",
+    "Mimi_bibi"
+  ],
+  "favorite_hobby": "bibi und tina"
+}

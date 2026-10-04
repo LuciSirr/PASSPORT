@@ -1,0 +1,34 @@
+{
+  "id": "bae22a35-3b3c-4775-b2d8-903d5e57d082",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "auta",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radek1969",
+    "Vesely55",
+    "Hyundai2021",
+    "KonaDiesel",
+    "Kaufland123",
+    "Cestovani2020",
+    "Praha5000",
+    "BurgerKing!",
+    "Auta1598"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1971-01-24"
+}

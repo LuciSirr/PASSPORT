@@ -1,0 +1,36 @@
+{
+  "id": "63d652dc-4428-49a7-adcd-3ce7a68ea039",
+  "gender": "female",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Suzuki",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "seriály",
+    "hudba",
+    "jízda"
+  ],
+  "pets": [],
+  "company": "Moravská Studentská Brigáda",
+  "previous_passwords": [
+    "Tereza2008",
+    "Vesela15",
+    "SuzukiSwift24",
+    "Brno2023",
+    "malovani123",
+    "Kofola!",
+    "Terranova15",
+    "Hudba_321",
+    "seriály2022",
+    "JizdaBrno"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2011-02-25"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b8ad0d38-bf8b-4e74-93b3-e934f63cb66a",
+  "age": 34,
+  "birth_date": "1992-07-12",
+  "marital_status": "single",
+  "region": "Krásné Údolí",
+  "nationality": "czech",
+  "company": "Matoušek a.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Ladislava",
+  "self_last_name": "Kadlecová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "čtení knih",
+    "hudba (Jan Kolomaj)",
+    "fotbal (FK Ústí nad Labem)"
+  ],
+  "previous_passwords": [
+    "Kolomaj2012!",
+    "SkodaTuristika1992",
+    "FKUstiLabem_Ladislava",
+    "VareniKadlecova",
+    "MessiFan88",
+    "KrasneUdoliBook!",
+    "JanK_reading_712",
+    "TouringSkoda12",
+    "CookingLadka24",
+    "FotbalUdoli20"
+  ]
+}

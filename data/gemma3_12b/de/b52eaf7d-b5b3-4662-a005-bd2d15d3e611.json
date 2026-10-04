@@ -1,0 +1,35 @@
+{
+  "id": "b52eaf7d-b5b3-4662-a005-bd2d15d3e611",
+  "age": 68,
+  "birth_date": "1958-09-11",
+  "marital_status": "married",
+  "region": "Koblenz",
+  "nationality": "german",
+  "company": "Weihmann Sorgatz KG",
+  "car_brand": "Peugeot",
+  "self_first_name": "Robin",
+  "self_last_name": "Adolph",
+  "partner_first_name": "Lena",
+  "partner_last_name": "Adolph",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Schiffsmodellbau",
+    "Deutsche Geschichte",
+    "Klassische Musik",
+    "Lokale Geschichtsvereine"
+  ],
+  "previous_passwords": [
+    "KoblenzWandern1958",
+    "DeutscheGeschichteVespa",
+    "PeugeotModellbau23",
+    "LenaAdolphKlassik!",
+    "Schiffsmodellbau0911",
+    "KoblenzHistoryRover",
+    "WandernKoblenz77",
+    "ClassicMusicPeugeot",
+    "RobinAdolph_Walks",
+    "HistorischeVerein_1958"
+  ]
+}

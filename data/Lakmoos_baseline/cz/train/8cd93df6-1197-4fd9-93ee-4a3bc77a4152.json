@@ -1,0 +1,40 @@
+{
+  "id": "8cd93df6-1197-4fd9-93ee-4a3bc77a4152",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "malování",
+    "hudba",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "Ateliér Zlín",
+  "previous_passwords": [
+    "Matej2013",
+    "Vesely39",
+    "Kofola2020",
+    "ZlinArt39",
+    "Matysek11",
+    "Globus123",
+    "RockRadioCZ",
+    "Fotbal123",
+    "Hudba!2022"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1998-06-26"
+}

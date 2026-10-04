@@ -1,0 +1,45 @@
+{
+  "id": "a5e5061f-07c6-452d-a9d9-47ac127bb725",
+  "gender": "female",
+  "age": 40,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1984-06-15",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohoutová"
+    }
+  ],
+  "interests": [
+    "ordinace v růžové zahradě",
+    "pečení",
+    "křížovky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Školní centrum Brno",
+  "previous_passwords": [
+    "Tereza2017",
+    "Micka_84",
+    "Kohoutova123",
+    "Petr0615",
+    "peceni2020",
+    "ordinaceRuzova!15",
+    "krizovky2024",
+    "MickaTereza17",
+    "IvetaKohout",
+    "Kohoutova!84"
+  ],
+  "favorite_hobby": "ordinace v růžové zahradě"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "096aafef-2e17-45ee-b45d-a4bd5428bae4",
+  "age": 39,
+  "birth_date": "1987-09-02",
+  "marital_status": "married",
+  "region": "Lake Neil",
+  "nationality": "english",
+  "company": "Baker, Baker and Rees",
+  "car_brand": "Nissan",
+  "self_first_name": "Ben",
+  "self_last_name": "Lewis",
+  "partner_first_name": "Alison",
+  "partner_last_name": "Lewis",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Kayaking",
+    "College Football",
+    "Craft Beer",
+    "Home Improvement",
+    "True Crime Podcasts"
+  ],
+  "previous_passwords": [
+    "AlisonLewis87",
+    "NissanKayak2023",
+    "MessiFan_92",
+    "JoeRoganTruth!",
+    "LakeNeilBrew1987",
+    "HomeImprove_Ben",
+    "CraftBeerAlison",
+    "TrueCrimeLake",
+    "NissanLakeside!",
+    "KayakingBen87"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "f3f82a0c-a01e-4109-b5d2-7bdef1d8a334",
+  "gender": "female",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Mitsubishi",
+  "self_first_name": "Annika",
+  "self_last_name": "Schreiner",
+  "partner_first_name": "Lukas",
+  "partner_last_name": "Schreiner",
+  "children": [],
+  "interests": [
+    "streaming",
+    "reisen",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Annika1998",
+    "Mitsubishi123",
+    "Sommer!07",
+    "Schreiner2022",
+    "Lukas_4nn1k4",
+    "Reisen2023",
+    "Podcasts!1",
+    "Nordrhein1975",
+    "Berlin_253",
+    "HotelJuly"
+  ],
+  "favorite_hobby": "streaming",
+  "birth_date": "2000-03-12"
+}

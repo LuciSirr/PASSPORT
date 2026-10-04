@@ -1,0 +1,48 @@
+{
+  "id": "d1f81e42-af39-43bb-8918-45bbb705275e",
+  "age": 45,
+  "birth_date": "1981-08-14",
+  "marital_status": "married",
+  "region": "Sankt Goarshausen",
+  "nationality": "german",
+  "company": "Rörricht GmbH",
+  "car_brand": "Dacia",
+  "self_first_name": "Sophie",
+  "self_last_name": "Reuter",
+  "partner_first_name": "Benno",
+  "partner_last_name": "Reuter",
+  "children": [
+    {
+      "first_name": "Patrick",
+      "last_name": "Reuter"
+    },
+    {
+      "first_name": "Paolo",
+      "last_name": "Reuter"
+    },
+    {
+      "first_name": "Horst",
+      "last_name": "Reuter"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Autorenlesungen",
+    "Deutsche Küche",
+    "Fotografie",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Patrick81Goar",
+    "MessiWandern22!",
+    "HorstFotoDacia",
+    "BennoAutorenlesung23",
+    "PaoloWanderung1981",
+    "SanktGoarshausenFoto",
+    "DeutscheKuechePatrick",
+    "DaciaHorst22!",
+    "PatrickPaolo81",
+    "MessiGoarshausen"
+  ]
+}

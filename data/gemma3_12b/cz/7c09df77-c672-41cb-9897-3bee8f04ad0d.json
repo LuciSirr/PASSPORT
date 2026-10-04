@@ -1,0 +1,35 @@
+{
+  "id": "7c09df77-c672-41cb-9897-3bee8f04ad0d",
+  "age": 38,
+  "birth_date": "1988-11-24",
+  "marital_status": "married",
+  "region": "Nalžovské Hory",
+  "nationality": "czech",
+  "company": "Vávrová",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Ludvík",
+  "self_last_name": "Svoboda",
+  "partner_first_name": "Edita",
+  "partner_last_name": "Svobodová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivní lázně",
+    "historie zámků",
+    "rybaření",
+    "folklór"
+  ],
+  "previous_passwords": [
+    "NalzovskeHory24",
+    "EditaSvobodaTour",
+    "VolkswagenRybar",
+    "PivniLazne88",
+    "FolklórMessi1988",
+    "ZamkySvoboda!",
+    "TuristikaEdita",
+    "NalžovskéHoryVW",
+    "SvobodaRybarska",
+    "HistoryZamku24"
+  ]
+}

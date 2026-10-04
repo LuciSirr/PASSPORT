@@ -1,0 +1,40 @@
+{
+  "id": "ebada2b8-e993-4618-8da4-fae4919855bd",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Ford",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "top gear",
+    "football"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ranger"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Ranger2006",
+    "CallumTravel17",
+    "TopGear!95",
+    "Hollingsworth_football",
+    "Sophie1995",
+    "Football123",
+    "Travel4Adventure",
+    "Ranger!17",
+    "TopG3ar2022",
+    "WestMidlands95"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1995-03-17"
+}

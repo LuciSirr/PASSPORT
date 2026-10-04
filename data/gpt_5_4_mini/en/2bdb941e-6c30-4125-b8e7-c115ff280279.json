@@ -1,0 +1,44 @@
+{
+  "id": "2bdb941e-6c30-4125-b8e7-c115ff280279",
+  "age": 31,
+  "birth_date": "1995-09-19",
+  "marital_status": "married",
+  "region": "Newtonton",
+  "nationality": "english",
+  "company": "Lewis Inc",
+  "car_brand": "Toyota",
+  "self_first_name": "Frederick",
+  "self_last_name": "Oliver",
+  "partner_first_name": "Ruth",
+  "partner_last_name": "Oliver",
+  "children": [
+    {
+      "first_name": "Jennifer",
+      "last_name": "Oliver"
+    },
+    {
+      "first_name": "Sara",
+      "last_name": "Oliver"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "fitness",
+    "podcasts",
+    "trail running",
+    "craft beer"
+  ],
+  "previous_passwords": [
+    "Rogan95!",
+    "Zelda19_Ruth",
+    "Asics95Trail",
+    "ToyotaRun31",
+    "RuthBeer95",
+    "NinjaRun19",
+    "PelotonOliver31",
+    "SaraCraft95!",
+    "NewtownFit19",
+    "OliverBeer31"
+  ]
+}

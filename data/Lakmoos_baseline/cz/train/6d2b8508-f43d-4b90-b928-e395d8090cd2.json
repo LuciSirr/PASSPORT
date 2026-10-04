@@ -1,0 +1,35 @@
+{
+  "id": "6d2b8508-f43d-4b90-b928-e395d8090cd2",
+  "gender": "male",
+  "age": 49,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "cestování",
+    "auta",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "Pražská strojírna",
+  "previous_passwords": [
+    "Radek1975",
+    "Jitka2020",
+    "SuperbEstate23",
+    "Praha59",
+    "Konecny123",
+    "Kofola4ever",
+    "Turistika2021",
+    "Globus964",
+    "Cestovani!",
+    "Auta1968"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1976-10-27"
+}

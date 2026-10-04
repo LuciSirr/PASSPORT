@@ -1,0 +1,39 @@
+{
+  "id": "d3fd00cb-f1f8-4deb-9869-ebb6476f201e",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Milo2018",
+    "Fiona53!",
+    "Hollingsworth123",
+    "CupraAteca19",
+    "Graham2020",
+    "Gardening4U",
+    "Baking_53",
+    "Milo!53",
+    "Walking2022"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1972-08-29"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dee87a2c-f054-44e9-b785-d8108f744e42",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Hyundai",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "travel",
+    "gardening",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "East Midlands Strategic Consulting",
+  "previous_passwords": [
+    "Fiona1971",
+    "Ashcroft88",
+    "Milo123",
+    "Travel2020",
+    "Gardening!1",
+    "Martin2023",
+    "EastMidlands21",
+    "Reading_53",
+    "FionaMilo",
+    "Ashcroft!2022"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1972-12-01"
+}

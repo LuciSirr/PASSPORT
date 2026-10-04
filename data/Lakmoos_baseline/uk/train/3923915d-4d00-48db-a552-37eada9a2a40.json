@@ -1,0 +1,34 @@
+{
+  "id": "3923915d-4d00-48db-a552-37eada9a2a40",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Citroën",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "cycling",
+    "reading"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Malcolm1961",
+    "CitroenC4!",
+    "Gardening123",
+    "Hollis58",
+    "Reading2020",
+    "Peugeot2019",
+    "SouthEast49",
+    "Divorce2024",
+    "Cycling_63"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1963-02-25"
+}

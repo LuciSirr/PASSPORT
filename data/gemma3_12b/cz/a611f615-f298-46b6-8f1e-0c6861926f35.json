@@ -1,0 +1,35 @@
+{
+  "id": "a611f615-f298-46b6-8f1e-0c6861926f35",
+  "age": 41,
+  "birth_date": "1985-06-30",
+  "marital_status": "divorced",
+  "region": "Vroutek",
+  "nationality": "czech",
+  "company": "Matějka",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Stanislav",
+  "self_last_name": "Staněk",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "vaření",
+    "čtení",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "Messi8506",
+    "Turistika2023!",
+    "VolkswagenRyr!",
+    "vareniStanek",
+    "FotbalTuristika",
+    "Cteni85",
+    "RybarStanek",
+    "VroutekMessi",
+    "FotbalMessi21",
+    "JoeRogan85"
+  ]
+}

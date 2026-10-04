@@ -1,0 +1,35 @@
+{
+  "id": "ee77b787-3a04-47b1-bb0a-7c9708196804",
+  "age": 30,
+  "birth_date": "1996-04-20",
+  "marital_status": "married",
+  "region": "Staßfurt",
+  "nationality": "german",
+  "company": "Gierschner Zobel KG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Marcella",
+  "self_last_name": "Klemt",
+  "partner_first_name": "Cemal",
+  "partner_last_name": "Klemt",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Biergartenbesuche",
+    "Techno",
+    "Wandern",
+    "Tatort"
+  ],
+  "previous_passwords": [
+    "TechnoLiebe96",
+    "Marcella_Tatort!",
+    "VW_Wanderlust20",
+    "CemalFoto23",
+    "BiergartenMarcella",
+    "Messi2019_mk",
+    "StaßfurtWandern!",
+    "Tatort_Fotografie",
+    "Marcella_TechnoLove",
+    "VW_BergAbenteuer"
+  ]
+}

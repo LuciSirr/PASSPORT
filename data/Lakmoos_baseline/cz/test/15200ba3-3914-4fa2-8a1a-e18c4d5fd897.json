@@ -1,0 +1,39 @@
+{
+  "id": "15200ba3-3914-4fa2-8a1a-e18c4d5fd897",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Eliška",
+  "self_last_name": "Jurčová",
+  "birth_date": "2018-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "krteček",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Eliška2019",
+    "Micka14",
+    "krtecek123",
+    "malovani2022",
+    "JurcovaMicka",
+    "krtecek!19",
+    "Micka_krtecek",
+    "malovani14",
+    "EliškaMicka",
+    "krtecekJurcova"
+  ],
+  "favorite_hobby": "krteček"
+}

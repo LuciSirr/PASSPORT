@@ -1,0 +1,40 @@
+{
+  "id": "413e8020-dd10-4676-937f-8d01c4455572",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Šimon",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "kreslení",
+    "počítače"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Max"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Max2012",
+    "Veselý123",
+    "Olomouc12",
+    "fotbal2020",
+    "kresleni_01",
+    "banikMax",
+    "Jablko2020",
+    "Simonek12",
+    "Maxík!",
+    "počítače321"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2013-10-14"
+}

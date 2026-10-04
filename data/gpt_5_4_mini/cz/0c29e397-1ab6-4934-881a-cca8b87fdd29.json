@@ -1,0 +1,35 @@
+{
+  "id": "0c29e397-1ab6-4934-881a-cca8b87fdd29",
+  "age": 56,
+  "birth_date": "1970-09-23",
+  "marital_status": "divorced",
+  "region": "Strmilov",
+  "nationality": "czech",
+  "company": "Hájková s.r.o.",
+  "car_brand": "Audi",
+  "self_first_name": "Silvie",
+  "self_last_name": "Vlčková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "chalupaření",
+    "rybaření",
+    "hokej"
+  ],
+  "previous_passwords": [
+    "Turistika70",
+    "Rybareni23!",
+    "Zahrada1970",
+    "AudiVlc!",
+    "Chalupa23_",
+    "Hokej56Str",
+    "SilvieFish70",
+    "Stromilov!23",
+    "AhojRybar123",
+    "Vlckova_Audi"
+  ]
+}

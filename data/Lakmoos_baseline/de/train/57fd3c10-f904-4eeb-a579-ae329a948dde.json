@@ -1,0 +1,39 @@
+{
+  "id": "57fd3c10-f904-4eeb-a579-ae329a948dde",
+  "gender": "female",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Mitsubishi",
+  "self_first_name": "Annika",
+  "self_last_name": "Schreiner",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lina",
+      "last_name": "Schreiner"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Rheinland Management GmbH",
+  "previous_passwords": [
+    "Lina2022",
+    "Annika!28",
+    "Schreiner123",
+    "Rheinland77",
+    "Sommerurlaub21",
+    "Mitsubishi999",
+    "Lesen4ever",
+    "BKK2024",
+    "Lina_Schatz",
+    "CryptoFan7"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1997-04-12"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "da7cc0ab-2afb-4919-9ca1-f42e3a60fd79",
+  "gender": "female",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Eliška",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "puzzle"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "maminka2021",
+    "slunicko3",
+    "praguekocka",
+    "hracka123",
+    "Eliška2020",
+    "Veselá22",
+    "malovani123",
+    "puzzle2021",
+    "slunicko!",
+    "kocka_03"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2023-01-18"
+}

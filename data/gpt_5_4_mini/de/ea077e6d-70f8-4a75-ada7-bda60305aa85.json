@@ -1,0 +1,44 @@
+{
+  "id": "ea077e6d-70f8-4a75-ada7-bda60305aa85",
+  "age": 37,
+  "birth_date": "1989-05-03",
+  "marital_status": "single",
+  "region": "Regen",
+  "nationality": "german",
+  "company": "Fröhlich Beier GmbH",
+  "car_brand": "Mini",
+  "self_first_name": "Muharrem",
+  "self_last_name": "Wulf",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Eric"
+    },
+    {
+      "pet_type": "dog",
+      "pet_name": "Valentina"
+    }
+  ],
+  "interests": [
+    "Wandern im Bayerischen Wald",
+    "Fußball",
+    "Kochen",
+    "Radfahren",
+    "Therme und Wellness"
+  ],
+  "previous_passwords": [
+    "Wandern1989!",
+    "BayernWulf03",
+    "MiniRegen89",
+    "Valentina2024",
+    "Kochen03_!",
+    "EricWald89",
+    "FussballMini7",
+    "ThermeWulf24",
+    "Radfahren89!",
+    "RegenBayern03"
+  ]
+}

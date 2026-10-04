@@ -1,0 +1,36 @@
+{
+  "id": "c312afd0-6766-4289-8d2f-26702fcf33bf",
+  "gender": "male",
+  "age": 36,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Gareth",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "cycling",
+    "reading",
+    "travel",
+    "football"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "MazdaCX5_2017",
+    "Emily2014",
+    "London123",
+    "Gareth36!",
+    "Merrick2024",
+    "Football4",
+    "Cycling_88",
+    "Reading3",
+    "EmilyMerrick!",
+    "Mazda39859"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1989-04-20"
+}

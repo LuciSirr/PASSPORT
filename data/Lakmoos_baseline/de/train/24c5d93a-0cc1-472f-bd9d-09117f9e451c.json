@@ -1,0 +1,35 @@
+{
+  "id": "24c5d93a-0cc1-472f-bd9d-09117f9e451c",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Cupra",
+  "self_first_name": "Timo",
+  "self_last_name": "Schwanitz",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "autos",
+    "reisen",
+    "musik"
+  ],
+  "pets": [],
+  "company": "Nordrhein Business Solutions",
+  "previous_passwords": [
+    "Timo1996",
+    "CupraLeon21!",
+    "Schwanitz123",
+    "Reisen2023",
+    "MercedesEQB300",
+    "Sommer08",
+    "Nordrhein_5",
+    "Autos4Life",
+    "Musik2020",
+    "Business_5000"
+  ],
+  "favorite_hobby": "autos",
+  "birth_date": "1998-02-19"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "973a49bd-8e6f-49f2-943e-f06d732ece10",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Ford",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kohout",
+  "birth_date": "1961-04-17",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "české detektivky",
+    "ford tourneo",
+    "hokej extraliga"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1961",
+    "Kohout123",
+    "Jitka2010",
+    "fordtourneo05",
+    "detektivky2020",
+    "h0k3jextraliga",
+    "Albert585",
+    "dm473!",
+    "Kohout!17",
+    "JitkaKohoutka"
+  ],
+  "favorite_hobby": "české detektivky"
+}

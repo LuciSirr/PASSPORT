@@ -1,0 +1,39 @@
+{
+  "id": "3823e8b3-3afa-437a-b674-da4e24ed189e",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Oscar",
+  "self_last_name": "Hollings",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "lego"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Biscuit"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Oscar2020",
+    "Biscuit!14",
+    "pawpatrol123",
+    "HollingsLego",
+    "lego2020",
+    "BiscuitPaw",
+    "OscarLego!",
+    "pawpatrol_20",
+    "Biscuit14",
+    "OscarPaw!"
+  ],
+  "favorite_hobby": "paw patrol",
+  "birth_date": "2018-05-14"
+}

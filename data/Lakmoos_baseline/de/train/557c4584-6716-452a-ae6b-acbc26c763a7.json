@@ -1,0 +1,40 @@
+{
+  "id": "557c4584-6716-452a-ae6b-acbc26c763a7",
+  "gender": "female",
+  "age": 5,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malen",
+    "puzzeln",
+    "spielen"
+  ],
+  "pets": [
+    {
+      "pet_type": "other",
+      "pet_name": "Hoppel"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Lina2018",
+    "Hoppel123",
+    "Kreutzmann5",
+    "Malen2023",
+    "Lina_Hoppel",
+    "Puzzeln!22",
+    "Hessen2018",
+    "LinaMalen",
+    "Kreutzmann!",
+    "Hoppel2020"
+  ],
+  "favorite_hobby": "malen",
+  "birth_date": "2020-11-19"
+}

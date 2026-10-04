@@ -1,0 +1,35 @@
+{
+  "id": "7099dcde-3ccf-49e0-b9c8-6e6ddf1d43f0",
+  "age": 42,
+  "birth_date": "1984-11-25",
+  "marital_status": "married",
+  "region": "Mnichovice",
+  "nationality": "czech",
+  "company": "Fišerová Černý k.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Pavla",
+  "self_last_name": "Křížová",
+  "partner_first_name": "Leoš",
+  "partner_last_name": "Křížová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "zahradničení",
+    "vaření",
+    "fotbal"
+  ],
+  "previous_passwords": [
+    "Turistika84!",
+    "CykloMnichovice",
+    "Zahrada_25",
+    "VareniLeos84",
+    "Sparta1984!",
+    "VWtour2024",
+    "KrizovaGolf",
+    "MnichoviceRide",
+    "Fotbal_Les",
+    "Pavla11!"
+  ]
+}

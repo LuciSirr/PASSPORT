@@ -1,0 +1,44 @@
+{
+  "id": "74260e77-c5b7-4130-99f9-91295df27c81",
+  "age": 36,
+  "birth_date": "1990-11-14",
+  "marital_status": "divorced",
+  "region": "West Andrewbury",
+  "nationality": "english",
+  "company": "Cunningham, Edwards and Ward",
+  "car_brand": "Land Rover",
+  "self_first_name": "Judith",
+  "self_last_name": "Green",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Lewis"
+    },
+    {
+      "pet_type": "lizard",
+      "pet_name": "Geraldine"
+    }
+  ],
+  "interests": [
+    "football",
+    "cooking",
+    "podcasts",
+    "home improvement",
+    "travel"
+  ],
+  "previous_passwords": [
+    "Lewis2026!",
+    "LboroRovers90",
+    "CookBook14!",
+    "JoeRogan36",
+    "LandRover11",
+    "Geraldine8!",
+    "WestAndrew90",
+    "MessiCook90",
+    "Turtle14home",
+    "Podcasts36!"
+  ]
+}

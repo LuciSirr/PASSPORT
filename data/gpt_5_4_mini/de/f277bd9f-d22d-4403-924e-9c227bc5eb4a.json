@@ -1,0 +1,44 @@
+{
+  "id": "f277bd9f-d22d-4403-924e-9c227bc5eb4a",
+  "age": 26,
+  "birth_date": "2000-07-24",
+  "marital_status": "divorced",
+  "region": "Goslar",
+  "nationality": "german",
+  "company": "Schuster Harloff AG",
+  "car_brand": "Hyundai",
+  "self_first_name": "Utz",
+  "self_last_name": "Jacobi Jäckel",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Edmund"
+    },
+    {
+      "pet_type": "bird",
+      "pet_name": "Dorina"
+    }
+  ],
+  "interests": [
+    "Wandern im Harz",
+    "Fußball",
+    "Gaming",
+    "Konzerte",
+    "Kochen"
+  ],
+  "previous_passwords": [
+    "HarzWandern24",
+    "FCBayern2000!",
+    "Hyundai26_Gos",
+    "EdmundHam99",
+    "GoslarKonzert7",
+    "FC24Gaming!",
+    "Kochen2000",
+    "DorinaBird24",
+    "Harz_24Utz",
+    "Konzert2000#"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "0769734d-e4b2-42ef-b2cf-6858bd2f4570",
+  "age": 29,
+  "birth_date": "1997-12-02",
+  "marital_status": "divorced",
+  "region": "New Amberfort",
+  "nationality": "english",
+  "company": "Francis, Ellis and Cunningham",
+  "car_brand": "Nissan",
+  "self_first_name": "Georgina",
+  "self_last_name": "Jackson",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "James"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "podcasts",
+    "fitness",
+    "coffee culture",
+    "travel"
+  ],
+  "previous_passwords": [
+    "Nissan97!",
+    "JamesCoffee2",
+    "KyotoRun12",
+    "GinnyGaming29",
+    "NerdPod_97",
+    "FitNissan02",
+    "LatteTravel7",
+    "James_Jets97",
+    "Amberfort!12",
+    "SwitchNissan9"
+  ]
+}

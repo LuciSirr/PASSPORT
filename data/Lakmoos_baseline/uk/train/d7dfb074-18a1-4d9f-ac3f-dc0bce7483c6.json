@@ -1,0 +1,36 @@
+{
+  "id": "d7dfb074-18a1-4d9f-ac3f-dc0bce7483c6",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Honda",
+  "self_first_name": "Marion",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Ashcombe",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "travel",
+    "crosswords"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Marion1961",
+    "HondaCRV23",
+    "Ashcombe2023",
+    "Graham4Ever",
+    "Gardening123",
+    "SouthWest61",
+    "Reading!1",
+    "Ashcombe!61",
+    "Travel2022",
+    "Crosswords7"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1962-10-18"
+}

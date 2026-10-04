@@ -1,0 +1,40 @@
+{
+  "id": "d0291574-6024-4df6-bf37-9ef182bb1e12",
+  "gender": "female",
+  "age": 59,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "cestování",
+    "kultura"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "Labská Poradenská",
+  "previous_passwords": [
+    "Iveta1985",
+    "Ben123",
+    "Sebestova71",
+    "PetrIveta2024",
+    "Kultura!22",
+    "Nakupovani1",
+    "Benek2020",
+    "UstiNadLabem59",
+    "ContrexVoda",
+    "Rohlikcz2022"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1966-04-19"
+}

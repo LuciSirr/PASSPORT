@@ -1,0 +1,44 @@
+{
+  "id": "5999bedd-b2e8-4f5c-8e51-8ccd9a585381",
+  "gender": "female",
+  "age": 47,
+  "marital_status": "divorced",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "Jeep",
+  "self_first_name": "Katrin",
+  "self_last_name": "Freudenberg",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Freudenberg"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Freudenberg"
+    }
+  ],
+  "interests": [
+    "reisen",
+    "audiobooks",
+    "backen"
+  ],
+  "pets": [],
+  "company": "Nordlicht Beratung",
+  "previous_passwords": [
+    "Lukas2017",
+    "Marlene2021",
+    "JeepCompass11",
+    "Freudenberg3000",
+    "Schleswig123",
+    "Nordlicht!47",
+    "Backen_77",
+    "SommerMai",
+    "KatrinLukas7",
+    "AOK2024"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1979-02-22"
+}

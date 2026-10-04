@@ -1,0 +1,35 @@
+{
+  "id": "c6aef521-62b0-4008-9865-b0ec0b7db9fa",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Tesla",
+  "self_first_name": "Lennart",
+  "self_last_name": "Kraus",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "streaming",
+    "reisen",
+    "autos"
+  ],
+  "pets": [],
+  "company": "Westfalen Consulting GmbH",
+  "previous_passwords": [
+    "Lennart2002",
+    "TeslaY2020",
+    "Kraus123",
+    "Westfalen!35",
+    "Sommer07",
+    "Reisen2023",
+    "Auto_Fan",
+    "AOK2022",
+    "Fussball4",
+    "Kraus!2024"
+  ],
+  "favorite_hobby": "streaming",
+  "birth_date": "2004-01-19"
+}

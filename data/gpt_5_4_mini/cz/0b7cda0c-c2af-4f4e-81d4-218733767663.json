@@ -1,0 +1,40 @@
+{
+  "id": "0b7cda0c-c2af-4f4e-81d4-218733767663",
+  "age": 49,
+  "birth_date": "1977-05-04",
+  "marital_status": "single",
+  "region": "Vlachovo Březí",
+  "nationality": "czech",
+  "company": "Moravcová Vaněk s.r.o.",
+  "car_brand": "Toyota",
+  "self_first_name": "Tomáš",
+  "self_last_name": "Čech",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Emil"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "fotbal",
+    "chataření",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "Turistika77!",
+    "Zahradka05",
+    "Sparta1977",
+    "EmilHops89",
+    "ToyotaVlach",
+    "Chatareni_77",
+    "Vareni4ever",
+    "Messi_Tomas",
+    "VlachBrezi24",
+    "Fotbal1977!"
+  ]
+}

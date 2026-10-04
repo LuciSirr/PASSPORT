@@ -1,0 +1,40 @@
+{
+  "id": "270fdcde-5cb8-4267-9c60-241d8e3da240",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollins",
+  "partner_first_name": "Linda",
+  "partner_last_name": "Hollins",
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "travelling"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "ForgeWorks Manufacturing Ltd",
+  "previous_passwords": [
+    "Graham1955",
+    "Linda4ever",
+    "Baxter123",
+    "Hollins2000",
+    "ForgeWorks!",
+    "Walking7",
+    "WestMidlands59",
+    "Travelling_2020",
+    "Gardening3",
+    "LindaBaxter!"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1966-05-05"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "3ede77ae-8284-45fc-85ac-242297ff61c8",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cyklistika",
+    "kino",
+    "divadlo",
+    "plavání"
+  ],
+  "pets": [],
+  "company": "Úřad městského obvodu Ostrava-jih",
+  "previous_passwords": [
+    "Octavia112",
+    "Makro2021",
+    "Kofola4ever",
+    "Morava1996",
+    "Cyklistika123",
+    "Vesely27",
+    "Plavani2020",
+    "Kino!789",
+    "Divadlo_96"
+  ],
+  "favorite_hobby": "cyklistika",
+  "birth_date": "1998-10-27"
+}

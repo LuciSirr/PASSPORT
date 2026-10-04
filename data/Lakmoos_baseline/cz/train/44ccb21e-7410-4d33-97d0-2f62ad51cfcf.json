@@ -1,0 +1,34 @@
+{
+  "id": "44ccb21e-7410-4d33-97d0-2f62ad51cfcf",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "televize",
+    "nakupování",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "AutoServis Morava",
+  "previous_passwords": [
+    "Radek1966",
+    "JitkaVesela88",
+    "Kofola2020",
+    "Hornbach58",
+    "Budvarcz",
+    "Morava123",
+    "Globus1988",
+    "Vesely!2024",
+    "Prochazky77"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1967-06-30"
+}

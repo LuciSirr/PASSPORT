@@ -1,0 +1,41 @@
+{
+  "id": "1c39fd38-2f29-49a9-9b8c-592ced55c421",
+  "gender": "female",
+  "age": 62,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gillian",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Malcolm",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crosswords",
+    "travel",
+    "antiques"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Marmalade"
+    }
+  ],
+  "company": "Hollingsworth Executive Consulting",
+  "previous_passwords": [
+    "Gillian1962",
+    "Marmalade21",
+    "Hollingsworth62",
+    "Malcolm4Gill",
+    "London!123",
+    "Gardening2020",
+    "Crosswords_7",
+    "Marmalade!",
+    "Antiques1962",
+    "Gill_Malc62"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1964-01-25"
+}

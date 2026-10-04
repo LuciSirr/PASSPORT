@@ -1,0 +1,35 @@
+{
+  "id": "f9288829-7f50-4450-8582-dc60f2b8421b",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "widower/widow",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Mitsubishi",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Krahl",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "wandern",
+    "audiobücher",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Autohaus Hessenblick",
+  "previous_passwords": [
+    "Juergen1973",
+    "Krahl3000",
+    "Mitsubishi23",
+    "Hessen!51",
+    "Wandern123",
+    "Outlander1598",
+    "AOK2022",
+    "SommerApril",
+    "Autohaus_73",
+    "Audiobuch1"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1975-01-26"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "582d57b5-cc0f-4c13-8975-01d95771b312",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "divorced",
+  "region": "northern ireland",
+  "nationality": "british",
+  "car_brand": "Peugeot",
+  "self_first_name": "Fiona",
+  "self_last_name": "McAllister",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "Causeway Care Services",
+  "previous_passwords": [
+    "Fiona1971",
+    "Peugeot3008!",
+    "Causeway2022",
+    "Gardening123",
+    "McAllister53",
+    "Travel4Fun",
+    "Walking2020",
+    "Fiona!NI",
+    "Peugeot_95",
+    "Divorce2024"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1972-09-25"
+}

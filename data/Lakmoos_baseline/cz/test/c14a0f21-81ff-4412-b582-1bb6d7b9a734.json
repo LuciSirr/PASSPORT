@@ -1,0 +1,33 @@
+{
+  "id": "c14a0f21-81ff-4412-b582-1bb6d7b9a734",
+  "gender": "female",
+  "age": 81,
+  "marital_status": "widower/widow",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Božena",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1943-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "četnické humoresky",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Bozena1943",
+    "Kohoutova123",
+    "cetnicke2001",
+    "krizovky77",
+    "Humoresky_43",
+    "BozenaKohoutova",
+    "krizovka2020",
+    "Kohoutka12",
+    "humoresky!1943"
+  ],
+  "favorite_hobby": "četnické humoresky"
+}

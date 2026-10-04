@@ -1,0 +1,40 @@
+{
+  "id": "a1dd833f-ed61-4b0e-bbc1-c5f7b4435c78",
+  "gender": "female",
+  "age": 65,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Ivana",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Jaroslav",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "cestování",
+    "čtení",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Micka2010",
+    "Jaroslav65",
+    "Cestovani123",
+    "Sebestova1959",
+    "Malovani2020",
+    "Ivana!79",
+    "SouthBohemia07",
+    "M4l0v4n1",
+    "LidlGlobus123",
+    "Micka!"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1961-03-05"
+}

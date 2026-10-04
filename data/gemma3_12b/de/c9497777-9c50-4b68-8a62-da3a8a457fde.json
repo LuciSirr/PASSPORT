@@ -1,0 +1,45 @@
+{
+  "id": "c9497777-9c50-4b68-8a62-da3a8a457fde",
+  "age": 66,
+  "birth_date": "1960-04-25",
+  "marital_status": "married",
+  "region": "Hannover",
+  "nationality": "german",
+  "company": "Thies GmbH",
+  "car_brand": "Dacia",
+  "self_first_name": "Franz-Peter",
+  "self_last_name": "Putz",
+  "partner_first_name": "Malgorzata",
+  "partner_last_name": "Hein",
+  "children": [
+    {
+      "first_name": "Ron",
+      "last_name": "Putz"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Birgid"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Volksmusik",
+    "Schlossgärten",
+    "Lesen",
+    "Hannover 96"
+  ],
+  "previous_passwords": [
+    "Hannover96Ron2020",
+    "WandernBirgid!",
+    "SchlossgaertenFranz60",
+    "DaciaRonHein",
+    "VolksmusikMalgo23",
+    "RonPutzLesen!",
+    "Hannover96Messi",
+    "BirgidWanderlust",
+    "FranzPeterRon!",
+    "SchlossgartenDacia"
+  ]
+}

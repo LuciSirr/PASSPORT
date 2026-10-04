@@ -1,0 +1,48 @@
+{
+  "id": "6cb264a2-b6a6-4213-a64a-a89567217745",
+  "gender": "female",
+  "age": 87,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Irmgard",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Wilhelm",
+  "partner_last_name": "Kronenberg",
+  "children": [
+    {
+      "first_name": "Johanna",
+      "last_name": "Kronenberg"
+    },
+    {
+      "first_name": "Lukas",
+      "last_name": "Kronenberg"
+    },
+    {
+      "first_name": "Emilia",
+      "last_name": "Kronenberg"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "spazieren",
+    "musik"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Irmgard1937",
+    "Kronenberg123",
+    "Johanna2011",
+    "Wilhelm!87",
+    "Emilia_13",
+    "Lukas2002",
+    "Oma7.4",
+    "Lesen2024",
+    "Spazieren88",
+    "Musik_3"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1938-12-17"
+}

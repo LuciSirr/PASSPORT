@@ -1,0 +1,44 @@
+{
+  "id": "f5f86c8c-6d1a-4aac-be3c-58de581c05aa",
+  "age": 22,
+  "birth_date": "2004-12-23",
+  "marital_status": "married",
+  "region": "East Elizabeth",
+  "nationality": "english",
+  "company": "Wilson Group",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Colin",
+  "self_last_name": "Birch",
+  "partner_first_name": "Sandra",
+  "partner_last_name": "Birch",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Billy"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Martin"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "hip-hop",
+    "fitness",
+    "streaming TV shows",
+    "streetwear"
+  ],
+  "previous_passwords": [
+    "BillyGTA23!",
+    "SandraDrake04",
+    "VWSkins22",
+    "MartinRip9",
+    "ColinKendrick04",
+    "EastLizzy23",
+    "FerretFifa04!",
+    "Birch_2Pac23",
+    "Volks_Gym04",
+    "NetflixBilly23!"
+  ]
+}

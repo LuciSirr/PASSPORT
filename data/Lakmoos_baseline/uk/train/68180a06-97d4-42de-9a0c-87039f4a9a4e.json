@@ -1,0 +1,41 @@
+{
+  "id": "68180a06-97d4-42de-9a0c-87039f4a9a4e",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Smart",
+  "self_first_name": "Imogen",
+  "self_last_name": "Pritchard",
+  "partner_first_name": "Rhys",
+  "partner_last_name": "Davies",
+  "children": [],
+  "interests": [
+    "driving",
+    "reading",
+    "travel",
+    "yoga"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Milo2021",
+    "Imogen27",
+    "Pritchard123",
+    "Rhys4Eva",
+    "Yoga!2023",
+    "MiniCountryman19",
+    "Wales_2024",
+    "Travel4Life",
+    "SmartCar#1",
+    "Reading88"
+  ],
+  "favorite_hobby": "driving",
+  "birth_date": "1998-08-18"
+}

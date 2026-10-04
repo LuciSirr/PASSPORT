@@ -1,0 +1,38 @@
+{
+  "id": "2a2ac07f-8191-4721-9ec5-3d302f8857c9",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Jaguar",
+  "self_first_name": "Graham",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "classic cars",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Westmoor Consulting Ltd",
+  "previous_passwords": [
+    "Baxter2016",
+    "Merrick73",
+    "ClassicCars!14",
+    "Helen1975",
+    "Gardening123",
+    "Baxter!Merrick",
+    "Westmoor2020",
+    "Graham4Helen",
+    "Baxter!73"
+  ],
+  "favorite_hobby": "classic cars",
+  "birth_date": "1973-06-14"
+}

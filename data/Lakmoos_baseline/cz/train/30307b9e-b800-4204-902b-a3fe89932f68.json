@@ -1,0 +1,40 @@
+{
+  "id": "30307b9e-b800-4204-902b-a3fe89932f68",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "cyklistika",
+    "turistika",
+    "fotbal"
+  ],
+  "pets": [],
+  "company": "Česká pojišťovací skupina",
+  "previous_passwords": [
+    "Matej2011",
+    "JanaRadek58",
+    "Vesely123",
+    "Cyklistika2020",
+    "Praha!1976",
+    "Hornbach2022",
+    "Matous13",
+    "SkodaOctavia98",
+    "Billa492",
+    "Turistika11"
+  ],
+  "favorite_hobby": "cyklistika",
+  "birth_date": "1967-12-14"
+}

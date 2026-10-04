@@ -1,0 +1,40 @@
+{
+  "id": "e1767650-7cd0-4728-a7b1-8726ad0cda26",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Dacia",
+  "self_first_name": "Fiona",
+  "self_last_name": "Carmichael",
+  "partner_first_name": "Alistair",
+  "partner_last_name": "Carmichael",
+  "children": [],
+  "interests": [
+    "hiking",
+    "baking",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bracken"
+    }
+  ],
+  "company": "Lochside Ventures",
+  "previous_passwords": [
+    "Fiona1989",
+    "Bracken123",
+    "Carmichael17",
+    "Lochside2020",
+    "Alistair4Eva",
+    "Hiking!21",
+    "Baking_89",
+    "Bracken!2022",
+    "FionaAlistair",
+    "Gardening4"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1993-10-19"
+}

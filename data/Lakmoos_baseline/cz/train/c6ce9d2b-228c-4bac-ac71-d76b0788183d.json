@@ -1,0 +1,36 @@
+{
+  "id": "c6ce9d2b-228c-4bac-ac71-d76b0788183d",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Mazda",
+  "self_first_name": "Radek",
+  "self_last_name": "Vavřička",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "cyklistika",
+    "seriály",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "Moravská Logistika s.r.o.",
+  "previous_passwords": [
+    "Mazda1998",
+    "Globus812",
+    "Rohlik1151",
+    "Ostrava25",
+    "Vavricka2023",
+    "Fotbal123",
+    "Cyklistika2024",
+    "Morava!98",
+    "Slavia1905",
+    "Radek_25"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2001-03-09"
+}

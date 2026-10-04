@@ -1,0 +1,35 @@
+{
+  "id": "fbc8c088-4dcb-493a-b91b-07c3ef2bf532",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Suzuki",
+  "self_first_name": "Graham",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "pubquiz"
+  ],
+  "pets": [],
+  "company": "East Midlands Brokers Ltd",
+  "previous_passwords": [
+    "Graham1976",
+    "Swift23480",
+    "Helen123",
+    "Merrick2020",
+    "Jaguar5",
+    "Cycling!76",
+    "EastMidlands1",
+    "PubQuiz_48",
+    "Suzuki_17",
+    "Gardening4"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1978-03-27"
+}

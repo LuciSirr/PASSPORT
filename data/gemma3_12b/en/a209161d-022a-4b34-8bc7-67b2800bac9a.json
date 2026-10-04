@@ -1,0 +1,49 @@
+{
+  "id": "a209161d-022a-4b34-8bc7-67b2800bac9a",
+  "age": 32,
+  "birth_date": "1994-02-07",
+  "marital_status": "married",
+  "region": "South Marcville",
+  "nationality": "english",
+  "company": "Thomas-Watts",
+  "car_brand": "Tesla",
+  "self_first_name": "Ellie",
+  "self_last_name": "Thompson",
+  "partner_first_name": "Timothy",
+  "partner_last_name": "Jones",
+  "children": [
+    {
+      "first_name": "Mathew",
+      "last_name": "Thompson"
+    },
+    {
+      "first_name": "Gregory",
+      "last_name": "Thompson"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Jordan"
+    }
+  ],
+  "interests": [
+    "Hiking",
+    "Indie Music",
+    "Local Brewery Tours",
+    "Photography",
+    "Board Games"
+  ],
+  "previous_passwords": [
+    "Gregory_Hike22!",
+    "TeslaMathew94",
+    "IndieBrewTim!",
+    "JordanPics1994",
+    "MessiEllie87",
+    "BoardGameTJ!",
+    "SouthMarcvilleJo",
+    "PhotographyGreg!",
+    "ThompsonHiking23",
+    "RabbitBrewEllie"
+  ]
+}

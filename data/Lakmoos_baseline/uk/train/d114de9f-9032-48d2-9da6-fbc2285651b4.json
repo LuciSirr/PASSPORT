@@ -1,0 +1,34 @@
+{
+  "id": "d114de9f-9032-48d2-9da6-fbc2285651b4",
+  "gender": "male",
+  "age": 56,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "Yorkshire Engineering Solutions",
+  "previous_passwords": [
+    "Mini2004",
+    "Fiona56",
+    "Yorkshire123",
+    "Graham!1968",
+    "Walking789",
+    "Hollingsworth2020",
+    "Travel4Fun",
+    "MiniHatch!",
+    "Gardening66"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1969-08-09"
+}

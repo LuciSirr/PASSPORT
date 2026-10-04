@@ -1,0 +1,44 @@
+{
+  "id": "c75244ed-d9f9-4c2b-90ac-65edca0063b8",
+  "age": 30,
+  "birth_date": "1996-11-19",
+  "marital_status": "divorced",
+  "region": "Karviná",
+  "nationality": "czech",
+  "company": "Prokop v.o.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Vendula",
+  "self_last_name": "Staňková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Alexander",
+      "last_name": "Tůma"
+    },
+    {
+      "first_name": "Marek",
+      "last_name": "Moravec"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "vaření",
+    "cyklistika",
+    "turistika"
+  ],
+  "previous_passwords": [
+    "Messi96!",
+    "Sparta19_V",
+    "Hockey96Kar",
+    "Bayern_11!",
+    "Cyklo1996",
+    "Trek_11Kar",
+    "Vareni96!",
+    "Volks11V",
+    "MarekHokej96",
+    "Karvina_96!"
+  ]
+}

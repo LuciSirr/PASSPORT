@@ -1,0 +1,41 @@
+{
+  "id": "88fc675d-d88e-4b59-ba85-48cde675f0ac",
+  "gender": "female",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Kohoutová",
+  "birth_date": "2002-08-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "malování",
+    "voyo.cz",
+    "fitness"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Finservis Brno s.r.o.",
+  "previous_passwords": [
+    "Tereza2002",
+    "Kohoutova17",
+    "Micka_2020",
+    "cestovani123",
+    "malovani2022",
+    "voyo.cz159",
+    "fitness_08",
+    "Brno2002!",
+    "MickaKohout",
+    "Tereza!cestovani"
+  ],
+  "favorite_hobby": "cestování"
+}

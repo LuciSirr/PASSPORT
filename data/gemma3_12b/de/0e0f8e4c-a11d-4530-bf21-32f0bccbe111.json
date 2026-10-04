@@ -1,0 +1,53 @@
+{
+  "id": "0e0f8e4c-a11d-4530-bf21-32f0bccbe111",
+  "age": 34,
+  "birth_date": "1992-04-30",
+  "marital_status": "single",
+  "region": "Pegnitz",
+  "nationality": "german",
+  "company": "Niemeier AG",
+  "car_brand": "Fiat",
+  "self_first_name": "Natalija",
+  "self_last_name": "Gierschner",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Mattias",
+      "last_name": "Gierschner"
+    },
+    {
+      "first_name": "Micha",
+      "last_name": "Gierschner"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Brian"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Geza"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Lokaler Fußballverein",
+    "Konzertbesuche",
+    "Gutes Essen"
+  ],
+  "previous_passwords": [
+    "MattiasFoto2012",
+    "MessiPegnitz1992",
+    "WandernBrian!",
+    "FiatFotografie_1992",
+    "KonzerteGeza",
+    "GierschnerWandern!",
+    "Mattias_Wandern",
+    "LokalerFußball23",
+    "MichaFoto2024",
+    "BrianGierschner"
+  ]
+}

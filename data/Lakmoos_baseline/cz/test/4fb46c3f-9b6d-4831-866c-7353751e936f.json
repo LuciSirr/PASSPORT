@@ -1,0 +1,35 @@
+{
+  "id": "4fb46c3f-9b6d-4831-866c-7353751e936f",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "divorced",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1979-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "kriminálky",
+    "pečení",
+    "zahradničení"
+  ],
+  "pets": [],
+  "company": "Pardubická analytika s.r.o.",
+  "previous_passwords": [
+    "Jitka1979",
+    "Kohoutova80",
+    "pardubice2020",
+    "peceni123",
+    "kriminalky!79",
+    "Kohoutka14",
+    "zahrada2023",
+    "JitkaPece79",
+    "krimi_0514",
+    "KohoutovaPardubice"
+  ],
+  "favorite_hobby": "kriminálky"
+}

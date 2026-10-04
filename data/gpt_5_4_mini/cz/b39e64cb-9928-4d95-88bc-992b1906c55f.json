@@ -1,0 +1,48 @@
+{
+  "id": "b39e64cb-9928-4d95-88bc-992b1906c55f",
+  "age": 56,
+  "birth_date": "1970-02-08",
+  "marital_status": "married",
+  "region": "Nový Knín",
+  "nationality": "czech",
+  "company": "Horák v.o.s.",
+  "car_brand": "Kia",
+  "self_first_name": "Bohuslav",
+  "self_last_name": "Švec",
+  "partner_first_name": "Kamila",
+  "partner_last_name": "Švcová",
+  "children": [
+    {
+      "first_name": "Dominik",
+      "last_name": "Švec"
+    },
+    {
+      "first_name": "Nina",
+      "last_name": "Švcová"
+    },
+    {
+      "first_name": "Radomír",
+      "last_name": "Švec"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "chalupaření",
+    "české filmy",
+    "hokej"
+  ],
+  "previous_passwords": [
+    "Turistika70!",
+    "KiaKamila56",
+    "HCSparta08",
+    "Zahrada1970",
+    "CeskeFilmy!8",
+    "ChalupaNin4",
+    "NovyKin56",
+    "DominikHokej7",
+    "Bohuslav02!",
+    "KamilaKia70"
+  ]
+}

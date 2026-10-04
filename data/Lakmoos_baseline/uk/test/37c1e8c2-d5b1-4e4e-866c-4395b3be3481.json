@@ -1,0 +1,39 @@
+{
+  "id": "37c1e8c2-d5b1-4e4e-866c-4395b3be3481",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Dacia",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "arsenal",
+    "top gear"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Eastside Ventures",
+  "previous_passwords": [
+    "Baxter2001",
+    "CallumArsenal17",
+    "Hollingsworth!04",
+    "TopGear123",
+    "Eastside2020",
+    "Baxter_Gear",
+    "Arsenal!2001",
+    "CallumBaxter1",
+    "HollingsworthArsenal",
+    "TopGearBaxter"
+  ],
+  "favorite_hobby": "arsenal",
+  "birth_date": "2001-04-17"
+}

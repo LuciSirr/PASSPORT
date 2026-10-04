@@ -1,0 +1,34 @@
+{
+  "id": "c8200313-e5ec-450e-bf34-1e9ecff43b5e",
+  "gender": "male",
+  "age": 36,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Gareth",
+  "self_last_name": "Fenwick",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "driving",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "Fenwick Vehicle Solutions",
+  "previous_passwords": [
+    "AudiA1_2010",
+    "Fenwick9000",
+    "Football81",
+    "EastMidlands1",
+    "Gareth1988",
+    "AudiAlways!",
+    "Driving999",
+    "CarLover14",
+    "Gardening123"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "1989-12-08"
+}

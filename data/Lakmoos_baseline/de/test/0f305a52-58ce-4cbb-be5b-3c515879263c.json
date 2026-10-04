@@ -1,0 +1,33 @@
+{
+  "id": "0f305a52-58ce-4cbb-be5b-3c515879263c",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lukas",
+  "self_last_name": "Krause",
+  "birth_date": "2018-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "lego"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2019",
+    "pawpatrol123",
+    "KrauseLego",
+    "lego2022",
+    "PawPatrol!19",
+    "LukasLego10",
+    "pawKrause",
+    "lego_0610",
+    "PatrolKrause19"
+  ],
+  "favorite_hobby": "paw patrol"
+}

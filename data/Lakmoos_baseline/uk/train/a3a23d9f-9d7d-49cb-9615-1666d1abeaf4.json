@@ -1,0 +1,35 @@
+{
+  "id": "a3a23d9f-9d7d-49cb-9615-1666d1abeaf4",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Redfern",
+  "partner_first_name": "Jodie",
+  "partner_last_name": "Redfern",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travelling",
+    "photography"
+  ],
+  "pets": [],
+  "company": "Humbergate Management Ltd",
+  "previous_passwords": [
+    "Redfern2015",
+    "Jodie4Callum",
+    "Hiking123",
+    "Yorkshire88",
+    "Callum!29",
+    "Humbergate22",
+    "Jodie_2019",
+    "Redfern!1",
+    "Travel4Life",
+    "C4llumR"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1997-01-20"
+}

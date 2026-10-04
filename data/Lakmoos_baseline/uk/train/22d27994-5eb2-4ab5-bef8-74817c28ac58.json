@@ -1,0 +1,40 @@
+{
+  "id": "22d27994-5eb2-4ab5-bef8-74817c28ac58",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Fenwick",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Fenwick",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "photography"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Yorkshire Advisory Group",
+  "previous_passwords": [
+    "Callum1995",
+    "EmilyFenwick21",
+    "Baxter123",
+    "FenwickYorks",
+    "Travel4Life!",
+    "Cycling_95",
+    "Yorkshire2022",
+    "Baxter!95",
+    "Emily4Callum",
+    "Fenwick_106"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1997-01-24"
+}

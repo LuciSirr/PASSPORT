@@ -1,0 +1,39 @@
+{
+  "id": "4dbb5c33-8c41-4a41-b404-da3536b67393",
+  "gender": "male",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "formula 1",
+    "top gear",
+    "aston villa"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Westvale Ventures",
+  "previous_passwords": [
+    "Baxter17",
+    "AstonVilla2020",
+    "HollingsworthF1",
+    "TopGear!99",
+    "Westvale123",
+    "Formula1Baxter",
+    "Callum_1999",
+    "Villa4Life",
+    "Baxter!F1"
+  ],
+  "favorite_hobby": "formula 1",
+  "birth_date": "1999-04-17"
+}

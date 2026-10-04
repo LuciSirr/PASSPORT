@@ -1,0 +1,49 @@
+{
+  "id": "a9377b4e-c5d4-4d9f-bb85-7b9ef7cfd99d",
+  "age": 38,
+  "birth_date": "1988-01-07",
+  "marital_status": "married",
+  "region": "Nejdek",
+  "nationality": "czech",
+  "company": "Marešová k.s.",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Dita",
+  "self_last_name": "Bednářová",
+  "partner_first_name": "Břetislav",
+  "partner_last_name": "Bednářová",
+  "children": [
+    {
+      "first_name": "Monika",
+      "last_name": "Malá"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Gabriela"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Patricie"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "hokej",
+    "vaření",
+    "cyklistika",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Turistika88!",
+    "Hokej1988",
+    "Vareni_07",
+    "CykloDita88",
+    "CeskeFilmy7",
+    "Gabriela88!",
+    "Bretislav88",
+    "Mercedes07!",
+    "MonikaMalá88",
+    "Patricie_88"
+  ]
+}

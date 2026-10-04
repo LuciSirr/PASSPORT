@@ -1,0 +1,40 @@
+{
+  "id": "e7934694-4e18-4fd2-a51b-e80d191d84b9",
+  "age": 39,
+  "birth_date": "1987-08-11",
+  "marital_status": "married",
+  "region": "Potštát",
+  "nationality": "czech",
+  "company": "Šimková",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Marešová",
+  "partner_first_name": "Vratislav",
+  "partner_last_name": "Marešová",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Marie"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "vaření",
+    "fotbal",
+    "chalupaření"
+  ],
+  "previous_passwords": [
+    "Turistika87!",
+    "Skoda1987!",
+    "Vratislav88",
+    "MarieRabbit11",
+    "CykloMaresova",
+    "Fotbal1987",
+    "Chalupa11!",
+    "Potstat87_",
+    "CookIveta87",
+    "MareMare80"
+  ]
+}

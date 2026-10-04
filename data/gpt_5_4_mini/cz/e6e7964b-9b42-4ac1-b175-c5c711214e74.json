@@ -1,0 +1,35 @@
+{
+  "id": "e6e7964b-9b42-4ac1-b175-c5c711214e74",
+  "age": 20,
+  "birth_date": "2006-10-08",
+  "marital_status": "married",
+  "region": "Březnice",
+  "nationality": "czech",
+  "company": "Havlíček Beránek k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Vlasta",
+  "self_last_name": "Horáčková",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Horáček",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hraní her",
+    "fotbal",
+    "hudba",
+    "fitness",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "Messi2006!",
+    "Skoda_08",
+    "PeterRun24",
+    "FIFA_Breznice7",
+    "Metallica06",
+    "Fitnes2024!",
+    "Travel_Peter8",
+    "Haaland_10",
+    "Hudba20!",
+    "Vlasta_FC"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "8fc5e7b1-61a3-4edf-a490-dfeea5290d74",
+  "gender": "male",
+  "age": 78,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heinz",
+  "self_last_name": "Krause",
+  "partner_first_name": "Renate",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "wandern",
+    "lesen",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heinz1946",
+    "Renate123",
+    "Krause!78",
+    "Sommer06",
+    "Wandern2020",
+    "Gartenarbeit_1",
+    "Lesen3",
+    "Sparkasse253",
+    "RenateHeinz",
+    "Krause_1946"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1948-03-16"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "0df5d4cf-6b27-4053-89c2-95b5d7166f45",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "married",
+  "region": "brandenburg",
+  "nationality": "german",
+  "car_brand": "Honda",
+  "self_first_name": "Katrin",
+  "self_last_name": "Vogelsang",
+  "partner_first_name": "Andreas",
+  "partner_last_name": "Vogelsang",
+  "children": [],
+  "interests": [
+    "lesen",
+    "podcasts",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Katrin1988",
+    "JazzCrosstar21",
+    "Vogelsang123",
+    "Sommer!07",
+    "Andreas2020",
+    "Brandenburg88",
+    "Lesen_2022",
+    "HondaJazz1",
+    "Schatz!5000",
+    "Berlin_07"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1989-09-30"
+}

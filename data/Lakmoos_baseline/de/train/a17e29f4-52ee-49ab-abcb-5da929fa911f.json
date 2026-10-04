@@ -1,0 +1,48 @@
+{
+  "id": "a17e29f4-52ee-49ab-abcb-5da929fa911f",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Annika",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Markus",
+  "partner_last_name": "Kreutzmann",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Kreutzmann"
+    },
+    {
+      "first_name": "Jonas",
+      "last_name": "Kreutzmann"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Kreutzmann"
+    }
+  ],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Rheinland Service GmbH",
+  "previous_passwords": [
+    "Lena2010",
+    "Markus123",
+    "Kreutzmann15",
+    "Sommer!2022",
+    "Jonas_2009",
+    "Annika1984",
+    "Reisen4ever",
+    "Marlene13",
+    "Fotografie21",
+    "AOK_123"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1995-09-04"
+}

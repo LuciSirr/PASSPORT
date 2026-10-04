@@ -1,0 +1,40 @@
+{
+  "id": "49c65fda-7e16-435f-b8fb-cbd7544346db",
+  "age": 50,
+  "birth_date": "1976-04-22",
+  "marital_status": "divorced",
+  "region": "Vroutek",
+  "nationality": "czech",
+  "company": "Horák o.s.",
+  "car_brand": "Dacia",
+  "self_first_name": "Vojtěch",
+  "self_last_name": "Beneš",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Šimon",
+      "last_name": "Beneš"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěstitví zeleniny",
+    "čtení knih",
+    "folklór"
+  ],
+  "previous_passwords": [
+    "SimonsRybařství76",
+    "TuristikaVroutek!",
+    "DaciaFolklór22",
+    "ŠimonBenešZelenina",
+    "MessiTuristikaS!",
+    "PěstitvíZeleniny_76",
+    "ČteníKnihSim0n",
+    "VroutekBeneš24",
+    "FolklórSim0nB",
+    "TuristikaDacia!"
+  ]
+}

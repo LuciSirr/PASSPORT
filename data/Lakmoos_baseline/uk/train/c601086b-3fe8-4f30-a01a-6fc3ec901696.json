@@ -1,0 +1,41 @@
+{
+  "id": "c601086b-3fe8-4f30-a01a-6fc3ec901696",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "widower/widow",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Citroën",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Caldwell",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "crossword",
+    "history"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Malcolm1954",
+    "Baxter17",
+    "Caldwell123",
+    "Gardening4",
+    "Scotland!54",
+    "CitroenC3",
+    "Walking2023",
+    "History_1",
+    "Baxter!",
+    "Crossword54"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1956-02-28"
+}

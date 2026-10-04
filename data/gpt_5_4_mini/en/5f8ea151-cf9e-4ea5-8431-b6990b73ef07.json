@@ -1,0 +1,44 @@
+{
+  "id": "5f8ea151-cf9e-4ea5-8431-b6990b73ef07",
+  "age": 20,
+  "birth_date": "2006-04-05",
+  "marital_status": "married",
+  "region": "West Jeffrey",
+  "nationality": "english",
+  "company": "Kelly PLC",
+  "car_brand": "Land Rover",
+  "self_first_name": "Scott",
+  "self_last_name": "Hodgson",
+  "partner_first_name": "Lawrence",
+  "partner_last_name": "Hodgson",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Cameron"
+    },
+    {
+      "pet_type": "ferret",
+      "pet_name": "Ruth"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "streaming",
+    "basketball",
+    "fitness",
+    "music"
+  ],
+  "previous_passwords": [
+    "Scott042006!",
+    "Lawrence06",
+    "LandRover20",
+    "CameronFerret7",
+    "RuthRuth06",
+    "GamingScott06!",
+    "StreamWest20",
+    "Basketball05!",
+    "Fitness0420",
+    "MusicScott!"
+  ]
+}

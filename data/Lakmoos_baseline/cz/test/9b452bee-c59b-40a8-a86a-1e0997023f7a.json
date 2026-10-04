@@ -1,0 +1,45 @@
+{
+  "id": "9b452bee-c59b-40a8-a86a-1e0997023f7a",
+  "gender": "male",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kohout",
+  "birth_date": "2007-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Adam",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "fifa",
+    "hokej",
+    "breaking bad"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Jihomoravská Správa a Management s.r.o.",
+  "previous_passwords": [
+    "Adam2016",
+    "Kohout123",
+    "Rex!2020",
+    "fifa2022",
+    "breakingbad_07",
+    "hokej2015",
+    "MatejRex15",
+    "KohoutFifa07",
+    "RexAdam!",
+    "fifaKohout07"
+  ],
+  "favorite_hobby": "fifa"
+}

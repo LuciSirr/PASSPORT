@@ -1,0 +1,34 @@
+{
+  "id": "3c24370f-48b3-4e0a-830f-ad1522b763b5",
+  "gender": "female",
+  "age": 1,
+  "marital_status": "single/in a relationship",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Eliška",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "puzzle"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "maminka2023",
+    "slunicko1",
+    "hracka",
+    "pardubice",
+    "jablko",
+    "Eliska2023",
+    "Vesela123",
+    "malovani22",
+    "puzzle2024",
+    "slunicko!"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2024-08-08"
+}

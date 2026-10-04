@@ -1,0 +1,34 @@
+{
+  "id": "a5788411-954c-4308-966b-894106057cd4",
+  "gender": "male",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "brandenburg",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fussball",
+    "gaming"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lennart2008",
+    "Kreutzmann16",
+    "Fussball123",
+    "Brandenburg08",
+    "Gaming!2023",
+    "AOK_4life",
+    "Sommer2022",
+    "Kreutzmann!",
+    "L3nn4rt",
+    "Fussball_08"
+  ],
+  "favorite_hobby": "fussball",
+  "birth_date": "2010-01-18"
+}

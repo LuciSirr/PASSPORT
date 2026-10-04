@@ -1,0 +1,40 @@
+{
+  "id": "2111d93a-3767-4ef5-87d7-bb1f741ef81f",
+  "gender": "female",
+  "age": 58,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Ivana",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1966-04-17",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "české divadlo",
+    "historické romány",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Základní škola Central Bohemia",
+  "previous_passwords": [
+    "Ivana1966",
+    "Kohoutova17",
+    "Micka123",
+    "divadlo2020",
+    "PetrKohout",
+    "malovani_66",
+    "historie17",
+    "Kohout!66",
+    "Micka!17",
+    "romany1966"
+  ],
+  "favorite_hobby": "české divadlo"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "3a74e243-be29-4dd4-8f2d-2df808428bd2",
+  "age": 66,
+  "birth_date": "1960-03-09",
+  "marital_status": "married",
+  "region": "Hofgeismar",
+  "nationality": "german",
+  "company": "Stumpf GmbH",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Erol",
+  "self_last_name": "Salz",
+  "partner_first_name": "Margot",
+  "partner_last_name": "Misicher",
+  "children": [
+    {
+      "first_name": "Arne",
+      "last_name": "Salz"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Betty"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Volkshochschule",
+    "Deutsche Fernsehspiele",
+    "Lesen",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "DeutscheTVspiele1960",
+    "ArneSalzWandern!",
+    "MercedesBetty23",
+    "FotografieMargot",
+    "HofgeismarLesen9",
+    "VolkshochschuleArne",
+    "BettyWandert77",
+    "Messi1960Foto",
+    "DeutscheTVspieleAS",
+    "SalzMargotWander"
+  ]
+}

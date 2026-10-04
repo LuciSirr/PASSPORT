@@ -1,0 +1,44 @@
+{
+  "id": "718c22ca-5a6a-4d9a-9b2e-62b6cdbfb1b3",
+  "age": 57,
+  "birth_date": "1969-05-09",
+  "marital_status": "married",
+  "region": "Cvikov",
+  "nationality": "czech",
+  "company": "Mach Čech o.s.",
+  "car_brand": "Seat",
+  "self_first_name": "Julie",
+  "self_last_name": "Müllerová",
+  "partner_first_name": "Tadeáš",
+  "partner_last_name": "Müllerová",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Lenka"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Robin"
+    }
+  ],
+  "interests": [
+    "turistika v Lužických horách",
+    "chalupaření",
+    "zahradničení",
+    "hokej",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "LuzickeHory69",
+    "Stodola1969!",
+    "Zahrada_Julie57",
+    "HokejCvikov69",
+    "SeatRobin69",
+    "CeskeFilmy69",
+    "Tadeas_Hory69",
+    "LenkaZahrada57",
+    "Chalupa_Muller69",
+    "Luzicke_Turistika69"
+  ]
+}

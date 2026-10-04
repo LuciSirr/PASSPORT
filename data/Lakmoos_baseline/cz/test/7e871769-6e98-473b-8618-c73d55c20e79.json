@@ -1,0 +1,39 @@
+{
+  "id": "7e871769-6e98-473b-8618-c73d55c20e79",
+  "gender": "female",
+  "age": 81,
+  "marital_status": "widower/widow",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Božena",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1943-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "české filmy"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Kohoutova1943",
+    "Micka2020",
+    "cestovani59",
+    "BozenaAlbert",
+    "ceskefilmy_68",
+    "Micka!10",
+    "BozenaKohout",
+    "Globus123",
+    "KohoutovaMicka",
+    "cestovani_1943"
+  ],
+  "favorite_hobby": "cestování"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b94d5b1d-2bfb-4e8b-b9c4-ed92229d8eeb",
+  "age": 41,
+  "birth_date": "1985-10-08",
+  "marital_status": "divorced",
+  "region": "Königs Wusterhausen",
+  "nationality": "german",
+  "company": "Atzler AG & Co. KGaA",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Hans Josef",
+  "self_last_name": "Junken",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Radfahren",
+    "Kochen",
+    "Fußball",
+    "Gartenarbeit"
+  ],
+  "previous_passwords": [
+    "Wandern85!",
+    "MerseBike08",
+    "Kochen1985",
+    "BVB_KW41",
+    "Radfahren!8",
+    "Garten85_",
+    "JunkenFußball08",
+    "Mercedes41!",
+    "HikingKW85",
+    "KochenMerce85"
+  ]
+}

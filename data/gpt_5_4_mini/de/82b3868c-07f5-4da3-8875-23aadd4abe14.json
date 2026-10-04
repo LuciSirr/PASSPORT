@@ -1,0 +1,35 @@
+{
+  "id": "82b3868c-07f5-4da3-8875-23aadd4abe14",
+  "age": 37,
+  "birth_date": "1989-04-01",
+  "marital_status": "single",
+  "region": "Schmölln",
+  "nationality": "german",
+  "company": "Atzler",
+  "car_brand": "Ford",
+  "self_first_name": "Sevim",
+  "self_last_name": "Margraf",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Gartenarbeit",
+    "Tatort"
+  ],
+  "previous_passwords": [
+    "Tatort1989!",
+    "FordWandern37",
+    "Fussball89_",
+    "KochenSevi89",
+    "Garden1989!",
+    "MuensterTatort7",
+    "Westerwald37!",
+    "FCBayern89",
+    "Sevim_Hike89",
+    "Tatort_0401"
+  ]
+}

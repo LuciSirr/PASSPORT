@@ -1,0 +1,36 @@
+{
+  "id": "478e217f-4188-4870-8fdc-11ca4cf959b0",
+  "gender": "male",
+  "age": 54,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Graham",
+  "self_last_name": "Fenwick",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Fenwick",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [],
+  "company": "East Anglia Consulting",
+  "previous_passwords": [
+    "Graham1969",
+    "MiniHatch2022",
+    "Helen4ever",
+    "Fenwick15",
+    "Travel123",
+    "Gardening!54",
+    "EastAnglia2024",
+    "Reading_69",
+    "Helen&Graham",
+    "Fenwick!2023"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1971-12-29"
+}

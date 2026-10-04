@@ -1,0 +1,44 @@
+{
+  "id": "485a0e15-f413-4742-a0d6-4a41f349ad83",
+  "age": 51,
+  "birth_date": "1975-06-05",
+  "marital_status": "married",
+  "region": "Heiligenstadt",
+  "nationality": "german",
+  "company": "Rust Hiller Stiftung & Co. KGaA",
+  "car_brand": "Volvo",
+  "self_first_name": "Gunda",
+  "self_last_name": "Krein",
+  "partner_first_name": "Dusan",
+  "partner_last_name": "Krein",
+  "children": [
+    {
+      "first_name": "Emmy",
+      "last_name": "Krein"
+    },
+    {
+      "first_name": "Guenter",
+      "last_name": "Krein"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern im Eichsfeld",
+    "Gartenarbeit",
+    "Fußball",
+    "Kochen",
+    "Heimatgeschichte"
+  ],
+  "previous_passwords": [
+    "Wandern75!",
+    "Eichsfeld06",
+    "Volvo1975!",
+    "Kochen75_",
+    "Hainleite51",
+    "EmmyGarten7",
+    "DusanFuss75",
+    "Heimat75!",
+    "Guenter06_",
+    "Goettingen51!"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "d7f31a3e-1dc4-456b-81e1-f58127401d69",
+  "age": 57,
+  "birth_date": "1969-07-14",
+  "marital_status": "married",
+  "region": "Frýdlant",
+  "nationality": "czech",
+  "company": "Staněk Vávra v.o.s.",
+  "car_brand": "Fiat",
+  "self_first_name": "Radomír",
+  "self_last_name": "Matoušek",
+  "partner_first_name": "Adéla",
+  "partner_last_name": "Matoušková",
+  "children": [
+    {
+      "first_name": "Klement",
+      "last_name": "Matoušek"
+    },
+    {
+      "first_name": "Kryštof",
+      "last_name": "Matoušek"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěvání v sboru",
+    "historie",
+    "letectví"
+  ],
+  "previous_passwords": [
+    "Klement_1969",
+    "FiatTuristika23",
+    "FrydlantRybář",
+    "AdelaHistorie!",
+    "KrystofLeteCtví",
+    "TuristikaFiat_74",
+    "MessiSbor2024",
+    "RybarAdela69",
+    "HistorieKlement",
+    "FiatLetectviX"
+  ]
+}

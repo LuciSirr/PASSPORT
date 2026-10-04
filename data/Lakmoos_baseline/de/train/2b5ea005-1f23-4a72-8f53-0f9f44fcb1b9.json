@@ -1,0 +1,35 @@
+{
+  "id": "2b5ea005-1f23-4a72-8f53-0f9f44fcb1b9",
+  "gender": "male",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "brandenburg",
+  "nationality": "german",
+  "car_brand": "Polestar",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobooks",
+    "streaming"
+  ],
+  "pets": [],
+  "company": "Brandenburger Logistik GmbH",
+  "previous_passwords": [
+    "Polestar2021",
+    "Krause3000",
+    "Brandenburg88",
+    "Reisen!123",
+    "Volvo2016",
+    "Apple_26",
+    "Audiobook4Life",
+    "Sommer2022",
+    "Berlin_223",
+    "Krause!15"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "2000-02-23"
+}

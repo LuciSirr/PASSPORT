@@ -1,0 +1,35 @@
+{
+  "id": "bda269be-12df-48c9-b0b5-9eb8bdd21518",
+  "age": 19,
+  "birth_date": "2007-02-25",
+  "marital_status": "married",
+  "region": "New Anneport",
+  "nationality": "english",
+  "company": "Doyle and Sons",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Julie",
+  "self_last_name": "Joyce",
+  "partner_first_name": "Joseph",
+  "partner_last_name": "Cole",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "football",
+    "music streaming",
+    "fitness",
+    "watching anime"
+  ],
+  "previous_passwords": [
+    "AnimeJulie07",
+    "M8ssiJulie25",
+    "Ju!ceGaming07",
+    "ColeMusic07",
+    "MercedesFit19",
+    "Anime2007!",
+    "JulieStream25",
+    "M1ssiFit07",
+    "NewAnneport07",
+    "JosephAnime19"
+  ]
+}

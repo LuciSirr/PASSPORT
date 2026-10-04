@@ -1,0 +1,44 @@
+{
+  "id": "be625b2f-b7f4-4ae2-bf26-83fb271df777",
+  "age": 61,
+  "birth_date": "1965-12-24",
+  "marital_status": "single",
+  "region": "Clarefurt",
+  "nationality": "english",
+  "company": "Gardiner, Hill and Schofield",
+  "car_brand": "Toyota",
+  "self_first_name": "Emily",
+  "self_last_name": "Oliver",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Antony"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Brandon"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "walking",
+    "local history",
+    "cricket",
+    "cooking"
+  ],
+  "previous_passwords": [
+    "Cricket65!",
+    "Toyota1965",
+    "Garden24_",
+    "Clarefurt61",
+    "WalkBrandon7",
+    "History65!",
+    "Cooking24",
+    "AntonySnake61",
+    "CricketOliver",
+    "ToyotaWalk65"
+  ]
+}

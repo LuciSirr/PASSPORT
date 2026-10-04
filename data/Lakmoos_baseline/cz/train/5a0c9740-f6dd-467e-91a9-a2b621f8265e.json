@@ -1,0 +1,39 @@
+{
+  "id": "5a0c9740-f6dd-467e-91a9-a2b621f8265e",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Křivánková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "koloběžka",
+    "pohádky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Terezka2018",
+    "slunicko6",
+    "maminka123",
+    "Micka2020",
+    "malovani123",
+    "Kolobezka!",
+    "Pohadky2022",
+    "TerezaMicka6",
+    "Křivánková18"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2020-02-08"
+}

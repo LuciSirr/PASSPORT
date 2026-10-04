@@ -1,0 +1,40 @@
+{
+  "id": "e98ce970-6076-4f4b-b208-8d0ac8878052",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "married",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Vránová",
+  "children": [],
+  "interests": [
+    "procházky",
+    "vaření",
+    "facebook"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "Agro Pardubicko",
+  "previous_passwords": [
+    "Iveta1988",
+    "Beny123",
+    "Vranova88",
+    "PetrIveta2020",
+    "prochazky2022",
+    "Beny!2021",
+    "Pardubice53000",
+    "vareni123",
+    "Rossmann2022",
+    "KfcOblibene"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1989-12-28"
+}

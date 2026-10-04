@@ -1,0 +1,35 @@
+{
+  "id": "cb4abfd6-a026-46cf-9071-cb62c1abae83",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radka",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "divadlo",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Moravská výroba s.r.o.",
+  "previous_passwords": [
+    "Radka1993",
+    "VeselaBrno",
+    "Cestovani2022",
+    "Divadlo123",
+    "Kofola76",
+    "LidlAlbert!",
+    "Morava2020",
+    "Fotografie_88",
+    "Brno@dm",
+    "Rossmann1"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1995-04-16"
+}

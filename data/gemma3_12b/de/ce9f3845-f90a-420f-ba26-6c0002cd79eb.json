@@ -1,0 +1,57 @@
+{
+  "id": "ce9f3845-f90a-420f-ba26-6c0002cd79eb",
+  "age": 64,
+  "birth_date": "1962-12-23",
+  "marital_status": "divorced",
+  "region": "Waren",
+  "nationality": "german",
+  "company": "Jäntsch",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Wilma",
+  "self_last_name": "Losekann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Magnus",
+      "last_name": "Losekann"
+    },
+    {
+      "first_name": "Kamil",
+      "last_name": "Losekann"
+    },
+    {
+      "first_name": "Cläre",
+      "last_name": "Losekann"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Hannchen"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Theobald"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Schallplatten",
+    "Volkstanz",
+    "Angeln",
+    "Gartenarbeit"
+  ],
+  "previous_passwords": [
+    "Magnus23Waren",
+    "TheobaldWandern!",
+    "MercedesAngeln77",
+    "HannchenSchallplatten1962",
+    "VolkstanzKlare_12",
+    "WarenGartenarbeit22",
+    "MagnusLosekannWalks",
+    "TheobaldAngeln!",
+    "MercedesWandern23",
+    "KamilSchallplatten_77"
+  ]
+}

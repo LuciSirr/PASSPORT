@@ -1,0 +1,35 @@
+{
+  "id": "c85e6124-308e-4367-b81c-cf2a1576afb3",
+  "age": 48,
+  "birth_date": "1978-04-22",
+  "marital_status": "married",
+  "region": "Jena",
+  "nationality": "german",
+  "company": "Oestrovsky GmbH & Co. OHG",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Agnieszka",
+  "self_last_name": "Dowerg",
+  "partner_first_name": "Manfred",
+  "partner_last_name": "Dowerg",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Radfahren",
+    "Fußball",
+    "Kochen",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "Wandern22!",
+    "Bayern1978",
+    "Mercedes48!",
+    "KochenJena8",
+    "Radfahren78",
+    "Beethoven22!",
+    "Manfred74",
+    "FCBayern48!",
+    "Tulpenpfad22",
+    "Klassik78!"
+  ]
+}

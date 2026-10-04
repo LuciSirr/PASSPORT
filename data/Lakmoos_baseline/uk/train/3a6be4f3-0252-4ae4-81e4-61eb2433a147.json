@@ -1,0 +1,39 @@
+{
+  "id": "3a6be4f3-0252-4ae4-81e4-61eb2433a147",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "travel"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "East Fen Business Solutions",
+  "previous_passwords": [
+    "Gareth1983",
+    "Rachel4Ever",
+    "Baxter21",
+    "Hollings2020",
+    "Cycling123",
+    "EastFen!11",
+    "Travel4Fun",
+    "Gardening_88",
+    "Baxter!Dog"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1985-02-08"
+}

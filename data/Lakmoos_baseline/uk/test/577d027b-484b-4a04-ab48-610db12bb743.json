@@ -1,0 +1,40 @@
+{
+  "id": "577d027b-484b-4a04-ab48-610db12bb743",
+  "gender": "female",
+  "age": 47,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Jonathan",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "gardening",
+    "british baking show",
+    "walking tours"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Regent Strategy Group",
+  "previous_passwords": [
+    "Fiona1977",
+    "Milo123",
+    "Ashcroft!22",
+    "BakingShow77",
+    "Gardening4Life",
+    "Jonathan1975",
+    "LondonWalks18",
+    "Milo!Ash",
+    "Baking2020",
+    "AshcroftMilo77"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1977-04-18"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "33401fdb-b365-4f9d-ad2d-3a5cc6f3fc7e",
+  "gender": "female",
+  "age": 85,
+  "marital_status": "widower/widow",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Božena",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1939-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "české detektivky",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Kohoutova1937",
+    "Bozena12.6",
+    "detektivka2020",
+    "krizovka123",
+    "Brno9876",
+    "Kohoutka37",
+    "BozenaKohoutova1",
+    "krizovky2022",
+    "Det3kt1vka!",
+    "BozenaBrno"
+  ],
+  "favorite_hobby": "české detektivky"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ff24209f-6b6e-4152-b972-f83ba40185ca",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kučera",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kučerová",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "cyklistika",
+    "auta",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Moravský Strojírenský Servis",
+  "previous_passwords": [
+    "RadekPetra29",
+    "Fabia2007",
+    "Kofola123",
+    "Brno2020",
+    "Lidl79",
+    "Petra2023",
+    "Morava!21",
+    "CykloBrno1",
+    "F0tbalek88",
+    "Kucera1975"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1996-07-02"
+}

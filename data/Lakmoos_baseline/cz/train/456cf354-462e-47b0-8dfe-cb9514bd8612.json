@@ -1,0 +1,44 @@
+{
+  "id": "456cf354-462e-47b0-8dfe-cb9514bd8612",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Vrána",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Vránová"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Vrána"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "cestování",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Severočeská výroba s.r.o.",
+  "previous_passwords": [
+    "Tereza2009",
+    "Superb23",
+    "Matysek14",
+    "Lidl982",
+    "Vranova80",
+    "Petr2012",
+    "Nakupovani123",
+    "Maty$ek2014",
+    "T3rezka11",
+    "Cestovani2022"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1990-09-12"
+}

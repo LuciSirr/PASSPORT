@@ -1,0 +1,35 @@
+{
+  "id": "5dbd75a5-4f00-4f92-9a4d-8fd656cc9a39",
+  "age": 51,
+  "birth_date": "1975-09-11",
+  "marital_status": "single",
+  "region": "Přibyslav",
+  "nationality": "czech",
+  "company": "Šmídová v.o.s.",
+  "car_brand": "Opel",
+  "self_first_name": "Ladislav",
+  "self_last_name": "Macháček",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "hokej",
+    "domácí kutilství",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "hokej1975",
+    "Turistika11",
+    "Zahrada_75",
+    "OpelPrybyslav",
+    "Machacek51!",
+    "CeskeFilmy09",
+    "LadislavHokej",
+    "Kutily1975",
+    "Prybyslav_11",
+    "JagrHokej75"
+  ]
+}

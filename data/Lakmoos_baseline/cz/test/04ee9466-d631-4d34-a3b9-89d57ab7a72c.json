@@ -1,0 +1,34 @@
+{
+  "id": "04ee9466-d631-4d34-a3b9-89d57ab7a72c",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1994-05-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "motorsport",
+    "fotbal",
+    "simpsonovi"
+  ],
+  "pets": [],
+  "company": "Jihočeské strojírny s.r.o.",
+  "previous_passwords": [
+    "Kohout1994",
+    "motorsport123",
+    "Simpsonovi94",
+    "RadekFotbal2020",
+    "Kohout!12",
+    "fotbal_1994",
+    "Simpsonovi_123",
+    "RadekKohout",
+    "motorsport!94"
+  ],
+  "favorite_hobby": "motorsport"
+}

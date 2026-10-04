@@ -1,0 +1,48 @@
+{
+  "id": "0951692b-067d-427b-910a-2bbc59af9095",
+  "age": 28,
+  "birth_date": "1998-10-10",
+  "marital_status": "married",
+  "region": "Police nad Metují",
+  "nationality": "czech",
+  "company": "Strnad o.s.",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Jaroslav",
+  "self_last_name": "Soukup",
+  "partner_first_name": "Anežka",
+  "partner_last_name": "Soukupová",
+  "children": [
+    {
+      "first_name": "Milena",
+      "last_name": "Kratochvílová Soukupová"
+    },
+    {
+      "first_name": "Lumír",
+      "last_name": "Holub Soukup"
+    },
+    {
+      "first_name": "Radomír",
+      "last_name": "Holub Soukup"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika v Broumovsku",
+    "hokej",
+    "cyklistika",
+    "vaření",
+    "české seriály"
+  ],
+  "previous_passwords": [
+    "Broumovsko98!",
+    "Hokej1998",
+    "Cyklo10_98",
+    "AnezkaHokej10",
+    "Mercedes98!",
+    "Turistika10",
+    "Vareni98_10",
+    "CzechSeries98",
+    "MilenaCyklo98",
+    "PolicenM98!"
+  ]
+}

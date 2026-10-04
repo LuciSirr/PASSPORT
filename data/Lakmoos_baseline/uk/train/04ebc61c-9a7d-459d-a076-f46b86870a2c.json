@@ -1,0 +1,33 @@
+{
+  "id": "04ebc61c-9a7d-459d-a076-f46b86870a2c",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Callum",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Imogen",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "Westfield Strategic Solutions",
+  "previous_passwords": [
+    "Callum1984",
+    "Imogen!30",
+    "Polestar2020",
+    "WestMidlands22",
+    "Ashcroft123",
+    "Cycling4Life",
+    "Gardening!1",
+    "ImogenCallum",
+    "Ashcroft2023"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1995-09-21"
+}

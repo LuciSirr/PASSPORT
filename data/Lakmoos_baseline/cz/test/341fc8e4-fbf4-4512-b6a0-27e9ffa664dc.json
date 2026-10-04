@@ -1,0 +1,37 @@
+{
+  "id": "341fc8e4-fbf4-4512-b6a0-27e9ffa664dc",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matyáš",
+  "self_last_name": "Kohout",
+  "birth_date": "2018-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "krteček",
+    "autíčka"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bertík"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matysek2023",
+    "Bertik15",
+    "krtecek123",
+    "Kohout2023",
+    "auticka2024",
+    "Bertik_krtecek",
+    "Matyáš15",
+    "Kohout!23"
+  ],
+  "favorite_hobby": "krteček"
+}

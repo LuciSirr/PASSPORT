@@ -1,0 +1,40 @@
+{
+  "id": "30b421bc-2d28-4c79-9fa6-dde78495822c",
+  "age": 30,
+  "birth_date": "1996-02-28",
+  "marital_status": "married",
+  "region": "Chřibská",
+  "nationality": "czech",
+  "company": "Bílková",
+  "car_brand": "Peugeot",
+  "self_first_name": "Otakar",
+  "self_last_name": "Kovář",
+  "partner_first_name": "Soňa",
+  "partner_last_name": "Kovářová",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Zdislava"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivo",
+    "kolo",
+    "hudba",
+    "regionální kuchyně"
+  ],
+  "previous_passwords": [
+    "TuristikaChribska!",
+    "Zdislava96",
+    "PeugeotKolo28",
+    "MessiPivo1996",
+    "HudbaSona_1",
+    "KoloZdislava!",
+    "RegionKuchar10",
+    "OtakarPivo!",
+    "TuristikaMessi",
+    "PeugeotTuristika"
+  ]
+}

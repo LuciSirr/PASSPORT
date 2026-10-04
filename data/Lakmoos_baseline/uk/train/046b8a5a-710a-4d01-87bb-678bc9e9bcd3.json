@@ -1,0 +1,34 @@
+{
+  "id": "046b8a5a-710a-4d01-87bb-678bc9e9bcd3",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "netball",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Northway Grocers",
+  "previous_passwords": [
+    "Imogen2008",
+    "Hollis16",
+    "Netball123",
+    "Baking4Life",
+    "Northwest21",
+    "Imo!2020",
+    "Reading_07",
+    "Hollis!1",
+    "Grocers2022"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2010-02-13"
+}

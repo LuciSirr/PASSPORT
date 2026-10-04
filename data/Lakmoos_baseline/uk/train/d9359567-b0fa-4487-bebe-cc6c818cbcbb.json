@@ -1,0 +1,34 @@
+{
+  "id": "d9359567-b0fa-4487-bebe-cc6c818cbcbb",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "travel",
+    "football",
+    "hiking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Callum1999",
+    "MercedesGLC22",
+    "Sophie123",
+    "Hollis2022",
+    "Travel4Life",
+    "Football_25",
+    "Hiking!2023",
+    "GLCpetrol",
+    "NorthWest88"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "2000-06-02"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "19d88acd-9f56-4c42-8f36-73e1c20f8324",
+  "age": 29,
+  "birth_date": "1997-09-13",
+  "marital_status": "divorced",
+  "region": "Velká Bystřice",
+  "nationality": "czech",
+  "company": "Kratochvílová Svobodová s.r.o.",
+  "car_brand": "Toyota",
+  "self_first_name": "Artur",
+  "self_last_name": "Šimek",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Magdalena"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "filmové večery",
+    "vaření",
+    "hudba (Kapela Vesna)"
+  ],
+  "previous_passwords": [
+    "Magdalena2017!",
+    "KapelaVesna1997",
+    "ToyotaTuristika!",
+    "MessiVelkaBystrice",
+    "FilmoveVečeryArtur",
+    "FotbalTuristika88",
+    "MagdalenaFilm23",
+    "Vesna_Fotbal_97",
+    "TuristikaToyota!",
+    "Messi1997_film"
+  ]
+}

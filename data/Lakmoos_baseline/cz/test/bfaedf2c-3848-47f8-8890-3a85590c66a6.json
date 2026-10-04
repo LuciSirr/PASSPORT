@@ -1,0 +1,44 @@
+{
+  "id": "bfaedf2c-3848-47f8-8890-3a85590c66a6",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Jakub",
+  "self_last_name": "Šimáček",
+  "birth_date": "2002-06-13",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Adam",
+      "last_name": "Šimáček"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Šimáček"
+    }
+  ],
+  "interests": [
+    "rock radio",
+    "kfc",
+    "pirati"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Adam2009",
+    "Tereza2022",
+    "Simacek13",
+    "rockradio2024",
+    "kfc_999",
+    "pirati_17",
+    "AdamTereza15",
+    "Budvar2020",
+    "Kohout_123",
+    "Simacek!22"
+  ],
+  "favorite_hobby": "rock radio"
+}

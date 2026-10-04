@@ -1,0 +1,35 @@
+{
+  "id": "6fbcf720-d910-4bc0-a47e-c40bc31d0126",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "nakupování",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Ministerstvo obrany ČR",
+  "previous_passwords": [
+    "Ivana1985",
+    "Fabia2011",
+    "Praha39",
+    "Lidl123",
+    "dmRossmann",
+    "Cestovani2020",
+    "Vesela!85",
+    "Nakupovani321",
+    "Netflix2022",
+    "Rossmann_85"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1986-03-30"
+}

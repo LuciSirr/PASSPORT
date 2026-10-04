@@ -1,0 +1,40 @@
+{
+  "id": "9e34b39e-8448-48e4-a9ef-ef0276b6d8c3",
+  "age": 53,
+  "birth_date": "1973-12-04",
+  "marital_status": "divorced",
+  "region": "Raspenava",
+  "nationality": "czech",
+  "company": "Matoušek Beránková k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Radoslav",
+  "self_last_name": "Doležal",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Lýdie"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "chalupaření",
+    "zahradničení",
+    "hokej",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Turistika73!",
+    "SkodaRasp73",
+    "LydieHokej73",
+    "Snehulak04!",
+    "CeskyFilm73",
+    "Zahrada73_",
+    "ChalupaRasa73",
+    "RaspenavaHike!",
+    "HokejSkoda53",
+    "Dolezal1973!"
+  ]
+}

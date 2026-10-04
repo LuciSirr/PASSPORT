@@ -1,0 +1,40 @@
+{
+  "id": "d2ba8cdb-0813-4353-aceb-4baeb8ad7b65",
+  "gender": "female",
+  "age": 55,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Nissan",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "gardening",
+    "british bake off",
+    "travel writing"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Ashcroft Business Solutions",
+  "previous_passwords": [
+    "Fiona1969",
+    "Milo17!",
+    "Ashcroft2020",
+    "Bake0ff123",
+    "Gardening4Life",
+    "Graham69",
+    "LondonCat22",
+    "TravelWrite!19",
+    "AshcroftBakeoff",
+    "Milo_Bakeoff"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1969-04-17"
+}

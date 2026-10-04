@@ -1,0 +1,34 @@
+{
+  "id": "8c088d9e-1b48-4eb9-9fff-55c3a91343a7",
+  "gender": "male",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Porsche",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kohout",
+  "birth_date": "2009-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "rychle a zběsile"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Matej2009",
+    "Kohout52",
+    "fifa2023",
+    "Macan_17",
+    "rychle123",
+    "PepsiLime09",
+    "KohoutFIFA",
+    "fifaKohout",
+    "Macan2009",
+    "fifa!17"
+  ],
+  "favorite_hobby": "fifa"
+}

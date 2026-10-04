@@ -1,0 +1,48 @@
+{
+  "id": "82a83580-e547-4a6a-a5b4-c01ee79387a2",
+  "age": 46,
+  "birth_date": "1980-02-08",
+  "marital_status": "married",
+  "region": "Zubří",
+  "nationality": "czech",
+  "company": "Růžičková",
+  "car_brand": "Toyota",
+  "self_first_name": "Tereza",
+  "self_last_name": "Žáková",
+  "partner_first_name": "Vlastimil",
+  "partner_last_name": "Žáková",
+  "children": [
+    {
+      "first_name": "Sára",
+      "last_name": "Čermáková"
+    },
+    {
+      "first_name": "Romana",
+      "last_name": "Doležalová"
+    },
+    {
+      "first_name": "Michaela",
+      "last_name": "Vávrová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "historie",
+    "rybaření",
+    "pivo",
+    "regionální folklór"
+  ],
+  "previous_passwords": [
+    "Vlastimil2008",
+    "SarasTuristika!",
+    "ToyotaZabreh23",
+    "RomanaRybar1980",
+    "MichaelaHistorie!",
+    "PivoZubri2024",
+    "TuristikaSara1",
+    "FolkloreVlasta",
+    "ZabrehToyota!",
+    "RybarSara23"
+  ]
+}

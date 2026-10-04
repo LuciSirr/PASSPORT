@@ -1,0 +1,35 @@
+{
+  "id": "4b17d520-798e-46f6-8ce1-e6c93a81e5ec",
+  "age": 77,
+  "birth_date": "1949-05-08",
+  "marital_status": "divorced",
+  "region": "Höxter",
+  "nationality": "german",
+  "company": "Radisch",
+  "car_brand": "Dacia",
+  "self_first_name": "Domenico",
+  "self_last_name": "Kramer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Gartenarbeit",
+    "Wandern im Weserbergland",
+    "Heimatgeschichte Höxter",
+    "Schach",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "Weser2024!",
+    "Garten49_Hx",
+    "Schach77!",
+    "Bach1949",
+    "DaciaHX25",
+    "Wandern58!",
+    "HuxGeschichte",
+    "Mozart49#",
+    "Klassik77",
+    "KramerHX49!"
+  ]
+}

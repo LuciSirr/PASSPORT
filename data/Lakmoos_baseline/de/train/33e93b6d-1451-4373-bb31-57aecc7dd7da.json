@@ -1,0 +1,40 @@
+{
+  "id": "33e93b6d-1451-4373-bb31-57aecc7dd7da",
+  "gender": "female",
+  "age": 79,
+  "marital_status": "widower/widow",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Hildegard",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "spaziergang",
+    "hörbücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Hildegard1945",
+    "Lukas2009",
+    "Krause123",
+    "Spaziergang!7",
+    "OmaKrause",
+    "Leseabend2023",
+    "Sommerferien15",
+    "LukasKrause09",
+    "Hildegard_15",
+    "Nordrhein78"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1947-02-15"
+}

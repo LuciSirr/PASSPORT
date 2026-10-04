@@ -1,0 +1,44 @@
+{
+  "id": "18227d77-a635-492e-b331-bf9a38f6799f",
+  "age": 58,
+  "birth_date": "1968-02-04",
+  "marital_status": "divorced",
+  "region": "Richardsonbury",
+  "nationality": "english",
+  "company": "Hall-Rowe",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Kelly",
+  "self_last_name": "West",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Reece"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "George"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "walking",
+    "cooking",
+    "classic rock",
+    "local football"
+  ],
+  "previous_passwords": [
+    "George1968!",
+    "Reece04_walk",
+    "VWclassic68",
+    "RichaGarden68",
+    "Beatles58_West",
+    "LFCwalk1968",
+    "RosesReece4",
+    "Cook58VW!",
+    "Stones68_Reece",
+    "KellyRock68!"
+  ]
+}

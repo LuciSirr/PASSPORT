@@ -1,0 +1,35 @@
+{
+  "id": "3352bb0d-cc57-40dd-aa17-64a660410b19",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kohout",
+  "birth_date": "1999-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "netflix",
+    "fotbal",
+    "kofola"
+  ],
+  "pets": [],
+  "company": "Hotel Hradec Gastro s.r.o.",
+  "previous_passwords": [
+    "Matej1999",
+    "Kohout123",
+    "netflix2021",
+    "Kofola!99",
+    "fotbal10",
+    "KohoutNetflix",
+    "MatejKofola",
+    "Kohout_2023",
+    "netflix_fotbal",
+    "Kofola123"
+  ],
+  "favorite_hobby": "netflix"
+}

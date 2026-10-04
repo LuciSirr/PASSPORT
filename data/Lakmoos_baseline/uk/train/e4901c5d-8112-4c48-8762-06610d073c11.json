@@ -1,0 +1,35 @@
+{
+  "id": "e4901c5d-8112-4c48-8762-06610d073c11",
+  "gender": "male",
+  "age": 56,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Jaguar",
+  "self_first_name": "Graham",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "football"
+  ],
+  "pets": [],
+  "company": "Yorkshire Buildworks Ltd",
+  "previous_passwords": [
+    "Jaguar2016",
+    "Elaine56",
+    "Merrick123",
+    "Yorkshire2",
+    "Fpace!8",
+    "Walking2020",
+    "Gardening_1",
+    "ElaineGraham",
+    "Buildworks64",
+    "Football4"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1970-01-21"
+}

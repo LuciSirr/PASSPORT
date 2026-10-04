@@ -1,0 +1,35 @@
+{
+  "id": "f497b513-22e7-4b65-8d60-5920c09fd72e",
+  "gender": "female",
+  "age": 31,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "reading",
+    "yoga",
+    "travelling"
+  ],
+  "pets": [],
+  "company": "Hollingsworth Business Solutions",
+  "previous_passwords": [
+    "Imogen1993",
+    "OllieLove21",
+    "LondonLife123",
+    "Hollingsworth2020",
+    "Yoga4Life!",
+    "Reading_88",
+    "TravelBug93",
+    "Imogen&Oliver",
+    "Business2021",
+    "Hollingsworth!"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1994-10-29"
+}

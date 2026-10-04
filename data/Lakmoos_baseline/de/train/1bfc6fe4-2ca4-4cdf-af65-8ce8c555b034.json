@@ -1,0 +1,35 @@
+{
+  "id": "1bfc6fe4-2ca4-4cdf-af65-8ce8c555b034",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "Mercedes",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "autos"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tobi1993",
+    "Kreutzmann123",
+    "MercedesEQE!",
+    "Reisen2022",
+    "Sommer07",
+    "Thuringen_93",
+    "Allianz2021",
+    "Berlin4ever",
+    "Podcast!1",
+    "AutoFan2023"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1996-01-30"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "1f2e33eb-fd3e-42f6-9abf-84fb53555878",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Abarth",
+  "self_first_name": "Annika",
+  "self_last_name": "Küster",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "GesundheitPlus Niedersachsen",
+  "previous_passwords": [
+    "Annika1989",
+    "Abarth500!",
+    "Kuest3r123",
+    "Sommerurlaub21",
+    "Reisen2022",
+    "Gesundheit+1",
+    "Apple_2019",
+    "Niedersachsen88",
+    "Musik4Life",
+    "Urlaub_August"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1991-01-08"
+}

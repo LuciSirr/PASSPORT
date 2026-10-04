@@ -1,0 +1,34 @@
+{
+  "id": "4abf647c-7a30-476d-9d73-51cacc15f824",
+  "gender": "female",
+  "age": 43,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Toyota",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "walking"
+  ],
+  "pets": [],
+  "company": "East Fen Business Solutions",
+  "previous_passwords": [
+    "Fiona1979",
+    "Graham2023",
+    "Corolla7",
+    "Travel123",
+    "Hollingsworth14",
+    "Reading!79",
+    "EastFen2022",
+    "Toyota_1",
+    "Wedding0623"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1982-09-12"
+}

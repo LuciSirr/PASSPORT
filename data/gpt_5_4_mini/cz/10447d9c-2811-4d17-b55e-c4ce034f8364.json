@@ -1,0 +1,35 @@
+{
+  "id": "10447d9c-2811-4d17-b55e-c4ce034f8364",
+  "age": 22,
+  "birth_date": "2004-11-29",
+  "marital_status": "married",
+  "region": "Velké Opatovice",
+  "nationality": "czech",
+  "company": "Navrátil",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Vítková",
+  "partner_first_name": "Lubomír",
+  "partner_last_name": "Vítková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hraní her",
+    "fotbal",
+    "poslech rapu",
+    "cyklistika",
+    "sledování filmů"
+  ],
+  "previous_passwords": [
+    "Messi2004!",
+    "SkodaRacing24",
+    "Rammstein22",
+    "FifaJitka29",
+    "RapLove04",
+    "VelkeOp12",
+    "Cycling04!",
+    "Lubomir99",
+    "BatmanFilm24",
+    "Fotbal2004"
+  ]
+}

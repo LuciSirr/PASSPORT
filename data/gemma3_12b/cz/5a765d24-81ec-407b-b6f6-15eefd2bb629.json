@@ -1,0 +1,48 @@
+{
+  "id": "5a765d24-81ec-407b-b6f6-15eefd2bb629",
+  "age": 38,
+  "birth_date": "1988-12-14",
+  "marital_status": "divorced",
+  "region": "Mašťov",
+  "nationality": "czech",
+  "company": "Fišer Navrátilová o.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Františka",
+  "self_last_name": "Urbanová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Radka",
+      "last_name": "Urbanová"
+    },
+    {
+      "first_name": "Viktor",
+      "last_name": "Urban"
+    },
+    {
+      "first_name": "Ladislav",
+      "last_name": "Urban"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivovarnictví",
+    "česká kuchyně",
+    "hudba Karla Gotta",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "KarlaGotta1988",
+    "Radka_Turistika23",
+    "VolkswagenRybar",
+    "MaštovPivo!85",
+    "ViktorUrbanFish",
+    "Ladislav_CzechFood",
+    "TuristikaRadka92",
+    "GottaMusic_Urban",
+    "RybarViktor77",
+    "CzechKuchaPivo"
+  ]
+}

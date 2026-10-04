@@ -1,0 +1,36 @@
+{
+  "id": "99e57e78-1920-4cfc-9f84-98f27487c054",
+  "gender": "male",
+  "age": 86,
+  "marital_status": "widower/widow",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "malování",
+    "hudba",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1938",
+    "KonečnýPraha",
+    "Hudba123",
+    "Malovani2020",
+    "Turistika86",
+    "PilsnerUrquell",
+    "Globus123",
+    "Cteni!2024",
+    "Praha38",
+    "Univerzita86"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1940-02-14"
+}

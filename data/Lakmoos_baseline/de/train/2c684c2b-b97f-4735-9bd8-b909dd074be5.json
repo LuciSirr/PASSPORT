@@ -1,0 +1,34 @@
+{
+  "id": "2c684c2b-b97f-4735-9bd8-b909dd074be5",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "widower/widow",
+  "region": "hamburg",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Hannelore",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gartenarbeit",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Hannelore1955",
+    "Hamburg123",
+    "Krause!78",
+    "Gartenarbeit2020",
+    "SommerAugust",
+    "Miners1955",
+    "Sparkasse253",
+    "Audiobuch1",
+    "Widow2024",
+    "Krause_69"
+  ],
+  "favorite_hobby": "gartenarbeit",
+  "birth_date": "1956-11-18"
+}

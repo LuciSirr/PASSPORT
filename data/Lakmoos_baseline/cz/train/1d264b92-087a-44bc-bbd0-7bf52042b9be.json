@@ -1,0 +1,35 @@
+{
+  "id": "1d264b92-087a-44bc-bbd0-7bf52042b9be",
+  "gender": "male",
+  "age": 65,
+  "marital_status": "widower/widow",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radomír",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "čtení",
+    "vzdělávání"
+  ],
+  "pets": [],
+  "company": "Moravská Logistika s.r.o.",
+  "previous_passwords": [
+    "Radomir1959",
+    "Konecny65",
+    "Morava2020",
+    "Kofola123",
+    "Lidl51000",
+    "Cteni2022",
+    "Tesco!59",
+    "Nakupovani1",
+    "Pilsner65",
+    "Albert_1000"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1960-06-16"
+}

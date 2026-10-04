@@ -1,0 +1,35 @@
+{
+  "id": "4244fdc1-0da1-4603-97b0-c2c4f982f6c8",
+  "age": 52,
+  "birth_date": "1974-06-10",
+  "marital_status": "divorced",
+  "region": "Schwäbisch Hall",
+  "nationality": "german",
+  "company": "Mohaupt AG",
+  "car_brand": "Audi",
+  "self_first_name": "Matthäus",
+  "self_last_name": "Möchlichen",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Schach",
+    "Autos",
+    "Deutsche Klassische Musik",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "AudiWander74",
+    "MessiSchach2024",
+    "DeutscheKlassikMo",
+    "HallWandern10",
+    "SchachAudi92",
+    "FußballMöchlichen",
+    "WanderAuto2001",
+    "AudiMusik23!",
+    "SchachMessi1974",
+    "WanderHall_20"
+  ]
+}

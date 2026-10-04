@@ -1,0 +1,39 @@
+{
+  "id": "e1d5d8c3-d8e3-4a1b-b37e-f24b1c5d3207",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heike",
+  "self_last_name": "Kraus",
+  "partner_first_name": "Jörg",
+  "partner_last_name": "Kraus",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Kraus"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "SachsenBroker Beratung",
+  "previous_passwords": [
+    "Lena2013",
+    "Heike53!",
+    "Kraus_4000",
+    "Jörg2024",
+    "Wandern123",
+    "Sparkasse253",
+    "Sachsen_11",
+    "Sommer09!",
+    "LenaKraus",
+    "Kraus1948"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1973-02-08"
+}

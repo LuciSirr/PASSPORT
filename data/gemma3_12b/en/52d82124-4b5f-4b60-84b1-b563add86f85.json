@@ -1,0 +1,40 @@
+{
+  "id": "52d82124-4b5f-4b60-84b1-b563add86f85",
+  "age": 47,
+  "birth_date": "1979-05-16",
+  "marital_status": "married",
+  "region": "Humphreystown",
+  "nationality": "english",
+  "company": "Preston, Williams and Wallis",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Glenn",
+  "self_last_name": "Tucker",
+  "partner_first_name": "Christine",
+  "partner_last_name": "Long",
+  "children": [
+    {
+      "first_name": "Lewis",
+      "last_name": "Tucker"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Gardening",
+    "Local History",
+    "Classic Rock Music",
+    "Hiking",
+    "Genealogy"
+  ],
+  "previous_passwords": [
+    "LedZeppelin79",
+    "VW_Humphreystown",
+    "LewisGardens23",
+    "ChristineRocks!",
+    "LocalHist1979",
+    "HikingTucker",
+    "GenealogyLong",
+    "ClassicRock_47",
+    "Messi2024",
+    "TuckerFamilyVW"
+  ]
+}

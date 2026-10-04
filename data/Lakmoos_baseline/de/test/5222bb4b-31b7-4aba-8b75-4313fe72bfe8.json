@@ -1,0 +1,34 @@
+{
+  "id": "5222bb4b-31b7-4aba-8b75-4313fe72bfe8",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "single/in a relationship",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Katrin",
+  "self_last_name": "Kuhn",
+  "birth_date": "1979-06-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "tatort",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "Auto & Teilehandel Rostock",
+  "previous_passwords": [
+    "Kuhn1979",
+    "Tatort123",
+    "Nordic2020",
+    "Katrin!14",
+    "Rostock79",
+    "tatort_Kuhn",
+    "nordicwalking79",
+    "KuhnTatort!",
+    "Kuhn!2023",
+    "AutoTeile14"
+  ],
+  "favorite_hobby": "tatort"
+}

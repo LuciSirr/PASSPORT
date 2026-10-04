@@ -1,0 +1,43 @@
+{
+  "id": "a12ae0d3-afe8-4016-b9d2-5bf9b5c89045",
+  "gender": "female",
+  "age": 44,
+  "marital_status": "married",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Petra",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1980-06-11",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Kohoutová"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "krimi filmy"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Liberecké strojírny s.r.o.",
+  "previous_passwords": [
+    "Eliška2019",
+    "Micka123",
+    "Kohoutova80",
+    "cestovani2020",
+    "Krimi!11",
+    "PetraMicka19",
+    "Liberec2023",
+    "MartinEliška",
+    "Micka!80"
+  ],
+  "favorite_hobby": "cestování"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "7dec8942-fccd-4c6c-9329-95fe01032f2b",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "auta",
+    "hudba",
+    "technologie"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radek1987",
+    "Petra27",
+    "VWtroc2018",
+    "Kofola2020",
+    "AudiA31987",
+    "Usti1234",
+    "PetraRadek27",
+    "Hudba!123",
+    "Auta2021"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1999-03-19"
+}

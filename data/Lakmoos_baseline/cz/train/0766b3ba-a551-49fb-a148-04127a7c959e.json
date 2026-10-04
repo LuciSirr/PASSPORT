@@ -1,0 +1,35 @@
+{
+  "id": "0766b3ba-a551-49fb-a148-04127a7c959e",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Ivana",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "auta",
+    "kavárna",
+    "politika"
+  ],
+  "pets": [],
+  "company": "Správa městských služeb Ostrava",
+  "previous_passwords": [
+    "Radek1970",
+    "Ivana55",
+    "Octavia1998",
+    "Moravska_123",
+    "Kavarna2020",
+    "Vesely484",
+    "Kofola4life",
+    "ODS2024",
+    "Lidl717",
+    "Ostrava!98"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1970-05-04"
+}

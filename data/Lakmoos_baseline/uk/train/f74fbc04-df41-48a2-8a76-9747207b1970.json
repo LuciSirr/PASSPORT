@@ -1,0 +1,35 @@
+{
+  "id": "f74fbc04-df41-48a2-8a76-9747207b1970",
+  "gender": "male",
+  "age": 65,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Suzuki",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "crossword"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Graham1959",
+    "Vitara28057",
+    "Margaret65",
+    "Hollis123",
+    "WestMidlands1",
+    "Gardening!2020",
+    "SuzukiGrand",
+    "Walking2022",
+    "Crossword7",
+    "Hollis_1000"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1961-02-08"
+}

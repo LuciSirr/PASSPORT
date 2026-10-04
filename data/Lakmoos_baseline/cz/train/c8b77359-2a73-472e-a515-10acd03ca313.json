@@ -1,0 +1,36 @@
+{
+  "id": "c8b77359-2a73-472e-a515-10acd03ca313",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Citroën",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "filmy",
+    "nakupování",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Moravská Logistika s.r.o.",
+  "previous_passwords": [
+    "CitroenC4_2013",
+    "Morava123",
+    "Kofola2020",
+    "Vesely98",
+    "Lidl759",
+    "Radek21!",
+    "Hudba2024",
+    "Auta_1499",
+    "Filmy!CZ",
+    "Nakupovani55"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2004-07-30"
+}

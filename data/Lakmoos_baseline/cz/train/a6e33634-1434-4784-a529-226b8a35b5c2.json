@@ -1,0 +1,36 @@
+{
+  "id": "a6e33634-1434-4784-a529-226b8a35b5c2",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "cestování",
+    "hudba",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Stavby Praha",
+  "previous_passwords": [
+    "Radek1969",
+    "Octavia24",
+    "Kofola123",
+    "VeselyPraha",
+    "RadioBeat2023",
+    "Mountfield!",
+    "Auta2024",
+    "Hudba55",
+    "Shell1562",
+    "Cestovani99"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1970-09-30"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "b7b292dc-f80e-408d-b33a-1d002f7ea0df",
+  "age": 57,
+  "birth_date": "1969-03-22",
+  "marital_status": "married",
+  "region": "Gelnhausen",
+  "nationality": "german",
+  "company": "Preiß",
+  "car_brand": "Skoda",
+  "self_first_name": "Raymund",
+  "self_last_name": "Paffrath",
+  "partner_first_name": "Maja",
+  "partner_last_name": "Paffrath",
+  "children": [
+    {
+      "first_name": "Jaroslaw",
+      "last_name": "Paffrath"
+    },
+    {
+      "first_name": "Klaudia",
+      "last_name": "Paffrath"
+    },
+    {
+      "first_name": "Heidemarie",
+      "last_name": "Paffrath"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern im Spessart",
+    "Fußball",
+    "Gartenarbeit",
+    "Schwimmen",
+    "Tatort"
+  ],
+  "previous_passwords": [
+    "Tatort1969!",
+    "Spessart22!",
+    "Skoda57_Wandern",
+    "MajaGarten69",
+    "SCPaffrath22",
+    "Schwimmen03!",
+    "KlaudiaTatort7",
+    "Gelnhausen69!",
+    "Heidemarie57",
+    "FußballMaja69"
+  ]
+}

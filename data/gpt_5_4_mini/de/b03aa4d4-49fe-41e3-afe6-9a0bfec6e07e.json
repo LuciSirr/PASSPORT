@@ -1,0 +1,44 @@
+{
+  "id": "b03aa4d4-49fe-41e3-afe6-9a0bfec6e07e",
+  "age": 36,
+  "birth_date": "1990-01-10",
+  "marital_status": "married",
+  "region": "Greiz",
+  "nationality": "german",
+  "company": "Franke",
+  "car_brand": "Renault",
+  "self_first_name": "Ahmad",
+  "self_last_name": "Zahn",
+  "partner_first_name": "Uschi",
+  "partner_last_name": "Zahn",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Sabine"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Bernd"
+    }
+  ],
+  "interests": [
+    "Wandern im Thüringer Wald",
+    "Fußball",
+    "Kochen",
+    "Radfahren",
+    "Schlager"
+  ],
+  "previous_passwords": [
+    "Wanderung10",
+    "Fussball90!",
+    "KochenZahn36",
+    "Radeln1990",
+    "SchalkeGreiz7",
+    "Thuringer90",
+    "UschiWandern!",
+    "Renault36",
+    "BerndRide90",
+    "SabineHike10"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2ef8d8df-e12a-412d-a4ee-7e8f6429ba51",
+  "age": 62,
+  "birth_date": "1964-09-02",
+  "marital_status": "married",
+  "region": "Velešín",
+  "nationality": "czech",
+  "company": "Novák",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Moravec",
+  "partner_first_name": "Břetislav",
+  "partner_last_name": "Moravcová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "zahradničení",
+    "česká kuchyně",
+    "folklórní tance"
+  ],
+  "previous_passwords": [
+    "VelesinTuristika64!",
+    "SkodaRybář1964",
+    "ZahradniBřetislav",
+    "FolklorníTanecRadek",
+    "CeskaKuchar77",
+    "Moravec_Turistika!",
+    "Radek_Skoda1964",
+    "RybarMoravec72",
+    "Velešín_Zahrada",
+    "TuristikaRadek64"
+  ]
+}

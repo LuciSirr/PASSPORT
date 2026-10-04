@@ -1,0 +1,48 @@
+{
+  "id": "3e7e9019-f773-4e84-a0c0-ab0dafcf555a",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Polestar",
+  "self_first_name": "Tobias",
+  "self_last_name": "Krause",
+  "partner_first_name": "Sandra",
+  "partner_last_name": "Krause",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Hannah",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Emilia",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "reisen",
+    "familie",
+    "musik"
+  ],
+  "pets": [],
+  "company": "Krause Unternehmerberatung",
+  "previous_passwords": [
+    "Lukas2010",
+    "Sandra123",
+    "Krause1989",
+    "Emilia15!",
+    "Hannah_13",
+    "Polestar2",
+    "Familie2024",
+    "Reisen@May",
+    "Musik_7",
+    "TobiKrause"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1992-01-19"
+}

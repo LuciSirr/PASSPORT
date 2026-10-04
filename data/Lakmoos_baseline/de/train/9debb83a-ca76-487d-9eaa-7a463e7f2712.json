@@ -1,0 +1,35 @@
+{
+  "id": "9debb83a-ca76-487d-9eaa-7a463e7f2712",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "single/in a relationship",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "Porsche",
+  "self_first_name": "Jens",
+  "self_last_name": "Krahl",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "autos",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Thüringer Maklerberatung GmbH",
+  "previous_passwords": [
+    "Jens1979",
+    "Macan79534",
+    "Krahl123",
+    "Sommer!2023",
+    "Porsche2.9",
+    "Thuringen2024",
+    "Reisen!06",
+    "AOK_8000",
+    "Vodafone!45",
+    "Krahl!Berlin"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1980-04-11"
+}

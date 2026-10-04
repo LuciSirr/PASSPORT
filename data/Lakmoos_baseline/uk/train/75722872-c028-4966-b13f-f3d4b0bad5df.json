@@ -1,0 +1,40 @@
+{
+  "id": "75722872-c028-4966-b13f-f3d4b0bad5df",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "divorced",
+  "region": "northern ireland",
+  "nationality": "british",
+  "car_brand": "Smart",
+  "self_first_name": "Fiona",
+  "self_last_name": "Kerrigan",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "North Coast Consulting",
+  "previous_passwords": [
+    "Fiona1971",
+    "Milo123",
+    "Kerrigan!53",
+    "Travel2022",
+    "Reading4Fun",
+    "SmartCar23",
+    "Gardening_1",
+    "NorthCoast2023",
+    "Milo!cat",
+    "FionaK1971"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1972-10-08"
+}

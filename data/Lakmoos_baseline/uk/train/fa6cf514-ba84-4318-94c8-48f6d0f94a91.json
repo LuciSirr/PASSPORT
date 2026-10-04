@@ -1,0 +1,39 @@
+{
+  "id": "fa6cf514-ba84-4318-94c8-48f6d0f94a91",
+  "gender": "female",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Toyota",
+  "self_first_name": "Harriet",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Hollins",
+  "children": [],
+  "interests": [
+    "hiking",
+    "reading",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Milo2019",
+    "Harriet33",
+    "Rav4Hybrid!",
+    "Yorkshire22",
+    "Baking123",
+    "Merrick2021",
+    "Oliver4Me",
+    "CatLover88",
+    "Reading_23"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1993-02-01"
+}

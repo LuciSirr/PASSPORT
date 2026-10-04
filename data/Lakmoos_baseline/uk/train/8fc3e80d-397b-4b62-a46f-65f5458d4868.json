@@ -1,0 +1,33 @@
+{
+  "id": "8fc3e80d-397b-4b62-a46f-65f5458d4868",
+  "gender": "male",
+  "age": 90,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Wilfred",
+  "self_last_name": "Catterick",
+  "partner_first_name": "Edith",
+  "partner_last_name": "Catterick",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crosswords"
+  ],
+  "pets": [],
+  "company": "Humberstone Brokers",
+  "previous_passwords": [
+    "Wilfred1934",
+    "EdithCatt!23",
+    "Yorkshire49",
+    "Humberstone2020",
+    "Gardening123",
+    "Catterick!90",
+    "Crosswords7",
+    "WilfEdith34",
+    "Detached1949"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1936-03-23"
+}

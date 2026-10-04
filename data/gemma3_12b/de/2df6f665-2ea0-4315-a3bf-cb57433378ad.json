@@ -1,0 +1,40 @@
+{
+  "id": "2df6f665-2ea0-4315-a3bf-cb57433378ad",
+  "age": 47,
+  "birth_date": "1979-01-15",
+  "marital_status": "married",
+  "region": "Bischofswerda",
+  "nationality": "german",
+  "company": "Juncken GmbH & Co. KG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Heinrich",
+  "self_last_name": "Roht",
+  "partner_first_name": "Melanie",
+  "partner_last_name": "Roht",
+  "children": [
+    {
+      "first_name": "Hanns",
+      "last_name": "Roht"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Autos",
+    "Lokaler Fußballverein",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "HannsRoht2000",
+    "VW_Tiguan79",
+    "Messi1979!",
+    "WandernMelanie",
+    "FotografieBischof",
+    "AutoSpaß79",
+    "BischofswerdaFC",
+    "Beethoven_Foto",
+    "HannsRoht_Pic",
+    "ClassicMusic23"
+  ]
+}

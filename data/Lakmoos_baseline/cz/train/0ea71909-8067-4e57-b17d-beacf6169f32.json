@@ -1,0 +1,36 @@
+{
+  "id": "0ea71909-8067-4e57-b17d-beacf6169f32",
+  "gender": "male",
+  "age": 39,
+  "marital_status": "divorced",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "auta",
+    "fotbal",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Stavby Ústí s.r.o.",
+  "previous_passwords": [
+    "Radek1985",
+    "Vesely79",
+    "Hyundai2008",
+    "Kofola123",
+    "Usti2020",
+    "Stavba79",
+    "Tesco2022",
+    "Turistika!21",
+    "Fotbal_123",
+    "KiaCeed11"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1986-12-13"
+}

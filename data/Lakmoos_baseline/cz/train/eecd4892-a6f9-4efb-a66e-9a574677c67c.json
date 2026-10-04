@@ -1,0 +1,34 @@
+{
+  "id": "eecd4892-a6f9-4efb-a66e-9a574677c67c",
+  "gender": "female",
+  "age": 42,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Kubešová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "televize",
+    "procházky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Vysočina Kovovýroba s.r.o.",
+  "previous_passwords": [
+    "Iveta1979",
+    "Kubesova42",
+    "prochazky123",
+    "bezauta2024",
+    "TescoLidl",
+    "Vysočina79",
+    "Nakupovani!",
+    "Maturita2001",
+    "Vitana_123"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1983-08-29"
+}

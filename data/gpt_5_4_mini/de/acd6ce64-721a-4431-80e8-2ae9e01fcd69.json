@@ -1,0 +1,40 @@
+{
+  "id": "acd6ce64-721a-4431-80e8-2ae9e01fcd69",
+  "age": 58,
+  "birth_date": "1968-09-08",
+  "marital_status": "married",
+  "region": "Aurich",
+  "nationality": "german",
+  "company": "Klemt",
+  "car_brand": "BMW",
+  "self_first_name": "Ralf-Dieter",
+  "self_last_name": "Ring",
+  "partner_first_name": "Kirsten",
+  "partner_last_name": "Kade",
+  "children": [
+    {
+      "first_name": "Edit",
+      "last_name": "Ring"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Norddeutscher Fußball",
+    "Gartenarbeit",
+    "Radfahren",
+    "Klassische Musik",
+    "Heimatkunde Ostfriesland"
+  ],
+  "previous_passwords": [
+    "Werder68!",
+    "BMW_Aurich68",
+    "KirstenRWE68",
+    "Radfahren68!",
+    "Garten_Borkum8",
+    "Klassik88!",
+    "Ostfriesland58",
+    "Edit1908!",
+    "NordseeKade68",
+    "Fussball_BMW58"
+  ]
+}

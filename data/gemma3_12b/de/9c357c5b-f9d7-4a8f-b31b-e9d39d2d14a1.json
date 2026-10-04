@@ -1,0 +1,35 @@
+{
+  "id": "9c357c5b-f9d7-4a8f-b31b-e9d39d2d14a1",
+  "age": 43,
+  "birth_date": "1983-03-22",
+  "marital_status": "married",
+  "region": "Viersen",
+  "nationality": "german",
+  "company": "Gnatz",
+  "car_brand": "Audi",
+  "self_first_name": "Luise",
+  "self_last_name": "Thanel",
+  "partner_first_name": "Janos",
+  "partner_last_name": "Thanel",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Deutsche Küche",
+    "Fotografie",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "Messi22Wandern",
+    "AudiViersen83",
+    "DeutscheKuecheJanos",
+    "FotografieLuise!",
+    "KlassischeMusik1983",
+    "WandernJanos1983",
+    "FußballMessi2024",
+    "AudiThanel_Foto",
+    "LuiseThanelWandern",
+    "Messi_Viersen2022"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ae62a0d6-a13a-4196-93c3-54040b9dcc5e",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Timo",
+  "self_last_name": "Schwanitz",
+  "partner_first_name": "Lena",
+  "partner_last_name": "Schwanitz",
+  "children": [],
+  "interests": [
+    "reisen",
+    "serien",
+    "musik"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Timo1997",
+    "Schwanitz123",
+    "Lena2020!",
+    "Reisen_06",
+    "Musik4ever",
+    "Sommer2023",
+    "Serienfan!",
+    "Niedersachsen97",
+    "BKK_123",
+    "Xiaomi_1997"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1999-01-23"
+}

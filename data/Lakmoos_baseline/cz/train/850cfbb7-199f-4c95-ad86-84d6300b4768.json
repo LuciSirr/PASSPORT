@@ -1,0 +1,39 @@
+{
+  "id": "850cfbb7-199f-4c95-ad86-84d6300b4768",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Vránová",
+  "children": [],
+  "interests": [
+    "zahrada",
+    "vaření",
+    "televize"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Moravská Poradna",
+  "previous_passwords": [
+    "Ivana1968",
+    "Rexik123",
+    "Morava56",
+    "Zahrada2020",
+    "Vranova!86",
+    "Miroslav77",
+    "Kofola2022",
+    "Televize1",
+    "Rex!2021"
+  ],
+  "favorite_hobby": "zahrada",
+  "birth_date": "1970-03-23"
+}

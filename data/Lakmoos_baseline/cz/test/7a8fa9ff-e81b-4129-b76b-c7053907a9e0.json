@@ -1,0 +1,35 @@
+{
+  "id": "7a8fa9ff-e81b-4129-b76b-c7053907a9e0",
+  "gender": "male",
+  "age": 18,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Porsche",
+  "self_first_name": "Matěj",
+  "self_last_name": "Jurčo",
+  "birth_date": "2006-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "forza horizon",
+    "fifa",
+    "rychlá auta"
+  ],
+  "pets": [],
+  "company": "Jihomoravský studentský servis",
+  "previous_passwords": [
+    "Matej2006",
+    "JurcoForza17",
+    "fifa2022",
+    "rychlaAuta123",
+    "ForzaHorizon06",
+    "Jurco!fifa",
+    "MatejF1",
+    "Auta2006",
+    "Forza_17",
+    "JurcoRychlaAuta"
+  ],
+  "favorite_hobby": "forza horizon"
+}

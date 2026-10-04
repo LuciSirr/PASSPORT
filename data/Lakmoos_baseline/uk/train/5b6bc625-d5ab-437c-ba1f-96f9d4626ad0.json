@@ -1,0 +1,35 @@
+{
+  "id": "5b6bc625-d5ab-437c-ba1f-96f9d4626ad0",
+  "gender": "male",
+  "age": 61,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Subaru",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "West Midlands Strategic Solutions",
+  "previous_passwords": [
+    "Subaru2021",
+    "Fiona61",
+    "Outback!21",
+    "Hollis123",
+    "BMWM240i",
+    "WestMidlands49",
+    "Gardening2022",
+    "Malc_1963",
+    "Travel4Fun",
+    "Fiona!2020"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1964-06-01"
+}

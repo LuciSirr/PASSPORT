@@ -1,0 +1,48 @@
+{
+  "id": "7008e92d-9d11-44b6-93e7-8c7dde607bac",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "single/in a relationship",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Konečná",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Konečný"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Konečná"
+    },
+    {
+      "first_name": "Šimon",
+      "last_name": "Konečný"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "hudba",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Stavby Jižní Čechy s.r.o.",
+  "previous_passwords": [
+    "Konecny2020",
+    "Matysek07",
+    "PetraRadek44",
+    "stavba123",
+    "Sumava2022",
+    "Tereza14",
+    "Hudba!2021",
+    "MatejSimonek4",
+    "Petra4Radek",
+    "Cestovani_07"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1983-06-13"
+}

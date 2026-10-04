@@ -1,0 +1,38 @@
+{
+  "id": "3f7a6d0e-35d5-40b2-8d15-6f3dcbfe6411",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "single/in a relationship",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "angeln"
+  ],
+  "pets": [],
+  "company": "Bauunternehmen Berlin GmbH",
+  "previous_passwords": [
+    "Lukas2009",
+    "Krause66",
+    "JürgenBerlin",
+    "Angeln123",
+    "VWGolf8",
+    "Sparda451",
+    "Bauarbeiter2020",
+    "Berlin!2000",
+    "Lukas!15",
+    "Jürgen_112"
+  ],
+  "favorite_hobby": "angeln",
+  "birth_date": "1960-02-28"
+}

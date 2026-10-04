@@ -1,0 +1,35 @@
+{
+  "id": "9c500f70-fbc0-4fe6-a85e-72bbc9c50ea7",
+  "age": 20,
+  "birth_date": "2006-06-30",
+  "marital_status": "married",
+  "region": "Oranienburg",
+  "nationality": "german",
+  "company": "Tintzmann",
+  "car_brand": "Seat",
+  "self_first_name": "Hans-Theo",
+  "self_last_name": "Hänel",
+  "partner_first_name": "Erna",
+  "partner_last_name": "Hänel",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Gaming",
+    "Fußball",
+    "Fitnessstudio",
+    "Anime",
+    "Berliner Ausflüge"
+  ],
+  "previous_passwords": [
+    "Anime06!",
+    "Berlin2006",
+    "SeatOranien",
+    "FIFA20_Hans",
+    "BVB_0630!",
+    "Fitness06",
+    "ErnaGaming7",
+    "Oranienburg1",
+    "MHA_Haenel06",
+    "Fußball!2006"
+  ]
+}

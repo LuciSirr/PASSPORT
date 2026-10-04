@@ -1,0 +1,35 @@
+{
+  "id": "ab2314a5-4173-4e96-8637-8bb20b847b15",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "televize",
+    "nakupování",
+    "kutilství"
+  ],
+  "pets": [],
+  "company": "Moravská Energetika",
+  "previous_passwords": [
+    "Radek1966",
+    "JanaRadek1",
+    "Kofola2020",
+    "Vesely1989",
+    "Morava58",
+    "Bauhaus99",
+    "Kutil123",
+    "Televize58",
+    "Jana58!",
+    "Kof0l4!"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1968-01-23"
+}

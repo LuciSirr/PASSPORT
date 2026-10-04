@@ -1,0 +1,39 @@
+{
+  "id": "a3a236ec-f94e-4eea-abf9-ad5ba31454fb",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Opel",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "cestování",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Městský úřad Nová Ves",
+  "previous_passwords": [
+    "Matysek2020",
+    "OpelCorsa07",
+    "RadekPetra19",
+    "Kofola123",
+    "Vysocina59",
+    "Fotbalista88",
+    "PetraM4tej",
+    "Vesely2021",
+    "Cestovani!23"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1995-04-19"
+}

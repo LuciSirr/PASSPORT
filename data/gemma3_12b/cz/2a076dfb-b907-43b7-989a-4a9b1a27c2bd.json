@@ -1,0 +1,48 @@
+{
+  "id": "2a076dfb-b907-43b7-989a-4a9b1a27c2bd",
+  "age": 27,
+  "birth_date": "1999-07-04",
+  "marital_status": "married",
+  "region": "Libochovice",
+  "nationality": "czech",
+  "company": "Bártová Havlíčková s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Věra",
+  "self_last_name": "Petrová",
+  "partner_first_name": "Tadeáš",
+  "partner_last_name": "Petrová",
+  "children": [
+    {
+      "first_name": "Štěpánka",
+      "last_name": "Petrová"
+    },
+    {
+      "first_name": "Vítězslav",
+      "last_name": "Petrov"
+    },
+    {
+      "first_name": "Magdaléna",
+      "last_name": "Petrová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "hudba (indie)",
+    "fotbal (FK Loko Libochovice)",
+    "cestování",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "LokoLibochovice27",
+    "StěpánkaTuristika!",
+    "MessiLibochovice1999",
+    "TadeášHudba_1999",
+    "ŠkodaVařeníMagdaléna",
+    "VítězslavIndie23",
+    "CestováníŠtěpánka!",
+    "LibochoviceFoto27",
+    "FKLokovítězslav!",
+    "TuristikaVěra23"
+  ]
+}

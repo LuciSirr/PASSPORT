@@ -1,0 +1,40 @@
+{
+  "id": "0d6064ed-b3de-4992-b642-17d6dbaaa8e6",
+  "gender": "female",
+  "age": 62,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Šimková",
+  "partner_first_name": "Jaroslav",
+  "partner_last_name": "Šimková",
+  "children": [],
+  "interests": [
+    "procházky",
+    "vaření",
+    "nakupování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Ivana62",
+    "Jaroslav2012",
+    "Micka123",
+    "Fabia2012",
+    "Bohemia2024",
+    "Nakupovani1",
+    "Mattoni150",
+    "Simkova!62",
+    "Prochazky2020",
+    "Lidl869"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1963-09-19"
+}

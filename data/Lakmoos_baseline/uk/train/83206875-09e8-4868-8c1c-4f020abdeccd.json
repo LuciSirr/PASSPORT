@@ -1,0 +1,35 @@
+{
+  "id": "83206875-09e8-4868-8c1c-4f020abdeccd",
+  "gender": "male",
+  "age": 39,
+  "marital_status": "single/in a relationship",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Gareth",
+  "self_last_name": "Fenwick",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Fenwick",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "travel"
+  ],
+  "pets": [],
+  "company": "Humber Valley Ventures",
+  "previous_passwords": [
+    "Polestar2020",
+    "Gareth24",
+    "Sophie4Me",
+    "Yorkshire310",
+    "Fenwick1985",
+    "Travel!123",
+    "HumberVentures",
+    "Gardening88",
+    "Polestar!65473",
+    "Gareth_Sophie"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1986-08-16"
+}

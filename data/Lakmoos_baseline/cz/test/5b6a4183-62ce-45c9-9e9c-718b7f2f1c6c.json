@@ -1,0 +1,35 @@
+{
+  "id": "5b6a4183-62ce-45c9-9e9c-718b7f2f1c6c",
+  "gender": "female",
+  "age": 85,
+  "marital_status": "widower/widow",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Božena",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1939-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "český film",
+    "křížovky",
+    "malování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Kohoutova1938",
+    "BozenaFilm58",
+    "krizovky2020",
+    "Malovani_10",
+    "Praha1938",
+    "Bozena!123",
+    "ceskyfilm58",
+    "KohoutovaKrizovky",
+    "Malovani1938",
+    "Bozena_10cerven"
+  ],
+  "favorite_hobby": "český film"
+}

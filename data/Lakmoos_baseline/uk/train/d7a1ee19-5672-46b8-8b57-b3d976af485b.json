@@ -1,0 +1,35 @@
+{
+  "id": "d7a1ee19-5672-46b8-8b57-b3d976af485b",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Lexus",
+  "self_first_name": "Graham",
+  "self_last_name": "McAllister",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "McAllister",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travel",
+    "photography"
+  ],
+  "pets": [],
+  "company": "Highland Digital Solutions",
+  "previous_passwords": [
+    "Graham1977",
+    "Fiona4ever",
+    "Lexus2020",
+    "McAllister123",
+    "Highlands!21",
+    "Travel2022",
+    "GenesisGV70",
+    "Fiona_77",
+    "Hiking4Life",
+    "Scotland!1"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1978-11-23"
+}

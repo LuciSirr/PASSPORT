@@ -1,0 +1,39 @@
+{
+  "id": "76ce688d-ad24-4d09-abf8-448700987b12",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Harriet",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Ashcombe",
+  "children": [],
+  "interests": [
+    "great british bake off",
+    "yoga",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Milo2019",
+    "BakeOff123",
+    "Ashcombe92",
+    "YogaCat!14",
+    "Harriet!2020",
+    "GBBO_Milo",
+    "Gardening4Life",
+    "Oliver1990",
+    "AshcombeBake92"
+  ],
+  "favorite_hobby": "great british bake off",
+  "birth_date": "1992-07-14"
+}

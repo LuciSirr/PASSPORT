@@ -1,0 +1,35 @@
+{
+  "id": "2f201fb5-fcbc-4859-8818-73bae6263d6b",
+  "gender": "male",
+  "age": 11,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "lego"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Callum2013",
+    "Hollingsworth11",
+    "Liverpool123",
+    "LegoMaster7",
+    "Football4Life",
+    "GamerBoy2022",
+    "Callum!NW",
+    "Holl1ngsW0rth",
+    "F00tball!",
+    "Callum_lego"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2015-02-15"
+}

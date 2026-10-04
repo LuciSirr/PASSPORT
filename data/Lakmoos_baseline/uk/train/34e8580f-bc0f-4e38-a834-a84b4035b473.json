@@ -1,0 +1,34 @@
+{
+  "id": "34e8580f-bc0f-4e38-a834-a84b4035b473",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Hyundai",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "motoring",
+    "walking"
+  ],
+  "pets": [],
+  "company": "Northwest Executive Solutions",
+  "previous_passwords": [
+    "Graham1958",
+    "Margaret66",
+    "Ioniq2021",
+    "Porsche911!",
+    "Gardening123",
+    "Hollingsworth12",
+    "Motoring22",
+    "NorthwestExec1",
+    "Walking2024"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1959-08-18"
+}

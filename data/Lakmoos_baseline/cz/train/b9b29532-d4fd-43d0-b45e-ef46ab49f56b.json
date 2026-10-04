@@ -1,0 +1,35 @@
+{
+  "id": "b9b29532-d4fd-43d0-b45e-ef46ab49f56b",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "widower/widow",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "křížovky",
+    "vaření",
+    "facebook"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimír1954",
+    "Šebesta22",
+    "krizovky123",
+    "Globus998",
+    "teta464",
+    "vaření2020",
+    "hradeckralove70",
+    "facebook1",
+    "Superb2018",
+    "McDonalds219"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1956-03-05"
+}

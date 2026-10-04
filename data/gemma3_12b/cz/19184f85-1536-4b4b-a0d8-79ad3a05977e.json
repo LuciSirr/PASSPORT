@@ -1,0 +1,53 @@
+{
+  "id": "19184f85-1536-4b4b-a0d8-79ad3a05977e",
+  "age": 41,
+  "birth_date": "1985-09-22",
+  "marital_status": "married",
+  "region": "Hulín",
+  "nationality": "czech",
+  "company": "Blažková",
+  "car_brand": "Kia",
+  "self_first_name": "Marcel",
+  "self_last_name": "Brož",
+  "partner_first_name": "Kristýna",
+  "partner_last_name": "Brožová",
+  "children": [
+    {
+      "first_name": "Daniel",
+      "last_name": "Brož"
+    },
+    {
+      "first_name": "Vlasta",
+      "last_name": "Brož"
+    },
+    {
+      "first_name": "Stanislava",
+      "last_name": "Brožová"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Agáta"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivovarnictví",
+    "hudba Karla Gotta",
+    "rybaření",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "KarlaGotta85",
+    "Daniel_Agata22",
+    "KiaTuristika1985",
+    "VlastaRybář!",
+    "StanislavaBrozova23",
+    "KristynaHulin",
+    "Agata_Pivo!",
+    "MessiFan88",
+    "TuristikaDaniel",
+    "KarlaGottaTrip"
+  ]
+}

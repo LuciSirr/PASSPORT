@@ -1,0 +1,35 @@
+{
+  "id": "83ef04a0-fe93-46d0-8213-2fb3e3025a79",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "married",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "móda",
+    "seriály",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Pardubická sociální péče s.r.o.",
+  "previous_passwords": [
+    "Iveta1988",
+    "kofola2020",
+    "VeselaPardubice1",
+    "bonprix123",
+    "svatba2024",
+    "Petr88!",
+    "moda_321",
+    "Seri4ly2023",
+    "Nakupovani!",
+    "Vesela_987"
+  ],
+  "favorite_hobby": "móda",
+  "birth_date": "1990-03-28"
+}

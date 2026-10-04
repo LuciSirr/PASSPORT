@@ -1,0 +1,40 @@
+{
+  "id": "b6a7d64b-2e00-4a4f-b539-53043ff1b22b",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Audi",
+  "self_first_name": "Rainer",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Ute",
+  "partner_last_name": "Kronenberg",
+  "children": [],
+  "interests": [
+    "reisen",
+    "autos",
+    "musik"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Max"
+    }
+  ],
+  "company": "Kronenberg Beratung & Handel",
+  "previous_passwords": [
+    "Rainer1960",
+    "Ute2020!",
+    "Max123",
+    "Kronenberg_5000",
+    "AudiQ5Sportback21",
+    "Reisen07",
+    "Musik_1988",
+    "Sparkasse253",
+    "Nordrhein2023",
+    "Sommerurlaub!"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1961-10-15"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "64718c5d-7d07-43a6-b7a5-a6444ab5f6d0",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "televize",
+    "houbaření",
+    "křížovky",
+    "streamování",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Jihočeské lesy s.r.o.",
+  "previous_passwords": [
+    "Radek1981",
+    "PetraRadek2020",
+    "Vesely59",
+    "BytCB2023",
+    "Houbar2022",
+    "Petra1234",
+    "Krizovky!",
+    "Lidl976",
+    "Televize2021",
+    "CBudějovice81"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1983-03-28"
+}

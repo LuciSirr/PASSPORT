@@ -1,0 +1,44 @@
+{
+  "id": "7a345b93-898d-4424-a856-1b7d2a91f732",
+  "age": 47,
+  "birth_date": "1979-10-01",
+  "marital_status": "single",
+  "region": "Ahaus",
+  "nationality": "german",
+  "company": "Trüb GmbH",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Sibylla",
+  "self_last_name": "Schüler",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Irina",
+      "last_name": "Schüler"
+    },
+    {
+      "first_name": "Elise",
+      "last_name": "Schüler"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Autos",
+    "Kochen",
+    "Fotografie",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "IrinaElise79!",
+    "Wanderlust2024",
+    "VW_Ahaus1979",
+    "MessiFanSibylla",
+    "FotografieAhaus",
+    "KochenMitLiebe",
+    "VolkswagenIrina",
+    "AhausWanderer!",
+    "EliseFoto2010",
+    "JoeRogan79ss"
+  ]
+}

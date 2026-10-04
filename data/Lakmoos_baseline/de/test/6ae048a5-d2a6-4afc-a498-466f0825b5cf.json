@@ -1,0 +1,35 @@
+{
+  "id": "6ae048a5-d2a6-4afc-a498-466f0825b5cf",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Lukas",
+  "self_last_name": "Krause",
+  "birth_date": "1999-06-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "stranger things",
+    "bundesliga",
+    "fifa"
+  ],
+  "pets": [],
+  "company": "Krause Innovations GmbH",
+  "previous_passwords": [
+    "Lukas1999",
+    "Krause!14",
+    "strangerthings2020",
+    "bundesliga123",
+    "FifaKrause99",
+    "Stranger_Things14",
+    "KrauseFifa!",
+    "Bundesliga_99",
+    "LukasFifa2022",
+    "Krause!Stranger"
+  ],
+  "favorite_hobby": "stranger things"
+}

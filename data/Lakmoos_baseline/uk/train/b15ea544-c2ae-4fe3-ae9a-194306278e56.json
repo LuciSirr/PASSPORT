@@ -1,0 +1,35 @@
+{
+  "id": "b15ea544-c2ae-4fe3-ae9a-194306278e56",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Škoda",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "travelling",
+    "cycling",
+    "photography"
+  ],
+  "pets": [],
+  "company": "Westfield Financial Services",
+  "previous_passwords": [
+    "Skoda2019",
+    "Hollis85",
+    "Callum999",
+    "WestMidlands1",
+    "Scala!2020",
+    "Travel123",
+    "Sophie29",
+    "BootSize6",
+    "Cycling2022",
+    "Hollis!19"
+  ],
+  "favorite_hobby": "travelling",
+  "birth_date": "1997-02-27"
+}

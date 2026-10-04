@@ -1,0 +1,40 @@
+{
+  "id": "62fbf897-3438-47bd-89e5-2690d89abc1d",
+  "gender": "male",
+  "age": 46,
+  "marital_status": "married",
+  "region": "hamburg",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "birth_date": "1978-06-12",
+  "partner_first_name": "Claudia",
+  "partner_last_name": "Krause",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "nordsee urlaub"
+  ],
+  "pets": [],
+  "company": "Krause & Partner Unternehmensberatung",
+  "previous_passwords": [
+    "Lukas2014",
+    "Tatort!78",
+    "Krause123",
+    "Claudia1978",
+    "Hamburg_2020",
+    "Bund3sliga12",
+    "Nordsee!78",
+    "JensKrause78",
+    "TatortLukas10",
+    "Krause!Claudia"
+  ],
+  "favorite_hobby": "tatort"
+}

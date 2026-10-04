@@ -1,0 +1,53 @@
+{
+  "id": "fd1f86c5-9a0c-405d-b552-4c42eb42b2a1",
+  "age": 61,
+  "birth_date": "1965-06-21",
+  "marital_status": "married",
+  "region": "Police nad Metují",
+  "nationality": "czech",
+  "company": "Šimek s.r.o.",
+  "car_brand": "Renault",
+  "self_first_name": "Jiří",
+  "self_last_name": "Horák",
+  "partner_first_name": "Eliška",
+  "partner_last_name": "Horáková",
+  "children": [
+    {
+      "first_name": "Bedřich",
+      "last_name": "Horák"
+    },
+    {
+      "first_name": "Anežka",
+      "last_name": "Horáková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Drahoslav"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Ivan"
+    }
+  ],
+  "interests": [
+    "turistika v Broumovsku",
+    "zahradničení",
+    "sledování hokeje",
+    "chalupaření",
+    "vaření české kuchyně"
+  ],
+  "previous_passwords": [
+    "Broumovsko65!",
+    "RoverRenault61",
+    "HorakTuristika21",
+    "Eliška2025!",
+    "HokejBroumov",
+    "Zahrada65_",
+    "VareniCeske15",
+    "IvanHamster61",
+    "Police65Renault",
+    "Drahoslav61!"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "9a1d4bc2-da21-4bd2-9d2c-f624b6e31587",
+  "age": 46,
+  "birth_date": "1980-03-19",
+  "marital_status": "married",
+  "region": "Holýšov",
+  "nationality": "czech",
+  "company": "Horák Doležalová a.s.",
+  "car_brand": "BMW",
+  "self_first_name": "Růžena",
+  "self_last_name": "Jelínková",
+  "partner_first_name": "Patrik",
+  "partner_last_name": "Jelínka",
+  "children": [
+    {
+      "first_name": "Marek",
+      "last_name": "Jelínka"
+    },
+    {
+      "first_name": "Ladislav",
+      "last_name": "Havlíček"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Rostislav"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "historie",
+    "pivo",
+    "hudba folku"
+  ],
+  "previous_passwords": [
+    "Rostislav2020",
+    "TuristikaMarek!",
+    "BMWHistory80",
+    "PatrikHolysov",
+    "MarekFishing1980",
+    "LadislavFolk!",
+    "RuzenaRybar!",
+    "HolysovLadislav",
+    "MessiTuristika",
+    "BMW_Ruzena80"
+  ]
+}

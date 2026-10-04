@@ -1,0 +1,34 @@
+{
+  "id": "57395d6f-c512-4d3e-b081-844f9715bc82",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Ashcombe",
+  "children": [],
+  "interests": [
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Fiona1963",
+    "Ashcombe11",
+    "Graham123",
+    "Travel!2020",
+    "Reading4Fun",
+    "EastMidlands61",
+    "Gardening_1",
+    "FionaGraham",
+    "Ashcombe!61"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1965-01-11"
+}

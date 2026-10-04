@@ -1,0 +1,40 @@
+{
+  "id": "4b5eb15a-7603-4108-82bc-e555b365571c",
+  "age": 27,
+  "birth_date": "1999-09-07",
+  "marital_status": "divorced",
+  "region": "Benátky nad Jizerou",
+  "nationality": "czech",
+  "company": "Vávrová",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Jozef",
+  "self_last_name": "Pavlíček",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Květoslava"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "vaření",
+    "hraní her",
+    "cyklistika"
+  ],
+  "previous_passwords": [
+    "Messi1999!",
+    "HokejBenatky27",
+    "Mercedes99",
+    "Kvetoslava_99",
+    "Fotbal07J",
+    "Vaření?",
+    "GamerJozef27",
+    "Cyklo1999",
+    "Benatky_Messi",
+    "Pasta09!"
+  ]
+}

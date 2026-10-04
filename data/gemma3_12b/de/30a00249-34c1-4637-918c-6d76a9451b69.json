@@ -1,0 +1,40 @@
+{
+  "id": "30a00249-34c1-4637-918c-6d76a9451b69",
+  "age": 30,
+  "birth_date": "1996-08-29",
+  "marital_status": "married",
+  "region": "Guben",
+  "nationality": "german",
+  "company": "Juncken KG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Deborah",
+  "self_last_name": "Schäfer",
+  "partner_first_name": "Laszlo",
+  "partner_last_name": "Schäfer",
+  "children": [
+    {
+      "first_name": "Augusta",
+      "last_name": "Schäfer"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Metal Musik",
+    "Wandern",
+    "Fotografie",
+    "Gaming"
+  ],
+  "previous_passwords": [
+    "Messi2019Augusta",
+    "MetalMusik_96",
+    "VW_Guben_Foto!",
+    "AugustaLaszloWandern",
+    "GamingFCBayern88",
+    "Messi_0829",
+    "Metallica_Schäfer",
+    "Wanderlust_96",
+    "FotografieAugusta21",
+    "VolkswagenMessi!"
+  ]
+}

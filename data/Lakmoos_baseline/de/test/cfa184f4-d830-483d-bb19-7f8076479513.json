@@ -1,0 +1,39 @@
+{
+  "id": "cfa184f4-d830-483d-bb19-7f8076479513",
+  "gender": "female",
+  "age": 47,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Škoda",
+  "self_first_name": "Katrin",
+  "self_last_name": "Kuhn",
+  "birth_date": "1977-05-14",
+  "partner_first_name": "Jens",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "tatort",
+    "nordic walking",
+    "krimis"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Kuhn & Partner Unternehmensberatung",
+  "previous_passwords": [
+    "Kuhn1977",
+    "Tatort!77",
+    "Minka2020",
+    "Nordic123",
+    "KrimiKuhn",
+    "Jens1975",
+    "Minka!14",
+    "TatortKatrin",
+    "Kuhn_Minka77"
+  ],
+  "favorite_hobby": "tatort"
+}

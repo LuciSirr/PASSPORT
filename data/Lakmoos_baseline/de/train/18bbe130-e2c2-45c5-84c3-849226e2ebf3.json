@@ -1,0 +1,35 @@
+{
+  "id": "18bbe130-e2c2-45c5-84c3-849226e2ebf3",
+  "gender": "female",
+  "age": 52,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heike",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobücher",
+    "kochen"
+  ],
+  "pets": [],
+  "company": "Rheinland Gastfreundschaft GmbH",
+  "previous_passwords": [
+    "Heike1972",
+    "Kronenberg123",
+    "Sommerurlaub07",
+    "Reisen!2022",
+    "Samsung_52",
+    "NRW1988",
+    "Gastfreundschaft1",
+    "Kochen2020",
+    "Heike!Reisen",
+    "Urlaub7.4"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1973-12-18"
+}

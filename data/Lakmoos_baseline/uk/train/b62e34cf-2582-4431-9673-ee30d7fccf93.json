@@ -1,0 +1,39 @@
+{
+  "id": "b62e34cf-2582-4431-9673-ee30d7fccf93",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gillian",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Malcolm",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "gardening",
+    "travel",
+    "antiques"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Hollis Homewares",
+  "previous_passwords": [
+    "Gillian1963",
+    "Baxter123",
+    "Hollis11",
+    "Malcolm63",
+    "Travel4Fun",
+    "Gardening!1",
+    "Antiques2020",
+    "Baxter!63",
+    "Homewares2022"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1965-03-18"
+}

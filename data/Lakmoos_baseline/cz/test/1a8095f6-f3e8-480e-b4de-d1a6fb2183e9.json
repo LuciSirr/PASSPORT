@@ -1,0 +1,40 @@
+{
+  "id": "1a8095f6-f3e8-480e-b4de-d1a6fb2183e9",
+  "gender": "male",
+  "age": 38,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1986-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "fotbal",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Strojírny Beroun s.r.o.",
+  "previous_passwords": [
+    "Matej2019",
+    "Kohout86",
+    "Beroun123",
+    "cestovani2020",
+    "RadekMatěj19",
+    "fotbal_86",
+    "netflix2023",
+    "K0h0ut!17",
+    "MatějKohout4",
+    "Radek!cestovani"
+  ],
+  "favorite_hobby": "cestování"
+}

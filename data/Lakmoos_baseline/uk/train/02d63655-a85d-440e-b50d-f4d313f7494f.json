@@ -1,0 +1,35 @@
+{
+  "id": "02d63655-a85d-440e-b50d-f4d313f7494f",
+  "gender": "female",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Elliot",
+  "partner_last_name": "Morris",
+  "children": [],
+  "interests": [
+    "yoga",
+    "baking",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "Hollis Enterprise Solutions",
+  "previous_passwords": [
+    "Imogen98",
+    "GrandlandX2024",
+    "Opel1598!",
+    "Hollis15000",
+    "Yoga123",
+    "Elliot2021",
+    "EastMidlands1",
+    "Baking4Life",
+    "Morris_24",
+    "Hollis!2024"
+  ],
+  "favorite_hobby": "yoga",
+  "birth_date": "2002-03-25"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "044ff7ca-023e-451f-9e6b-d349e711684b",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "divorced",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šimková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "kultura",
+    "digitální"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Fabia2003",
+    "Lidl639",
+    "Zlin56",
+    "Hame123",
+    "Tesco770",
+    "Micka2020",
+    "Cteni!56",
+    "Simkova_1968",
+    "Kultura77",
+    "Micka_1"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1969-04-20"
+}

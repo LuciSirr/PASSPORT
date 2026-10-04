@@ -1,0 +1,31 @@
+{
+  "id": "f048cc15-a7c0-4d4a-adaa-7c6ae0bb79bf",
+  "gender": "male",
+  "age": 0,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Albie",
+  "self_last_name": "Fenwick",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dinosaurs"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Albie2024",
+    "Fenwick123",
+    "DinoFan!",
+    "Drawing4Fun",
+    "Albie_dino",
+    "Fenwick24",
+    "Albie!24"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2026-02-23"
+}

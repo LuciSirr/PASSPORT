@@ -1,0 +1,35 @@
+{
+  "id": "7bedf374-e110-4dff-b7ab-4a8c4d9c5924",
+  "age": 22,
+  "birth_date": "2004-10-09",
+  "marital_status": "married",
+  "region": "Stráž pod Ralskem",
+  "nationality": "czech",
+  "company": "Hájková s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Lumír",
+  "self_last_name": "Malý",
+  "partner_first_name": "Natálie",
+  "partner_last_name": "Malá",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hraní her",
+    "poslech hudby",
+    "fotbal",
+    "cestování po Česku",
+    "fitness"
+  ],
+  "previous_passwords": [
+    "Skoda2004",
+    "Nati!2004",
+    "Maly_09",
+    "Hrajeme24",
+    "MessiFut1",
+    "CzechTrip24",
+    "Music2004!",
+    "Fitness09",
+    "Natalie_Skoda",
+    "FCBayern24"
+  ]
+}

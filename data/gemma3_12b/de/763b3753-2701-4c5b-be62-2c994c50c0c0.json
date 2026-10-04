@@ -1,0 +1,57 @@
+{
+  "id": "763b3753-2701-4c5b-be62-2c994c50c0c0",
+  "age": 38,
+  "birth_date": "1988-08-03",
+  "marital_status": "married",
+  "region": "Bad Kreuznach",
+  "nationality": "german",
+  "company": "Vogt Wähner AG",
+  "car_brand": "Seat",
+  "self_first_name": "Hiltrud",
+  "self_last_name": "Metz",
+  "partner_first_name": "Stavros",
+  "partner_last_name": "Metz",
+  "children": [
+    {
+      "first_name": "Alex",
+      "last_name": "Metz"
+    },
+    {
+      "first_name": "Faruk",
+      "last_name": "Metz"
+    },
+    {
+      "first_name": "Heidelore",
+      "last_name": "Metz"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Fatih"
+    },
+    {
+      "pet_type": "ferret",
+      "pet_name": "Natalija"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Deutsche Filme",
+    "Autorenlesungen"
+  ],
+  "previous_passwords": [
+    "Messi1988!",
+    "WandernFaruk23",
+    "SeatKochen_86",
+    "DeutscheFilmeHeidelore",
+    "AlexAutorenlesungen!",
+    "NatalijaBadKreuznach",
+    "FatihStavros77",
+    "MessiKochen2024",
+    "WandernHeidelore_88",
+    "AutorenlesungenSeat"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2bb91214-ba4c-4733-a37f-e6e811dae732",
+  "age": 44,
+  "birth_date": "1982-12-25",
+  "marital_status": "divorced",
+  "region": "Netolice",
+  "nationality": "czech",
+  "company": "Havel s.r.o.",
+  "car_brand": "BMW",
+  "self_first_name": "Radoslav",
+  "self_last_name": "Němec",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "historie",
+    "pivovarské značky",
+    "regionální folklór"
+  ],
+  "previous_passwords": [
+    "NetoliceRybář82",
+    "BMWturistika25",
+    "HistoryPivovary!",
+    "RadoslavMessi1982",
+    "TuristikaPlzen!",
+    "RegionFolklór_Rad",
+    "RybarNetolice2024",
+    "PivovarskeZnačky!82",
+    "BMWhistory_44",
+    "TuristikaRadoslav"
+  ]
+}

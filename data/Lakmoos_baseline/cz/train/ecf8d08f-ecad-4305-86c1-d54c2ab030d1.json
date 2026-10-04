@@ -1,0 +1,30 @@
+{
+  "id": "ecf8d08f-ecad-4305-86c1-d54c2ab030d1",
+  "gender": "male",
+  "age": 4,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "autíčka",
+    "pohádky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "matej2019",
+    "auticko123",
+    "maminka",
+    "plzenko",
+    "skolka2023"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2021-11-26"
+}

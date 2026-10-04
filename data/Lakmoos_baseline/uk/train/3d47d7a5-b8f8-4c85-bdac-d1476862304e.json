@@ -1,0 +1,39 @@
+{
+  "id": "3d47d7a5-b8f8-4c85-bdac-d1476862304e",
+  "gender": "male",
+  "age": 44,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Hyundai",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travelling",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Yorkshire Venture Solutions",
+  "previous_passwords": [
+    "Baxter2019",
+    "Hollingsworth44",
+    "Rachel4Ever",
+    "Tucson2020!",
+    "Yorkshire123",
+    "Gareth_1979",
+    "Hiking4Life",
+    "Baxter!44",
+    "RachelBaxter1"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1981-07-16"
+}

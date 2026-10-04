@@ -1,0 +1,35 @@
+{
+  "id": "b70bfc39-74f0-4fed-b4c2-3f353fcc091d",
+  "gender": "female",
+  "age": 31,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Annika",
+  "self_last_name": "Krause",
+  "partner_first_name": "Felix",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "reisen",
+    "musik",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "Bildungszentrum Niedersachsen",
+  "previous_passwords": [
+    "Annika1992",
+    "FelixKrause123",
+    "Reisen2022!",
+    "Bildung_3000",
+    "Krause31",
+    "Musiklieb3",
+    "Niedersachsen!",
+    "OktoberUrlaub",
+    "Sparkasse253",
+    "Lesen_1"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1995-03-18"
+}

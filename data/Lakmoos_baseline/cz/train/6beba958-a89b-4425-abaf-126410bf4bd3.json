@@ -1,0 +1,39 @@
+{
+  "id": "6beba958-a89b-4425-abaf-126410bf4bd3",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Vránka",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "kreslení",
+    "cyklistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej20012",
+    "fotbal123",
+    "VranKa2023",
+    "Rexik11",
+    "usti123",
+    "skola2022",
+    "Kresleni2021",
+    "Cyklo_07",
+    "Rex!2020"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2013-05-28"
+}

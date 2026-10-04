@@ -1,0 +1,48 @@
+{
+  "id": "913d3942-99fd-465d-995b-219c18c6b909",
+  "age": 28,
+  "birth_date": "1998-02-09",
+  "marital_status": "married",
+  "region": "Gordonport",
+  "nationality": "english",
+  "company": "Lee Group",
+  "car_brand": "Kia",
+  "self_first_name": "Katherine",
+  "self_last_name": "Charlton",
+  "partner_first_name": "Arthur",
+  "partner_last_name": "Charlton",
+  "children": [
+    {
+      "first_name": "Valerie",
+      "last_name": "Charlton"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Charlton"
+    },
+    {
+      "first_name": "Rachael",
+      "last_name": "Charlton"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Photography",
+    "Hiking",
+    "Indie Music",
+    "Board Games",
+    "Local Craft Beer"
+  ],
+  "previous_passwords": [
+    "RachaelHike28!",
+    "ValerieKia1998",
+    "MarkCharltonPhoto",
+    "IndieBrewArthur",
+    "BoardGameKc9",
+    "GordonportHike!",
+    "MessiCharlton23",
+    "KathCharlton_Photo",
+    "HikingBrewKc",
+    "KiaValerie1998"
+  ]
+}

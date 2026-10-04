@@ -1,0 +1,48 @@
+{
+  "id": "e3fbde30-bf15-477b-9870-2c9a5190ffed",
+  "age": 32,
+  "birth_date": "1994-02-07",
+  "marital_status": "married",
+  "region": "Joelburgh",
+  "nationality": "english",
+  "company": "Kay Group",
+  "car_brand": "Skoda",
+  "self_first_name": "Tony",
+  "self_last_name": "Griffiths",
+  "partner_first_name": "Emma",
+  "partner_last_name": "Griffiths",
+  "children": [
+    {
+      "first_name": "Shirley",
+      "last_name": "Griffiths"
+    },
+    {
+      "first_name": "Kate",
+      "last_name": "Griffiths"
+    },
+    {
+      "first_name": "Albert",
+      "last_name": "Griffiths"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "football",
+    "gaming",
+    "coffee culture",
+    "travel",
+    "podcasts"
+  ],
+  "previous_passwords": [
+    "EmmaMessi94!",
+    "SkodaRovers7",
+    "LatteTony32",
+    "ShirleyFifa24",
+    "JoeRogan02!",
+    "KateSpotify94",
+    "TravelSkoda7",
+    "AlbertKane94",
+    "YorkshirePod32",
+    "CoffeeEmma7!"
+  ]
+}

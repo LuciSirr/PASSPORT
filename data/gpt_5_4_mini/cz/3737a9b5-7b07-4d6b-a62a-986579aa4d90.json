@@ -1,0 +1,49 @@
+{
+  "id": "3737a9b5-7b07-4d6b-a62a-986579aa4d90",
+  "age": 74,
+  "birth_date": "1952-06-25",
+  "marital_status": "divorced",
+  "region": "Horní Slavkov",
+  "nationality": "czech",
+  "company": "Bednář",
+  "car_brand": "Škoda",
+  "self_first_name": "Samuel",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Jaromír",
+      "last_name": "Konečný"
+    },
+    {
+      "first_name": "Šárka",
+      "last_name": "Konečná"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Denisa"
+    }
+  ],
+  "interests": [
+    "zahradničení",
+    "sledování hokeje",
+    "turistika v Krušných horách",
+    "čtení české literatury",
+    "kutilství"
+  ],
+  "previous_passwords": [
+    "Hokej1952!",
+    "Turistika52",
+    "Kutilstvi74",
+    "Skoda1952",
+    "DenisaHorse7",
+    "ZahradaKonecny",
+    "KrusneHory52",
+    "Cteni1952!",
+    "JarmilaKonecna74",
+    "HorniSlavkov52"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "1a341ef9-4c3b-4c17-a880-66f04115b271",
+  "gender": "male",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Albie",
+  "self_last_name": "Fenwick",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "dinosaurs",
+    "drawing",
+    "puzzles"
+  ],
+  "pets": [
+    {
+      "pet_type": "other",
+      "pet_name": "Bunny"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Albie2021",
+    "Bunny123",
+    "Dinosaurs4",
+    "Fenwick21",
+    "Drawing!1",
+    "Puzzle_3",
+    "AlbieBunny",
+    "SouthWest2021"
+  ],
+  "favorite_hobby": "dinosaurs",
+  "birth_date": "2022-10-23"
+}

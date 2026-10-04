@@ -1,0 +1,35 @@
+{
+  "id": "165f9d59-cb79-4fa0-9dd4-a719d3a7e1cc",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "seriály",
+    "nakupování",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "AutoServis Vysočina",
+  "previous_passwords": [
+    "Ivana1974",
+    "PetrVesely123",
+    "Zahrada2020",
+    "Seriály!77",
+    "Vesela35",
+    "Kodiaq2016",
+    "Albert_35",
+    "Nakupovani2021",
+    "NetflixIvana",
+    "Vysočina88"
+  ],
+  "favorite_hobby": "seriály",
+  "birth_date": "1976-01-30"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a84672a3-f8cb-4fdc-ae46-22bf0d1213ce",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "divorced",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Libuše",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "křížovky",
+    "procházky",
+    "televize"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Libuse1959",
+    "Vesela64",
+    "Krizovky123",
+    "RajecVoda",
+    "Penny874",
+    "Bonprix2022",
+    "Televize11",
+    "Libuse!59",
+    "Netflix64"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1961-09-18"
+}

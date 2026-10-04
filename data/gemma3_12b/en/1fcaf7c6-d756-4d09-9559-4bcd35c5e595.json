@@ -1,0 +1,49 @@
+{
+  "id": "1fcaf7c6-d756-4d09-9559-4bcd35c5e595",
+  "age": 38,
+  "birth_date": "1988-03-28",
+  "marital_status": "married",
+  "region": "New Joycechester",
+  "nationality": "english",
+  "company": "Allen Inc",
+  "car_brand": "Audi",
+  "self_first_name": "Kieran",
+  "self_last_name": "Bennett",
+  "partner_first_name": "Francesca",
+  "partner_last_name": "Bennett",
+  "children": [
+    {
+      "first_name": "Kathleen",
+      "last_name": "Bennett"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Eric"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Hugh"
+    }
+  ],
+  "interests": [
+    "Hiking",
+    "Indie Music",
+    "Local Craft Beer",
+    "Photography",
+    "Board Games"
+  ],
+  "previous_passwords": [
+    "KathleenEric88!",
+    "AudiHike2024",
+    "FranzKafka_Joyce",
+    "MessiJoyceBeer",
+    "HughBennettPhoto",
+    "IndieBrew1988",
+    "EricFrancesca_",
+    "NewJoyceHike!",
+    "KathleenBoard22",
+    "AudiFranzKafka"
+  ]
+}

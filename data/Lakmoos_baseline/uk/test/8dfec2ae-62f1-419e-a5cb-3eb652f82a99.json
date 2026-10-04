@@ -1,0 +1,45 @@
+{
+  "id": "8dfec2ae-62f1-419e-a5cb-3eb652f82a99",
+  "gender": "male",
+  "age": 35,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollingsworth",
+  "children": [
+    {
+      "first_name": "Isla",
+      "last_name": "Hollingsworth"
+    }
+  ],
+  "interests": [
+    "top gear",
+    "aston villa",
+    "pub quizzes"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Midlands Hospitality Group",
+  "previous_passwords": [
+    "Baxter2019",
+    "AstonVilla89",
+    "TopGear!15",
+    "Hollingsworth123",
+    "PubQuiz4",
+    "Sophie1989",
+    "BaxterVilla!",
+    "CallumJune15",
+    "Midlands2020",
+    "Villa4Baxter"
+  ],
+  "favorite_hobby": "top gear",
+  "birth_date": "1989-06-15"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "8444d274-5b32-473a-b23d-e7ee87420581",
+  "gender": "female",
+  "age": 31,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Nathan",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "baking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Imogen1993",
+    "Hollis123",
+    "Nathan4ever",
+    "London2020",
+    "TravelBug!",
+    "BakingQueen93",
+    "Reading4Fun",
+    "Imo_Nate2023",
+    "Hollis!31"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1994-04-15"
+}

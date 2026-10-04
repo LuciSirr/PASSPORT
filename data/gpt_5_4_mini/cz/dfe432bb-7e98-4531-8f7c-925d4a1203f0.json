@@ -1,0 +1,48 @@
+{
+  "id": "dfe432bb-7e98-4531-8f7c-925d4a1203f0",
+  "age": 40,
+  "birth_date": "1986-06-12",
+  "marital_status": "married",
+  "region": "Horní Jiřetín",
+  "nationality": "czech",
+  "company": "Horáková",
+  "car_brand": "Opel",
+  "self_first_name": "Eduard",
+  "self_last_name": "Novák",
+  "partner_first_name": "Světlana",
+  "partner_last_name": "Nováková",
+  "children": [
+    {
+      "first_name": "Renáta",
+      "last_name": "Nováková"
+    },
+    {
+      "first_name": "Markéta",
+      "last_name": "Nováková"
+    },
+    {
+      "first_name": "Pavlína",
+      "last_name": "Nováková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "hokej",
+    "vaření",
+    "zahrádkaření",
+    "sledování českých filmů"
+  ],
+  "previous_passwords": [
+    "Hokej1986!",
+    "Turistika12",
+    "Vareni_86",
+    "OpelHike40",
+    "Zahradka12!",
+    "CeskeFilmy86",
+    "Svetlana40!",
+    "Renta2026?",
+    "Marketa_12",
+    "Pavlina86!"
+  ]
+}

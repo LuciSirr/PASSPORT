@@ -1,0 +1,35 @@
+{
+  "id": "ad9bdfe9-d53b-44e6-8503-585208f4df1f",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "widower/widow",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Mercedes",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobücher",
+    "kochen"
+  ],
+  "pets": [],
+  "company": "Hessen Verwaltungsservice GmbH",
+  "previous_passwords": [
+    "Juergen1973",
+    "Krause!51",
+    "Mercedes300d",
+    "Hessen2024",
+    "Reisen123",
+    "Audiobuch2023",
+    "Kochabend!",
+    "Krause_5000",
+    "Verwaltung1978",
+    "AprilLiebling"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1975-02-02"
+}

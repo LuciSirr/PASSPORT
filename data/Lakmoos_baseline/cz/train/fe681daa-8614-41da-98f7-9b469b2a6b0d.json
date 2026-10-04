@@ -1,0 +1,36 @@
+{
+  "id": "fe681daa-8614-41da-98f7-9b469b2a6b0d",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Vránová",
+  "children": [],
+  "interests": [
+    "cestování",
+    "seriály",
+    "nakupování",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "Jihočeské strojírny s.r.o.",
+  "previous_passwords": [
+    "Iveta1989",
+    "PetrVranova123",
+    "Superb2000",
+    "Kofola123",
+    "Lidl2021",
+    "Bohemia79",
+    "Varení2020",
+    "Cestovani!89",
+    "Zasilkovna32",
+    "PetrIveta2023"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1993-06-27"
+}

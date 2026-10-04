@@ -1,0 +1,35 @@
+{
+  "id": "1d7a397f-bdbd-441b-9224-6a959c88c7ab",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "Mazda",
+  "self_first_name": "Gisela",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Manfred",
+  "partner_last_name": "Kronenberg",
+  "children": [],
+  "interests": [
+    "lesen",
+    "wandern",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Sachsen Management GmbH",
+  "previous_passwords": [
+    "Gisela1959",
+    "Manfred123",
+    "Kronenberg2020",
+    "MazdaCX30!",
+    "Sachsen!64",
+    "Lesen2022",
+    "Wandern_59",
+    "Sommerurlaub09",
+    "BKK_451",
+    "Audiobook7"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1962-03-26"
+}

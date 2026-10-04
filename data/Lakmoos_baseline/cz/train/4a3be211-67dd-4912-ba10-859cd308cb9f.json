@@ -1,0 +1,44 @@
+{
+  "id": "4a3be211-67dd-4912-ba10-859cd308cb9f",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "divorced",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "auta",
+    "nakupování",
+    "sledování"
+  ],
+  "pets": [],
+  "company": "Severočeské služby s.r.o.",
+  "previous_passwords": [
+    "Maty10Teri1",
+    "Vesely2020",
+    "Skoda2019",
+    "Usti43000",
+    "Kaufland99",
+    "Matěj2013",
+    "Tereza2022",
+    "Auta123",
+    "Veselak47",
+    "Kofola!2020"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1979-03-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "154479eb-182a-48b4-9cff-128cbe57c923",
+  "age": 27,
+  "birth_date": "1999-05-09",
+  "marital_status": "single",
+  "region": "Gräfenhainichen",
+  "nationality": "german",
+  "company": "Franke",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Leopold",
+  "self_last_name": "Thies",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Sieghard"
+    }
+  ],
+  "interests": [
+    "Musik Festivals",
+    "Fotografie",
+    "Wandern",
+    "Videospiele",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Sieghard99Fotos",
+    "Messi2024Wandern",
+    "VolkswagenFestivals!",
+    "Leopold_Wandern1999",
+    "GräfenhainichenMusik",
+    "fotografieSieghard",
+    "VideospieleLTD!",
+    "MessiGrafenhainichen",
+    "Lokalerfussball27",
+    "SieghardFoto2024"
+  ]
+}

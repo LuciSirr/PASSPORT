@@ -1,0 +1,39 @@
+{
+  "id": "e1db9002-1ed0-4610-a7bb-9c1ac582e0d9",
+  "gender": "female",
+  "age": 70,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "KIA",
+  "self_first_name": "Božena",
+  "self_last_name": "Krejzová",
+  "partner_first_name": "Vladimír",
+  "partner_last_name": "Krejza",
+  "children": [],
+  "interests": [
+    "malování",
+    "čtení",
+    "hudba"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Micka2021",
+    "Vladimir1975",
+    "Bozena79",
+    "Krejzova123",
+    "Malovani!22",
+    "Prague1979",
+    "Hudba321",
+    "TescoMoje",
+    "Hornbach123"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "1955-04-19"
+}

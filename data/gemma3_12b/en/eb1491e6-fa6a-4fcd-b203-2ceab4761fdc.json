@@ -1,0 +1,49 @@
+{
+  "id": "eb1491e6-fa6a-4fcd-b203-2ceab4761fdc",
+  "age": 55,
+  "birth_date": "1971-09-12",
+  "marital_status": "single",
+  "region": "Lake Bethanhaven",
+  "nationality": "english",
+  "company": "Mitchell LLC",
+  "car_brand": "Volvo",
+  "self_first_name": "Elaine",
+  "self_last_name": "Poole",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Paige",
+      "last_name": "Poole"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Sandra"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Carl"
+    }
+  ],
+  "interests": [
+    "Classic Rock Music",
+    "Gardening",
+    "Local History",
+    "Birdwatching",
+    "Genealogy"
+  ],
+  "previous_passwords": [
+    "LedZeppelin71",
+    "PaigeSandra2024",
+    "VolvoBethanhaven!",
+    "ClassicRock_Carl",
+    "GenealogyPoole",
+    "BirdsOfBethanhaven",
+    "HistoryPaige23",
+    "RingoStarr1971",
+    "GardeningSandra!",
+    "VolvoClassicRock"
+  ]
+}

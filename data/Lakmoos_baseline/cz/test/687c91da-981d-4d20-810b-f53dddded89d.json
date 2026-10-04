@@ -1,0 +1,39 @@
+{
+  "id": "687c91da-981d-4d20-810b-f53dddded89d",
+  "gender": "female",
+  "age": 55,
+  "marital_status": "divorced",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1969-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "české filmy",
+    "zahradničení",
+    "detektivky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Agro Lesy Hodonín",
+  "previous_passwords": [
+    "Jitka1969",
+    "Kohoutova80",
+    "Micka123",
+    "zahrada2020",
+    "detektivka77",
+    "ceskefilmy_69",
+    "Hodonin2022",
+    "Micka!69",
+    "zahradnicek12"
+  ],
+  "favorite_hobby": "české filmy"
+}

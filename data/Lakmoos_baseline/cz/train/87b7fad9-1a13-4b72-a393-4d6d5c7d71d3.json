@@ -1,0 +1,35 @@
+{
+  "id": "87b7fad9-1a13-4b72-a393-4d6d5c7d71d3",
+  "gender": "male",
+  "age": 61,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "kutilství",
+    "nakupování",
+    "sledovánífilmů"
+  ],
+  "pets": [],
+  "company": "AutoServis Veselý",
+  "previous_passwords": [
+    "Radomir1962",
+    "JitkaVesela61",
+    "SkodaKamiq2019",
+    "Kofola1972",
+    "CentralniByt60",
+    "LidlAlbert542",
+    "Kutil123",
+    "VeselyJitka2020",
+    "AutoServis2023",
+    "Nakupovani!"
+  ],
+  "favorite_hobby": "kutilství",
+  "birth_date": "1965-02-17"
+}

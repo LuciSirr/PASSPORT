@@ -1,0 +1,35 @@
+{
+  "id": "fe447177-4164-440e-8853-7e6045d7e3bf",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Genesis",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "podcasts",
+    "reisen",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Ingenieurtechnik NRW GmbH",
+  "previous_passwords": [
+    "Lennart1999",
+    "GenesisGV70!",
+    "Krause_123",
+    "Podcasts2022",
+    "Sophie4ever",
+    "NRW_44k",
+    "Wandern2021",
+    "Sparkasse253",
+    "Xiaomi_Android",
+    "Reisen!99"
+  ],
+  "favorite_hobby": "podcasts",
+  "birth_date": "2002-06-27"
+}

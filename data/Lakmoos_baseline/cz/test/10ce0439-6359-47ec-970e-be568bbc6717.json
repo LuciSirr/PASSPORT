@@ -1,0 +1,52 @@
+{
+  "id": "10ce0439-6359-47ec-970e-be568bbc6717",
+  "gender": "male",
+  "age": 46,
+  "marital_status": "married",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1978-06-14",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohout"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "cesky hokej",
+    "ceske filmy"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Zlínská výroba s.r.o.",
+  "previous_passwords": [
+    "Matej2010",
+    "Tereza14",
+    "AdamKohout06",
+    "Rex1234",
+    "Kohout1978",
+    "ceskyhokej2022",
+    "PetraRadek",
+    "zlinsky!hokej",
+    "Rex!2018",
+    "Kohout_filmy78"
+  ],
+  "favorite_hobby": "cesky hokej"
+}

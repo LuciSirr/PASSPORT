@@ -1,0 +1,34 @@
+{
+  "id": "0da697d0-6875-4a3e-bb18-0e7e45203c06",
+  "gender": "female",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Maya",
+  "partner_last_name": "Patel",
+  "children": [],
+  "interests": [
+    "reading",
+    "netball",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Fenland Student Services",
+  "previous_passwords": [
+    "Imogen2009",
+    "Netball123",
+    "Hollingsworth15",
+    "Fenland2024",
+    "Baking4Life",
+    "Maya!2023",
+    "EastGirl09",
+    "Reading_09",
+    "PatelMaya1"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2010-09-30"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c3206e67-ac68-4337-bb62-d68d6e0aa9c5",
+  "age": 50,
+  "birth_date": "1976-02-24",
+  "marital_status": "single",
+  "region": "Kardašova Řečice",
+  "nationality": "czech",
+  "company": "Němec Říha a.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Albert",
+  "self_last_name": "Mareš",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěkný film",
+    "historie",
+    "domácí vaření"
+  ],
+  "previous_passwords": [
+    "KardasovaRecice76!",
+    "TuristikaFilm24",
+    "VolkswagenRybář",
+    "HistorieAlbert76",
+    "PěknýFilm_Albert",
+    "RybarJosef24",
+    "AlbertMareš1976",
+    "Volkswagen_Film",
+    "Turistika1976!",
+    "HistorieRecice"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "d3b30675-0de5-4b58-99a0-9f06031a9d6e",
+  "gender": "female",
+  "age": 71,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "East Midlands Scientific Consultancy",
+  "previous_passwords": [
+    "Margaret1953",
+    "Misty123",
+    "Hollings3000",
+    "Peter53!",
+    "Gardening4",
+    "EastMidlands2020",
+    "Reading_71",
+    "MistyHollings",
+    "Hollings!1953",
+    "M4rg4r3t"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1955-03-12"
+}

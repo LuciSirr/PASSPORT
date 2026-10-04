@@ -1,0 +1,35 @@
+{
+  "id": "392587eb-4614-43f3-aaea-140654df99ff",
+  "age": 44,
+  "birth_date": "1982-01-04",
+  "marital_status": "married",
+  "region": "Velké Opatovice",
+  "nationality": "czech",
+  "company": "Tomanová",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Svatoslav",
+  "self_last_name": "Beránek",
+  "partner_first_name": "Ester",
+  "partner_last_name": "Beránková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "zahradničení",
+    "turistika",
+    "vaření",
+    "hokej"
+  ],
+  "previous_passwords": [
+    "Slavia82!",
+    "Hokej84_VW",
+    "EsterTuristika1",
+    "Zahrada44!",
+    "BeranekFotbal82",
+    "Volkswagen24!",
+    "VařeníVaření1",
+    "Sparta82!",
+    "KoloHiking44",
+    "BeranekHokej84"
+  ]
+}

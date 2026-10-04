@@ -1,0 +1,39 @@
+{
+  "id": "ee85293f-2c2b-4c26-b773-b62eb0a72938",
+  "gender": "female",
+  "age": 65,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Misty2015",
+    "Geoffrey65",
+    "Hollingsworth123",
+    "MarionKnits!",
+    "WestMidlands1",
+    "Gardening4U",
+    "Crossword_22",
+    "Misty!cat",
+    "Retired2020"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1960-12-13"
+}

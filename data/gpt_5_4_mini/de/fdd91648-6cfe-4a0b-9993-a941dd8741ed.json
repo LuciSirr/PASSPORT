@@ -1,0 +1,49 @@
+{
+  "id": "fdd91648-6cfe-4a0b-9993-a941dd8741ed",
+  "age": 46,
+  "birth_date": "1980-05-19",
+  "marital_status": "married",
+  "region": "Ingolstadt",
+  "nationality": "german",
+  "company": "Hörle",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Heinz-Otto",
+  "self_last_name": "Ullmann",
+  "partner_first_name": "Kreszentia",
+  "partner_last_name": "Ullmann",
+  "children": [
+    {
+      "first_name": "Edit",
+      "last_name": "Ullmann"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Carmelo"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Apollonia"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Radfahren",
+    "Heimatkunde",
+    "Biergarten"
+  ],
+  "previous_passwords": [
+    "Fussball1980!",
+    "Bayern19_Ingo",
+    "VWRadeln46",
+    "Wandern_Otti80",
+    "Biergarten19!",
+    "CarmeloRad80",
+    "Apollonia!46",
+    "Ingolstadt_80",
+    "Kreszenzia19",
+    "Heimatkunde46"
+  ]
+}

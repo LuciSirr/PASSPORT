@@ -1,0 +1,35 @@
+{
+  "id": "0a077eac-bd88-41ce-83d5-0e7f5e8a2677",
+  "gender": "male",
+  "age": 56,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Porsche",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "motoring",
+    "walking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Graham1968",
+    "Macan2014",
+    "Fiona123",
+    "Hollingsworth56",
+    "Porsche!10",
+    "EastMidlands_68",
+    "Gardening4",
+    "Walking2023",
+    "FionaHollingsworth",
+    "Motoring_1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1970-01-21"
+}

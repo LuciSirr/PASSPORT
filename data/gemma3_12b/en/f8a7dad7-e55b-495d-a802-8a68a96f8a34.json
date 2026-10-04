@@ -1,0 +1,44 @@
+{
+  "id": "f8a7dad7-e55b-495d-a802-8a68a96f8a34",
+  "age": 23,
+  "birth_date": "2003-06-28",
+  "marital_status": "divorced",
+  "region": "West Suzanneshire",
+  "nationality": "english",
+  "company": "Parsons-Hill",
+  "car_brand": "Nissan",
+  "self_first_name": "Elaine",
+  "self_last_name": "Walton",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Allan"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Louise"
+    }
+  ],
+  "interests": [
+    "Gaming (PC)",
+    "Indie Music",
+    "Hiking",
+    "Photography",
+    "Local Craft Beer"
+  ],
+  "previous_passwords": [
+    "StardewValley2003!",
+    "Allan_Hike23",
+    "NissanPix11",
+    "IndieBrewLouise",
+    "MessiWest2003",
+    "WestSuzanneshirePC",
+    "PhotoAllan28",
+    "HikingLouise!",
+    "StardewBrew23",
+    "ValheimNissan06"
+  ]
+}

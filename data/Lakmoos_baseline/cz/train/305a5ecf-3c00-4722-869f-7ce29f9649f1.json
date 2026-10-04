@@ -1,0 +1,33 @@
+{
+  "id": "305a5ecf-3c00-4722-869f-7ce29f9649f1",
+  "gender": "female",
+  "age": 0,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Eliška",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "puzzle"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "maminka2023",
+    "slunicko",
+    "vysocina123",
+    "eliska01",
+    "Malovani2024",
+    "Vesela123",
+    "Puzzle07",
+    "Slunicko!",
+    "Eliška2023"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2025-12-28"
+}

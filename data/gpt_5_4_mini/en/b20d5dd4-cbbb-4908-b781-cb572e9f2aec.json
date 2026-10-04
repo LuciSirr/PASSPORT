@@ -1,0 +1,35 @@
+{
+  "id": "b20d5dd4-cbbb-4908-b781-cb572e9f2aec",
+  "age": 38,
+  "birth_date": "1988-02-23",
+  "marital_status": "married",
+  "region": "New Jessica",
+  "nationality": "english",
+  "company": "White PLC",
+  "car_brand": "Ford",
+  "self_first_name": "Amber",
+  "self_last_name": "Wilson",
+  "partner_first_name": "Malcolm",
+  "partner_last_name": "Wilson",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "cooking",
+    "hiking",
+    "podcasts",
+    "fantasy football"
+  ],
+  "previous_passwords": [
+    "Halo88_Wilson",
+    "Jamie99Ford!",
+    "BBQHikes23",
+    "Rogan88_NewJ",
+    "MalcolmCook8",
+    "Fantasy88Mal",
+    "Skyrim23!Amber",
+    "HikeNook88",
+    "FordCook88!",
+    "WilsonPod23"
+  ]
+}

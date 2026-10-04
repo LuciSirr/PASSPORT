@@ -1,0 +1,35 @@
+{
+  "id": "ea8c977f-c07f-40fe-bdf1-44e80575200c",
+  "gender": "male",
+  "age": 46,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "cycling",
+    "travelling",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Westminster Strategy Group",
+  "previous_passwords": [
+    "Graham1978",
+    "Fiona123",
+    "Polestar2!",
+    "London2020",
+    "Cycling4Life",
+    "Hollingsworth88",
+    "Westminster22",
+    "Reading_1978",
+    "Travel70",
+    "FionaGraham!"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1980-03-18"
+}

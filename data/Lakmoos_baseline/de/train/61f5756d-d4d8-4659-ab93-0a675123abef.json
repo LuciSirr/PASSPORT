@@ -1,0 +1,43 @@
+{
+  "id": "61f5756d-d4d8-4659-ab93-0a675123abef",
+  "gender": "female",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lena",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Jonas",
+  "partner_last_name": "Kreutzmann",
+  "children": [
+    {
+      "first_name": "Marlene",
+      "last_name": "Kreutzmann"
+    },
+    {
+      "first_name": "Felix",
+      "last_name": "Kreutzmann"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "backen"
+  ],
+  "pets": [],
+  "company": "Bäckerei Sonnenschein",
+  "previous_passwords": [
+    "Marlene2011",
+    "Felix2013",
+    "Berlin123",
+    "LenaBacken!",
+    "Jonas_17",
+    "Kreutzmann2020",
+    "Sonnenschein42",
+    "Lesen4ever",
+    "FelixMarlene11",
+    "Backen_42000"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "2008-11-09"
+}

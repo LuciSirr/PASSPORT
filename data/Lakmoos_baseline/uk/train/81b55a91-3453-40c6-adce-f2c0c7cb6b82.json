@@ -1,0 +1,35 @@
+{
+  "id": "81b55a91-3453-40c6-adce-f2c0c7cb6b82",
+  "gender": "male",
+  "age": 54,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "travel",
+    "walking",
+    "history"
+  ],
+  "pets": [],
+  "company": "Westmoor Business Solutions",
+  "previous_passwords": [
+    "Graham1969",
+    "MercedesGLA10",
+    "Westmoor123",
+    "Fiona4ever",
+    "Hollis2020",
+    "Travel!21",
+    "History_54",
+    "Walking2022",
+    "Graham!Fiona",
+    "SouthWest1"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1971-08-23"
+}

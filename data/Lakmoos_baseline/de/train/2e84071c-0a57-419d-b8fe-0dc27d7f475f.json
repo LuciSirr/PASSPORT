@@ -1,0 +1,35 @@
+{
+  "id": "2e84071c-0a57-419d-b8fe-0dc27d7f475f",
+  "gender": "female",
+  "age": 37,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Mazda",
+  "self_first_name": "Annika",
+  "self_last_name": "Kreutzer",
+  "partner_first_name": "Markus",
+  "partner_last_name": "Kreutzer",
+  "children": [],
+  "interests": [
+    "reisen",
+    "lesen",
+    "yoga"
+  ],
+  "pets": [],
+  "company": "Ingenieurberatung Kreutzer",
+  "previous_passwords": [
+    "Annika1987",
+    "Markus123",
+    "Kreutzer8000",
+    "MazdaCX60!",
+    "Sommerurlaub22",
+    "Reisen2023",
+    "Yoga_1",
+    "Lesen@NRW",
+    "Sparkasse253",
+    "Apple2022"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1989-02-17"
+}

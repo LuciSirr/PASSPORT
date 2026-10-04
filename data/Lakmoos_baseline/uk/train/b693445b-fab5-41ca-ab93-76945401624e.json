@@ -1,0 +1,40 @@
+{
+  "id": "b693445b-fab5-41ca-ab93-76945401624e",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Škoda",
+  "self_first_name": "Gareth",
+  "self_last_name": "Morrison",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Morrison",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Eastfield Logistics",
+  "previous_passwords": [
+    "Gareth1983",
+    "HelenMilo21",
+    "Eastfield123",
+    "Morrison999",
+    "Cycling4Life",
+    "MiloCat!",
+    "Reading_2020",
+    "Gardening88",
+    "Helen4Gareth",
+    "Morr1s0n!"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1984-09-13"
+}

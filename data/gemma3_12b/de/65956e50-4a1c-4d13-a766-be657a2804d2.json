@@ -1,0 +1,44 @@
+{
+  "id": "65956e50-4a1c-4d13-a766-be657a2804d2",
+  "age": 19,
+  "birth_date": "2007-07-29",
+  "marital_status": "married",
+  "region": "Oberviechtach",
+  "nationality": "german",
+  "company": "Ortmann",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Dominic",
+  "self_last_name": "Gnatz",
+  "partner_first_name": "Marie-Theres",
+  "partner_last_name": "Rosenow",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Christel"
+    },
+    {
+      "pet_type": "lizard",
+      "pet_name": "Otmar"
+    }
+  ],
+  "interests": [
+    "Gaming",
+    "Musik (Pop)",
+    "Social Media (TikTok)",
+    "Freunde treffen",
+    "Reisen (Europa)"
+  ],
+  "previous_passwords": [
+    "MarieTheres2007!",
+    "MessiOberviechtach",
+    "TikTokChristel19",
+    "MercedesPopMusik!",
+    "OtmarGaming29",
+    "Europa2007_Friends",
+    "ReisenChristel",
+    "Mercedes_Gnatz",
+    "TikTokMarie20",
+    "PopMusikOtmar29"
+  ]
+}

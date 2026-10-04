@@ -1,0 +1,35 @@
+{
+  "id": "d5ed974a-e053-4d31-bf39-793bcbbb16b7",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Citroën",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "nakupování",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Pražská Energetika Servis",
+  "previous_passwords": [
+    "Radek2002",
+    "Veselý98",
+    "CitroenC4_2013",
+    "Kofola2022",
+    "Praha21",
+    "auta123",
+    "Makro4321",
+    "KFCmenu55",
+    "Shell1722",
+    "Seriály2024"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2005-01-15"
+}

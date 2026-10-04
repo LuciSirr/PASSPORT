@@ -1,0 +1,35 @@
+{
+  "id": "b98602d6-8203-4917-a78e-771956e7c749",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "top gear",
+    "fifa",
+    "arsenal"
+  ],
+  "pets": [],
+  "company": "South Downs Civil Service",
+  "previous_passwords": [
+    "Callum2003",
+    "MiniHatch17",
+    "TopGear!21",
+    "Fifa_2022",
+    "Arsenal4Life",
+    "Hollingsworth123",
+    "DownsFifa03",
+    "GearHead!03",
+    "Arsenal!17",
+    "MiniFifa21"
+  ],
+  "favorite_hobby": "top gear",
+  "birth_date": "2003-05-17"
+}

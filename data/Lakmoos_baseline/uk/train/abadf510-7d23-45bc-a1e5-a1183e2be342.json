@@ -1,0 +1,36 @@
+{
+  "id": "abadf510-7d23-45bc-a1e5-a1183e2be342",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Toyota",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollins",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cycling",
+    "pubs",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Aygo2006",
+    "Gareth34",
+    "Hollins998",
+    "ToyotaX21",
+    "Cycling123",
+    "NorthWest21",
+    "Suzuki2Aygo",
+    "PubNight!",
+    "Travel2022",
+    "Gardening4U"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1992-01-10"
+}

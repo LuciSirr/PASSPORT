@@ -1,0 +1,40 @@
+{
+  "id": "43c258a6-b9d2-4531-bf86-1356ebbd9af8",
+  "gender": "female",
+  "age": 62,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1962-06-15",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "české filmy",
+    "křížovky",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Jitka1962",
+    "Micka2020",
+    "Kohoutova62",
+    "krizovky123",
+    "ceskefilmy_77",
+    "malovani2022",
+    "Miroslav15",
+    "Micka!62",
+    "KohoutovaMicka",
+    "filmovaJitka"
+  ],
+  "favorite_hobby": "české filmy"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "08468721-0377-471c-9f3c-f995f344501b",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "divorced",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "plavání",
+    "cestování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Hotel Vysočina s.r.o.",
+  "previous_passwords": [
+    "Micka2010",
+    "Vysocina45",
+    "Turistika123",
+    "Fabia14",
+    "KofolaBezCukru",
+    "Iveta!1979",
+    "Plavani_2023",
+    "Sebestova88",
+    "Micka!",
+    "Lidl871"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1980-07-19"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "8757b5d6-ead3-4cfb-99b8-7c3e8acc15aa",
+  "age": 22,
+  "birth_date": "2004-07-25",
+  "marital_status": "married",
+  "region": "Grantbury",
+  "nationality": "english",
+  "company": "Morris-Foster",
+  "car_brand": "BMW",
+  "self_first_name": "Leon",
+  "self_last_name": "Lynch",
+  "partner_first_name": "Linda",
+  "partner_last_name": "Jarvis",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "streaming",
+    "fitness",
+    "coffee",
+    "music festivals"
+  ],
+  "previous_passwords": [
+    "FifaLynch04!",
+    "BMWcoffee25",
+    "DrakeFest07",
+    "LindaGym22",
+    "LoLstream04",
+    "GrantburyFit7",
+    "MelloMusic04",
+    "LynchRider22",
+    "JiraCoffee07",
+    "NexusGaming25"
+  ]
+}

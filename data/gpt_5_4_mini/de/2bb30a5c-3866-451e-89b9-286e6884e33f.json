@@ -1,0 +1,53 @@
+{
+  "id": "2bb30a5c-3866-451e-89b9-286e6884e33f",
+  "age": 48,
+  "birth_date": "1978-01-15",
+  "marital_status": "married",
+  "region": "Großenhain",
+  "nationality": "german",
+  "company": "Ernst",
+  "car_brand": "Volvo",
+  "self_first_name": "Lieselotte",
+  "self_last_name": "Kallert",
+  "partner_first_name": "Jörn",
+  "partner_last_name": "Kallert",
+  "children": [
+    {
+      "first_name": "Peter",
+      "last_name": "Kallert"
+    },
+    {
+      "first_name": "Nikolaj",
+      "last_name": "Kallert"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Mattias"
+    },
+    {
+      "pet_type": "ferret",
+      "pet_name": "Fritz"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Gartenarbeit",
+    "Fußball",
+    "Kochen",
+    "Heimatverein"
+  ],
+  "previous_passwords": [
+    "Wandern78!",
+    "FritzKochen24",
+    "VolvoGarten15",
+    "PeterFussball78",
+    "JörnHeimat48",
+    "MattiasWandern",
+    "GartenJörn78!",
+    "KochenGroßenhain",
+    "NikolajFuss24",
+    "Heimatverein15!"
+  ]
+}

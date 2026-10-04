@@ -1,0 +1,39 @@
+{
+  "id": "9caf9748-198c-4704-9f28-ab319f250134",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Leanne",
+  "self_last_name": "Cresswell",
+  "partner_first_name": "Nathan",
+  "partner_last_name": "Cresswell",
+  "children": [],
+  "interests": [
+    "baking",
+    "reading",
+    "netflix"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Westvale Admin Services",
+  "previous_passwords": [
+    "Leanne1995",
+    "Milo123",
+    "Baking4Life",
+    "Cresswell2020",
+    "Nathan!95",
+    "Netflix_09",
+    "Milo!cat",
+    "Westvale2022",
+    "Reading88"
+  ],
+  "favorite_hobby": "baking",
+  "birth_date": "1996-06-15"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "37404718-0de8-42df-95e2-0a28f8738edd",
+  "gender": "male",
+  "age": 5,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "puzzle",
+    "autíčka"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Matej2019",
+    "auticko123",
+    "maminka2023",
+    "skolkaMatej",
+    "jablko2022",
+    "Konecny5",
+    "malovani2024"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2020-07-22"
+}

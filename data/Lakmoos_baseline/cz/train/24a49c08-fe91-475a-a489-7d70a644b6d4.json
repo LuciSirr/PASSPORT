@@ -1,0 +1,35 @@
+{
+  "id": "24a49c08-fe91-475a-a489-7d70a644b6d4",
+  "gender": "male",
+  "age": 68,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kubeš",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Kubešová",
+  "children": [],
+  "interests": [
+    "televize",
+    "křížovky",
+    "automobily"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1956",
+    "Marie123",
+    "Kubes68",
+    "Superb2011",
+    "Kofola68",
+    "Lidl1234",
+    "Usti2020",
+    "TankOno99",
+    "krizovky2024",
+    "Televize!"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1957-05-05"
+}

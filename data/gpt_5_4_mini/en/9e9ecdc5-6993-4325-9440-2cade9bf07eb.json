@@ -1,0 +1,44 @@
+{
+  "id": "9e9ecdc5-6993-4325-9440-2cade9bf07eb",
+  "age": 21,
+  "birth_date": "2005-10-10",
+  "marital_status": "married",
+  "region": "Connormouth",
+  "nationality": "english",
+  "company": "Hussain, Williamson and Davies",
+  "car_brand": "MINI",
+  "self_first_name": "Thomas",
+  "self_last_name": "Clayton",
+  "partner_first_name": "Hazel",
+  "partner_last_name": "Evans",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Richard"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Amanda"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "football",
+    "music streaming",
+    "gym workouts",
+    "travel"
+  ],
+  "previous_passwords": [
+    "HazelFifa05",
+    "MiniGta10!",
+    "LfcTom21",
+    "ApexRichard5",
+    "AmandaGym10",
+    "TaylorMusic21",
+    "ThomasFit05",
+    "PSGtravel10",
+    "ConnorMouth7",
+    "Hazel123!"
+  ]
+}

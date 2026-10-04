@@ -1,0 +1,41 @@
+{
+  "id": "fe6a851c-05c8-4f63-84b9-dc8a81f1b0f8",
+  "gender": "female",
+  "age": 46,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Toyota",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Mark",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "reading",
+    "gardening",
+    "travel",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "East Midlands Business Solutions",
+  "previous_passwords": [
+    "Fiona1978",
+    "Milo123",
+    "Gardening4Life",
+    "Hollingsworth2020",
+    "Reading!78",
+    "Mark&Fiona",
+    "ToyotaYaris16",
+    "Bake2Win",
+    "EastMidlands55",
+    "Milo!cat"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1979-06-27"
+}

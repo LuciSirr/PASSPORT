@@ -1,0 +1,44 @@
+{
+  "id": "81604b23-18bc-4ef5-819c-08f1da183ba2",
+  "age": 34,
+  "birth_date": "1992-04-30",
+  "marital_status": "married",
+  "region": "Žirovnice",
+  "nationality": "czech",
+  "company": "Horáček v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Eva",
+  "self_last_name": "Mašková",
+  "partner_first_name": "Denis",
+  "partner_last_name": "Maškova",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Adéla"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Lukáš"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "hokej",
+    "vaření",
+    "chalupaření"
+  ],
+  "previous_passwords": [
+    "Turistika92!",
+    "Skoda1992",
+    "HokejDenis34",
+    "VasekBike30",
+    "VareniEva92",
+    "ChalupaZirovnice",
+    "CykloLukas92",
+    "AdelaBird34",
+    "DenisSkoda!",
+    "EvaHory04"
+  ]
+}

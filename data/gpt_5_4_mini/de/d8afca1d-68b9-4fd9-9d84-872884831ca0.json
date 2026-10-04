@@ -1,0 +1,35 @@
+{
+  "id": "d8afca1d-68b9-4fd9-9d84-872884831ca0",
+  "age": 35,
+  "birth_date": "1991-11-19",
+  "marital_status": "married",
+  "region": "Bersenbrück",
+  "nationality": "german",
+  "company": "Junitz",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Helmuth",
+  "self_last_name": "Kensy",
+  "partner_first_name": "Peggy",
+  "partner_last_name": "Kensy",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "NDR Kultur",
+    "Heimwerken"
+  ],
+  "previous_passwords": [
+    "Werder91!",
+    "Wandern91_",
+    "Kochen19!",
+    "NDRKultur35",
+    "VWBersen91",
+    "Fußball!91",
+    "Peggy2024!",
+    "Heimwerk11",
+    "Bersenbrueck35",
+    "Kochen&VW91"
+  ]
+}

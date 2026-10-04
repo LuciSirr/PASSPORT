@@ -1,0 +1,39 @@
+{
+  "id": "c39b2a30-a4aa-4520-b54d-3c1f7764eb60",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "single/in a relationship",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "KIA",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "novinky",
+    "domov"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Pardubická výroba s.r.o.",
+  "previous_passwords": [
+    "Micka2020",
+    "Sebestova59",
+    "Nakupovani123",
+    "Globus2022",
+    "KiaPicanto03",
+    "Iveta!1985",
+    "Domov321",
+    "McdonaldsObed",
+    "Vodafone432"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1987-03-12"
+}

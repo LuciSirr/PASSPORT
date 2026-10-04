@@ -1,0 +1,35 @@
+{
+  "id": "af45dcdc-ebc7-4c65-a437-22c67ba64049",
+  "gender": "female",
+  "age": 73,
+  "marital_status": "widower/widow",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Hannelore",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lesen",
+    "audiobücher",
+    "spaziergänge"
+  ],
+  "pets": [],
+  "company": "Westfalen Management GmbH",
+  "previous_passwords": [
+    "Hannelore1951",
+    "Kreutzmann123",
+    "KiaSportage21",
+    "Lesen!2024",
+    "Westfalen!4",
+    "AOK_1951",
+    "Spaziergang77",
+    "Audiobuch2023",
+    "Mitsubishi12",
+    "SommerJuni"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1953-02-15"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "9f965a85-b871-4ebe-a76f-a2bddc3d2a38",
+  "gender": "male",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gaming",
+    "football",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Callum2009",
+    "Hollis15",
+    "Liverpool123",
+    "Gaming_2024",
+    "Footb4ll!",
+    "Cyc1ing99",
+    "Callum!123",
+    "Hollis_09",
+    "NorthWest7"
+  ],
+  "favorite_hobby": "gaming",
+  "birth_date": "2010-07-21"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6b5f35ab-f2ef-42fe-b8da-3a77df8369eb",
+  "gender": "male",
+  "age": 96,
+  "marital_status": "divorced",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Lexus",
+  "self_first_name": "Stanley",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Buster"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Stanley1928",
+    "Buster21",
+    "Hollingworth96",
+    "Gardening123",
+    "Crosswords!1",
+    "Lexus2021",
+    "Renault5",
+    "NorthWest49",
+    "Buster!96",
+    "Stanley_Buster"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1929-04-16"
+}

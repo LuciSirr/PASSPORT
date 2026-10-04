@@ -1,0 +1,40 @@
+{
+  "id": "fa3ec915-c9fe-4172-9c4b-ea1c4cbc9b5a",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "KIA",
+  "self_first_name": "Gillian",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "crossword"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Molly"
+    }
+  ],
+  "company": "Dales Executive Consulting",
+  "previous_passwords": [
+    "Gillian1959",
+    "Molly22",
+    "Hollingsworth123",
+    "Martin!63",
+    "Gardening4Life",
+    "Yorkshire2020",
+    "Walking_58",
+    "MollyMum1",
+    "DalesExec22",
+    "Crossword7"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1963-01-26"
+}

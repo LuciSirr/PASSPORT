@@ -1,0 +1,35 @@
+{
+  "id": "cb4f8a83-9866-4687-b212-c4d5dc40e14c",
+  "gender": "male",
+  "age": 54,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "BMW",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "travelling"
+  ],
+  "pets": [],
+  "company": "Westmoor Ventures",
+  "previous_passwords": [
+    "Graham1969",
+    "BMWi4!2021",
+    "Westmoor123",
+    "Rachel4Me",
+    "Hollis2020",
+    "Cycling21",
+    "Gardening_54",
+    "Mercedes2017",
+    "SouthWest!",
+    "Rachel1968"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1971-08-27"
+}

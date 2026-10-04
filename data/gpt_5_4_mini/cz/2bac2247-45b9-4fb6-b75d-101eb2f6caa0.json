@@ -1,0 +1,35 @@
+{
+  "id": "2bac2247-45b9-4fb6-b75d-101eb2f6caa0",
+  "age": 33,
+  "birth_date": "1993-04-01",
+  "marital_status": "married",
+  "region": "Mirotice",
+  "nationality": "czech",
+  "company": "Macháčková o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Bohuslav",
+  "self_last_name": "Pavlíček",
+  "partner_first_name": "Jaroslava",
+  "partner_last_name": "Pavlíčková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "cyklistika",
+    "vaření",
+    "turistika",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "Messi1993!",
+    "Skoda93_Fotbal",
+    "CykloMirotice7",
+    "Vareni93!",
+    "Turistika01",
+    "Rybareni33",
+    "PavlicekBike93",
+    "Jaroslava_Football9",
+    "MiroticeHiking93",
+    "Slavia93!"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "1237ef6a-648b-4cf9-8d5b-05e784f7c064",
+  "age": 21,
+  "birth_date": "2005-10-18",
+  "marital_status": "married",
+  "region": "Lake Michelleview",
+  "nationality": "english",
+  "company": "Robinson, Brown and Taylor",
+  "car_brand": "Audi",
+  "self_first_name": "Francesca",
+  "self_last_name": "Page",
+  "partner_first_name": "Charles",
+  "partner_last_name": "Page",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "fitness",
+    "music streaming",
+    "hiking",
+    "streetwear fashion"
+  ],
+  "previous_passwords": [
+    "AudiGamer05!",
+    "Hiking18_",
+    "FrancescaFit21",
+    "LoLPage2005!",
+    "DrakeStream18",
+    "PageMusic05",
+    "StreetAudi21",
+    "RogueGym05",
+    "AudiHike05!",
+    "CharlesFit18"
+  ]
+}

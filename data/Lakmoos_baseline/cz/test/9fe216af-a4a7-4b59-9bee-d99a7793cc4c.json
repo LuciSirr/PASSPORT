@@ -1,0 +1,49 @@
+{
+  "id": "9fe216af-a4a7-4b59-9bee-d99a7793cc4c",
+  "gender": "female",
+  "age": 46,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Petra",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1978-06-15",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohoutová"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "české filmy",
+    "nordic walking",
+    "móda"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bára"
+    }
+  ],
+  "company": "Vysočina TransLogistik s.r.o.",
+  "previous_passwords": [
+    "Tereza2015",
+    "Adam2019",
+    "Kohoutova78",
+    "Bara123",
+    "moda2022",
+    "nordicwalking15",
+    "ceskefilmy_78",
+    "Martin1976",
+    "Bara!2017",
+    "TerezaAdam15"
+  ],
+  "favorite_hobby": "české filmy"
+}

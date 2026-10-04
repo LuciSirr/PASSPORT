@@ -1,0 +1,34 @@
+{
+  "id": "57cacd47-afc1-4511-9f43-d6a55d9795d9",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Nissan",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "travel"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "NissanQashqai21",
+    "Callum1999",
+    "Hollis_25",
+    "Football123",
+    "Travel4Life",
+    "G4ming2022",
+    "Qashqai!17",
+    "NorthWest88",
+    "Hollis!2000"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2001-02-09"
+}

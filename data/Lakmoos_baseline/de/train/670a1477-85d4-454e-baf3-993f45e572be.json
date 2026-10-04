@@ -1,0 +1,35 @@
+{
+  "id": "670a1477-85d4-454e-baf3-993f45e572be",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Jörg",
+  "self_last_name": "Kaltenbach",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kaltenbach",
+  "children": [],
+  "interests": [
+    "kreuzfahrten",
+    "audiobücher",
+    "musik"
+  ],
+  "pets": [],
+  "company": "Rheinland Innovationsberatung",
+  "previous_passwords": [
+    "Joerg1979",
+    "Sabine123",
+    "Kaltenbach2020",
+    "Rheinland!78",
+    "Musikliebhaber1",
+    "Kreuzfahrt2022",
+    "AOK_1979",
+    "SabineJörg",
+    "Innov4tion!",
+    "Audiobuch2023"
+  ],
+  "favorite_hobby": "kreuzfahrten",
+  "birth_date": "1980-11-16"
+}

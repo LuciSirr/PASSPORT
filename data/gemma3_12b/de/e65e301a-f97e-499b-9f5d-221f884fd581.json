@@ -1,0 +1,40 @@
+{
+  "id": "e65e301a-f97e-499b-9f5d-221f884fd581",
+  "age": 21,
+  "birth_date": "2005-05-22",
+  "marital_status": "single",
+  "region": "Bischofswerda",
+  "nationality": "german",
+  "company": "Mohaupt GbR",
+  "car_brand": "Audi",
+  "self_first_name": "Sarina",
+  "self_last_name": "Ernst",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Annelies"
+    }
+  ],
+  "interests": [
+    "Videospiele",
+    "Musik Festivals",
+    "Reisen",
+    "Fotografie",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Messi2005!",
+    "AnneliesFoto1998",
+    "AudiReisen_21",
+    "VideospieleSa22",
+    "JoeRoganBischof",
+    "ErnstMusikFest!",
+    "FotografieAudi20",
+    "ReisenAnnelies98",
+    "Fußball2005Sa",
+    "Bischofswerda_21"
+  ]
+}

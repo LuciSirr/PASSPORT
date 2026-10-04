@@ -1,0 +1,44 @@
+{
+  "id": "29cf6aef-25f3-4d50-b528-d343820ac66e",
+  "age": 62,
+  "birth_date": "1964-06-08",
+  "marital_status": "married",
+  "region": "Broumov",
+  "nationality": "czech",
+  "company": "Tůmová k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Felix",
+  "self_last_name": "Novák",
+  "partner_first_name": "Jiřina",
+  "partner_last_name": "Nováková",
+  "children": [
+    {
+      "first_name": "Gabriela",
+      "last_name": "Nováková"
+    },
+    {
+      "first_name": "Bořivoj",
+      "last_name": "Novák"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika v Broumovských stěnách",
+    "zahradničení",
+    "chalupaření",
+    "české filmy",
+    "poslech dechovky"
+  ],
+  "previous_passwords": [
+    "Turistika64!",
+    "SkodaBroumov62",
+    "Zahradka08_",
+    "ChalupaNovak64",
+    "BroumovskeSteny!",
+    "Dychovka08Felix",
+    "Jiřina1964!",
+    "Gabriela64_",
+    "SkodaChalupa62",
+    "CzechFilm64!"
+  ]
+}

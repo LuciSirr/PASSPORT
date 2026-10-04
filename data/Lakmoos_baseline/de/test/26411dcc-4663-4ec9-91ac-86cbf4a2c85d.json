@@ -1,0 +1,40 @@
+{
+  "id": "26411dcc-4663-4ec9-91ac-86cbf4a2c85d",
+  "gender": "female",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lena",
+  "self_last_name": "Krause",
+  "birth_date": "2006-08-14",
+  "partner_first_name": "Jonas",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "gntm",
+    "harry potter",
+    "volleyball"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Bäckerei Winterfeld",
+  "previous_passwords": [
+    "Lena2006",
+    "Milo!14",
+    "KrauseHP07",
+    "gntm2023",
+    "Jonas_0814",
+    "volleyKrause",
+    "HarryMilo07",
+    "L3na!Potter",
+    "Krause!123",
+    "MiloGNTM"
+  ],
+  "favorite_hobby": "gntm"
+}

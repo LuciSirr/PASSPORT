@@ -1,0 +1,35 @@
+{
+  "id": "5985b56b-3633-41c0-adde-7927ba159ffc",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kohout",
+  "birth_date": "2002-06-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "disney+",
+    "kofola"
+  ],
+  "pets": [],
+  "company": "Pražská realitní kancelář",
+  "previous_passwords": [
+    "Matej2002",
+    "KohoutPraha23",
+    "cestovani123",
+    "disneyplus2023",
+    "Kofola!22",
+    "PrahaKohout",
+    "realitak2022",
+    "matej_cestovatel",
+    "Kohout!14",
+    "disneyKofola"
+  ],
+  "favorite_hobby": "cestování"
+}

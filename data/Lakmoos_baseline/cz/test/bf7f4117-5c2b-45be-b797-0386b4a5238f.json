@@ -1,0 +1,35 @@
+{
+  "id": "bf7f4117-5c2b-45be-b797-0386b4a5238f",
+  "gender": "female",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Tereza",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1999-07-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "vinted",
+    "ivysilani"
+  ],
+  "pets": [],
+  "company": "Pražská Administrativa s.r.o.",
+  "previous_passwords": [
+    "Tereza1999",
+    "Kohoutova123",
+    "vinted2022",
+    "Praha!79",
+    "cestovani_14",
+    "ivysilani2021",
+    "Bonprix_99",
+    "KohoutovaVinted",
+    "Tereza!cestovani",
+    "PrahaKohout"
+  ],
+  "favorite_hobby": "cestování"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "df70ba12-fa52-4ea8-be40-17290f8fe317",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "single/in a relationship",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "Opel",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "nakupování",
+    "čtení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Iveta1985",
+    "Vranova82",
+    "KofolaZero",
+    "Mokka2012",
+    "Pardubice123",
+    "Nakupovani!",
+    "dmRossmann2020",
+    "Lidl1058",
+    "Cteni2021",
+    "OpelMokka12"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1986-07-22"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "6fe2fb04-5cda-4e46-b193-34d926028e7b",
+  "age": 33,
+  "birth_date": "1993-04-03",
+  "marital_status": "married",
+  "region": "Susanhaven",
+  "nationality": "english",
+  "company": "White, Bryan and Walters",
+  "car_brand": "Honda",
+  "self_first_name": "Naomi",
+  "self_last_name": "Barber",
+  "partner_first_name": "Allan",
+  "partner_last_name": "Barber",
+  "children": [
+    {
+      "first_name": "Gemma",
+      "last_name": "Barber"
+    },
+    {
+      "first_name": "Samuel",
+      "last_name": "Barber"
+    },
+    {
+      "first_name": "Jake",
+      "last_name": "Barber"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Hiking",
+    "Indie Music",
+    "Photography",
+    "Local Craft Breweries",
+    "Board Games"
+  ],
+  "previous_passwords": [
+    "gemmahike1993",
+    "SamBoardGame!",
+    "HondaSunset22",
+    "JakeIndieBrew",
+    "NaomiPhoto_93",
+    "AllanHike2023",
+    "SusanhavenMusic!",
+    "GemmaCraftBeer",
+    "SamuelHike24",
+    "PhotographyHonda"
+  ]
+}

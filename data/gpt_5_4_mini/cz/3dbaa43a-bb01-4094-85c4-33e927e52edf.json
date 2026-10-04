@@ -1,0 +1,35 @@
+{
+  "id": "3dbaa43a-bb01-4094-85c4-33e927e52edf",
+  "age": 61,
+  "birth_date": "1965-06-21",
+  "marital_status": "single",
+  "region": "Strážov",
+  "nationality": "czech",
+  "company": "Poláková Holubová v.o.s.",
+  "car_brand": "Ford",
+  "self_first_name": "Vítězslav",
+  "self_last_name": "Tůma",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "chalupaření",
+    "sledování hokeje",
+    "lidová hudba"
+  ],
+  "previous_passwords": [
+    "Turistika65!",
+    "HokejTuma61",
+    "Zahrada65_",
+    "FordStrazov21",
+    "Chalupa65!",
+    "LidovkaTuma",
+    "Jeseniky61!",
+    "TumaHory65",
+    "Zahradka1965",
+    "StrazovHokej65"
+  ]
+}

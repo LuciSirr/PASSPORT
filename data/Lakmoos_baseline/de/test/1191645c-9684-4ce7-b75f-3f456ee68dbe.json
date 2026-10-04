@@ -1,0 +1,36 @@
+{
+  "id": "1191645c-9684-4ce7-b75f-3f456ee68dbe",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Škoda",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "birth_date": "1981-06-14",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "krimis",
+    "deutsche autos"
+  ],
+  "pets": [],
+  "company": "Krause & Partner Unternehmensberatung",
+  "previous_passwords": [
+    "Krause1981",
+    "Sabine14",
+    "Tatort2020!",
+    "Bundesliga81",
+    "Krimis_123",
+    "KrauseTatort",
+    "SabineKrause2022",
+    "Autos4Life",
+    "Tat0rt_Krause",
+    "Krause!Bundesliga"
+  ],
+  "favorite_hobby": "tatort"
+}

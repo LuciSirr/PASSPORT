@@ -1,0 +1,34 @@
+{
+  "id": "b6b722fa-736d-4d57-b761-1e72fecce5fc",
+  "gender": "female",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Aaliyah",
+  "self_last_name": "Whittingham",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "yoga",
+    "baking",
+    "reading"
+  ],
+  "pets": [],
+  "company": "West Midlands Care Collective",
+  "previous_passwords": [
+    "Aaliyah23",
+    "Whittingham2020",
+    "YogaLover1",
+    "Baking4Fun",
+    "WestMidlands12",
+    "Aaliyah!2021",
+    "Reading_123",
+    "Wh1tt1ngh4m",
+    "CareCollective22"
+  ],
+  "favorite_hobby": "yoga",
+  "birth_date": "2003-03-27"
+}

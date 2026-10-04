@@ -1,0 +1,41 @@
+{
+  "id": "b5db94ae-8154-4d1b-b219-fa2c7b940e15",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Nissan",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Alex",
+  "partner_last_name": "Morgan",
+  "children": [],
+  "interests": [
+    "hiking",
+    "photography",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Willow"
+    }
+  ],
+  "company": "Cymru Scientific Consulting",
+  "previous_passwords": [
+    "Willow2017",
+    "Imogen123",
+    "Hollis!27",
+    "Travel4Life",
+    "AlexMorgan19",
+    "Cymru2020",
+    "Reading_88",
+    "MazdaCX30",
+    "Hiking!21",
+    "SeatLeon7"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1999-02-14"
+}

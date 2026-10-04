@@ -1,0 +1,40 @@
+{
+  "id": "349b7cb1-fb9d-4ba9-8d43-262b96e04b73",
+  "age": 37,
+  "birth_date": "1989-03-24",
+  "marital_status": "single",
+  "region": "Gotha",
+  "nationality": "german",
+  "company": "Etzold",
+  "car_brand": "Kia",
+  "self_first_name": "Frank-Peter",
+  "self_last_name": "Henschel",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Heinz-Georg"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Metal Musik",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "Messi1989!",
+    "KiaWanderlust24",
+    "MetallicaHeinz!",
+    "FrankPeterFoto89",
+    "KochenGotha89",
+    "FußballMessiHG",
+    "WandernKia!",
+    "HeinzGeorg89FC",
+    "MetalMusik24!",
+    "FotografieFrank89"
+  ]
+}

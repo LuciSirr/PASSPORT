@@ -1,0 +1,35 @@
+{
+  "id": "01201c85-ea6a-4ff2-84fd-48a88c84e49d",
+  "age": 68,
+  "birth_date": "1958-08-25",
+  "marital_status": "married",
+  "region": "East Maurice",
+  "nationality": "english",
+  "company": "Jones and Sons",
+  "car_brand": "Peugeot",
+  "self_first_name": "Debra",
+  "self_last_name": "Houghton",
+  "partner_first_name": "John",
+  "partner_last_name": "Gill",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "birdwatching",
+    "local history",
+    "cricket",
+    "gardening",
+    "classic rock music"
+  ],
+  "previous_passwords": [
+    "RobinRedbreast1958",
+    "PeugeotHistory22",
+    "CricketGardens!825",
+    "LedZeppelinJohn",
+    "HoughtonBirding77",
+    "EastMauriceRocks",
+    "GillCricket1955",
+    "ClassicGardensDH",
+    "Robin1958!Gill",
+    "PeugeotLocal25"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4955d7a2-3c95-4ca4-8d6b-25f0b726df3c",
+  "gender": "male",
+  "age": 31,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Nissan",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cycling",
+    "travel",
+    "reading"
+  ],
+  "pets": [],
+  "company": "East Midlands Engineering Solutions",
+  "previous_passwords": [
+    "Nissan2019",
+    "Juke1598",
+    "Mazda3_2023",
+    "Hollis31",
+    "EastMidlands88",
+    "Cycling123",
+    "Travel!2024",
+    "Reading4Life",
+    "Juke!Hybrid"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1995-03-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "bd9ed4dd-c43e-4bd6-9033-4ab08c7522e6",
+  "gender": "male",
+  "age": 36,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "cycling",
+    "travelling",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "East Midlands Consulting",
+  "previous_passwords": [
+    "Baxter2021",
+    "Callum15",
+    "Emily4ever",
+    "Hollingsworth123",
+    "Cycling!21",
+    "EastMidlands2020",
+    "Gardening_88",
+    "CupraBorn3",
+    "Trav3l!ng",
+    "Baxter!2023"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1989-05-09"
+}

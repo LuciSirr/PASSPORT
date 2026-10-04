@@ -1,0 +1,35 @@
+{
+  "id": "dfd1e6ed-14a8-493c-8fd1-0b14b2847386",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "divorced",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "křížovky",
+    "zahrada",
+    "rádio"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radomir64",
+    "Vesely2008",
+    "Krizovky123",
+    "Zahrada2020",
+    "Superb15",
+    "Kofola_64",
+    "Zlin!2020",
+    "Radio987",
+    "DieselLiftback",
+    "Globus123"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1961-07-07"
+}

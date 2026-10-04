@@ -1,0 +1,34 @@
+{
+  "id": "74a388e4-0c6c-4a42-a9d8-07240521bd1d",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "filmy",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Moravská studentská služba",
+  "previous_passwords": [
+    "Vesely123",
+    "Hyundaii20_2013",
+    "Morava2022",
+    "Kofola4ever",
+    "Albert1104",
+    "Radek2002",
+    "Cestovani!22",
+    "Hudba_321",
+    "Ostrava2024"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "2004-03-20"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "b806f993-b12c-4ef8-a55b-9d4a39fed37d",
+  "age": 48,
+  "birth_date": "1978-12-13",
+  "marital_status": "married",
+  "region": "Smečno",
+  "nationality": "czech",
+  "company": "Šťastný k.s.",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Karolína",
+  "self_last_name": "Krejčová",
+  "partner_first_name": "Hynek",
+  "partner_last_name": "Krejčová",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Libor"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěstitelství ovoce",
+    "fotbal",
+    "česká kuchyně"
+  ],
+  "previous_passwords": [
+    "LiborFish78",
+    "MercedesTuristika!",
+    "HynekRybar2024",
+    "MessiOvocnaZahrada",
+    "SmečnoFotbal13",
+    "TuristikaKarolina",
+    "CeskaKuchyn31",
+    "MercedesLibor!",
+    "RybářskáKřivá1978",
+    "FotbalHynek22"
+  ]
+}

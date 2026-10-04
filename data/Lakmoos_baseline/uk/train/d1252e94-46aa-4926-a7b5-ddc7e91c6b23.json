@@ -1,0 +1,35 @@
+{
+  "id": "d1252e94-46aa-4926-a7b5-ddc7e91c6b23",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Ford",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Megan",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "driving"
+  ],
+  "pets": [],
+  "company": "Westside Retail",
+  "previous_passwords": [
+    "FordPuma2019",
+    "Callum123",
+    "WestMidlands20",
+    "Megan!21",
+    "Hollis999",
+    "Football_07",
+    "Puma!114",
+    "Gaming2022",
+    "RetailGuy2k",
+    "CallumMegan21"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2004-07-16"
+}

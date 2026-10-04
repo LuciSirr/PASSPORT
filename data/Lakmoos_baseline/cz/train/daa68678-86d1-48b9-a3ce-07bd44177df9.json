@@ -1,0 +1,36 @@
+{
+  "id": "daa68678-86d1-48b9-a3ce-07bd44177df9",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Ford",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "filmy",
+    "technologie",
+    "seriály",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Plzeňská autodoprava Veselý",
+  "previous_passwords": [
+    "Radek2000",
+    "VeselyPlzen",
+    "fordfocus18",
+    "kaufland913",
+    "vinted2022",
+    "datart3068",
+    "Plzen123",
+    "McDonalds!",
+    "Monster54",
+    "seriály2023"
+  ],
+  "favorite_hobby": "filmy",
+  "birth_date": "2003-02-16"
+}

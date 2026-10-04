@@ -1,0 +1,35 @@
+{
+  "id": "95b1e4a5-8db6-4740-a096-342c5127d122",
+  "gender": "male",
+  "age": 77,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kubeš",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Kubešová",
+  "children": [],
+  "interests": [
+    "zahrada",
+    "auta",
+    "facebook"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1947",
+    "Marie603",
+    "Superb2008",
+    "Zahrada123",
+    "Kubes77",
+    "Rajec2020",
+    "Lidl603",
+    "Auta1968",
+    "Bramburky!",
+    "Kubešová77"
+  ],
+  "favorite_hobby": "zahrada",
+  "birth_date": "1948-05-16"
+}

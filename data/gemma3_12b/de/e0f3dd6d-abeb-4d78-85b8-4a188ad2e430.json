@@ -1,0 +1,48 @@
+{
+  "id": "e0f3dd6d-abeb-4d78-85b8-4a188ad2e430",
+  "age": 49,
+  "birth_date": "1977-12-01",
+  "marital_status": "married",
+  "region": "Wismar",
+  "nationality": "german",
+  "company": "Klingelhöfer",
+  "car_brand": "Opel",
+  "self_first_name": "Anto",
+  "self_last_name": "Kramer",
+  "partner_first_name": "Gabriella",
+  "partner_last_name": "Kramer",
+  "children": [
+    {
+      "first_name": "Elke",
+      "last_name": "Kramer"
+    },
+    {
+      "first_name": "Stephen",
+      "last_name": "Kramer"
+    },
+    {
+      "first_name": "Bastian",
+      "last_name": "Kramer"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Segeln",
+    "Fotografie",
+    "Wandern",
+    "Klassische Musik",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "ElkeOpel77",
+    "MessiWandern!",
+    "SegelnKramer2024",
+    "FotografieBasti",
+    "WismarKlassik1977",
+    "GabriellaFoto",
+    "StephenOpel!",
+    "KramerSegeln88",
+    "BastianMusik77",
+    "WandernKramer23"
+  ]
+}

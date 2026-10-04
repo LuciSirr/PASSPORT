@@ -1,0 +1,40 @@
+{
+  "id": "537d93aa-ad52-4fce-8753-5b40a1b6e46e",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Křivánková",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Křivánková",
+  "children": [],
+  "interests": [
+    "čtení",
+    "zahrada",
+    "vaření"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "AutoServis Morava",
+  "previous_passwords": [
+    "Iveta1986",
+    "KofolaLidl30",
+    "Krivankova123",
+    "Morava2020",
+    "Benek!2021",
+    "Zahrada99",
+    "PetrIveta56",
+    "KfcBen2022",
+    "Cteni_2023",
+    "Bonprix428"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1969-07-30"
+}

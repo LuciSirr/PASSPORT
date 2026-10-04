@@ -1,0 +1,34 @@
+{
+  "id": "1ed9f505-4fe6-4315-b594-1a8b1f73ced1",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Imogen",
+  "self_last_name": "Ashdown",
+  "partner_first_name": "Callum",
+  "partner_last_name": "Ashdown",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "hiking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Imogen1994",
+    "Ashdown88",
+    "Cupra221",
+    "LondonGirl30",
+    "TravelBug!23",
+    "Reading4Life",
+    "Hiking2022",
+    "Imo_123",
+    "Ashdown!1"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1996-02-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "94c7400b-1fa6-44fe-b5a8-04d77269a436",
+  "gender": "female",
+  "age": 1,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Eliška",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Eliska2023",
+    "Maminka1",
+    "Plzenko",
+    "Hracka",
+    "Slunicko",
+    "Vesela2022",
+    "Malovani123"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2025-02-25"
+}

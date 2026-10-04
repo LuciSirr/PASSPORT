@@ -1,0 +1,33 @@
+{
+  "id": "d9ac7f7d-6acb-4611-8f6a-0eddcd77dc6f",
+  "gender": "female",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "heartstopper",
+    "baking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Imogen2009",
+    "Heartstopper17",
+    "Baking4Life",
+    "Hollis123",
+    "CharlieNick2023",
+    "BakeOff09",
+    "WestMidz17",
+    "Imo_Bake17",
+    "Heart$topper09"
+  ],
+  "favorite_hobby": "heartstopper",
+  "birth_date": "2009-04-17"
+}

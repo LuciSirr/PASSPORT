@@ -1,0 +1,40 @@
+{
+  "id": "aa632e5b-6071-46d3-8541-07d0ed1a976a",
+  "age": 42,
+  "birth_date": "1984-01-08",
+  "marital_status": "married",
+  "region": "Mirošov",
+  "nationality": "czech",
+  "company": "Vítková v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Artur",
+  "self_last_name": "Tichý",
+  "partner_first_name": "Lucie",
+  "partner_last_name": "Tichá",
+  "children": [
+    {
+      "first_name": "Miloš",
+      "last_name": "Tichý"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "hokej",
+    "vaření",
+    "zahradničení",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Hokej84!",
+    "Turistika88",
+    "SkodaMiro5",
+    "Vareni84_",
+    "Zahrada84!",
+    "CeskeFilmy8",
+    "Lucie1984!",
+    "MilosHokej5",
+    "Mirosof84",
+    "TichySkoda42"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "a86072ac-2b05-446a-bf68-b23ced497302",
+  "gender": "female",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Harriet",
+  "self_last_name": "Merrick",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "great british bake off",
+    "travel blogging"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Milo2017",
+    "BakeOff!96",
+    "HarrietCat17",
+    "MerrickBake123",
+    "TravelBlogger96",
+    "Milo_Bakeoff",
+    "GBBO_2020",
+    "Bake0ffMilo",
+    "Merrick!17"
+  ],
+  "favorite_hobby": "great british bake off",
+  "birth_date": "1996-04-17"
+}

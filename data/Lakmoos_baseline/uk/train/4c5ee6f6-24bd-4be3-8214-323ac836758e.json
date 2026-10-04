@@ -1,0 +1,40 @@
+{
+  "id": "4c5ee6f6-24bd-4be3-8214-323ac836758e",
+  "gender": "female",
+  "age": 47,
+  "marital_status": "divorced",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Eastfield Logistics",
+  "previous_passwords": [
+    "Fiona2015",
+    "MiloCat!",
+    "Hollingsworth47",
+    "Eastfield123",
+    "Gardening4Life",
+    "Oliver2023",
+    "Reading_88",
+    "Milo_2019",
+    "Walking10",
+    "F1ona!2024"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1979-03-25"
+}

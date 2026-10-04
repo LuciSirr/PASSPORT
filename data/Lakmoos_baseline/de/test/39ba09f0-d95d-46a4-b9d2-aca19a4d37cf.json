@@ -1,0 +1,35 @@
+{
+  "id": "39ba09f0-d95d-46a4-b9d2-aca19a4d37cf",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Kuhn",
+  "birth_date": "1999-03-18",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "dark",
+    "fifa",
+    "tatort"
+  ],
+  "pets": [],
+  "company": "Sachsen StartUp Beratung Kuhn",
+  "previous_passwords": [
+    "Kuhn1999",
+    "fifa1234",
+    "Dark_2017",
+    "tatort!99",
+    "LennartFifa19",
+    "SachsenStart2020",
+    "KuhnDark!",
+    "fifaKuhn_18",
+    "Tat0rt_253",
+    "DarkFussball99"
+  ],
+  "favorite_hobby": "dark"
+}

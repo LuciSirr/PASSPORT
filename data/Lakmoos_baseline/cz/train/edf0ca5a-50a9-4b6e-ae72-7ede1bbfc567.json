@@ -1,0 +1,40 @@
+{
+  "id": "edf0ca5a-50a9-4b6e-ae72-7ede1bbfc567",
+  "gender": "female",
+  "age": 51,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "móda",
+    "zahrada",
+    "procházky",
+    "nakupování"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bára"
+    }
+  ],
+  "company": "Moravská výroba s.r.o.",
+  "previous_passwords": [
+    "Bara2017",
+    "Vesela1234",
+    "PetrIvana2022",
+    "Jaro2022",
+    "SkodaKaroq!",
+    "AlbertLidl41",
+    "BohemiaSekt!",
+    "Zahrada2020",
+    "Prochazka77"
+  ],
+  "favorite_hobby": "móda",
+  "birth_date": "1974-08-29"
+}

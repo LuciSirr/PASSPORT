@@ -1,0 +1,35 @@
+{
+  "id": "976410a5-47ec-457d-b892-c1f40d7d4a74",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Klaus",
+  "self_last_name": "Wendrich",
+  "partner_first_name": "Brigitte",
+  "partner_last_name": "Wendrich",
+  "children": [],
+  "interests": [
+    "wandern",
+    "schach",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "Wendrich Beratung & Handel",
+  "previous_passwords": [
+    "Klaus1958",
+    "Brigitte123",
+    "Wendrich!66",
+    "SachsenAnhalt2020",
+    "Schachmeister1",
+    "Wandern2022",
+    "BrigitteKlaus58",
+    "Sommer!Juni",
+    "AOK_1958",
+    "Lesen_66"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1959-09-18"
+}

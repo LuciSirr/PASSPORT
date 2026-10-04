@@ -1,0 +1,35 @@
+{
+  "id": "6151b84e-f8ac-4d75-a22a-7f08a0d9a390",
+  "age": 23,
+  "birth_date": "2003-12-09",
+  "marital_status": "single",
+  "region": "Slavonice",
+  "nationality": "czech",
+  "company": "Urban s.r.o.",
+  "car_brand": "Toyota",
+  "self_first_name": "Vilém",
+  "self_last_name": "Pavlíček",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "hry",
+    "vaření",
+    "turistika"
+  ],
+  "previous_passwords": [
+    "Fotbal09!",
+    "Hokej23_Vil",
+    "HreSlavonice7",
+    "Vareni03_Toyota",
+    "Turistika26!",
+    "Sparta2003",
+    "Berani09Vil",
+    "Minecraft23!",
+    "Snidanek09",
+    "Toyota09Hra"
+  ]
+}

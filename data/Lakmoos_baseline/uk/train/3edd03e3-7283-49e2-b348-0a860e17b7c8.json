@@ -1,0 +1,35 @@
+{
+  "id": "3edd03e3-7283-49e2-b348-0a860e17b7c8",
+  "gender": "male",
+  "age": 56,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Janet",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "history"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Malcolm1968",
+    "AudiA3_17",
+    "Janet56!",
+    "EastMidlands2024",
+    "Gardening123",
+    "Hollingsworth_1",
+    "Ford2007",
+    "History4U",
+    "Walking9999",
+    "JanetMalcolm!"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1970-02-28"
+}

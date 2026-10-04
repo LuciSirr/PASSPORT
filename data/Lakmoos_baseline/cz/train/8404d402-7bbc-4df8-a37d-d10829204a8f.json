@@ -1,0 +1,40 @@
+{
+  "id": "8404d402-7bbc-4df8-a37d-d10829204a8f",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Tomáš",
+  "partner_last_name": "Veselý",
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "fotografie",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "Pražská doprava s.r.o.",
+  "previous_passwords": [
+    "Eliška2023",
+    "BarboraPraha1",
+    "Tomáš2017",
+    "Veselá123",
+    "Cestovani21",
+    "Octavia16!",
+    "Fotografie2020",
+    "EliškaTomáš22",
+    "Praha_789",
+    "Globus2022"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1996-03-01"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "350b8bc7-5488-4f6a-bb18-6fd23e78225c",
+  "gender": "male",
+  "age": 82,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Audi",
+  "self_first_name": "Heinrich",
+  "self_last_name": "Küster",
+  "partner_first_name": "Gertrud",
+  "partner_last_name": "Küster",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Küster"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Küster"
+    },
+    {
+      "first_name": "Jonas",
+      "last_name": "Küster"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2010",
+    "AudiQ2_2018",
+    "Gertrud123",
+    "Küster1952",
+    "Sommerurlaub14",
+    "Marlene_12",
+    "Jonas!13",
+    "Wandern2020",
+    "Niedersachsen1",
+    "Heinrich!82"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1943-10-25"
+}

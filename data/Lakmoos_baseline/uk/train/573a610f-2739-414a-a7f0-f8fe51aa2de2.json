@@ -1,0 +1,40 @@
+{
+  "id": "573a610f-2739-414a-a7f0-f8fe51aa2de2",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Jaguar",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "motoring",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Jaguar2016",
+    "Baxter123",
+    "Malcolm63!",
+    "Hollingsworth2012",
+    "Gardening4",
+    "VW2010",
+    "Walking_88",
+    "Baxter!2016",
+    "Motoring404",
+    "SouthEast1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1963-02-22"
+}

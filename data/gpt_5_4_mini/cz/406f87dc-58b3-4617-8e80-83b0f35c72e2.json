@@ -1,0 +1,35 @@
+{
+  "id": "406f87dc-58b3-4617-8e80-83b0f35c72e2",
+  "age": 25,
+  "birth_date": "2001-07-06",
+  "marital_status": "married",
+  "region": "Horní Slavkov",
+  "nationality": "czech",
+  "company": "Strnadová s.r.o.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Slavomír",
+  "self_last_name": "Kučera",
+  "partner_first_name": "Miloslava",
+  "partner_last_name": "Kučerová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "turistika",
+    "hraní her",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Slavia2001!",
+    "Pilsen06_Fot",
+    "Volkswagen25",
+    "MiloslavaHokej7",
+    "Turistika06!",
+    "Kudela2001",
+    "CSKAPraha25",
+    "HorniSlavkov1",
+    "FifaSlavia06",
+    "CeskeFilmy01!"
+  ]
+}

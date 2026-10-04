@@ -1,0 +1,40 @@
+{
+  "id": "5fbc5a10-539d-4219-9f5b-97968972abae",
+  "gender": "male",
+  "age": 77,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Jarmila",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "čtení",
+    "hudba",
+    "křížovky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1947",
+    "Micka123",
+    "Krizovky2024",
+    "Jarmila77",
+    "Sebesta15k",
+    "Hudba!2023",
+    "Morava1977",
+    "KFCoblibenec",
+    "Retire15k",
+    "Sazka211"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1948-09-01"
+}

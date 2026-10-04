@@ -1,0 +1,35 @@
+{
+  "id": "4891507f-db1a-4bc1-a3b3-30589c9b7cae",
+  "age": 43,
+  "birth_date": "1983-12-04",
+  "marital_status": "divorced",
+  "region": "Spálené Poříčí",
+  "nationality": "czech",
+  "company": "Navrátil Staňková k.s.",
+  "car_brand": "Ford",
+  "self_first_name": "Radek",
+  "self_last_name": "Král",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "čtení knih",
+    "pivovarské značky",
+    "lokální historie"
+  ],
+  "previous_passwords": [
+    "FordFocus83",
+    "SpalenePortici2024!",
+    "RadekReads1983",
+    "PivovarskeZnaky_Radek",
+    "TuristikaFord!",
+    "KnihySpaleneP",
+    "PlzenCzechBeer23",
+    "RybarTurista83",
+    "FordFocus_History",
+    "LocalHistoryRadek"
+  ]
+}

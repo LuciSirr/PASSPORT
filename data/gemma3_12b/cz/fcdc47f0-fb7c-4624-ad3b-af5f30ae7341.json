@@ -1,0 +1,44 @@
+{
+  "id": "fcdc47f0-fb7c-4624-ad3b-af5f30ae7341",
+  "age": 30,
+  "birth_date": "1996-07-05",
+  "marital_status": "married",
+  "region": "Žebrák",
+  "nationality": "czech",
+  "company": "Beránek o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "René",
+  "self_last_name": "Bílek",
+  "partner_first_name": "Patricie",
+  "partner_last_name": "Bílková",
+  "children": [
+    {
+      "first_name": "Jiřina",
+      "last_name": "Bílková"
+    },
+    {
+      "first_name": "Štěpánka",
+      "last_name": "Bílková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivo",
+    "hudba (punk rock)",
+    "fotbal (FK Žebrák)",
+    "vaření (domácí pečení)"
+  ],
+  "previous_passwords": [
+    "ZebraK1996",
+    "MessiFanPivko!",
+    "JiřinaŠtepanka23",
+    "SkodaTourista88",
+    "PunkRockBilek",
+    "PatricieŽebrák",
+    "FKZebrák1996!",
+    "HomeBakingRené",
+    "ŽebrákPivo2013",
+    "MessiPivkoTour"
+  ]
+}

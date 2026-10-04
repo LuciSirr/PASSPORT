@@ -1,0 +1,33 @@
+{
+  "id": "b7929d80-7f81-44d5-b8ef-5eea34e87e6c",
+  "gender": "female",
+  "age": 25,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Callum",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "walking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Imogen1999",
+    "Hollis25",
+    "Callum2023",
+    "Travel4Fun",
+    "EastMidlands88",
+    "Reading123",
+    "Hollis!2024",
+    "Walking_99"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "2000-12-02"
+}

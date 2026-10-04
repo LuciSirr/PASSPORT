@@ -1,0 +1,44 @@
+{
+  "id": "72af657e-8d2a-4bdb-98b7-79bfa3673c13",
+  "age": 45,
+  "birth_date": "1981-09-08",
+  "marital_status": "divorced",
+  "region": "Řevnice",
+  "nationality": "czech",
+  "company": "Krausová Čechová s.r.o.",
+  "car_brand": "Renault",
+  "self_first_name": "Jaroslav",
+  "self_last_name": "Němeček",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Vlasta"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Pavla"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivo",
+    "spanělská kinematografie",
+    "sběratelství mincí"
+  ],
+  "previous_passwords": [
+    "Renesanta2021",
+    "VlastaRybar1981",
+    "RenaultTuristika!",
+    "Almodovar8_Pavla",
+    "MessiRevnice",
+    "MincoVlasta23",
+    "SpanelFilm1978",
+    "RybarRenaut!",
+    "TuristikaJaroslav",
+    "PavlaPivo123"
+  ]
+}

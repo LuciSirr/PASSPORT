@@ -1,0 +1,33 @@
+{
+  "id": "90bc8931-c0f8-4389-af5f-8fdaf7e30ceb",
+  "gender": "male",
+  "age": 65,
+  "marital_status": "married",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "Smart",
+  "self_first_name": "Bernd",
+  "self_last_name": "Krause",
+  "birth_date": "1959-06-14",
+  "partner_first_name": "Ute",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "nordsee reisen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tatort1959",
+    "Krause!14",
+    "Nordsee123",
+    "BerndUte59",
+    "Tatort_Krause",
+    "Ute1959!",
+    "KrauseTatort59",
+    "nordsee!59",
+    "Tatort_1234"
+  ],
+  "favorite_hobby": "tatort"
+}

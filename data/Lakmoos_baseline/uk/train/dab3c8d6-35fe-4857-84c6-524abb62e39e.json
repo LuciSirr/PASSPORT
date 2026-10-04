@@ -1,0 +1,31 @@
+{
+  "id": "dab3c8d6-35fe-4857-84c6-524abb62e39e",
+  "gender": "male",
+  "age": 2,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finley",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "blocks"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Finley2022",
+    "Blocks123",
+    "Hollis22",
+    "Drawing4fun",
+    "FinFin_2",
+    "EastMids22",
+    "ToyCar2023"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2023-05-08"
+}

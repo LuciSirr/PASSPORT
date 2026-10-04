@@ -1,0 +1,34 @@
+{
+  "id": "c269e21a-8c94-42b7-bfb8-83c124d1f805",
+  "gender": "male",
+  "age": 80,
+  "marital_status": "married",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "Mercedes",
+  "self_first_name": "Heinrich",
+  "self_last_name": "Kronberg",
+  "partner_first_name": "Gertrud",
+  "partner_last_name": "Kronberg",
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "Kronberg Handelskontor GmbH",
+  "previous_passwords": [
+    "Heinrich1944",
+    "Gertrud123",
+    "Kronberg20!",
+    "Mecklenburg77",
+    "MercedesEQS22",
+    "Reisen2023",
+    "AOKpension",
+    "Handelskontor1",
+    "OktoberLiebling",
+    "Audiobuch44"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1946-02-10"
+}

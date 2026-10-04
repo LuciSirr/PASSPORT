@@ -1,0 +1,35 @@
+{
+  "id": "1ae84d0d-7593-493b-a443-c27d731d0056",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "Land Rover",
+  "self_first_name": "Jörg",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "reisen",
+    "auto",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "Kleinschmidt Beratung & Handel",
+  "previous_passwords": [
+    "Jörg1977",
+    "Sabine2020!",
+    "Defender2996",
+    "Berlin123",
+    "Kleinschmidt!6",
+    "LandR0ver2020",
+    "Reisen_15",
+    "AOK_1988",
+    "SabineJörg77",
+    "Auto!2024"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1979-03-22"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ddee079c-686b-483f-86f0-dc7f5a96b8e3",
+  "gender": "male",
+  "age": 90,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Wilfred",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Edith",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Wilfred1934",
+    "EdithCat1",
+    "Misty_99",
+    "Hollings23",
+    "Yorkshire1940",
+    "Gardening123",
+    "Crossword!7",
+    "MistyEdith",
+    "Wilf_1950",
+    "HollingsCat"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1936-01-11"
+}

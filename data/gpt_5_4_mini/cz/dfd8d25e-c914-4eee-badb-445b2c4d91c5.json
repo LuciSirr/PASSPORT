@@ -1,0 +1,35 @@
+{
+  "id": "dfd8d25e-c914-4eee-badb-445b2c4d91c5",
+  "age": 24,
+  "birth_date": "2002-02-03",
+  "marital_status": "single",
+  "region": "Habry",
+  "nationality": "czech",
+  "company": "Bílková",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Rostislav",
+  "self_last_name": "Vaněk",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "hraní her",
+    "posilovna",
+    "turistika"
+  ],
+  "previous_passwords": [
+    "Messi0202",
+    "Hockey24!",
+    "VanekLuka10",
+    "VWgolf2002",
+    "Fortnite!24",
+    "Turistika03",
+    "Slavia02_",
+    "GymVanek24",
+    "HabryRun02",
+    "MarekHokej!"
+  ]
+}

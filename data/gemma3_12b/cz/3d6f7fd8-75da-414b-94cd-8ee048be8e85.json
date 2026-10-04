@@ -1,0 +1,44 @@
+{
+  "id": "3d6f7fd8-75da-414b-94cd-8ee048be8e85",
+  "age": 29,
+  "birth_date": "1997-07-25",
+  "marital_status": "divorced",
+  "region": "Nová Včelnice",
+  "nationality": "czech",
+  "company": "Jaroš",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Nina",
+  "self_last_name": "Mašková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Alois"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Otakar"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "hudba Karla Gotta",
+    "vaření",
+    "cestování",
+    "fotbal"
+  ],
+  "previous_passwords": [
+    "KarlaGotta25",
+    "MercedesAlois!",
+    "MessiNováVčelnice",
+    "Turistika97",
+    "VařeníOtakar",
+    "NováVčelnice_1997",
+    "FotbalNina29",
+    "KarlaGottaMusic!",
+    "Mercedes_Vaření",
+    "Messi_Travel88"
+  ]
+}

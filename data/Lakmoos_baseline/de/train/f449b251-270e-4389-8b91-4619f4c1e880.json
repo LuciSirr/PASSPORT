@@ -1,0 +1,35 @@
+{
+  "id": "f449b251-270e-4389-8b91-4619f4c1e880",
+  "gender": "male",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Citroën",
+  "self_first_name": "Timo",
+  "self_last_name": "Kreutzer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "autos"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Timo1998",
+    "Kreutzer123",
+    "Citroen2012",
+    "Sommer07!",
+    "Reisen_2023",
+    "AutoFan97",
+    "Podc4st!",
+    "Rheinland78",
+    "Fussball_17",
+    "Kreutzer_17MY"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "2000-02-28"
+}

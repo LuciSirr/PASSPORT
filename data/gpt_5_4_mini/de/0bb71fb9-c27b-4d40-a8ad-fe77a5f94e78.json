@@ -1,0 +1,40 @@
+{
+  "id": "0bb71fb9-c27b-4d40-a8ad-fe77a5f94e78",
+  "age": 50,
+  "birth_date": "1976-01-07",
+  "marital_status": "divorced",
+  "region": "Peine",
+  "nationality": "german",
+  "company": "Gutknecht Stiftung & Co. KG",
+  "car_brand": "Citroën",
+  "self_first_name": "Helga",
+  "self_last_name": "Bolzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Cindy",
+      "last_name": "Bolzmann"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gartenarbeit",
+    "Wandern",
+    "Kochen",
+    "Heimatverein"
+  ],
+  "previous_passwords": [
+    "CindyFußball76",
+    "Citroen1976!",
+    "WandernPeine7",
+    "HSV_Heimat76",
+    "KochenBolz77",
+    "Garten1976!",
+    "Hannover96_CB",
+    "Wanderlust07",
+    "CindyGarten!",
+    "PeineHeimat50"
+  ]
+}

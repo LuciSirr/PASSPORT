@@ -1,0 +1,35 @@
+{
+  "id": "5c7eaadc-a7bc-493f-aaaf-d98cd3ce2c88",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "turistika",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "AutoServis U Labe",
+  "previous_passwords": [
+    "Fabia2003",
+    "Globus84",
+    "Shell999",
+    "Kofola52",
+    "BytUsti2021",
+    "Radek1972",
+    "Vesely!73",
+    "auta123",
+    "Hudba_999",
+    "Turistika21"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1973-11-24"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "113d193b-4083-485f-9065-e929a9747af9",
+  "gender": "male",
+  "age": 65,
+  "marital_status": "married",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1959-06-12",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "české filmy",
+    "country hudba",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "AutoServis Zlín",
+  "previous_passwords": [
+    "Radek1959",
+    "Kohout123",
+    "Jana2023",
+    "AutoServis59",
+    "turistika2020",
+    "countryHudba1",
+    "ceskefilmy59",
+    "Kohout!12",
+    "Zlin_1959",
+    "JanaKohoutka"
+  ],
+  "favorite_hobby": "české filmy"
+}

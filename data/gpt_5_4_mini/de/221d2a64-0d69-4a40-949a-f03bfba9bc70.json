@@ -1,0 +1,49 @@
+{
+  "id": "221d2a64-0d69-4a40-949a-f03bfba9bc70",
+  "age": 26,
+  "birth_date": "2000-03-05",
+  "marital_status": "married",
+  "region": "Rockenhausen",
+  "nationality": "german",
+  "company": "Hettner",
+  "car_brand": "Hyundai",
+  "self_first_name": "Svenja",
+  "self_last_name": "Lorch",
+  "partner_first_name": "Drago",
+  "partner_last_name": "Lorch",
+  "children": [
+    {
+      "first_name": "Alfredo",
+      "last_name": "Lorch"
+    },
+    {
+      "first_name": "Freya",
+      "last_name": "Lorch"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Gerolf"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Fitnessstudio",
+    "Kochen",
+    "Gaming"
+  ],
+  "previous_passwords": [
+    "Messi2000!",
+    "Freiburg26_",
+    "HyundaiFit26",
+    "DragoKochen!",
+    "FIFA_Freya05",
+    "WandernLorch7",
+    "AlfredoGym24",
+    "Rockenhausen!",
+    "GerolfGaming8",
+    "LorchFitness!"
+  ]
+}

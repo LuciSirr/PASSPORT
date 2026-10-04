@@ -1,0 +1,34 @@
+{
+  "id": "cafbcc1b-d28b-4466-a7a3-60de137fb509",
+  "gender": "male",
+  "age": 20,
+  "marital_status": "single/in a relationship",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "birth_date": "2004-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "tatort"
+  ],
+  "pets": [],
+  "company": "Nordmetall Fertigung GmbH",
+  "previous_passwords": [
+    "Krause2004",
+    "fifa123",
+    "Tatort!15",
+    "Lennart04",
+    "nordmetall2022",
+    "krause_fifa",
+    "F1faKrause",
+    "Tat0rt_2004",
+    "Lennart!Fifa",
+    "Krause!15"
+  ],
+  "favorite_hobby": "fifa"
+}

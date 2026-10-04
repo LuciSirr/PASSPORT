@@ -1,0 +1,40 @@
+{
+  "id": "00221936-a94e-453f-8da2-9088888909a3",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Hyundai",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "football",
+    "travelling",
+    "gaming"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "NorthWest Motor Trade Ltd",
+  "previous_passwords": [
+    "Callum1999",
+    "Baxter123",
+    "Emily4ever",
+    "Hollings88",
+    "Kona2023!",
+    "Football_99",
+    "Trav3l2022",
+    "Baxter!99",
+    "NorthWest4",
+    "Gaming_123"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2000-08-01"
+}

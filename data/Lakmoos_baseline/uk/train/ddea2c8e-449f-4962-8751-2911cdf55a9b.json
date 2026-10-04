@@ -1,0 +1,35 @@
+{
+  "id": "ddea2c8e-449f-4962-8751-2911cdf55a9b",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "cycling",
+    "travel"
+  ],
+  "pets": [],
+  "company": "NorthWest Civil Services",
+  "previous_passwords": [
+    "Callum1989",
+    "Hollingsworth123",
+    "Mercedes53147",
+    "Football4Life",
+    "NorthWest2020",
+    "Cycling!89",
+    "CLAClass11",
+    "Travel_2023",
+    "PublicAdmin1",
+    "DieselTurbo!"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "1991-04-19"
+}

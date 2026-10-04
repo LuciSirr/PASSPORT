@@ -1,0 +1,39 @@
+{
+  "id": "9a55cec5-c22d-4746-8801-e321766d1817",
+  "age": 45,
+  "birth_date": "1981-09-11",
+  "marital_status": "single",
+  "region": "Calau",
+  "nationality": "german",
+  "company": "Zahn",
+  "car_brand": "Opel",
+  "self_first_name": "Evelin",
+  "self_last_name": "Kraushaar",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Klaus-Jürgen"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Gartenarbeit",
+    "Wandern",
+    "Angeln"
+  ],
+  "previous_passwords": [
+    "Fussball81!",
+    "Wandern11_45",
+    "AngelnCalau7",
+    "GartenOpel81",
+    "KlausLizard9",
+    "Union1981!",
+    "Spreewald11",
+    "OstseeFuss7",
+    "OpelWald45",
+    "Calau_0911!"
+  ]
+}

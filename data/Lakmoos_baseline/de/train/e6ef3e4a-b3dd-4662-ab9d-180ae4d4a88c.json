@@ -1,0 +1,35 @@
+{
+  "id": "e6ef3e4a-b3dd-4662-ab9d-180ae4d4a88c",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotografie",
+    "kino",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "Kulturwerkstatt Rhein",
+  "previous_passwords": [
+    "Lennart1995",
+    "Krause123",
+    "Fotografie!2020",
+    "Rhein_2022",
+    "Kulturwerkstatt95",
+    "Sommer!95",
+    "KrauseL3nny",
+    "Kino1234",
+    "Podcasts2021",
+    "NRW!Krause"
+  ],
+  "favorite_hobby": "fotografie",
+  "birth_date": "1997-02-04"
+}

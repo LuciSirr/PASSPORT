@@ -1,0 +1,35 @@
+{
+  "id": "39ab20d3-1a13-4fd4-95e2-8ae1351809e8",
+  "gender": "female",
+  "age": 58,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1966-06-12",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Kohoutová",
+  "children": [],
+  "interests": [
+    "české filmy",
+    "divadlo",
+    "zahradničení"
+  ],
+  "pets": [],
+  "company": "Centrum sociálních služeb Beroun",
+  "previous_passwords": [
+    "Jitka1966",
+    "Kohoutova123",
+    "divadlo2020",
+    "Miroslav66",
+    "ceskefilmy77",
+    "Beroun2021!",
+    "zahrada_79",
+    "Kohoutova!divadlo",
+    "JitkaMira66",
+    "filmylaska1"
+  ],
+  "favorite_hobby": "české filmy"
+}

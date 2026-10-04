@@ -1,0 +1,34 @@
+{
+  "id": "d439bfc5-2297-4a8a-a66c-ec15cb55e5b3",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Rebecca",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "pubquiz"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gareth1989",
+    "AudiA3_2007",
+    "Rebecca4ever",
+    "WestMidlands123",
+    "Hollis2020",
+    "Cycling!88",
+    "Gardening_1",
+    "QuizNight07",
+    "Rebecca!1989"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1996-03-22"
+}

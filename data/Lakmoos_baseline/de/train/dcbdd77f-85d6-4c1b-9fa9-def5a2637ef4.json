@@ -1,0 +1,35 @@
+{
+  "id": "dcbdd77f-85d6-4c1b-9fa9-def5a2637ef4",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Annika",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Tobias",
+  "partner_last_name": "Kreutzmann",
+  "children": [],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Rheinland Startups GmbH",
+  "previous_passwords": [
+    "Annika1989",
+    "TobiKreutzmann123",
+    "Rheinland2020",
+    "Sommer!89",
+    "Kreutzmann2022",
+    "Reisen4ever",
+    "Fotografie_123",
+    "TobiasAnnika",
+    "BKK2021",
+    "Podcasts!1"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1994-03-05"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "55967b9e-2ff5-41b1-9f76-3c6d21ff13a4",
+  "age": 45,
+  "birth_date": "1981-04-23",
+  "marital_status": "married",
+  "region": "Dolní Bousov",
+  "nationality": "czech",
+  "company": "Kolářová s.r.o.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Hana",
+  "self_last_name": "Kratochvílová",
+  "partner_first_name": "Marek",
+  "partner_last_name": "Kratochvílová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivo",
+    "historie",
+    "folklór"
+  ],
+  "previous_passwords": [
+    "turistikaKladno23",
+    "Marek_Rybarsky1981",
+    "VolksWagenHana87",
+    "Historie_DlBousov!",
+    "folklórPivo1978",
+    "MessiHanaKratochvilova",
+    "RybářskéUzkosti2024",
+    "TuristkaKratochvilova",
+    "PivoHistorie23",
+    "DolniBousovVW!"
+  ]
+}

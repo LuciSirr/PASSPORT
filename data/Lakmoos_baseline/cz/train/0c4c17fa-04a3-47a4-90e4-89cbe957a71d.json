@@ -1,0 +1,35 @@
+{
+  "id": "0c4c17fa-04a3-47a4-90e4-89cbe957a71d",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Váchal",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Váchalová",
+  "children": [],
+  "interests": [
+    "auta",
+    "hudba",
+    "filmy",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Jihočeské strojírny s.r.o.",
+  "previous_passwords": [
+    "Radek1981",
+    "PetraVachalova21",
+    "Auta123",
+    "Hudba2020",
+    "Vachalovi43",
+    "Kaufland!81",
+    "Filmy_1981",
+    "PilsnerUrquell21",
+    "RadekPetra81"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1983-01-15"
+}

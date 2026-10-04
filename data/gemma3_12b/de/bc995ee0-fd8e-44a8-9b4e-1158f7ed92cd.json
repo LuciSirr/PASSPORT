@@ -1,0 +1,40 @@
+{
+  "id": "bc995ee0-fd8e-44a8-9b4e-1158f7ed92cd",
+  "age": 31,
+  "birth_date": "1995-07-23",
+  "marital_status": "single",
+  "region": "Dinkelsbühl",
+  "nationality": "german",
+  "company": "Tlustek GmbH",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Doris",
+  "self_last_name": "Faust",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Claire"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Lokaler Fußballverein",
+    "Deutsche Küche",
+    "Reisen"
+  ],
+  "previous_passwords": [
+    "ClaireWandern95",
+    "MessiDinkelsbuhl!",
+    "MercedesFoto23",
+    "DeutscheKueche_Doris",
+    "ReisenClaire07",
+    "FotografieDoris95",
+    "WandernMercedes!",
+    "JoeRogan_Doris",
+    "ClaireFoto23!",
+    "DinkelsbuhlMessi"
+  ]
+}

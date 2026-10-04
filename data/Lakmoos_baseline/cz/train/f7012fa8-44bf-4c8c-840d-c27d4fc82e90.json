@@ -1,0 +1,41 @@
+{
+  "id": "f7012fa8-44bf-4c8c-840d-c27d4fc82e90",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "instagram",
+    "móda",
+    "seriály"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Liberecká studentská brigáda",
+  "previous_passwords": [
+    "Terka2008",
+    "Liberec123",
+    "Micka21",
+    "RajecVoda",
+    "BataFashion",
+    "Nakupovani2023",
+    "Instagram_16",
+    "Vesela!2008",
+    "M0da123",
+    "Seri4ly2024"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "2010-02-28"
+}

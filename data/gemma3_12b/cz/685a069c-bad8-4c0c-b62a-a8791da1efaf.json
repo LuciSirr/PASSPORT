@@ -1,0 +1,35 @@
+{
+  "id": "685a069c-bad8-4c0c-b62a-a8791da1efaf",
+  "age": 45,
+  "birth_date": "1981-03-26",
+  "marital_status": "single",
+  "region": "Nový Knín",
+  "nationality": "czech",
+  "company": "Petrová s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Bohumil",
+  "self_last_name": "Tichý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "lokální historie",
+    "pivovarnictví",
+    "zahradka"
+  ],
+  "previous_passwords": [
+    "SkodaRapid81",
+    "TuristikaLipa26",
+    "Rybářství2024",
+    "LokHisNovyKnin",
+    "PivovarskyZizkov",
+    "ZahrádkaHouska!",
+    "BohumilFish1981",
+    "MessiFanSkoda",
+    "JoeRoganRybolov",
+    "TuristikaRapid!"
+  ]
+}

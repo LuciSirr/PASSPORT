@@ -1,0 +1,35 @@
+{
+  "id": "a082e201-6435-4871-9a0f-fac9e9c8879d",
+  "age": 41,
+  "birth_date": "1985-02-14",
+  "marital_status": "divorced",
+  "region": "Vamberk",
+  "nationality": "czech",
+  "company": "Matějková",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radoslav",
+  "self_last_name": "Pavlíček",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "čtení",
+    "pivovarnictví",
+    "hudba Karla Gotta"
+  ],
+  "previous_passwords": [
+    "KarlaGotta2014",
+    "HyundaiTuristika!",
+    "Rybářství85",
+    "CteniPivovarnictvi",
+    "VamberkTuristika",
+    "KarlGottaFan_1985",
+    "TuristikaHyundai23",
+    "RybarstvíKarlaG",
+    "HyundaiČtení!",
+    "Pivovarnictvi85_"
+  ]
+}

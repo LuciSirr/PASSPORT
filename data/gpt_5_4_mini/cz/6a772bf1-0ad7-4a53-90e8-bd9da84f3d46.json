@@ -1,0 +1,44 @@
+{
+  "id": "6a772bf1-0ad7-4a53-90e8-bd9da84f3d46",
+  "age": 43,
+  "birth_date": "1983-01-23",
+  "marital_status": "married",
+  "region": "Velké Pavlovice",
+  "nationality": "czech",
+  "company": "Dvořáková s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Libuše",
+  "self_last_name": "Malá",
+  "partner_first_name": "Jonáš",
+  "partner_last_name": "Malá",
+  "children": [
+    {
+      "first_name": "Karel",
+      "last_name": "Svoboda"
+    },
+    {
+      "first_name": "Marcel",
+      "last_name": "Němec"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "vinařství",
+    "turistika",
+    "cyklistika",
+    "fotbal",
+    "grilování"
+  ],
+  "previous_passwords": [
+    "Vino33Libuse!",
+    "Skoda83Grill",
+    "KarelBike23",
+    "MalaTour2023",
+    "JonasFotbal24",
+    "ZlinCup83",
+    "Grilovani43!",
+    "VelkePavlo83",
+    "CykloLibuse7",
+    "MaláVino23!"
+  ]
+}

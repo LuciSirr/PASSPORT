@@ -1,0 +1,44 @@
+{
+  "id": "b4c1206c-b143-4126-a29f-add6a5692329",
+  "age": 44,
+  "birth_date": "1982-05-27",
+  "marital_status": "single",
+  "region": "Město Touškov",
+  "nationality": "czech",
+  "company": "Müllerová Štěpánek v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Alice",
+  "self_last_name": "Bláhová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Igor"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Alexandr"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "čtení knih",
+    "pivovarnictví",
+    "lokální historie"
+  ],
+  "previous_passwords": [
+    "SkodaTouškov82!",
+    "IgorAlexandrFish",
+    "TuristikaAlice27",
+    "RybarstviIgor!",
+    "KnihyBlahova2023",
+    "PivovarnictviS12",
+    "LokHistoriaŠkoda",
+    "TouškovMessi1982",
+    "AlexandrFish88",
+    "AliceTuristika!"
+  ]
+}

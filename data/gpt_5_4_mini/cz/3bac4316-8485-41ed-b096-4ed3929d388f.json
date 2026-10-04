@@ -1,0 +1,35 @@
+{
+  "id": "3bac4316-8485-41ed-b096-4ed3929d388f",
+  "age": 24,
+  "birth_date": "2002-05-17",
+  "marital_status": "married",
+  "region": "Žirovnice",
+  "nationality": "czech",
+  "company": "Šmídová",
+  "car_brand": "Toyota",
+  "self_first_name": "Květa",
+  "self_last_name": "Krejčová",
+  "partner_first_name": "Bohumil",
+  "partner_last_name": "Krejčová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "posilovna",
+    "hokej",
+    "hraní her",
+    "turistika",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Hokej2002!",
+    "Posilovna17",
+    "Toyota_Zirovnice",
+    "Bohumil24",
+    "Turistika_05",
+    "Ceskefilmy02",
+    "KvetaHokej",
+    "Gamer2002!",
+    "HokejToya17",
+    "Krejcova24!"
+  ]
+}

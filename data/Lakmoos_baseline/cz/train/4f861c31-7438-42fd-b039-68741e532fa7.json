@@ -1,0 +1,35 @@
+{
+  "id": "4f861c31-7438-42fd-b039-68741e532fa7",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Šimon",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "lego",
+    "kreslení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Simonek2016",
+    "Pardubice8",
+    "Jablko123",
+    "VeselyKluk",
+    "MinecraftCZ",
+    "Fotbal2024",
+    "LegoMistr8",
+    "Kresleni_07",
+    "Simca!123",
+    "VeseleJablko"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2018-03-08"
+}

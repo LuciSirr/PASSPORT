@@ -1,0 +1,35 @@
+{
+  "id": "1b9c27e7-8ba9-46a0-afb3-731e14e24e91",
+  "gender": "male",
+  "age": 44,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Gareth",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "photography"
+  ],
+  "pets": [],
+  "company": "West Midlands Digital Solutions",
+  "previous_passwords": [
+    "Gareth1979",
+    "HelenMerrick123",
+    "VWGolf8!",
+    "WestMidlands99",
+    "Cycling2020",
+    "Travel4Fun",
+    "Merrick_81",
+    "Photography_1",
+    "Helen1979",
+    "VW31307"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1981-09-18"
+}

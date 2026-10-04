@@ -1,0 +1,35 @@
+{
+  "id": "d54866de-26a1-4374-84de-bdf7955a7219",
+  "gender": "male",
+  "age": 57,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "cestování",
+    "kutilství",
+    "hbo",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Stavby Ústí",
+  "previous_passwords": [
+    "Radek1967",
+    "JanaVesela86",
+    "Usti1234",
+    "Kutil2020",
+    "Pilsner!40",
+    "Stavba987",
+    "VeselyJana1",
+    "Kaufland2021",
+    "Cestovani77"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1969-03-09"
+}

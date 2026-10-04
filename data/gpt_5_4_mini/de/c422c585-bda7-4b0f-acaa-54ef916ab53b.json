@@ -1,0 +1,49 @@
+{
+  "id": "c422c585-bda7-4b0f-acaa-54ef916ab53b",
+  "age": 68,
+  "birth_date": "1958-07-14",
+  "marital_status": "married",
+  "region": "Eisenach",
+  "nationality": "german",
+  "company": "Faust",
+  "car_brand": "Skoda",
+  "self_first_name": "Willibert",
+  "self_last_name": "Henschel",
+  "partner_first_name": "Evelin",
+  "partner_last_name": "Henschel",
+  "children": [
+    {
+      "first_name": "Heinz-Walter",
+      "last_name": "Henschel"
+    },
+    {
+      "first_name": "Kordula",
+      "last_name": "Henschel"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Hermann"
+    }
+  ],
+  "interests": [
+    "Wandern im Thüringer Wald",
+    "Gartenarbeit",
+    "Klassische Musik",
+    "Schach",
+    "Geschichte der Wartburg"
+  ],
+  "previous_passwords": [
+    "Wartburg58!",
+    "ThueringerWald68",
+    "SchachEisenach7",
+    "Hermann1958!",
+    "SkodaWartburg14",
+    "Evelin_Garten8",
+    "HeinzWalter58",
+    "KlassikEis!68",
+    "Wandern_14H",
+    "HenschelSchach2"
+  ]
+}

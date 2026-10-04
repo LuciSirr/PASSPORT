@@ -1,0 +1,40 @@
+{
+  "id": "c0038e49-81fe-46d5-bcc3-e45b317f71e5",
+  "gender": "female",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Vacková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "tanec",
+    "pohádky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2016",
+    "kocicka123",
+    "skolaVysocina",
+    "jahoda2023",
+    "Micka2022",
+    "tanec789",
+    "malovani_08",
+    "Vackova2015",
+    "Pohadky1",
+    "M1cka!"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2018-02-25"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "bb75b76e-6b04-4794-8008-0763f308a6a7",
+  "gender": "male",
+  "age": 35,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Suzuki",
+  "self_first_name": "Callum",
+  "self_last_name": "Macrae",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "hiking",
+    "photography",
+    "travelling"
+  ],
+  "pets": [],
+  "company": "Strathmore Engineering Solutions",
+  "previous_passwords": [
+    "Vitara2009",
+    "Callum17",
+    "Macrae_123",
+    "Suzuki4Life",
+    "Scotland2020",
+    "Hiking!95",
+    "GrandVitara1",
+    "Strathmore17",
+    "Travel_2022"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1991-02-02"
+}

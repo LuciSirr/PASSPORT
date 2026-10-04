@@ -1,0 +1,35 @@
+{
+  "id": "325c8de4-e0c1-41a9-9030-e5faf5b71531",
+  "gender": "male",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "hry",
+    "cyklistika"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "matej2009",
+    "sparta123",
+    "karlovyvary14",
+    "vesely2023",
+    "fotbal321",
+    "cyklistika09",
+    "Hry_2024",
+    "Vesely14!",
+    "Sparta_2009",
+    "KarlovyVary_123"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2012-02-25"
+}

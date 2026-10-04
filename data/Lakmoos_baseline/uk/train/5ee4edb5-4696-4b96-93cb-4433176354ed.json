@@ -1,0 +1,34 @@
+{
+  "id": "5ee4edb5-4696-4b96-93cb-4433176354ed",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": "Judith",
+  "partner_last_name": "Hatherleigh",
+  "children": [],
+  "interests": [
+    "gardening",
+    "cricket",
+    "reading"
+  ],
+  "pets": [],
+  "company": "East Midlands Advisory Group",
+  "previous_passwords": [
+    "Malcolm1966",
+    "Judith58",
+    "Hatherleigh123",
+    "Cricket4Life",
+    "EastMidlands2020",
+    "Gardening!1",
+    "Reading_66",
+    "Judy4Malc",
+    "Hatherleigh!2023"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1968-03-13"
+}

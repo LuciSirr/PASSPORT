@@ -1,0 +1,40 @@
+{
+  "id": "c78f0dce-69c7-4268-b855-213b0b203d02",
+  "age": 56,
+  "birth_date": "1970-11-11",
+  "marital_status": "married",
+  "region": "Heinsberg",
+  "nationality": "german",
+  "company": "Knappe",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Bärbel",
+  "self_last_name": "Tschentscher",
+  "partner_first_name": "Domenico",
+  "partner_last_name": "Tschentscher",
+  "children": [
+    {
+      "first_name": "Brigitta",
+      "last_name": "Tschentscher"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Deutsche Geschichte",
+    "Gartenarbeit",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "Messi1970!",
+    "MercedesBrigitta",
+    "WandernHeinsberg70",
+    "DeutscheGeschichteDomenico",
+    "KlassischeMusikBärbel",
+    "Fußballgarten1970",
+    "HeinsbergMessi23",
+    "MercedesBärbel!",
+    "BrigittaWandern!",
+    "DomenicoGeschichte"
+  ]
+}

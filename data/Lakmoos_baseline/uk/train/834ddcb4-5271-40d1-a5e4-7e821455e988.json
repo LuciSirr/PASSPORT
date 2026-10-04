@@ -1,0 +1,40 @@
+{
+  "id": "834ddcb4-5271-40d1-a5e4-7e821455e988",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gillian",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Malcolm",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "gardening",
+    "baking",
+    "crossword"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Gillian1963",
+    "Misty123",
+    "Malcolm61",
+    "Hollis2020",
+    "Baking4Fun",
+    "Gardening!",
+    "MistyCat",
+    "Crossword7",
+    "GillHollis",
+    "Misty!2021"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1964-08-22"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "36476003-1d69-465b-b1c2-b9328baf2051",
+  "age": 27,
+  "birth_date": "1999-12-08",
+  "marital_status": "married",
+  "region": "Starnberg",
+  "nationality": "german",
+  "company": "Gröttner AG & Co. KG",
+  "car_brand": "Skoda",
+  "self_first_name": "Dora",
+  "self_last_name": "Schmidtke",
+  "partner_first_name": "Erdogan",
+  "partner_last_name": "Schmidtke",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern am Starnberger See",
+    "Kaffee",
+    "Tech-Podcasts",
+    "Biergärten"
+  ],
+  "previous_passwords": [
+    "Bayern99!",
+    "Starnberg88",
+    "Kaffee27_",
+    "Erdogan12!",
+    "SkodaRides9",
+    "HikingSee99",
+    "Biergarten27",
+    "Podcast99!",
+    "Fussball27_",
+    "DoraSee08!"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "89b72998-9e63-44e0-aa95-c405c0b0e868",
+  "gender": "male",
+  "age": 31,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "Cupra",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Sandra",
+  "partner_last_name": "Kreutzmann",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kreutzmann"
+    },
+    {
+      "first_name": "Emilia",
+      "last_name": "Kreutzmann"
+    }
+  ],
+  "interests": [
+    "fussball",
+    "streaming",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Sachsen-Anhalt Service GmbH",
+  "previous_passwords": [
+    "Lukas2018",
+    "Emilia2021",
+    "Kreutzmann84",
+    "Sandra123",
+    "Fussball!90",
+    "Tobias1984",
+    "Sachsen-Anhalt2024",
+    "CupraLeon1",
+    "Sommerurlaub19",
+    "Emilia_Lukas"
+  ],
+  "favorite_hobby": "fussball",
+  "birth_date": "1994-05-18"
+}

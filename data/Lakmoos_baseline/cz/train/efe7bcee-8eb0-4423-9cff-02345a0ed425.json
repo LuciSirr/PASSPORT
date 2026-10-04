@@ -1,0 +1,35 @@
+{
+  "id": "efe7bcee-8eb0-4423-9cff-02345a0ed425",
+  "gender": "female",
+  "age": 42,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Kubešová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "móda",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Základní škola Vysočina",
+  "previous_passwords": [
+    "Ivana1979",
+    "Kubesova42",
+    "Maturita2000",
+    "Cteni123",
+    "Tchibo_42",
+    "Vysočina1979",
+    "BohemiaSekt!",
+    "Seriály2024",
+    "UcitelkaCZ",
+    "Moda1979"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1983-08-11"
+}

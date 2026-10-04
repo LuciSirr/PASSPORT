@@ -1,0 +1,44 @@
+{
+  "id": "5def0ffa-c26c-48fc-8992-7c7c17a51e55",
+  "age": 24,
+  "birth_date": "2002-09-29",
+  "marital_status": "single",
+  "region": "East Stevenstad",
+  "nationality": "english",
+  "company": "Khan-Ali",
+  "car_brand": "Ford",
+  "self_first_name": "Gerald",
+  "self_last_name": "Chapman",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Hannah"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Kevin"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "fitness",
+    "indie music",
+    "coffee culture",
+    "travel"
+  ],
+  "previous_passwords": [
+    "FordGaming29",
+    "HannahFit02!",
+    "KevinCoffee29",
+    "IndieVibes02",
+    "TravelFord29!",
+    "GeraldMusic02",
+    "EastSteven29",
+    "CoffeeCat02!",
+    "GymFord2002",
+    "GamingChapman29"
+  ]
+}

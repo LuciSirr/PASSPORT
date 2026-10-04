@@ -1,0 +1,35 @@
+{
+  "id": "c1666149-b53d-44be-a188-55a21c504f68",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "single/in a relationship",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Renault",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobooks",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tobi1983",
+    "Renault123",
+    "Kreutzmann!41",
+    "Oppo2020",
+    "Reisen_10",
+    "Allianz2022",
+    "Audiobook3",
+    "Mainz1983",
+    "Fotografie!",
+    "Sommer123"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1985-01-29"
+}

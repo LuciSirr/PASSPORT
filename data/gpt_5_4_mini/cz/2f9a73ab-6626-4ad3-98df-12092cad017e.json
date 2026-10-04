@@ -1,0 +1,49 @@
+{
+  "id": "2f9a73ab-6626-4ad3-98df-12092cad017e",
+  "age": 35,
+  "birth_date": "1991-03-31",
+  "marital_status": "married",
+  "region": "Chrastava",
+  "nationality": "czech",
+  "company": "Kubíček Zeman o.s.",
+  "car_brand": "Peugeot",
+  "self_first_name": "Klaudie",
+  "self_last_name": "Dušková",
+  "partner_first_name": "Marian",
+  "partner_last_name": "Dušek",
+  "children": [
+    {
+      "first_name": "Františka",
+      "last_name": "Dušková"
+    },
+    {
+      "first_name": "Květoslava",
+      "last_name": "Dušková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Dobroslav"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "fotbal",
+    "vaření",
+    "nordic walking"
+  ],
+  "previous_passwords": [
+    "Turistika31!",
+    "Cyklo1991",
+    "SpartaDusek7",
+    "Peugeot91!",
+    "NordicMarian31",
+    "VareniKlaudie",
+    "Dobroslav35",
+    "Frantiska91",
+    "Kvetoslava_31",
+    "Chrastava91!"
+  ]
+}

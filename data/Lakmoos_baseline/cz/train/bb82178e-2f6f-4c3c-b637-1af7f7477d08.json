@@ -1,0 +1,53 @@
+{
+  "id": "bb82178e-2f6f-4c3c-b637-1af7f7477d08",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "married",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Lenka",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "čtení",
+    "seriály",
+    "nakupování",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "Liberecká komunikace s.r.o.",
+  "previous_passwords": [
+    "Lenka1986",
+    "Vesela123",
+    "Superb2001",
+    "Tereza09",
+    "Kaufland2023",
+    "Matěj2015",
+    "Eliška99",
+    "Adam15!",
+    "Petr1980",
+    "Čtení321"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1987-08-21"
+}

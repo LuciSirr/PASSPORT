@@ -1,0 +1,34 @@
+{
+  "id": "e943fcfd-7506-4f2d-8653-e9934098388f",
+  "gender": "female",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Seat",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "yoga"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Imogen99",
+    "Hollis2020",
+    "Peugeot2008!",
+    "SeatLeon19",
+    "LondonGirl25",
+    "Travel123",
+    "Yoga_2022",
+    "Reading4Life",
+    "Imo!2024"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "2000-05-05"
+}

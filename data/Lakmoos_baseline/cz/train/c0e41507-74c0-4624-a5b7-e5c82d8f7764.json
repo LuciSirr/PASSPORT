@@ -1,0 +1,35 @@
+{
+  "id": "c0e41507-74c0-4624-a5b7-e5c82d8f7764",
+  "gender": "male",
+  "age": 71,
+  "marital_status": "married",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kubeš",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Kubešová",
+  "children": [],
+  "interests": [
+    "procházky",
+    "křížovky",
+    "televize"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1953",
+    "MarieKubesova71",
+    "Bytovka59",
+    "PilsnerUrquell!",
+    "Prochazky123",
+    "Krizovky2020",
+    "KarlovyVary53",
+    "Makro24cz",
+    "Uniqa2020",
+    "Televize111"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1955-02-20"
+}

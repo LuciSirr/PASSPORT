@@ -1,0 +1,35 @@
+{
+  "id": "a45bbb7f-7b09-4abc-85fe-a584213e321f",
+  "gender": "male",
+  "age": 65,
+  "marital_status": "widower/widow",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "čtení",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Fabia2004",
+    "Globus17",
+    "PilsnerUrquell65",
+    "Moravska120",
+    "Teta536",
+    "Sebesta1959",
+    "Nakupovani123",
+    "Krizovky2024",
+    "Tesco_17",
+    "Pivo!65"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1960-05-07"
+}

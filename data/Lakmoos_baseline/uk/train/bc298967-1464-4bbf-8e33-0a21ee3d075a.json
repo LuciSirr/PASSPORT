@@ -1,0 +1,40 @@
+{
+  "id": "bc298967-1464-4bbf-8e33-0a21ee3d075a",
+  "gender": "male",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Whittaker",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "lego"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "West Midlands Tutoring",
+  "previous_passwords": [
+    "Callum2014",
+    "Baxter123",
+    "Whittaker10",
+    "football4life",
+    "LegoMaster!",
+    "WestMidlands2022",
+    "Gaming_10",
+    "Baxter!2019",
+    "Callum_FC",
+    "Wh1tt4k3r"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2016-01-21"
+}

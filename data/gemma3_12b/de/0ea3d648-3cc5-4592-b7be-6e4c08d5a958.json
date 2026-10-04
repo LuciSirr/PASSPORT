@@ -1,0 +1,35 @@
+{
+  "id": "0ea3d648-3cc5-4592-b7be-6e4c08d5a958",
+  "age": 55,
+  "birth_date": "1971-11-29",
+  "marital_status": "single",
+  "region": "Erkelenz",
+  "nationality": "german",
+  "company": "Reuter Bruder e.V.",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Martin",
+  "self_last_name": "Kade",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Lesen",
+    "Fotografie",
+    "Deutsche Bahn Modelle",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "DeutscheBahn71",
+    "KlassischeMusik29",
+    "WanderlustErkelenz",
+    "MercedesBenzFoto!",
+    "LesenMartin1971",
+    "FotografieJoeRogan",
+    "DBModelle_MK",
+    "ErkelenzWanderer",
+    "KlassikMartinK",
+    "MercedesFoto71!"
+  ]
+}

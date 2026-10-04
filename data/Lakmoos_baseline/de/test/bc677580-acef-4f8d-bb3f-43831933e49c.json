@@ -1,0 +1,40 @@
+{
+  "id": "bc677580-acef-4f8d-bb3f-43831933e49c",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lena",
+  "self_last_name": "Kuhn",
+  "birth_date": "2018-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "malen",
+    "spielplatz"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Flocki"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Lena2021",
+    "KuhnFlocki15",
+    "pawpatrol123",
+    "Flocki!21",
+    "malen_2021",
+    "spielplatzKuhn",
+    "LenaMalen15",
+    "pawpatrolFlocki",
+    "Kuhn2021",
+    "Flocki_paw15"
+  ],
+  "favorite_hobby": "paw patrol"
+}

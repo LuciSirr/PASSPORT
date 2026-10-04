@@ -1,0 +1,40 @@
+{
+  "id": "de5dff86-7da4-48f7-a6f5-05343c70641d",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Suzuki",
+  "self_first_name": "Lena",
+  "self_last_name": "Krause",
+  "birth_date": "2005-07-14",
+  "partner_first_name": "Jonas",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "germanys next topmodel",
+    "tiktok",
+    "beachurlaub"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Hessen Auto Service",
+  "previous_passwords": [
+    "Lena2005",
+    "Milo!14",
+    "KrauseGNTM23",
+    "tiktok_123",
+    "Beachurlaub07",
+    "JonasLena05",
+    "MiloKrause2022",
+    "GNTM!2005",
+    "KrauseMilo14",
+    "Topmodel_05"
+  ],
+  "favorite_hobby": "germanys next topmodel"
+}

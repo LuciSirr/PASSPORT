@@ -1,0 +1,39 @@
+{
+  "id": "cdbe79e7-5e56-4fcb-83a0-802233997778",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Ford",
+  "self_first_name": "Leanne",
+  "self_last_name": "Pritchard",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "walking",
+    "baking",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Leanne2013",
+    "Milo123",
+    "Pritchard88",
+    "Wales!21",
+    "Gardening4",
+    "FordFocus12",
+    "Baking_2020",
+    "Walking88",
+    "Milo!cat"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1996-01-04"
+}

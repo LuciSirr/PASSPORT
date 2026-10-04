@@ -1,0 +1,39 @@
+{
+  "id": "bb9b863c-aee8-4b4c-a198-cd06de41f79f",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "Opel",
+  "self_first_name": "Gisela",
+  "self_last_name": "Kretschmer",
+  "partner_first_name": "Wolfgang",
+  "partner_last_name": "Kretschmer",
+  "children": [],
+  "interests": [
+    "gartenarbeit",
+    "reisen"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Kretschmer Handelsagentur",
+  "previous_passwords": [
+    "Gisela1959",
+    "Minka123",
+    "Wolfgang!64",
+    "Kretschmer2020",
+    "OpelAstra21",
+    "Sachsen_59",
+    "Gartenarbeit1",
+    "Reisen!23",
+    "Sparkasse253",
+    "MinkaWolf59"
+  ],
+  "favorite_hobby": "gartenarbeit",
+  "birth_date": "1962-02-26"
+}

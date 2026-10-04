@@ -1,0 +1,35 @@
+{
+  "id": "02e4c89b-982f-462d-9b34-d4176c37127b",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "married",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Jörg",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Birgit",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "fernsehen",
+    "spazieren",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "Auto & Handel Warnow GmbH",
+  "previous_passwords": [
+    "Jörg1969",
+    "Birgit123",
+    "Warnow2000",
+    "Kleinschmidt!52",
+    "Sommerurlaub21",
+    "AutoF4n!",
+    "Gartenarbeit2022",
+    "Oppo_2019",
+    "AOK_123",
+    "MeckPomm!69"
+  ],
+  "favorite_hobby": "fernsehen",
+  "birth_date": "1974-03-13"
+}

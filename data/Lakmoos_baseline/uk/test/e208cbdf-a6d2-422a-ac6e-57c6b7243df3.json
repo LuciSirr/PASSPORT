@@ -1,0 +1,35 @@
+{
+  "id": "e208cbdf-a6d2-422a-ac6e-57c6b7243df3",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "divorced",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Gareth",
+  "self_last_name": "Merrick",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "hillwalking",
+    "classic cars",
+    "top gear"
+  ],
+  "pets": [],
+  "company": "Westmoor Construction",
+  "previous_passwords": [
+    "Merrick1972",
+    "Hillwalking123",
+    "TopGear!22",
+    "MiniHatch2024",
+    "Westmoor2020",
+    "ClassicCars!72",
+    "Gareth!1972",
+    "SouthWest4",
+    "Mini4Life",
+    "GearHead_72"
+  ],
+  "favorite_hobby": "hillwalking",
+  "birth_date": "1972-06-15"
+}

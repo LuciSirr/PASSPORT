@@ -1,0 +1,35 @@
+{
+  "id": "f8cf5cbd-ede8-4c59-9e65-3d343f5a4300",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Šimon",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "lego",
+    "kreslení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Simca2016",
+    "Plzen123",
+    "Vesely8",
+    "skola2024",
+    "Lego2020",
+    "Fotbal07",
+    "Kresleni321",
+    "Simonek08",
+    "Plzenek!",
+    "VeselySimca"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2017-08-23"
+}

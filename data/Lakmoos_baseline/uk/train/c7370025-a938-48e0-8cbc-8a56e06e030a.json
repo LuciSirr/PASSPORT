@@ -1,0 +1,35 @@
+{
+  "id": "c7370025-a938-48e0-8cbc-8a56e06e030a",
+  "gender": "male",
+  "age": 37,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "reading"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gareth1987",
+    "EmilyHollings123",
+    "Renault1598",
+    "Travel4Life!",
+    "Hollings2020",
+    "Cycling_88",
+    "Reading3",
+    "Emily2023",
+    "SouthEastUK",
+    "Adventure_1"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1989-02-06"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "af6a67a8-74ba-4f50-8da7-cfeac688cdaf",
+  "gender": "female",
+  "age": 84,
+  "marital_status": "widower/widow",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Božena",
+  "self_last_name": "Váchová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "pletení",
+    "čtení",
+    "křížovky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Bozena1940",
+    "VachovaDomek",
+    "Micka2020",
+    "JizniCechy",
+    "RelaxNapoj",
+    "Pletení123",
+    "Krizovky2022",
+    "Micka!",
+    "Coop211",
+    "Cteni2024"
+  ],
+  "favorite_hobby": "pletení",
+  "birth_date": "1941-08-22"
+}

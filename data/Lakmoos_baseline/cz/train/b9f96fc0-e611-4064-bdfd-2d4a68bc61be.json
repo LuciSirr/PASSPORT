@@ -1,0 +1,34 @@
+{
+  "id": "b9f96fc0-e611-4064-bdfd-2d4a68bc61be",
+  "gender": "female",
+  "age": 66,
+  "marital_status": "divorced",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "křížovky",
+    "procházky",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "Divadlo Olomoucko",
+  "previous_passwords": [
+    "Jarmila1958",
+    "Vranova66",
+    "Krizovky123",
+    "Olomouc!74",
+    "Divadlo2024",
+    "Bonprix_66",
+    "LidlBilla!",
+    "SkodaKodiaq2016",
+    "Prochazka2023"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1959-06-04"
+}

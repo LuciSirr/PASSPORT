@@ -1,0 +1,35 @@
+{
+  "id": "7b912a1d-a852-40bf-bff0-8bd59a2cb18f",
+  "age": 58,
+  "birth_date": "1968-01-07",
+  "marital_status": "married",
+  "region": "Velvary",
+  "nationality": "czech",
+  "company": "Kovářová Kratochvílová k.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Květa",
+  "self_last_name": "Janečková",
+  "partner_first_name": "Ctibor",
+  "partner_last_name": "Janečková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "rybaření",
+    "historie",
+    "škoda auto"
+  ],
+  "previous_passwords": [
+    "VelvaryTuristika68",
+    "SkodaAutoKvěta!",
+    "RibarstvoCtibor",
+    "Volkswagen1968",
+    "HistorieJaneckova",
+    "TuristikaKvěta22",
+    "ZahradaVelvary",
+    "Messi2Janeckova",
+    "TuristikaRiby",
+    "JaneckovaSkoda7"
+  ]
+}

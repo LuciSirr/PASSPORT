@@ -1,0 +1,34 @@
+{
+  "id": "206e5770-6b24-42cc-b18b-4c8e7d37e5a2",
+  "gender": "female",
+  "age": 41,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Seat",
+  "self_first_name": "Katrin",
+  "self_last_name": "Kuhn",
+  "birth_date": "1983-06-14",
+  "partner_first_name": "Andreas",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "tatort",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "Kuhn & Partner Unternehmensberatung",
+  "previous_passwords": [
+    "Kuhn1983",
+    "Tatort123",
+    "Andreas14",
+    "n0rd1cW4lk1ng!",
+    "KuhnTatort83",
+    "Katrin!1983",
+    "Unternehmensberatung2020",
+    "Tatort_Kuhn",
+    "KuhnAndreas83",
+    "Niedersachsen14"
+  ],
+  "favorite_hobby": "tatort"
+}

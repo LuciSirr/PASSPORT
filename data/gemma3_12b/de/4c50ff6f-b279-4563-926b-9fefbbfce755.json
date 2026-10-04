@@ -1,0 +1,35 @@
+{
+  "id": "4c50ff6f-b279-4563-926b-9fefbbfce755",
+  "age": 25,
+  "birth_date": "2001-11-08",
+  "marital_status": "divorced",
+  "region": "Burg",
+  "nationality": "german",
+  "company": "Zänker OHG mbH",
+  "car_brand": "Audi",
+  "self_first_name": "Gerta",
+  "self_last_name": "Weimer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Musik Festivals",
+    "Bergwandern",
+    "Videospiele",
+    "Fotografie",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Bergwandern2001!",
+    "AudiFoto23",
+    "MessiFußball1108",
+    "ParookavilleGerta",
+    "Videospiele25!",
+    "LokalerVereinAw!",
+    "FotografieBurg08",
+    "Berg2001Gerta",
+    "MusikFestivalsAw",
+    "AudiBergwandern"
+  ]
+}

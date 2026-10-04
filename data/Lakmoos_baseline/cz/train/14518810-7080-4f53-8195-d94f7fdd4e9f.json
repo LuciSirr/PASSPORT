@@ -1,0 +1,35 @@
+{
+  "id": "14518810-7080-4f53-8195-d94f7fdd4e9f",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "married",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Vránová",
+  "children": [],
+  "interests": [
+    "čtení",
+    "procházky",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Jarmila63",
+    "Miroslav2008",
+    "Olomouc_123",
+    "Rajec2020",
+    "Vincentka!",
+    "Cteni2024",
+    "Vranova1959",
+    "Hyundaii20",
+    "Lidl746",
+    "Prochazky1"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1963-03-17"
+}

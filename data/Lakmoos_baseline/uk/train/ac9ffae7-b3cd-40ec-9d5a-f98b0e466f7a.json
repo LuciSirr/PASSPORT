@@ -1,0 +1,35 @@
+{
+  "id": "ac9ffae7-b3cd-40ec-9d5a-f98b0e466f7a",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "South Downs Borough Council",
+  "previous_passwords": [
+    "Renault999",
+    "Clio2001",
+    "Hollis23",
+    "Football123",
+    "SouthEast21",
+    "Callum!2020",
+    "Gaming_88",
+    "Cycling4Life",
+    "Clio!66",
+    "Downs2024"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2003-02-02"
+}

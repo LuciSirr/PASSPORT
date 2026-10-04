@@ -1,0 +1,44 @@
+{
+  "id": "baef3d0f-420c-45a7-8590-c1d45286b88c",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "divorced",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Vach",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Vach"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Vachová"
+    }
+  ],
+  "interests": [
+    "auta",
+    "zahrada",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Základní škola Ústí",
+  "previous_passwords": [
+    "Matej2013",
+    "Fabia1999",
+    "Vach47",
+    "Eliška2023",
+    "Usti123",
+    "Zahrada2020",
+    "Radek!41",
+    "Auta999",
+    "MatyEli10",
+    "Vachova1"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1979-02-26"
+}

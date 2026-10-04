@@ -1,0 +1,35 @@
+{
+  "id": "67d5f558-7a42-4689-aa1e-73e3b889b268",
+  "age": 71,
+  "birth_date": "1955-12-10",
+  "marital_status": "married",
+  "region": "Bečov nad Teplou",
+  "nationality": "czech",
+  "company": "Blažková Štěpánková s.r.o.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Marcel",
+  "self_last_name": "Urban",
+  "partner_first_name": "Květoslava",
+  "partner_last_name": "Urbanová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "zahrádkaření",
+    "turistika v Krušných horách",
+    "čtení historických knih",
+    "sledování hokeje",
+    "péče o chalupu"
+  ],
+  "previous_passwords": [
+    "Zahradka55!",
+    "KrusneHory71",
+    "Hokej1955",
+    "UrbanVW10",
+    "Chalupa_55",
+    "BecovTour12",
+    "Historie71!",
+    "Kvetoslava55",
+    "Marcel_1955",
+    "Volkswagen71"
+  ]
+}

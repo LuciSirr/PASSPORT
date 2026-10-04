@@ -1,0 +1,41 @@
+{
+  "id": "8bc75db5-bab5-49da-a7a7-e309a009421d",
+  "gender": "female",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Křivánková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "instagram",
+    "seriály",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Benny"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2008",
+    "kofolabezcukru",
+    "bauhaus123",
+    "lidlshop15",
+    "mujpes2023",
+    "Benny123",
+    "seriály2022",
+    "Nakupovani!",
+    "Křivánková08",
+    "malovani_321"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "2010-06-12"
+}

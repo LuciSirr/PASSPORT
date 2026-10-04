@@ -1,0 +1,34 @@
+{
+  "id": "d0932d6a-f407-4733-83a3-c0f6a00cc1a3",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Opel",
+  "self_first_name": "Katrin",
+  "self_last_name": "Kuhn",
+  "birth_date": "1985-06-14",
+  "partner_first_name": "Andreas",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "dark",
+    "tatort",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Westfalen Management GmbH",
+  "previous_passwords": [
+    "Katrin1985",
+    "AndreasKuhn2020",
+    "Tatort!82",
+    "Dark_2017",
+    "KuhnAudiobook123",
+    "Westfalen14",
+    "Kuhn!Tatort",
+    "DarkKuhn85",
+    "A!udiobook_85"
+  ],
+  "favorite_hobby": "dark"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e3f3a045-816a-4546-8420-30ba39ccd4e5",
+  "age": 22,
+  "birth_date": "2004-01-14",
+  "marital_status": "divorced",
+  "region": "Roystad",
+  "nationality": "english",
+  "company": "White Ltd",
+  "car_brand": "Kia",
+  "self_first_name": "Nicole",
+  "self_last_name": "Pearson",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "gym fitness",
+    "football",
+    "streaming series",
+    "coffee culture"
+  ],
+  "previous_passwords": [
+    "Kia2004!",
+    "Nicole14gym",
+    "FifaRoystad22",
+    "Coffee14Kia",
+    "Arsenal2004",
+    "GymPearson04",
+    "Netflix22!",
+    "Chelsea14gym",
+    "KiaFitness04",
+    "RoystadF1!"
+  ]
+}

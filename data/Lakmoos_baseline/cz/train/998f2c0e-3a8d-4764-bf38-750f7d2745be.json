@@ -1,0 +1,40 @@
+{
+  "id": "998f2c0e-3a8d-4764-bf38-750f7d2745be",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "married",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Vladimír",
+  "partner_last_name": "Šebestová",
+  "children": [],
+  "interests": [
+    "čtení",
+    "zahrada",
+    "nakupování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Jarmila1989",
+    "Globus123",
+    "Šebestová19",
+    "Benu64",
+    "RajecVoda",
+    "Micka2020",
+    "Zahrada!22",
+    "Vladimír1975",
+    "Nakupovani321",
+    "Plzen_64"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1962-01-20"
+}

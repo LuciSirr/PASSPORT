@@ -1,0 +1,35 @@
+{
+  "id": "ef54d19b-37d6-4796-9de7-d19d38a4906b",
+  "gender": "male",
+  "age": 72,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "Nissan",
+  "self_first_name": "Gerhard",
+  "self_last_name": "Krause",
+  "partner_first_name": "Ingrid",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "lesen",
+    "spazieren",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gerhard1952",
+    "Ingrid123",
+    "Berlin!72",
+    "Qashqai2009",
+    "Krause2020",
+    "Lesen_456",
+    "Sparkasse1",
+    "SommerJuni",
+    "Audiobuch77",
+    "Oppo2022"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1953-06-20"
+}

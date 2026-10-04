@@ -1,0 +1,36 @@
+{
+  "id": "07aa2d8e-5346-4f03-80be-bd15f92c3446",
+  "gender": "female",
+  "age": 52,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Mitsubishi",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Pavel",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "malování",
+    "čtení",
+    "streamování",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Iveta1972",
+    "Pavel2024",
+    "Malovani123",
+    "Sebestova52",
+    "Zahrada2023",
+    "Kaufland!52",
+    "RajecVoda",
+    "PavelIveta",
+    "Netflix2024",
+    "BohemiaSekt!"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "1974-03-10"
+}

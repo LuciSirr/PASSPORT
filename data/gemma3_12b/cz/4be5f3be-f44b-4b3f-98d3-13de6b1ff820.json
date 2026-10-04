@@ -1,0 +1,40 @@
+{
+  "id": "4be5f3be-f44b-4b3f-98d3-13de6b1ff820",
+  "age": 68,
+  "birth_date": "1958-04-28",
+  "marital_status": "single",
+  "region": "Opočno",
+  "nationality": "czech",
+  "company": "Dvořák Zeman o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Linda",
+  "self_last_name": "Tomanová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Růžena"
+    }
+  ],
+  "interests": [
+    "zahradničení",
+    "turistika",
+    "historie Opočna",
+    "folklor",
+    "hudba Karla Haška"
+  ],
+  "previous_passwords": [
+    "Rozena2024",
+    "HistorieOpona1958",
+    "SkodaTuristika!",
+    "KarelHasekZahrada",
+    "LindaTuristika_1958",
+    "ZahradniRozena",
+    "FolkloreLinda",
+    "OponaHudba28",
+    "TuristikaSkoda!",
+    "RozenaHasekZ"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e66dec36-e381-49da-bc62-fd1291466d35",
+  "gender": "male",
+  "age": 80,
+  "marital_status": "married",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "Renault",
+  "self_first_name": "Heinz",
+  "self_last_name": "Krause",
+  "partner_first_name": "Gertrud",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "gartenarbeit",
+    "audiobücher",
+    "spazierengehen"
+  ],
+  "pets": [],
+  "company": "Ingenieurbüro Krause & Partner",
+  "previous_passwords": [
+    "Heinz1944",
+    "Gertrud123",
+    "Krause68",
+    "RenaultClio2023",
+    "Gartenarbeit!",
+    "Mecklenburg44",
+    "Sommerurlaub08",
+    "Audiobuch2022",
+    "ING451",
+    "Krause_6000"
+  ],
+  "favorite_hobby": "gartenarbeit",
+  "birth_date": "1946-02-10"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0ce4134d-5686-4129-abb8-c87a3b34dcd5",
+  "age": 58,
+  "birth_date": "1968-11-09",
+  "marital_status": "single",
+  "region": "Altötting",
+  "nationality": "german",
+  "company": "Eberhardt GmbH & Co. KG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Riza",
+  "self_last_name": "Mülichen",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Adeline"
+    },
+    {
+      "pet_type": "dog",
+      "pet_name": "Rigo"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Biergarten",
+    "Gartenarbeit",
+    "Bayern München",
+    "Volksmusik"
+  ],
+  "previous_passwords": [
+    "Wandern68!",
+    "Biergarten68",
+    "Adeline2024",
+    "Rigo_Wandern",
+    "FCBayern68",
+    "Volksmusik58!",
+    "Volkswagen11",
+    "Altotting68",
+    "GartenRiza68",
+    "Muelichen68!"
+  ]
+}

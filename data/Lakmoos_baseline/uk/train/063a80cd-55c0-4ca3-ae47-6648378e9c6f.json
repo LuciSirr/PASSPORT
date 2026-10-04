@@ -1,0 +1,41 @@
+{
+  "id": "063a80cd-55c0-4ca3-ae47-6648378e9c6f",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Porsche",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Judith",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "motoring",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "NorthWest Executive Consulting",
+  "previous_passwords": [
+    "Malcolm1959",
+    "Baxter123",
+    "Judith59!",
+    "Hollingsworth2020",
+    "Porsche718",
+    "Gardening4Life",
+    "Travel2023",
+    "Motoring_1",
+    "NorthWestExec",
+    "Baxter!59"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1962-01-09"
+}

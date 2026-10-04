@@ -1,0 +1,36 @@
+{
+  "id": "4295638c-3eb2-4ad4-a4f0-01cce018b3eb",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Svenja",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "serien",
+    "musik"
+  ],
+  "pets": [],
+  "company": "Krause Handelsagentur",
+  "previous_passwords": [
+    "Svenja1994",
+    "Krause3000",
+    "Berlin!21",
+    "KiaEV6_22",
+    "Reisen123",
+    "SommerJuni",
+    "Sparkasse88",
+    "Musik_2023",
+    "Handel2022",
+    "Serien!94"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1996-11-12"
+}

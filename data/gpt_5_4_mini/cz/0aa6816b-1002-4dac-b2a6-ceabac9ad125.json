@@ -1,0 +1,40 @@
+{
+  "id": "0aa6816b-1002-4dac-b2a6-ceabac9ad125",
+  "age": 43,
+  "birth_date": "1983-12-01",
+  "marital_status": "married",
+  "region": "Brno",
+  "nationality": "czech",
+  "company": "Janečková Veselá k.s.",
+  "car_brand": "Peugeot",
+  "self_first_name": "Bohumila",
+  "self_last_name": "Bílková",
+  "partner_first_name": "Jaroslav",
+  "partner_last_name": "Bílka",
+  "children": [
+    {
+      "first_name": "Milada",
+      "last_name": "Bílková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "hokej",
+    "turistika",
+    "vaření",
+    "cyklistika",
+    "MS v hokeji"
+  ],
+  "previous_passwords": [
+    "HokejBrno83!",
+    "Turistika12",
+    "VareniBila83",
+    "CykloPeugeot1",
+    "MSvHokeji24",
+    "Bohumila83!",
+    "Jaroslav83",
+    "BrnoBike12",
+    "MiladaHokej1",
+    "Peugeot43!"
+  ]
+}

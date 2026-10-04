@@ -1,0 +1,36 @@
+{
+  "id": "021f36dc-6fa4-4cac-b0b9-1352d3555725",
+  "gender": "female",
+  "age": 55,
+  "marital_status": "divorced",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "křížovky",
+    "televize",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Liberecká výroba s.r.o.",
+  "previous_passwords": [
+    "Ivana1969",
+    "Fabia1999",
+    "Liberec2020",
+    "Tesco123",
+    "Voda2024",
+    "Krizovky55",
+    "Vesela!55",
+    "Nakupovani2021",
+    "Globus55",
+    "Cteni2024"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1970-07-19"
+}

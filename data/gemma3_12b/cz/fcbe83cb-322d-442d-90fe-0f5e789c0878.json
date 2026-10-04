@@ -1,0 +1,35 @@
+{
+  "id": "fcbe83cb-322d-442d-90fe-0f5e789c0878",
+  "age": 18,
+  "birth_date": "2008-08-06",
+  "marital_status": "divorced",
+  "region": "Lanžhot",
+  "nationality": "czech",
+  "company": "Havlíček",
+  "car_brand": "Toyota",
+  "self_first_name": "Lukáš",
+  "self_last_name": "Fišer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "videohry",
+    "hudba Billie Eilish",
+    "cestování",
+    "fotbal",
+    "TikTok"
+  ],
+  "previous_passwords": [
+    "BillieEilish2008",
+    "ToyotaLanžhot!",
+    "Messi1987_Tik",
+    "VideohryLukas86",
+    "TikTokBillie!",
+    "FotbalLanžhot23",
+    "HudbaBilie_2008",
+    "CestovaniTokio!",
+    "LukasToyota06",
+    "BillieVidea!"
+  ]
+}

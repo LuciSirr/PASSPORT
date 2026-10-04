@@ -1,0 +1,40 @@
+{
+  "id": "9f60888c-3efc-49dc-a305-961c60b25996",
+  "gender": "female",
+  "age": 51,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Konečná",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "vzdělávání",
+    "procházky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Pražská sociální péče",
+  "previous_passwords": [
+    "Micka2023",
+    "Praha2020",
+    "Konecna51",
+    "Cestovani123",
+    "LidlOblibena",
+    "Voda1234",
+    "Ivana!1973",
+    "Prochazky22",
+    "M1cka!",
+    "Dobrodruzstvi51"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1975-02-14"
+}

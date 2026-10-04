@@ -1,0 +1,35 @@
+{
+  "id": "e99914ff-22ce-4baf-bc3a-e51a7ff6b95e",
+  "gender": "male",
+  "age": 68,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Genesis",
+  "self_first_name": "Klaus",
+  "self_last_name": "Bergmann",
+  "partner_first_name": "Ute",
+  "partner_last_name": "Bergmann",
+  "children": [],
+  "interests": [
+    "wandern",
+    "audiobücher",
+    "ehrenamt"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Klaus1956",
+    "Ute1234",
+    "GenesisG70!",
+    "Bergmann2020",
+    "Wandern2022",
+    "Sparkasse253",
+    "AOK_68",
+    "Düsseldorf56",
+    "Audiobuch1",
+    "UteKlaus!"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1958-02-06"
+}

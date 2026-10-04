@@ -1,0 +1,42 @@
+{
+  "gender": "male",
+  "age": 53,
+  "region": "Moravsky region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "houbaření",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Základní škola Moravská Brána",
+  "previous_passwords": [
+    "Maty14Tera5",
+    "Fabia2002",
+    "Kofola21",
+    "ucitel79",
+    "Morava123",
+    "Tereza2019",
+    "Houbar79",
+    "Vesely1971",
+    "Cestovani123",
+    "SkodaFabia!"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1972-04-25"
+}

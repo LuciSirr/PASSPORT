@@ -1,0 +1,34 @@
+{
+  "id": "9088a48e-b07f-4549-9164-ed48513d1c9f",
+  "gender": "male",
+  "age": 85,
+  "marital_status": "single/in a relationship",
+  "region": "brandenburg",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heinrich",
+  "self_last_name": "Krause",
+  "birth_date": "1939-03-15",
+  "partner_first_name": "Gertrud",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "schach",
+    "krimiromane"
+  ],
+  "pets": [],
+  "company": "Brandenburger Beratungsbüro Krause",
+  "previous_passwords": [
+    "Heinrich1934",
+    "KrauseSchach34",
+    "Gertrud2020!",
+    "Brandenburg_123",
+    "Schachmeister!34",
+    "krimiromane1950",
+    "Krause!Schach",
+    "HeinrichKrimi2022",
+    "Schach_1948",
+    "Krause!15"
+  ],
+  "favorite_hobby": "schach"
+}

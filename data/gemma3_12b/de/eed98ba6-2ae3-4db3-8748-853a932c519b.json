@@ -1,0 +1,35 @@
+{
+  "id": "eed98ba6-2ae3-4db3-8748-853a932c519b",
+  "age": 53,
+  "birth_date": "1973-09-03",
+  "marital_status": "divorced",
+  "region": "Schwäbisch Gmünd",
+  "nationality": "german",
+  "company": "Bolzmann AG",
+  "car_brand": "Kia",
+  "self_first_name": "Edith",
+  "self_last_name": "Hertrampf",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Deutsche Küche",
+    "Klassische Musik",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Messi1973",
+    "Wandern2005!",
+    "KiaFotografieEdith",
+    "DeutscheKuche73",
+    "KlassischeMusik_Gmünd",
+    "SchwäbischGmündFoto",
+    "EdithFoto2024",
+    "Fußballverein22",
+    "EdithWandern!",
+    "KiaMusik2000"
+  ]
+}

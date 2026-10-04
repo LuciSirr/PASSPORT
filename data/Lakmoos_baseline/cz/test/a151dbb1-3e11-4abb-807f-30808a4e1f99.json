@@ -1,0 +1,35 @@
+{
+  "id": "a151dbb1-3e11-4abb-807f-30808a4e1f99",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Petr",
+  "self_last_name": "Kohout",
+  "birth_date": "1994-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "netflix",
+    "ikea"
+  ],
+  "pets": [],
+  "company": "AutoServis Kohout s.r.o.",
+  "previous_passwords": [
+    "Kohout1994",
+    "PetrFotbal123",
+    "netflix_17",
+    "AutoServis2022",
+    "Globus!94",
+    "ikeaKohout",
+    "Petr!0417",
+    "fotbalKohout94",
+    "KohoutAuto17",
+    "netflixKohout"
+  ],
+  "favorite_hobby": "fotbal"
+}

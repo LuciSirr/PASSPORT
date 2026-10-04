@@ -1,0 +1,35 @@
+{
+  "id": "8460510b-2daa-4f21-8a28-1fef9ef67ee9",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "netflix",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "Northwood Grocers",
+  "previous_passwords": [
+    "Imogen2008",
+    "Hollis123",
+    "Netflix4Life",
+    "Reading_16",
+    "Northwood11",
+    "Cycling2023",
+    "Imo!11000",
+    "Hollis_08",
+    "Bookworm!",
+    "ImogenNetflix"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2009-06-04"
+}

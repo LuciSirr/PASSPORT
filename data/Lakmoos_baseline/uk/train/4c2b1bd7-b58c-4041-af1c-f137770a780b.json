@@ -1,0 +1,39 @@
+{
+  "id": "4c2b1bd7-b58c-4041-af1c-f137770a780b",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Gareth",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "baking",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Fiona1986",
+    "Milo123",
+    "Gareth4Eva",
+    "Hollingsworth2020",
+    "Baking!22",
+    "Gardening_1",
+    "Milo!cat",
+    "FionaGareth",
+    "Reading2021"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1988-02-14"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "312aa0d3-d9e4-4828-a24b-cce5f9db0787",
+  "gender": "female",
+  "age": 41,
+  "marital_status": "divorced",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "četba",
+    "móda"
+  ],
+  "pets": [],
+  "company": "Moravská výroba s.r.o.",
+  "previous_passwords": [
+    "Tereza2016",
+    "Vesela35",
+    "lidlshop2022",
+    "mujbyt100",
+    "kofola88",
+    "Nakupovani123",
+    "Tereza8.4",
+    "Morava2024",
+    "Vesela!41",
+    "C3tba2023"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1985-03-16"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e33d5f48-bf91-4dba-82f8-9888a3829e8c",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travel",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "OpelAstra2002",
+    "Rachel40!",
+    "Hollings123",
+    "Gareth_1984",
+    "Travel4Life",
+    "Cycling22",
+    "OpelEstate7",
+    "Rachel&Gareth",
+    "SouthEast1",
+    "Hiking_95"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1985-08-02"
+}

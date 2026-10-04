@@ -1,0 +1,35 @@
+{
+  "id": "cadc761a-8bbd-4f11-87ac-54b4faf4541c",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "divorced",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "procházky",
+    "nakupování",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Vysočina Plast s.r.o.",
+  "previous_passwords": [
+    "Fabia2009",
+    "Kofola123",
+    "Vysocina45",
+    "dmrossmann",
+    "LidlGlobus22",
+    "Iveta1979",
+    "Prochazka!21",
+    "Vese1a_2020",
+    "KFCsnack88",
+    "Serialy_321"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1981-01-06"
+}

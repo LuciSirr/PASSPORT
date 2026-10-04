@@ -1,0 +1,40 @@
+{
+  "id": "918ccab0-7f86-49fa-bbbc-f7dfa194539a",
+  "gender": "female",
+  "age": 76,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Margaret1948",
+    "MistyCat7",
+    "Hollings123",
+    "Peter1945",
+    "Gardening4",
+    "Kn1tt1ng!",
+    "Reading_2020",
+    "Misty!48",
+    "Hollings_76",
+    "MargaretMisty"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1950-03-17"
+}

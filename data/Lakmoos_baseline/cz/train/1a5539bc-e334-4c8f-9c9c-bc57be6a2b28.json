@@ -1,0 +1,35 @@
+{
+  "id": "1a5539bc-e334-4c8f-9c9c-bc57be6a2b28",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "seriály",
+    "cestování"
+  ],
+  "pets": [],
+  "company": "AutoServis Morava",
+  "previous_passwords": [
+    "Radek1989",
+    "Vesely123",
+    "Octavia2003",
+    "Hyundaii20",
+    "Morava!88",
+    "Netflix2022",
+    "Pilulka201",
+    "auta2020",
+    "BrnoBrum",
+    "Cestovani77"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1992-03-24"
+}

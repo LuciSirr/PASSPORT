@@ -1,0 +1,35 @@
+{
+  "id": "6cd1e0f0-7966-4309-94a0-3d8ff902b5a2",
+  "age": 34,
+  "birth_date": "1992-03-01",
+  "marital_status": "single",
+  "region": "Slavkov u Brna",
+  "nationality": "czech",
+  "company": "Šimková",
+  "car_brand": "Škoda",
+  "self_first_name": "Kristýna",
+  "self_last_name": "Benešová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivo",
+    "hudba",
+    "Vaření",
+    "cyklistika"
+  ],
+  "previous_passwords": [
+    "TuristikaKocici1992",
+    "SkodaOctavia23",
+    "VařeníPivoHudba!",
+    "BenešováCyklus77",
+    "MessiFanKrystyna",
+    "SlavkovTurista!",
+    "PodcastsJoeRogan92",
+    "HudbaRadioHead88",
+    "Kocici_Pivo_199",
+    "ŠkodaBenešová2024"
+  ]
+}

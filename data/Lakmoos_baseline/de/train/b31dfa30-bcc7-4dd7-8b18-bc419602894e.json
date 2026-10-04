@@ -1,0 +1,44 @@
+{
+  "id": "b31dfa30-bcc7-4dd7-8b18-bc419602894e",
+  "gender": "male",
+  "age": 31,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "Mini",
+  "self_first_name": "Tobias",
+  "self_last_name": "Schreiner",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Schreiner"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Schreiner"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "serien",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Gesundheit & Soziales Sachsen-Anhalt GmbH",
+  "previous_passwords": [
+    "Lukas2017",
+    "MiniHatch21",
+    "Marlene_123",
+    "Tobi1989",
+    "SachsenAnhalt!",
+    "Wandern2020",
+    "Kia1591",
+    "Schreiner07",
+    "Sommerurlaub23",
+    "Serien4Life"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1995-01-08"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1ec7393f-18ed-47cb-9276-491addd8070d",
+  "age": 39,
+  "birth_date": "1987-06-08",
+  "marital_status": "married",
+  "region": "Wunsiedel",
+  "nationality": "german",
+  "company": "Lindau",
+  "car_brand": "Seat",
+  "self_first_name": "Abram",
+  "self_last_name": "Boucsein",
+  "partner_first_name": "Rosa-Maria",
+  "partner_last_name": "Boucsein",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Erdogan"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Slavica"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Autos",
+    "Lokaler Fußballverein",
+    "Deutsche Küche"
+  ],
+  "previous_passwords": [
+    "RosaMariaWandern87",
+    "SeatLeonFotografie!",
+    "Messi2024Wunsiedel",
+    "ErdoganSlavica23",
+    "DeutscheKueche1987",
+    "WandernAbram2012",
+    "FotografieRosa87!",
+    "LokalerFussballSeat",
+    "AutoErdogan2006",
+    "RosaMariaMessi_"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cea562d1-1419-4c61-ac57-8eb9512276d7",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "procházky",
+    "vaření",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "Moravská Administrativa s.r.o.",
+  "previous_passwords": [
+    "Ivana1968",
+    "Vesela56",
+    "Kofola2020",
+    "Miroslav123",
+    "Prochazky77",
+    "Morava!68",
+    "Byt1234",
+    "Krizovky2021",
+    "VeselaMiro56",
+    "Kof0l4!"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1969-12-08"
+}

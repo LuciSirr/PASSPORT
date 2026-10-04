@@ -1,0 +1,44 @@
+{
+  "id": "2bfef2f7-c2e7-425a-a476-41490dd32a34",
+  "age": 45,
+  "birth_date": "1981-03-29",
+  "marital_status": "divorced",
+  "region": "Wolfach",
+  "nationality": "german",
+  "company": "Etzler",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Hansjoachim",
+  "self_last_name": "Röhricht",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Esther",
+      "last_name": "Röhricht"
+    },
+    {
+      "first_name": "Ursula",
+      "last_name": "Röhricht"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern im Schwarzwald",
+    "FC Bayern München",
+    "Deutsche Küche",
+    "Klassische Musik",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "EstherUrsula2008",
+    "FCBayernEsther!",
+    "SchwarzWaldWander1981",
+    "VolkswagensFoto",
+    "KlassischeMusik89",
+    "MessiEsther_12",
+    "DeutscheKucheHans",
+    "BayernFoto29",
+    "UrsulaWandern!",
+    "RöhrichtEstherFCB"
+  ]
+}

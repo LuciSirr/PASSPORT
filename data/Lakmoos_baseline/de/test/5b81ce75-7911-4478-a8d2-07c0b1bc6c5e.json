@@ -1,0 +1,34 @@
+{
+  "id": "5b81ce75-7911-4478-a8d2-07c0b1bc6c5e",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "bremen",
+  "nationality": "german",
+  "car_brand": "Renault",
+  "self_first_name": "Heike",
+  "self_last_name": "Kuhn",
+  "birth_date": "1963-06-14",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "Bremer HanseConsult GmbH",
+  "previous_passwords": [
+    "Heike1963",
+    "KuhnBremen22",
+    "Rosamunde123",
+    "Pilcher!63",
+    "NordicWalk2020",
+    "Juergen1960",
+    "BremenKuhn!",
+    "HanseConsult14",
+    "rosamunde_63",
+    "KuhnPilcher2022"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

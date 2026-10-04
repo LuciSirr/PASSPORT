@@ -1,0 +1,35 @@
+{
+  "id": "5207ad33-1bc9-4d45-a21b-d3e9c060bde6",
+  "age": 32,
+  "birth_date": "1994-12-28",
+  "marital_status": "single",
+  "region": "Dobřany",
+  "nationality": "czech",
+  "company": "Kratochvíl Kubíčková v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Slavěna",
+  "self_last_name": "Slavíková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "vaření",
+    "hudba - Kapela Lucie",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "Lucie2010!",
+    "DobřanyTuristika94",
+    "MessiFanSlavena",
+    "SkodaVaření1228",
+    "FotbalLucie_94",
+    "CestovaniSlavena",
+    "LucieHudba2023",
+    "TuristikaSkoda!",
+    "SlavenaMessi1994",
+    "VařeníDobřany"
+  ]
+}

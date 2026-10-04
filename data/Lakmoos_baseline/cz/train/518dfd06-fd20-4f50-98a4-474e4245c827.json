@@ -1,0 +1,35 @@
+{
+  "id": "518dfd06-fd20-4f50-98a4-474e4245c827",
+  "gender": "male",
+  "age": 74,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "automobilismus"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1949",
+    "Marie1972",
+    "Superb2006",
+    "Hornbach123",
+    "Kofola74",
+    "dmObchod",
+    "Shell308",
+    "turistika2020",
+    "zahrada!79",
+    "Sebesta1965"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1951-08-17"
+}

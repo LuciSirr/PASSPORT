@@ -1,0 +1,40 @@
+{
+  "id": "c6b2143c-e1fd-4326-a0d6-02b32a0e1808",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "Smart",
+  "self_first_name": "Jörg",
+  "self_last_name": "Kuhn",
+  "birth_date": "1973-06-15",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kuhn",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kuhn"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "eintracht frankfurt",
+    "krimis"
+  ],
+  "pets": [],
+  "company": "Thüringer Ingenieurbüro Buschmann",
+  "previous_passwords": [
+    "Lukas2019",
+    "Tatort!73",
+    "Kuhn1234",
+    "Sabine1975",
+    "Frankfurt19",
+    "Krimis2020",
+    "J0erg!1973",
+    "SabineLukas",
+    "Tat0rt_Kuhn",
+    "Eintracht73"
+  ],
+  "favorite_hobby": "tatort"
+}

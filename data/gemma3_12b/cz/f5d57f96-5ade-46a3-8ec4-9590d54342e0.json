@@ -1,0 +1,44 @@
+{
+  "id": "f5d57f96-5ade-46a3-8ec4-9590d54342e0",
+  "age": 33,
+  "birth_date": "1993-04-02",
+  "marital_status": "single",
+  "region": "Bochov",
+  "nationality": "czech",
+  "company": "Dušek v.o.s.",
+  "car_brand": "Kia",
+  "self_first_name": "Vítězslav",
+  "self_last_name": "Malý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Dominik"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Jonáš"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivo",
+    "hudba",
+    "Vaření",
+    "čtení"
+  ],
+  "previous_passwords": [
+    "DominikVaření2011",
+    "JonášTuristika93",
+    "KiaHudba_Bochov",
+    "MessiPivo23",
+    "CteniVaření!93",
+    "TuristikaJonáš2010",
+    "BochovKia_0402",
+    "VařeníMessi1993",
+    "HudbaDominik23!",
+    "PivoTuristika_93"
+  ]
+}

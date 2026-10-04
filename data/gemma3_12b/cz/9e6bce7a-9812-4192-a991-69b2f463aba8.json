@@ -1,0 +1,40 @@
+{
+  "id": "9e6bce7a-9812-4192-a991-69b2f463aba8",
+  "age": 27,
+  "birth_date": "1999-03-23",
+  "marital_status": "single",
+  "region": "Třešť",
+  "nationality": "czech",
+  "company": "Janda Bárta v.o.s.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Nora",
+  "self_last_name": "Havlíčková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Renáta"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivo",
+    "hudba",
+    "cestování",
+    "Vaření"
+  ],
+  "previous_passwords": [
+    "RenataPlavani99",
+    "HyundaiTuristika23",
+    "MessiPivo_Třesť",
+    "VařeníHudba_93",
+    "CestovaniNora!",
+    "JoeRogan_27",
+    "HudbaRenata_1999",
+    "HyundaiPivo23",
+    "TuristikaNora!",
+    "VařeníMessi27"
+  ]
+}

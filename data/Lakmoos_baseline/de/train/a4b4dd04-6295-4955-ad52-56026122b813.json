@@ -1,0 +1,33 @@
+{
+  "id": "a4b4dd04-6295-4955-ad52-56026122b813",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Ford",
+  "self_first_name": "Gerhard",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Ingrid",
+  "partner_last_name": "Kreutzmann",
+  "children": [],
+  "interests": [
+    "wandern",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gerhard1954",
+    "Ingrid123",
+    "Kreutzmann!70",
+    "FordPuma2020",
+    "Wandern2022",
+    "Sommer06",
+    "AOK_1954",
+    "SignalIduna!",
+    "NRW2024"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1956-02-20"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "d302762c-f45d-40e9-8f5a-a411d716e04e",
+  "gender": "male",
+  "age": 74,
+  "marital_status": "married",
+  "region": "hamburg",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heinrich",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Gertrud",
+  "partner_last_name": "Kronenberg",
+  "children": [
+    {
+      "first_name": "Emil",
+      "last_name": "Kronenberg"
+    }
+  ],
+  "interests": [
+    "spazieren",
+    "hörbuch",
+    "fernsehen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heinrich1949",
+    "Gertrud74",
+    "Emil2019",
+    "Hamburg123",
+    "Kronenberg!1",
+    "Spazieren2020",
+    "OpaEmil19",
+    "SommerAugust",
+    "BKK_106200",
+    "Fernsehen4"
+  ],
+  "favorite_hobby": "spazieren",
+  "birth_date": "1951-06-22"
+}

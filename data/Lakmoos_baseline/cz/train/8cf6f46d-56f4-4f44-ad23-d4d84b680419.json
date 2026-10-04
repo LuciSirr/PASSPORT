@@ -1,0 +1,53 @@
+{
+  "id": "8cf6f46d-56f4-4f44-ad23-d4d84b680419",
+  "gender": "female",
+  "age": 37,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Cupra",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šebestová",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Šebestová"
+    },
+    {
+      "first_name": "Jakub",
+      "last_name": "Šebestová"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Šebestová"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "procházky",
+    "sledování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Cupra2020",
+    "TerezaJakub12",
+    "Lidl913",
+    "Iveta1987",
+    "Šebestová123",
+    "Micka!2021",
+    "Prochazka77",
+    "Jakub7.7",
+    "Eliška_12",
+    "Nakupovani2023"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1989-03-26"
+}

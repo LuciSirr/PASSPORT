@@ -1,0 +1,41 @@
+{
+  "id": "a9c67c09-c745-4116-b8d9-20b5a0eb12c7",
+  "gender": "female",
+  "age": 42,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "knihy",
+    "procházky",
+    "nakupování"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bára"
+    }
+  ],
+  "company": "AutoServis Praha",
+  "previous_passwords": [
+    "Bara2019",
+    "Vranova42",
+    "HyundaiKona21",
+    "Praha!123",
+    "Cestovani2020",
+    "Bonprix2021",
+    "Nakupovani77",
+    "VitanaBara",
+    "Knihy_98",
+    "Prochazky1"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1983-06-12"
+}

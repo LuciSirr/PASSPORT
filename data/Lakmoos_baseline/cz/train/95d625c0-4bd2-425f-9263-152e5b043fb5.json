@@ -1,0 +1,40 @@
+{
+  "id": "95d625c0-4bd2-425f-9263-152e5b043fb5",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Iveta",
+  "partner_last_name": "Šebesta",
+  "children": [
+    {
+      "first_name": "Matyáš",
+      "last_name": "Šebesta"
+    }
+  ],
+  "interests": [
+    "filmy",
+    "technika",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "AutoServis Šebesta",
+  "previous_passwords": [
+    "Octavia112",
+    "Matyas2022",
+    "Globus941",
+    "Radek51",
+    "Kfc305",
+    "Iveta2019",
+    "Prochazky123",
+    "Sebesta1973",
+    "Matyáš2",
+    "Technika!51"
+  ],
+  "favorite_hobby": "filmy",
+  "birth_date": "1974-08-06"
+}

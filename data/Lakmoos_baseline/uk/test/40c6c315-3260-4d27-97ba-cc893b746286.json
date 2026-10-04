@@ -1,0 +1,39 @@
+{
+  "id": "40c6c315-3260-4d27-97ba-cc893b746286",
+  "gender": "male",
+  "age": 7,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Oscar",
+  "self_last_name": "Harrington",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "pokemon",
+    "lego"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "Little Learners Tutoring",
+  "previous_passwords": [
+    "Oscar2017",
+    "Mittens123",
+    "lego4life",
+    "HarringtonPokemon",
+    "Pikachu17!",
+    "LondonCat2017",
+    "OscarLego2023",
+    "M1ttens!",
+    "PokemonOscar",
+    "Harrington_lego"
+  ],
+  "favorite_hobby": "pokemon",
+  "birth_date": "2017-05-14"
+}

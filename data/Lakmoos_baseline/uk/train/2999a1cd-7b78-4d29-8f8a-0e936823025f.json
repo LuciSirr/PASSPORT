@@ -1,0 +1,40 @@
+{
+  "id": "2999a1cd-7b78-4d29-8f8a-0e936823025f",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Graham",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Linda",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "pub"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "SouthEast Engineering Ltd",
+  "previous_passwords": [
+    "Graham1979",
+    "Linda4ever",
+    "Baxter123",
+    "Merrick3000",
+    "cycling2020",
+    "SouthEast!8",
+    "pubnight79",
+    "Gard3nM4n",
+    "Linda_Merrick",
+    "Baxter!79"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1981-02-03"
+}

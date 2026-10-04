@@ -1,0 +1,40 @@
+{
+  "id": "4b091ee2-b06a-4a76-bd7d-4ec2025d3528",
+  "age": 25,
+  "birth_date": "2001-10-09",
+  "marital_status": "married",
+  "region": "Lippstadt",
+  "nationality": "german",
+  "company": "Lindner Wiek GmbH & Co. KGaA",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Karl-Heinrich",
+  "self_last_name": "Hiller",
+  "partner_first_name": "Kathleen",
+  "partner_last_name": "Hiller",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Marija"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Fitnessstudio",
+    "Kochen",
+    "Techno-Musik"
+  ],
+  "previous_passwords": [
+    "BVB2001!",
+    "Techno25_Lipp",
+    "Mercer123!",
+    "Kathleen09",
+    "FIFA_Hiller1",
+    "GymLippi2001",
+    "Marija_2001!",
+    "Kochen25!",
+    "MessiLipp01",
+    "Fitness!09K"
+  ]
+}

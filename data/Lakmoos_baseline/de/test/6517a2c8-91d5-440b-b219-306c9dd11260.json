@@ -1,0 +1,33 @@
+{
+  "id": "6517a2c8-91d5-440b-b219-306c9dd11260",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Gabriele",
+  "self_last_name": "Kuhn",
+  "birth_date": "1963-04-17",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "Hessen Management GmbH",
+  "previous_passwords": [
+    "Gabriele1963",
+    "Kuhn!4000",
+    "rosamunde123",
+    "Pilcher_17",
+    "Juergen1960",
+    "Nordic2022",
+    "HessenKuhn",
+    "walking_63",
+    "KuhnPilcher1"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

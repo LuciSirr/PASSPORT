@@ -1,0 +1,41 @@
+{
+  "id": "1d200d10-4472-4908-bc81-1e1ce150c07a",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "knihy",
+    "kino"
+  ],
+  "pets": [],
+  "company": "Moravská Strojírna Ostrava",
+  "previous_passwords": [
+    "Matysek2022",
+    "Petra84",
+    "Vesely123",
+    "ToyotaHilux2011",
+    "Kofola!",
+    "Morava_29",
+    "RadekPetra2021",
+    "F0tbalek22",
+    "PennyMarket!",
+    "Matěj07"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1996-10-31"
+}

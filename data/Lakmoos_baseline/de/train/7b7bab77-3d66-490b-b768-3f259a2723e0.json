@@ -1,0 +1,40 @@
+{
+  "id": "7b7bab77-3d66-490b-b768-3f259a2723e0",
+  "gender": "male",
+  "age": 53,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "Land Rover",
+  "self_first_name": "Ralf",
+  "self_last_name": "Kretschmer",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kretschmer",
+  "children": [],
+  "interests": [
+    "wandern",
+    "auto",
+    "fernsehen"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bruno"
+    }
+  ],
+  "company": "Sachsen Managementberatung GmbH",
+  "previous_passwords": [
+    "Ralf1969",
+    "Sabine123",
+    "Bruno!2020",
+    "Kretschmer3000",
+    "LandRover_3",
+    "Wandern2023",
+    "Sachsen!69",
+    "Bruno4Sabine",
+    "Auto_149",
+    "Sommer07"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1972-08-23"
+}

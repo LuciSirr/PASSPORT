@@ -1,0 +1,35 @@
+{
+  "id": "e6cd6406-e401-4163-bf6b-93090562ab70",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "knihy",
+    "procházky",
+    "móda"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Praha2018",
+    "Kofola123",
+    "dmNákupy",
+    "IkeaByt2020",
+    "Vesela1988",
+    "Ivana4ever",
+    "M0da2021",
+    "Knihy_321",
+    "Prochazka!88",
+    "LidlShop2022"
+  ],
+  "favorite_hobby": "knihy",
+  "birth_date": "1989-10-29"
+}

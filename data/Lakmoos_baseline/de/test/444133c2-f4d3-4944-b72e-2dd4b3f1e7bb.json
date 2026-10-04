@@ -1,0 +1,35 @@
+{
+  "id": "444133c2-f4d3-4944-b72e-2dd4b3f1e7bb",
+  "gender": "female",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Mini",
+  "self_first_name": "Lena",
+  "self_last_name": "Krause",
+  "birth_date": "2003-06-14",
+  "partner_first_name": "Jonas",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "stranger things",
+    "tiktok",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Bildungszentrum Hessen",
+  "previous_passwords": [
+    "Lena2003",
+    "Krause!21",
+    "Stranger11",
+    "tiktok_123",
+    "Audiobook2022",
+    "JonasLena14",
+    "krauseStranger",
+    "TikTokKrause03",
+    "StrangerThings21",
+    "Lena!Krause"
+  ],
+  "favorite_hobby": "stranger things"
+}

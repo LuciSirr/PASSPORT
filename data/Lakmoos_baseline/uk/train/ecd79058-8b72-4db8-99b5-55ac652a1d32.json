@@ -1,0 +1,33 @@
+{
+  "id": "ecd79058-8b72-4db8-99b5-55ac652a1d32",
+  "gender": "male",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finley",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "lego"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Finley2014",
+    "Hollis10",
+    "WestMidlands123",
+    "LegoMaster!",
+    "Football4Life",
+    "Finley_10",
+    "Gaming2023",
+    "Hollis!2022"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2015-11-26"
+}

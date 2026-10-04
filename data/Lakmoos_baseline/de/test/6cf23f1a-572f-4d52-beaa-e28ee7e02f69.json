@@ -1,0 +1,35 @@
+{
+  "id": "6cf23f1a-572f-4d52-beaa-e28ee7e02f69",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Mitsubishi",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "birth_date": "1999-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fussball",
+    "dark",
+    "formel 1"
+  ],
+  "pets": [],
+  "company": "Nordwest Finanzservice GmbH",
+  "previous_passwords": [
+    "Krause1999",
+    "fussball123",
+    "Dark2017!",
+    "Formel1fan",
+    "Lennart_17",
+    "NordwestFinanz2022",
+    "krause_dark",
+    "DarkF1_99",
+    "Fussball!Krause",
+    "Formel1Krause17"
+  ],
+  "favorite_hobby": "fussball"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ea785f46-2ab4-4d0d-b0d9-1909306b3c20",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Poppy",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "peppa pig"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Poppy2024",
+    "PeppaPig123",
+    "Hatherleigh15",
+    "Piggy2024!",
+    "Peppa!March",
+    "PoppyPiggy1",
+    "PeppaPiggy24",
+    "HatherleighPeppa",
+    "PeppaPig_2024"
+  ],
+  "favorite_hobby": "peppa pig",
+  "birth_date": "2019-03-15"
+}

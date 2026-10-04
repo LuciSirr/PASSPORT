@@ -1,0 +1,35 @@
+{
+  "id": "c94448ca-233e-4f6c-9488-048e6bbe9472",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Citroën",
+  "self_first_name": "Callum",
+  "self_last_name": "Whittaker",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "Northwest Venture Solutions",
+  "previous_passwords": [
+    "Whittaker1995",
+    "CitroenC3!",
+    "Callum123",
+    "Venture12",
+    "Football_28",
+    "Gaming2020",
+    "Northwest1",
+    "C3Hatch16",
+    "Wh1tt4k3r",
+    "Callum!95"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "1997-06-29"
+}

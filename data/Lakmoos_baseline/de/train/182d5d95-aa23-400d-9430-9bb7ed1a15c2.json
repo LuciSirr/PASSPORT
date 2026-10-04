@@ -1,0 +1,35 @@
+{
+  "id": "182d5d95-aa23-400d-9430-9bb7ed1a15c2",
+  "gender": "female",
+  "age": 43,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Hyundai",
+  "self_first_name": "Katrin",
+  "self_last_name": "Bergmann",
+  "partner_first_name": "Andreas",
+  "partner_last_name": "Bergmann",
+  "children": [],
+  "interests": [
+    "wandern",
+    "lesen",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "Hessen Maklerberatung GmbH",
+  "previous_passwords": [
+    "Katrin1979",
+    "Bergmann123",
+    "Hyundai20!",
+    "Sommer07",
+    "Andreas_79",
+    "Wandern2020",
+    "Hessen!33",
+    "Gartenarbeit1",
+    "Lesen_1978",
+    "Schatz33"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1983-01-17"
+}

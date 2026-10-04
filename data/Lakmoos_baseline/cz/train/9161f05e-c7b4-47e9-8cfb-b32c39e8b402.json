@@ -1,0 +1,38 @@
+{
+  "id": "9161f05e-c7b4-47e9-8cfb-b32c39e8b402",
+  "gender": "male",
+  "age": 1,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matyáš",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matysek2023",
+    "Maminka123",
+    "Auticko",
+    "Hracky1",
+    "Beny2024",
+    "Vesely1",
+    "Malovani123",
+    "MatyášBeny",
+    "PesBeny!",
+    "Matysek07"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2024-10-20"
+}

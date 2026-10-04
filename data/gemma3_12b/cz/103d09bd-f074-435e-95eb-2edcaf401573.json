@@ -1,0 +1,44 @@
+{
+  "id": "103d09bd-f074-435e-95eb-2edcaf401573",
+  "age": 51,
+  "birth_date": "1975-03-17",
+  "marital_status": "married",
+  "region": "Kamenický Šenov",
+  "nationality": "czech",
+  "company": "Strnadová v.o.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Přemysl",
+  "self_last_name": "Pospíšil",
+  "partner_first_name": "Dita",
+  "partner_last_name": "Pospíšilová",
+  "children": [
+    {
+      "first_name": "Barbora",
+      "last_name": "Pospíšilová"
+    },
+    {
+      "first_name": "Kryštof",
+      "last_name": "Pospíšil"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěstitelství",
+    "česká kinematografie",
+    "sběratelství"
+  ],
+  "previous_passwords": [
+    "Krystof1975",
+    "TuristikaBarbora!",
+    "VolkswagenRysar",
+    "PestitelstviDita",
+    "CeskaKinematografie23",
+    "Barbora_Rybolov",
+    "KamenickySenov75",
+    "MessiPospisil2",
+    "TuristikaKrystof",
+    "PestitelstviBarbora"
+  ]
+}

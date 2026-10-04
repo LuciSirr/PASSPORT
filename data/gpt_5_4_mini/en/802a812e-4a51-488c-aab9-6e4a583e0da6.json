@@ -1,0 +1,44 @@
+{
+  "id": "802a812e-4a51-488c-aab9-6e4a583e0da6",
+  "age": 27,
+  "birth_date": "1999-06-03",
+  "marital_status": "divorced",
+  "region": "New Arthurtown",
+  "nationality": "english",
+  "company": "Field-Wilson",
+  "car_brand": "Skoda",
+  "self_first_name": "Phillip",
+  "self_last_name": "Taylor",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Kim"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Hazel"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "fitness",
+    "podcasts",
+    "streaming TV series",
+    "coffee culture"
+  ],
+  "previous_passwords": [
+    "Skoda1999!",
+    "Phillip27_",
+    "HazelRide99",
+    "KimFish03!",
+    "CoffeeDave99",
+    "GoWGaming27",
+    "NetflixPhil99",
+    "RoganPods27",
+    "FitTaylor03",
+    "NewArthurTV!"
+  ]
+}

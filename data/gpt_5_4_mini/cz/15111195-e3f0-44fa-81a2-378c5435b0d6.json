@@ -1,0 +1,35 @@
+{
+  "id": "15111195-e3f0-44fa-81a2-378c5435b0d6",
+  "age": 25,
+  "birth_date": "2001-08-25",
+  "marital_status": "married",
+  "region": "Ostrava",
+  "nationality": "czech",
+  "company": "Kříž Krausová k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Drahoslav",
+  "self_last_name": "Horák",
+  "partner_first_name": "Světlana",
+  "partner_last_name": "Horáková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hokej",
+    "fotbal",
+    "posilovna",
+    "gaming",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "hokej2001!",
+    "Svetlana25",
+    "SkodaOstrava",
+    "Mesi08_25",
+    "Sparta99",
+    "GYM2001!",
+    "Gaming25",
+    "Lakers25!",
+    "Travel01",
+    "Horak2001"
+  ]
+}

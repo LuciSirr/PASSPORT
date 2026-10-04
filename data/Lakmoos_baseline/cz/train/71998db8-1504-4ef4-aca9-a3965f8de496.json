@@ -1,0 +1,41 @@
+{
+  "id": "71998db8-1504-4ef4-aca9-a3965f8de496",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "zahradničení",
+    "křížovky",
+    "pečení",
+    "televize"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bára"
+    }
+  ],
+  "company": "AutoServis Veselá",
+  "previous_passwords": [
+    "Bara2020",
+    "Zahrada123",
+    "Vesela1974",
+    "Fabia2003",
+    "Morava150",
+    "Kaufland123",
+    "BohemiaSekt50",
+    "zahrada2021",
+    "Petr!1970",
+    "Krizovky77"
+  ],
+  "favorite_hobby": "zahradničení",
+  "birth_date": "1975-05-19"
+}

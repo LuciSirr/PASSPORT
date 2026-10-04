@@ -1,0 +1,39 @@
+{
+  "id": "9313ad88-baa5-4f5a-b43c-e9c2438e85f0",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Subaru",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Sandra",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "fishing",
+    "gardening",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Buster"
+    }
+  ],
+  "company": "Westmoor Construction",
+  "previous_passwords": [
+    "Malcolm1961",
+    "Buster123",
+    "Hollis3000",
+    "Sandra4Ever",
+    "Fishing!67",
+    "Westmoor2023",
+    "Gardening_1",
+    "Buster!61",
+    "Hollis!2022"
+  ],
+  "favorite_hobby": "fishing",
+  "birth_date": "1962-06-26"
+}

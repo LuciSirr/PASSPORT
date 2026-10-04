@@ -1,0 +1,53 @@
+{
+  "id": "176da74d-7956-4e87-b17c-9cc8a3a0ea98",
+  "age": 35,
+  "birth_date": "1991-05-03",
+  "marital_status": "married",
+  "region": "Březová",
+  "nationality": "czech",
+  "company": "Kadlecová Růžička s.r.o.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Ludvík",
+  "self_last_name": "Šťastný",
+  "partner_first_name": "Dominika",
+  "partner_last_name": "Šťastná",
+  "children": [
+    {
+      "first_name": "Josef",
+      "last_name": "Šťastný"
+    },
+    {
+      "first_name": "Štěpánka",
+      "last_name": "Šťastná"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Nela"
+    },
+    {
+      "pet_type": "turtle",
+      "pet_name": "Milada"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "vaření",
+    "hudba Karla Gotta",
+    "fotbal",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "JosefMilada2023",
+    "HyundaiTuristika1991",
+    "KarlaGottaVaření!",
+    "MessiBrezova_88",
+    "DominikaNela2019",
+    "StepankaTuristika!",
+    "FotbalHyundai23",
+    "KarlaGottaJosef",
+    "BrezovaMiladaHorse",
+    "VařeníHyundai2019"
+  ]
+}

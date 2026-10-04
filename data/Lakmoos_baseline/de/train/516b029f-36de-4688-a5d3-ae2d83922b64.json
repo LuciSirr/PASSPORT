@@ -1,0 +1,35 @@
+{
+  "id": "516b029f-36de-4688-a5d3-ae2d83922b64",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Mitsubishi",
+  "self_first_name": "Annika",
+  "self_last_name": "Schröder",
+  "partner_first_name": "Markus",
+  "partner_last_name": "Schröder",
+  "children": [],
+  "interests": [
+    "reisen",
+    "lesen",
+    "kochen"
+  ],
+  "pets": [],
+  "company": "Hessen Beratung & Vermittlung GmbH",
+  "previous_passwords": [
+    "Annika1989",
+    "Schröder8000",
+    "Markus2020!",
+    "Mitsubishi1598",
+    "HessenApril",
+    "Reisen123",
+    "Kochen_89",
+    "Sparkasse253",
+    "Sommer2022",
+    "AOKSchatz"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1991-01-21"
+}

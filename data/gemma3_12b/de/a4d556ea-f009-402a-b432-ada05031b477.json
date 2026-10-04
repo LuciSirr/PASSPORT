@@ -1,0 +1,53 @@
+{
+  "id": "a4d556ea-f009-402a-b432-ada05031b477",
+  "age": 59,
+  "birth_date": "1967-08-14",
+  "marital_status": "married",
+  "region": "Leipziger Land",
+  "nationality": "german",
+  "company": "Höfig Stiftung & Co. KG",
+  "car_brand": "Kia",
+  "self_first_name": "Dietmar",
+  "self_last_name": "Wulff",
+  "partner_first_name": "Frauke",
+  "partner_last_name": "Wulff",
+  "children": [
+    {
+      "first_name": "Larissa",
+      "last_name": "Wulff"
+    },
+    {
+      "first_name": "Fabienne",
+      "last_name": "Wulff"
+    },
+    {
+      "first_name": "Alena",
+      "last_name": "Wulff"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Lieselotte"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Lesen",
+    "Fotografie",
+    "Volkshochschule",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "LieselotteWandern67",
+    "FabienneKia2024",
+    "AlenaLesenFotografie",
+    "ClassicMusik1967",
+    "VolkshochschuleFrauke!",
+    "MessiWulffPhotography",
+    "KiaWandernLieselotte",
+    "LeipzigerLandFabienne",
+    "Larissa_Wandern23",
+    "JoeRoganWulff67"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "0dc67a81-75a6-4d1b-8e54-50ed422493e4",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "divorced",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jaroslav",
+  "self_last_name": "Šimáček",
+  "birth_date": "1960-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "český film",
+    "radio beat",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Jihočeská doprava a skladování s.r.o.",
+  "previous_passwords": [
+    "Šimáček1960",
+    "JaroslavFilm123",
+    "radioBeat2023",
+    "netflix_Šimáček",
+    "Budvar1960!",
+    "makro674",
+    "Jarda_beat",
+    "film60",
+    "Šimáček!netflix",
+    "radioBeat_12"
+  ],
+  "favorite_hobby": "český film"
+}

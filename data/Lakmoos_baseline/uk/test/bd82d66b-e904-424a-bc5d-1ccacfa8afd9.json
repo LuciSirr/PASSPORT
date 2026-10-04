@@ -1,0 +1,40 @@
+{
+  "id": "bd82d66b-e904-424a-bc5d-1ccacfa8afd9",
+  "gender": "female",
+  "age": 40,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Dacia",
+  "self_first_name": "Harriet",
+  "self_last_name": "Mansfield",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "travel photography",
+    "british baking",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "East Midlands Digital Solutions",
+  "previous_passwords": [
+    "Milo2015!",
+    "HarrietBake123",
+    "MansfieldGard3n",
+    "TravelPhoto84",
+    "EastMidlands2020",
+    "BritishBake_15",
+    "Milo_Garden",
+    "HarrietJune15",
+    "Mansfield!cat",
+    "Bake4Life"
+  ],
+  "favorite_hobby": "travel photography",
+  "birth_date": "1984-06-15"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ec56bea2-4aca-4fa4-84cb-0215a9ebeb11",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Dacia",
+  "self_first_name": "Iveta",
+  "self_last_name": "Křivánková",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Křivánková",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Křivánková"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Křivánková"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "vaření",
+    "procházky",
+    "sledování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Iveta1989",
+    "TerezaMatěj14",
+    "Sandero68",
+    "Kaufland832",
+    "Křivánková2021",
+    "PetrIveta11",
+    "Matěj123",
+    "Tereza2009",
+    "Prochazky!89",
+    "Vaření_2023"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1991-03-19"
+}

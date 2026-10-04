@@ -1,0 +1,35 @@
+{
+  "id": "3dca636c-e558-4ab2-b32e-3ec794b36cfd",
+  "gender": "male",
+  "age": 53,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "Jaguar",
+  "self_first_name": "Ralf",
+  "self_last_name": "Königsfeld",
+  "partner_first_name": "Birgit",
+  "partner_last_name": "Königsfeld",
+  "children": [],
+  "interests": [
+    "autos",
+    "reisen",
+    "musik"
+  ],
+  "pets": [],
+  "company": "Königsfeld Beratung & Handel",
+  "previous_passwords": [
+    "Jaguar2016",
+    "Birgit53!",
+    "Ralf3000EUR",
+    "Königsfeld1948",
+    "Sachsen_123",
+    "AutosFreiheit",
+    "Berlin11.0",
+    "Musik2024",
+    "ReisenNov",
+    "AllianzBKK"
+  ],
+  "favorite_hobby": "autos",
+  "birth_date": "1972-07-16"
+}

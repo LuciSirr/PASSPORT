@@ -1,0 +1,57 @@
+{
+  "id": "e48e7dd0-c2aa-4b4a-bc5a-2b083ff2f402",
+  "age": 40,
+  "birth_date": "1986-03-30",
+  "marital_status": "divorced",
+  "region": "Kleve",
+  "nationality": "german",
+  "company": "Binner",
+  "car_brand": "Audi",
+  "self_first_name": "Wibke",
+  "self_last_name": "Löwer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Karl-Georg",
+      "last_name": "Löwer"
+    },
+    {
+      "first_name": "Klaudia",
+      "last_name": "Löwer"
+    },
+    {
+      "first_name": "Adina",
+      "last_name": "Löwer"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Friedbert"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Hildegart"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Kochen",
+    "Gartenarbeit",
+    "Netflix-Serien"
+  ],
+  "previous_passwords": [
+    "FussballKleve86",
+    "AudiKarla30!",
+    "KochenKarl12",
+    "Radfahren1986",
+    "NetflixWibke!",
+    "GartenAdina86",
+    "BayernKleve30",
+    "HildegartFish7",
+    "KochenLoewer30",
+    "RadelnAudi86!"
+  ]
+}

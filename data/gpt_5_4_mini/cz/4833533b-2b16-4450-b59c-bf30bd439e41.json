@@ -1,0 +1,44 @@
+{
+  "id": "4833533b-2b16-4450-b59c-bf30bd439e41",
+  "age": 36,
+  "birth_date": "1990-04-02",
+  "marital_status": "married",
+  "region": "Plánice",
+  "nationality": "czech",
+  "company": "Vítek",
+  "car_brand": "Škoda",
+  "self_first_name": "Kristýna",
+  "self_last_name": "Ševčíková",
+  "partner_first_name": "Patrik",
+  "partner_last_name": "Ševčík",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Ivana"
+    },
+    {
+      "pet_type": "lizard",
+      "pet_name": "Otakar"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "vaření",
+    "hokej",
+    "chalupaření"
+  ],
+  "previous_passwords": [
+    "Messi1990!",
+    "PlzenFotbal90",
+    "PatrikHokej02",
+    "Skoda_Turista",
+    "Vareni2024!",
+    "LizardIvana7",
+    "TrinecHockey36",
+    "ChalupaPlanic",
+    "Otakar_1990",
+    "BayernPatrik!"
+  ]
+}

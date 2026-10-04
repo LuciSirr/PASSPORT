@@ -1,0 +1,44 @@
+{
+  "id": "61feab12-0338-4afa-b1e2-3dbf23164594",
+  "age": 42,
+  "birth_date": "1984-04-21",
+  "marital_status": "married",
+  "region": "Lake Lyndaberg",
+  "nationality": "english",
+  "company": "Osborne-Morton",
+  "car_brand": "Ford",
+  "self_first_name": "Norman",
+  "self_last_name": "Taylor",
+  "partner_first_name": "Kayleigh",
+  "partner_last_name": "Lawrence",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Joel"
+    },
+    {
+      "pet_type": "dog",
+      "pet_name": "Martin"
+    }
+  ],
+  "interests": [
+    "hiking",
+    "gardening",
+    "classic rock",
+    "home brewing",
+    "local football club"
+  ],
+  "previous_passwords": [
+    "PinkFloyd84",
+    "FordHike21",
+    "DogWalk84!",
+    "BrewMartin84",
+    "AFC1football",
+    "LyndaHike42",
+    "KayleighRock84",
+    "GardenJoel21",
+    "TaylorFord84!",
+    "Hillside84"
+  ]
+}

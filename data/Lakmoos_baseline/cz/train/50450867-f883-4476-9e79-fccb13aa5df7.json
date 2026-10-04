@@ -1,0 +1,35 @@
+{
+  "id": "50450867-f883-4476-9e79-fccb13aa5df7",
+  "gender": "male",
+  "age": 65,
+  "marital_status": "widower/widow",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "nakupování",
+    "vzdělávání"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1959",
+    "Morava65",
+    "Nakupovani123",
+    "Konecny2022",
+    "Tesco!59",
+    "Cestovani2020",
+    "Vitana_65",
+    "Globus242",
+    "PivoNaDoma",
+    "BurgerKing1"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1960-07-31"
+}

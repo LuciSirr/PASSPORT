@@ -1,0 +1,34 @@
+{
+  "id": "d99e56cf-719a-4ffa-808c-00b70719f0e2",
+  "gender": "male",
+  "age": 11,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Jurčo",
+  "birth_date": "2013-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "minecraft"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Matej2013",
+    "JurcoFifa14",
+    "minecraft123",
+    "Fifa2024",
+    "matej_minecraft",
+    "Jurco!11",
+    "fifa_2013",
+    "mineJurco",
+    "F1faMatej",
+    "minecraft14"
+  ],
+  "favorite_hobby": "fifa"
+}

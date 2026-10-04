@@ -1,0 +1,40 @@
+{
+  "id": "ecc21d56-4d50-4c6b-ada6-ffa6056003b3",
+  "gender": "female",
+  "age": 48,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Vránová",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Vránová"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "čtení",
+    "plavání"
+  ],
+  "pets": [],
+  "company": "AutoServis Beroun",
+  "previous_passwords": [
+    "Tereza2014",
+    "Petr44",
+    "Cestovani2020",
+    "Vranova80",
+    "LetniDovolena",
+    "Superb2001",
+    "Plavani123",
+    "Lidl2022",
+    "Tereza10",
+    "Berounka!"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1978-01-18"
+}

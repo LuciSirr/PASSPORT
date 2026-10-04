@@ -1,0 +1,33 @@
+{
+  "id": "677d91ab-683a-4c43-8db9-941bd69c78b5",
+  "gender": "male",
+  "age": 7,
+  "marital_status": "single/in a relationship",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finley",
+  "self_last_name": "Radcliffe",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lego",
+    "football",
+    "drawing"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Finley2016",
+    "Radcliffe7",
+    "lego123",
+    "Yorkshire7",
+    "Footb4ll!",
+    "Drawing2023",
+    "Fin7Rad",
+    "LeedsUtd07"
+  ],
+  "favorite_hobby": "lego",
+  "birth_date": "2019-03-28"
+}

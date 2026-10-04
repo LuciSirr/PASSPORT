@@ -1,0 +1,40 @@
+{
+  "id": "24be7528-0cbb-4c7b-8a00-f680296a7e3a",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "saarland",
+  "nationality": "german",
+  "car_brand": "Abarth",
+  "self_first_name": "Lena",
+  "self_last_name": "Kuhn",
+  "birth_date": "2005-06-14",
+  "partner_first_name": "Jonas",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "gossip girl",
+    "bouldern",
+    "tiktok"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Saarland Campus Bistro",
+  "previous_passwords": [
+    "Lena2005",
+    "Milo!14",
+    "KuhnBoulder23",
+    "G0ssipGirl_05",
+    "T1kT0kKuhn",
+    "JonasLena2022",
+    "MiloKuhn123",
+    "Bistro!16000",
+    "Bouldern_14",
+    "Gossip2023"
+  ],
+  "favorite_hobby": "gossip girl"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1ca6affc-84d0-4aa4-b744-146e3fbf26ae",
+  "age": 43,
+  "birth_date": "1983-11-26",
+  "marital_status": "married",
+  "region": "Forst",
+  "nationality": "german",
+  "company": "Scheel",
+  "car_brand": "Audi",
+  "self_first_name": "Leon",
+  "self_last_name": "Hering",
+  "partner_first_name": "Adele",
+  "partner_last_name": "Hering",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Gebhard"
+    },
+    {
+      "pet_type": "lizard",
+      "pet_name": "Silke"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Autorenlesungen",
+    "Klassische Musik",
+    "Lokale Geschichte"
+  ],
+  "previous_passwords": [
+    "AdeleHering2005",
+    "FotografieForst!",
+    "AudiWanderlust83",
+    "KlassischeMusikSilke",
+    "Gebhard_Autorenlesung",
+    "MessiForst2023",
+    "WandernAdele2011",
+    "LokaleGeschichte83",
+    "FotografieSilke!",
+    "ForstAudi2008"
+  ]
+}

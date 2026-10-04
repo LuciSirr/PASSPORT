@@ -1,0 +1,44 @@
+{
+  "id": "ae35ea82-41a3-445f-bab9-522185ec4b50",
+  "age": 32,
+  "birth_date": "1994-05-25",
+  "marital_status": "married",
+  "region": "Vodňany",
+  "nationality": "czech",
+  "company": "Slavík v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Tereza",
+  "self_last_name": "Němcová",
+  "partner_first_name": "Ctibor",
+  "partner_last_name": "Němcová",
+  "children": [
+    {
+      "first_name": "Luděk",
+      "last_name": "Kovářová"
+    },
+    {
+      "first_name": "Jonáš",
+      "last_name": "Černý"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivní lázně",
+    "česká kinematografie",
+    "knižní klub",
+    "cyklistika"
+  ],
+  "previous_passwords": [
+    "VodňanyTuristika2023",
+    "LudekKovarovaPivo!",
+    "SkodaJonášCerny",
+    "CeskáKinematografie94",
+    "TuristikaCtibor1994",
+    "KnižníKlubTereza",
+    "CyklistikaJonáš!",
+    "MessiVodňany25",
+    "PivniLazneLudek",
+    "Tereza_Cerna_Kinematografie"
+  ]
+}

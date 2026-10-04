@@ -1,0 +1,35 @@
+{
+  "id": "67a53d52-8ce6-45fd-8ab7-3c85faf8a763",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Porsche",
+  "self_first_name": "Rüdiger",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "reisen",
+    "autos",
+    "musik"
+  ],
+  "pets": [],
+  "company": "Bildungszentrum Rhein",
+  "previous_passwords": [
+    "Ruediger1959",
+    "Sabine2024!",
+    "Macan79534",
+    "JaguarEpace7",
+    "Kleinschmidt123",
+    "Bildung_3000",
+    "ReisenMai!",
+    "Porsche2.9",
+    "Nordrhein2010",
+    "Musik_4ever"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1962-03-24"
+}

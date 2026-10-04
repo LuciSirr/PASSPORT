@@ -1,0 +1,34 @@
+{
+  "id": "d537c61d-feed-47d7-a695-dae902be3dce",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lukas",
+  "self_last_name": "Kuhn",
+  "birth_date": "2018-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "feuerwehrmann sam"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2019",
+    "pawpatrol123",
+    "KuhnSam10",
+    "Sam2019!",
+    "feuerwehrmann_19",
+    "pawKuhn",
+    "Lukas_Sam",
+    "pawpatrol10",
+    "Kuhn2019",
+    "Sam!Kuhn"
+  ],
+  "favorite_hobby": "paw patrol"
+}

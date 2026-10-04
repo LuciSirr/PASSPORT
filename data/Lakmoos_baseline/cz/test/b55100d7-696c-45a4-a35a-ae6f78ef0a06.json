@@ -1,0 +1,39 @@
+{
+  "id": "b55100d7-696c-45a4-a35a-ae6f78ef0a06",
+  "gender": "female",
+  "age": 71,
+  "marital_status": "widower/widow",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1953-06-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "krimi romány",
+    "zahradničení"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Správa služeb Hradec",
+  "previous_passwords": [
+    "Jarmila1953",
+    "Kohoutova60",
+    "Micka2020",
+    "krimi123",
+    "zahrada!53",
+    "Micka_krimi",
+    "Kohoutova!14",
+    "JarmilaMicka53",
+    "krimi1953",
+    "Micka!krimi"
+  ],
+  "favorite_hobby": "krimi romány"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "7609d637-cf06-4573-a150-bad7e371b3fb",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Citroën",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "autos"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Citroen2003",
+    "Krause123",
+    "Reisen!2022",
+    "Lennart27",
+    "Peugeot_21",
+    "Sommer07",
+    "Autos!2024",
+    "Podcast4Life",
+    "Mainz1996",
+    "Krause!5"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1999-03-05"
+}

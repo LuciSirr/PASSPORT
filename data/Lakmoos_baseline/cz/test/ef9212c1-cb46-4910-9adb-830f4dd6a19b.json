@@ -1,0 +1,40 @@
+{
+  "id": "ef9212c1-cb46-4910-9adb-830f4dd6a19b",
+  "gender": "female",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Kohoutová",
+  "birth_date": "2014-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "miraculous ladybug",
+    "malování",
+    "harry potter"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Micka2014",
+    "Tereza123",
+    "ladybug_10",
+    "KohoutovaHP",
+    "malovani2020",
+    "harrypotter14",
+    "M1r4cul0u5",
+    "Micka!10",
+    "TerezaKohoutova",
+    "pottercat"
+  ],
+  "favorite_hobby": "miraculous ladybug"
+}

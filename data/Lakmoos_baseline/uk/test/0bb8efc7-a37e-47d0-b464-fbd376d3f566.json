@@ -1,0 +1,35 @@
+{
+  "id": "0bb8efc7-a37e-47d0-b464-fbd376d3f566",
+  "gender": "male",
+  "age": 11,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "minecraft",
+    "aston villa",
+    "pokemon"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Callum2013",
+    "HollingsworthVilla",
+    "minecraft_123",
+    "pokemonGo!17",
+    "AstonVilla04",
+    "H0ll1ngsw0rth",
+    "PikachuVilla",
+    "minecraft2022",
+    "VillaFan_13",
+    "Callum_pokemon"
+  ],
+  "favorite_hobby": "minecraft",
+  "birth_date": "2013-04-17"
+}

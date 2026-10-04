@@ -1,0 +1,40 @@
+{
+  "id": "50f3e5bd-fef6-4a02-9e97-ee0bd1131d68",
+  "age": 27,
+  "birth_date": "1999-04-30",
+  "marital_status": "single",
+  "region": "Ansbach",
+  "nationality": "german",
+  "company": "Vollbrecht Fiebig KGaA",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Cilly",
+  "self_last_name": "Eberth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Cosimo"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Kochen",
+    "Wandern",
+    "FC Bayern München"
+  ],
+  "previous_passwords": [
+    "FCBayern99!",
+    "MiaSanMia27",
+    "Mercedes30",
+    "CosimoFish99",
+    "Kochen30!",
+    "Wandern99_",
+    "Ansbach27!",
+    "GamingBayern9",
+    "Fussball30#",
+    "Bayern99Cilly"
+  ]
+}

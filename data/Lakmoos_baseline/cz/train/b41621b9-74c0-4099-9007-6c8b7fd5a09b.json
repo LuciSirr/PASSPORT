@@ -1,0 +1,35 @@
+{
+  "id": "b41621b9-74c0-4099-9007-6c8b7fd5a09b",
+  "gender": "female",
+  "age": 84,
+  "marital_status": "widower/widow",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Božena",
+  "self_last_name": "Vacková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "křížovky",
+    "četba",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Bozena1939",
+    "Vackova84",
+    "billa2022",
+    "ceskydum120",
+    "mcdoobliba",
+    "Krizovky123",
+    "Cetba2024",
+    "V4reni!",
+    "Budejovice39",
+    "Bozena!84"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1941-08-20"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b45363a5-4063-4489-93b3-587bb41db27c",
+  "gender": "female",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Annika",
+  "self_last_name": "Krause",
+  "birth_date": "1990-08-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "dark",
+    "tatort",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Ingenieurbüro Winter & Partner",
+  "previous_passwords": [
+    "Annika1990",
+    "KrauseDark17",
+    "Tatort_0817",
+    "WinterPartner2023",
+    "Dark!2020",
+    "Audiobook123",
+    "KrauseTatort90",
+    "Ingenieur_17",
+    "DarkTatort2022",
+    "Ann1ka!Dark"
+  ],
+  "favorite_hobby": "dark"
+}

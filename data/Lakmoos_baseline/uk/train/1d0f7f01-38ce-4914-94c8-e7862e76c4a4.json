@@ -1,0 +1,40 @@
+{
+  "id": "1d0f7f01-38ce-4914-94c8-e7862e76c4a4",
+  "gender": "female",
+  "age": 66,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Northwest Executive Solutions",
+  "previous_passwords": [
+    "Margaret1958",
+    "Misty23",
+    "Hollings9000",
+    "Peter_66",
+    "Gardening123",
+    "OpelCorsa20",
+    "Northwest!1",
+    "Walking2023",
+    "Reading_58",
+    "Misty!1958"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1960-01-10"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "75190060-c3cd-4fca-a7a7-62e8b95c3eeb",
+  "gender": "male",
+  "age": 54,
+  "marital_status": "married",
+  "region": "hamburg",
+  "nationality": "german",
+  "car_brand": "Mitsubishi",
+  "self_first_name": "Ralf",
+  "self_last_name": "Kühnert",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kühnert",
+  "children": [],
+  "interests": [
+    "reisen",
+    "wandern"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Max"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Ralf1969",
+    "Sabine123",
+    "Max2020!",
+    "Hamburg_69",
+    "Kuehnert!4000",
+    "Reisen2023",
+    "Wandern_1",
+    "Mitsubishi1598",
+    "SabineRalf",
+    "Max_Kuehnert"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1971-04-20"
+}

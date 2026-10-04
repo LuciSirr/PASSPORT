@@ -1,0 +1,33 @@
+{
+  "id": "b265b612-524b-4917-b425-c1a076cb22dd",
+  "gender": "male",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Hyundai",
+  "self_first_name": "Callum",
+  "self_last_name": "McEwan",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "McEwan",
+  "children": [],
+  "interests": [
+    "hiking",
+    "photography",
+    "travelling"
+  ],
+  "pets": [],
+  "company": "Lochside Learning Centre",
+  "previous_passwords": [
+    "McEwan2023",
+    "Callum123",
+    "Kona23!",
+    "Sophie4Ever",
+    "Hiking2022",
+    "Lochside88",
+    "Scotland_26",
+    "Photo!2021"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1999-12-22"
+}

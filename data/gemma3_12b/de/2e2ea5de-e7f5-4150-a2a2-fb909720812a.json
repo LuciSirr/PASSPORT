@@ -1,0 +1,53 @@
+{
+  "id": "2e2ea5de-e7f5-4150-a2a2-fb909720812a",
+  "age": 30,
+  "birth_date": "1996-07-23",
+  "marital_status": "married",
+  "region": "Kassel",
+  "nationality": "german",
+  "company": "Binner Harloff GmbH",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Lieschen",
+  "self_last_name": "Dörr",
+  "partner_first_name": "Ruben",
+  "partner_last_name": "Dörr",
+  "children": [
+    {
+      "first_name": "Gundi",
+      "last_name": "Dörr"
+    },
+    {
+      "first_name": "Theodor",
+      "last_name": "Dörr"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Rosemarie"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Ismet"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Digitale Fotografie",
+    "Musik Festivals",
+    "Wandern",
+    "Lokales Brauen"
+  ],
+  "previous_passwords": [
+    "Messi2024!",
+    "RosemarieKassel",
+    "TheodorFoto96",
+    "RubenWandern!",
+    "GundiVW23",
+    "MusikFestRose",
+    "KasselBrauen96",
+    "DigitaleFußball",
+    "IsmetKassel23",
+    "RosemarieFoto!"
+  ]
+}

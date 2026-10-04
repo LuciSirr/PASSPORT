@@ -1,0 +1,40 @@
+{
+  "id": "0f00febf-82ce-411b-84b4-27d94d1d676c",
+  "age": 27,
+  "birth_date": "1999-11-24",
+  "marital_status": "married",
+  "region": "Lázně Bělohrad",
+  "nationality": "czech",
+  "company": "Němec k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Květoslava",
+  "self_last_name": "Urbanová",
+  "partner_first_name": "Jaromír",
+  "partner_last_name": "Urban",
+  "children": [
+    {
+      "first_name": "Karolína",
+      "last_name": "Urbanová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivo",
+    "hudba - folk",
+    "Vaření - domácí pivo",
+    "fotbal - Baník Lázně Bělohrad"
+  ],
+  "previous_passwords": [
+    "BanikLB99!",
+    "KarolinaTuristika27",
+    "JaromirPivo1999",
+    "SkodaFolklore!",
+    "TuristikaKvetoslava",
+    "MessiLázněBělohrad",
+    "DomaciPivoK99",
+    "HudbaKarolina!",
+    "KvetoslavaBeer24",
+    "BanikFotbal27"
+  ]
+}

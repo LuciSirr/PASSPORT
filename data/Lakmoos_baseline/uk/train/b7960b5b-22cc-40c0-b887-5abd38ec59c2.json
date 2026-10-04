@@ -1,0 +1,35 @@
+{
+  "id": "b7960b5b-22cc-40c0-b887-5abd38ec59c2",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Callum",
+  "self_last_name": "Whittaker",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "SouthEast Analytics Ltd",
+  "previous_passwords": [
+    "CupraLeon2018",
+    "Whittaker22",
+    "Football123",
+    "Callum5000",
+    "Toyota2017",
+    "Gaming4Life",
+    "SouthEast19",
+    "Cycling_22",
+    "Leon!40584",
+    "Wh1ttak3r"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2004-01-29"
+}

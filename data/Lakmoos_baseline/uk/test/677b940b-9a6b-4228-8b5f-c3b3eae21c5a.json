@@ -1,0 +1,39 @@
+{
+  "id": "677b940b-9a6b-4228-8b5f-c3b3eae21c5a",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "BMW",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "top gear",
+    "fishing"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Yorkshire Business Solutions",
+  "previous_passwords": [
+    "Gareth1979",
+    "Baxter123",
+    "TopGear!22",
+    "Hollings2021",
+    "Fishing4Life",
+    "Rachel1978",
+    "Baxter!79",
+    "Yorkshire2020",
+    "TopGearBaxter",
+    "Hollings!14"
+  ],
+  "favorite_hobby": "top gear",
+  "birth_date": "1979-06-14"
+}

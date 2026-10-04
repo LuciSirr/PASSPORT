@@ -1,0 +1,44 @@
+{
+  "id": "8fd13b28-8a69-4759-bb01-6623ee2942fa",
+  "age": 68,
+  "birth_date": "1958-10-15",
+  "marital_status": "married",
+  "region": "Lučany nad Nisou",
+  "nationality": "czech",
+  "company": "Blažková v.o.s.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Dobroslav",
+  "self_last_name": "Marek",
+  "partner_first_name": "Mária",
+  "partner_last_name": "Mareková",
+  "children": [
+    {
+      "first_name": "Emilie",
+      "last_name": "Mareková"
+    },
+    {
+      "first_name": "Olga",
+      "last_name": "Mareková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "čtení knih",
+    "rybaření",
+    "návštěva divadel"
+  ],
+  "previous_passwords": [
+    "Hyundai1958",
+    "LucanyNisouFish!",
+    "EmilieTuristika23",
+    "MarekZahradniCteni",
+    "OlgaDivadloBook",
+    "MessiFanDobroslav",
+    "RybarDobroslav15",
+    "KnihyHyundai81",
+    "DobroslavMarekTur",
+    "ZahradaMareková19"
+  ]
+}

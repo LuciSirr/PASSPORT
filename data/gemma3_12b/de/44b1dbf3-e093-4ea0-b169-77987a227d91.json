@@ -1,0 +1,40 @@
+{
+  "id": "44b1dbf3-e093-4ea0-b169-77987a227d91",
+  "age": 24,
+  "birth_date": "2002-05-15",
+  "marital_status": "single",
+  "region": "Prenzlau",
+  "nationality": "german",
+  "company": "Mans",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Gretchen",
+  "self_last_name": "Tintzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Toni"
+    }
+  ],
+  "interests": [
+    "Musik Festivals",
+    "Fotografie",
+    "Reisen",
+    "Videospiele",
+    "Biergarten"
+  ],
+  "previous_passwords": [
+    "ToniFest2018",
+    "MercedesFoto0515",
+    "MessiPrenzlau!",
+    "ReisenToni24",
+    "VideospieleGretchen",
+    "Biergarten2002",
+    "Musik_Tz_24",
+    "PrenzlauFest!",
+    "MercedesGames!",
+    "ToniFoto2002"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ecd00587-7977-43d2-bd3d-eb304ec836ed",
+  "gender": "female",
+  "age": 70,
+  "marital_status": "divorced",
+  "region": "northern ireland",
+  "nationality": "british",
+  "car_brand": "Peugeot",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "call the midwife",
+    "crossword puzzles"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Causeway Consulting",
+  "previous_passwords": [
+    "Misty2013",
+    "Gardening54",
+    "Hollingsworth123",
+    "Midwife!2018",
+    "CrosswordCat",
+    "Margaret!10",
+    "MistyPuzzles",
+    "CallTheMidwife54",
+    "Garden_1954",
+    "Misty!Hollings"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1954-06-10"
+}

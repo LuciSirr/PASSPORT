@@ -1,0 +1,34 @@
+{
+  "id": "5e983071-2a39-42d2-9b21-ab26ae6d083c",
+  "gender": "female",
+  "age": 71,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Hannelore",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Wilhelm",
+  "partner_last_name": "Kreutzmann",
+  "children": [],
+  "interests": [
+    "lesen",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Hannelore1953",
+    "Wilhelm123",
+    "Kreutzmann!15",
+    "Lesen2020",
+    "Gartenarbeit_53",
+    "OmaNRW",
+    "September!71",
+    "BKK2024",
+    "Apfelbaum7",
+    "Kreutzmann_123"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1955-02-08"
+}

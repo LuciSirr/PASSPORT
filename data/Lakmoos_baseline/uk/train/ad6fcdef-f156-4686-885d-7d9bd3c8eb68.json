@@ -1,0 +1,40 @@
+{
+  "id": "ad6fcdef-f156-4686-885d-7d9bd3c8eb68",
+  "gender": "female",
+  "age": 48,
+  "marital_status": "divorced",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "gardening",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "NorthWest Executive Solutions",
+  "previous_passwords": [
+    "Fiona1976",
+    "MistyCat1",
+    "Hollingsworth123",
+    "Reading4Life",
+    "Gardening2020",
+    "NorthWestExec!",
+    "Walking_76",
+    "Misty!2023",
+    "Fiona_Misty",
+    "H0ll1ngsw0rth"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1978-01-23"
+}

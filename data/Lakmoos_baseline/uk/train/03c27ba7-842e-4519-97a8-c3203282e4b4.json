@@ -1,0 +1,40 @@
+{
+  "id": "03c27ba7-842e-4519-97a8-c3203282e4b4",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Elliot",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "reading",
+    "yoga",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Westvale Books",
+  "previous_passwords": [
+    "Imogen2005",
+    "Milo123",
+    "Hollis14",
+    "Reading4Life",
+    "Elliot!05",
+    "Westvale2023",
+    "Baking_19",
+    "YogaCat!",
+    "Merrick14",
+    "Milo!05"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2007-01-21"
+}

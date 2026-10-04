@@ -1,0 +1,35 @@
+{
+  "id": "f8ac2ae8-9a46-406d-a8f1-2da7a55ca7a0",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "turistika",
+    "televize",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Moravský Strojírenský Podnik",
+  "previous_passwords": [
+    "Radek1973",
+    "JanaVesela51",
+    "Octavia1998",
+    "Morava_123",
+    "Pilsner!2020",
+    "turistika77",
+    "Vesely1973",
+    "Globus2020",
+    "dmkarta",
+    "auta112"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1974-09-23"
+}

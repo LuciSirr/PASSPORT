@@ -1,0 +1,39 @@
+{
+  "id": "67f9b828-8926-44d8-92be-359634db82c0",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Oliver",
+  "self_last_name": "Harrington",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "lego"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Buddy"
+    }
+  ],
+  "company": "Eastside Learning Centre",
+  "previous_passwords": [
+    "Oliver2019",
+    "Buddy123",
+    "pawpatrol!19",
+    "lego4life",
+    "Harrington_2019",
+    "EastsideBuddy",
+    "pawpatrol_Buddy",
+    "OliverLego",
+    "Buddy!paw",
+    "lego2019"
+  ],
+  "favorite_hobby": "paw patrol",
+  "birth_date": "2018-06-15"
+}

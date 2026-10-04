@@ -1,0 +1,53 @@
+{
+  "id": "2e2f959b-271d-4f3d-bc7c-b59c7240191b",
+  "age": 40,
+  "birth_date": "1986-11-27",
+  "marital_status": "married",
+  "region": "Světlá nad Sázavou",
+  "nationality": "czech",
+  "company": "Vlčková",
+  "car_brand": "Hyundai",
+  "self_first_name": "Lucie",
+  "self_last_name": "Bláhová",
+  "partner_first_name": "Radek",
+  "partner_last_name": "Bláhová",
+  "children": [
+    {
+      "first_name": "Šimon",
+      "last_name": "Strnad"
+    },
+    {
+      "first_name": "Teodor",
+      "last_name": "Mašek"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Bohumil"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Bohumila"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "zahrádkaření",
+    "vaření",
+    "hokej"
+  ],
+  "previous_passwords": [
+    "Turistika86!",
+    "FotbalRadek11",
+    "HokejSimon27",
+    "ZahradkaBohumil7",
+    "VareniHyundai86",
+    "TeodorHokej86",
+    "Radek_Fotbal",
+    "Bohumila7!",
+    "SvetlaTuristika",
+    "Masi_Hokej11"
+  ]
+}

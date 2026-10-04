@@ -1,0 +1,35 @@
+{
+  "id": "e9d969c2-15d4-4a00-b2a5-9a5ba417767e",
+  "gender": "female",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Barbora",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "móda",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Moravská Finanční Agentura",
+  "previous_passwords": [
+    "Barca1998",
+    "lidlKofola21",
+    "fashionista25",
+    "Morava2020",
+    "KFCsnack",
+    "Vr4n0v4!",
+    "Cestovani123",
+    "Seri4ly98",
+    "BaraKFC2021",
+    "M0da_25"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "2001-01-14"
+}

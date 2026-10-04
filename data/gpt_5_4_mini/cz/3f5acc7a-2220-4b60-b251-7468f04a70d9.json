@@ -1,0 +1,44 @@
+{
+  "id": "3f5acc7a-2220-4b60-b251-7468f04a70d9",
+  "age": 38,
+  "birth_date": "1988-12-23",
+  "marital_status": "married",
+  "region": "Lázně Kynžvart",
+  "nationality": "czech",
+  "company": "Macháček a.s.",
+  "car_brand": "Fiat",
+  "self_first_name": "Ivan",
+  "self_last_name": "Vávra",
+  "partner_first_name": "Žofie",
+  "partner_last_name": "Vávrová",
+  "children": [
+    {
+      "first_name": "Radomír",
+      "last_name": "Vávra"
+    },
+    {
+      "first_name": "Jaromír",
+      "last_name": "Vávra"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika v Krušných horách",
+    "lyžování",
+    "vaření",
+    "hokej",
+    "lázeňství"
+  ],
+  "previous_passwords": [
+    "Krusne23!",
+    "Sneznik88",
+    "HokejVavra7",
+    "FiatLazne88",
+    "Vareni1988",
+    "ZofieLyze24",
+    "Kynzvart88!",
+    "RadomirHokej9",
+    "Turistika88",
+    "JaromirFiat23"
+  ]
+}

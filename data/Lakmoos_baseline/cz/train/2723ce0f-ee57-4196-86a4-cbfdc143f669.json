@@ -1,0 +1,36 @@
+{
+  "id": "2723ce0f-ee57-4196-86a4-cbfdc143f669",
+  "gender": "male",
+  "age": 37,
+  "marital_status": "divorced",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Renault",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cyklistika",
+    "auta",
+    "voyo",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "Jihočeská ICT Služba",
+  "previous_passwords": [
+    "Radek1987",
+    "Vesely37",
+    "Twingo2005",
+    "Hornbach123",
+    "Kofola2022",
+    "Vltava37",
+    "Cyklistika1",
+    "LidlOblibenec",
+    "Nova!2023",
+    "Auta_999"
+  ],
+  "favorite_hobby": "cyklistika",
+  "birth_date": "1988-06-17"
+}

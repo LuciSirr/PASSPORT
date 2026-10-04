@@ -1,0 +1,35 @@
+{
+  "id": "cbdd3345-3cae-450f-8f13-8dc11ae018ba",
+  "gender": "male",
+  "age": 46,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1978-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "česká televize",
+    "móda",
+    "bageterie boulevard"
+  ],
+  "pets": [],
+  "company": "Mediální Servis Beroun",
+  "previous_passwords": [
+    "Kohout1978",
+    "RadekBeroun99",
+    "ceskatelevize123",
+    "moda2020",
+    "Bageterie!Boulevard",
+    "Radek!14",
+    "Kohout!m0da",
+    "Beroun_78",
+    "modaKohout",
+    "televize1978"
+  ],
+  "favorite_hobby": "česká televize"
+}

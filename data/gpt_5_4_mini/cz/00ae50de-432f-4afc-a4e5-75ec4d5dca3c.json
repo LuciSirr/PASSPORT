@@ -1,0 +1,44 @@
+{
+  "id": "00ae50de-432f-4afc-a4e5-75ec4d5dca3c",
+  "age": 46,
+  "birth_date": "1980-11-01",
+  "marital_status": "married",
+  "region": "Velké Bílovice",
+  "nationality": "czech",
+  "company": "Matoušková Tůma k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Šimon",
+  "self_last_name": "Mašek",
+  "partner_first_name": "Růžena",
+  "partner_last_name": "Mašková",
+  "children": [
+    {
+      "first_name": "Vladimíra",
+      "last_name": "Mašková"
+    },
+    {
+      "first_name": "Bohumil",
+      "last_name": "Mašek"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "vinařství",
+    "fotbal",
+    "zahradničení",
+    "vaření",
+    "turistika"
+  ],
+  "previous_passwords": [
+    "Vino2020!",
+    "Skoda88_vin",
+    "Messi10Bile",
+    "Zahrada80!",
+    "BilePodzemi11",
+    "Ruzena1979",
+    "Turistika_46",
+    "Vareni11!",
+    "Vladi1980",
+    "Bohumil_80"
+  ]
+}

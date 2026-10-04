@@ -1,0 +1,35 @@
+{
+  "id": "ee5ec87e-3c3a-40d1-9cb9-6b8ce74f2fd9",
+  "age": 23,
+  "birth_date": "2003-04-19",
+  "marital_status": "married",
+  "region": "Marychester",
+  "nationality": "english",
+  "company": "Taylor, McCarthy and White",
+  "car_brand": "Volvo",
+  "self_first_name": "Benjamin",
+  "self_last_name": "Jones",
+  "partner_first_name": "Jasmine",
+  "partner_last_name": "Jones",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "football",
+    "fitness",
+    "streaming TV series",
+    "live music"
+  ],
+  "previous_passwords": [
+    "Fortnite03!",
+    "Arsenal19",
+    "Volvo2003",
+    "JasmineTV7",
+    "Messi19!",
+    "Netflix23",
+    "Ragnarok04",
+    "BenGaming!",
+    "Marychester23",
+    "Coldplay19"
+  ]
+}

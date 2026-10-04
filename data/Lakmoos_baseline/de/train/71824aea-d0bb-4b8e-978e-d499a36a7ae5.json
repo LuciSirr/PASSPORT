@@ -1,0 +1,34 @@
+{
+  "id": "71824aea-d0bb-4b8e-978e-d499a36a7ae5",
+  "gender": "male",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "brandenburg",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fussball",
+    "gaming"
+  ],
+  "pets": [],
+  "company": "Brandenburger Schülerhilfe",
+  "previous_passwords": [
+    "Lennart2008",
+    "Krause123",
+    "Fussball!16",
+    "Brandenburg08",
+    "Gaming_3000",
+    "Schuelerhilfe2023",
+    "Krause!08",
+    "L3nn4rt",
+    "Fussball123",
+    "KrauseBrb"
+  ],
+  "favorite_hobby": "fussball",
+  "birth_date": "2009-10-27"
+}

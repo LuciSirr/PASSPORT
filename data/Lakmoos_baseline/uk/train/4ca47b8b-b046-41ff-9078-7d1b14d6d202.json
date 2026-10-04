@@ -1,0 +1,39 @@
+{
+  "id": "4ca47b8b-b046-41ff-9078-7d1b14d6d202",
+  "gender": "female",
+  "age": 76,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marjorie",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Ashcombe",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crosswords",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "South Downs Brokers",
+  "previous_passwords": [
+    "Marjorie1948",
+    "Ashcombe22",
+    "Mittens123",
+    "Geoffrey76",
+    "Gardening4Life",
+    "Crosswords2020",
+    "Baking!1",
+    "SouthDowns22",
+    "Ashcombe!48"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1950-03-21"
+}

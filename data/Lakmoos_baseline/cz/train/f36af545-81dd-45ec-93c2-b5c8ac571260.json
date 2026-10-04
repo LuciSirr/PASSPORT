@@ -1,0 +1,36 @@
+{
+  "id": "f36af545-81dd-45ec-93c2-b5c8ac571260",
+  "gender": "female",
+  "age": 54,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Vránová",
+  "children": [],
+  "interests": [
+    "čtení",
+    "procházky",
+    "zahrada",
+    "ivysilani"
+  ],
+  "pets": [],
+  "company": "Základní škola Ostravice",
+  "previous_passwords": [
+    "Ivana1969",
+    "PetrVranova123",
+    "Cteni2020",
+    "Zahrada!54",
+    "Prochazky_77",
+    "Vranova150m2",
+    "KofolaBezCukru",
+    "Morava_1969",
+    "PennyMarket21",
+    "dmOblibenec"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1971-10-29"
+}

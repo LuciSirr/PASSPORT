@@ -1,0 +1,40 @@
+{
+  "id": "4b7644e0-8e87-472d-bbd8-c202d649b69d",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselka",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "minecraft",
+    "cyklistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bertík"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej2011",
+    "Bertik123",
+    "fotbal12",
+    "Veselka2023",
+    "minecraft_11",
+    "cyklistika321",
+    "Bertik!",
+    "Praha2012",
+    "Slavia1905",
+    "matej4prague"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2013-05-23"
+}

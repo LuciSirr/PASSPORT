@@ -1,0 +1,49 @@
+{
+  "id": "18378ec2-23ff-4ecb-ad6d-36bfcee7abad",
+  "age": 43,
+  "birth_date": "1983-11-01",
+  "marital_status": "married",
+  "region": "Chemnitz",
+  "nationality": "german",
+  "company": "Ehlert",
+  "car_brand": "Skoda",
+  "self_first_name": "Amalia",
+  "self_last_name": "Misicher",
+  "partner_first_name": "Heinz-Josef",
+  "partner_last_name": "Misicher",
+  "children": [
+    {
+      "first_name": "Heino",
+      "last_name": "Misicher"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Rolf"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Marcella"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Autorennen",
+    "Konzertbesuche",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "Messi2024Skoda",
+    "MarcellaWandern!",
+    "HeinzJosefFußball83",
+    "RolfChemnitzFoto",
+    "AutorennenHeino11",
+    "KonzerteSkoda_83",
+    "HeinoMessi2001",
+    "MarcellaWandern83",
+    "SkodaRolf2001",
+    "Messi_Konzerte24"
+  ]
+}

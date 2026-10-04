@@ -1,0 +1,35 @@
+{
+  "id": "168c603e-e6a4-4ac6-8a6e-beaca9edbbc3",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Bernd",
+  "self_last_name": "Krause",
+  "birth_date": "1961-06-14",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "kreuzfahrten",
+    "tatort",
+    "schach"
+  ],
+  "pets": [],
+  "company": "Nordwest Management GmbH",
+  "previous_passwords": [
+    "Krause1961",
+    "Tatort!2020",
+    "BerndSchach123",
+    "Sabine0614",
+    "Kreuzfahrt2022",
+    "Schachmeister61",
+    "Tat0rt_Krause",
+    "Nordwest!8000",
+    "Krause!Tatort",
+    "SabineBernd2021"
+  ],
+  "favorite_hobby": "kreuzfahrten"
+}

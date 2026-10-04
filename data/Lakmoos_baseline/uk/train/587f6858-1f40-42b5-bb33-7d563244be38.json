@@ -1,0 +1,35 @@
+{
+  "id": "587f6858-1f40-42b5-bb33-7d563244be38",
+  "gender": "male",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Citroën",
+  "self_first_name": "Callum",
+  "self_last_name": "McAllister",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "McAllister",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travelling",
+    "photography"
+  ],
+  "pets": [],
+  "company": "Lochside Ventures Ltd",
+  "previous_passwords": [
+    "Callum1998",
+    "CitroenC3!",
+    "Lochside123",
+    "Sophie2020",
+    "McAllister15",
+    "Hiking4Life",
+    "Scotland82",
+    "Travel2022",
+    "C3Turbo_9",
+    "Photo!2021"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1999-08-04"
+}

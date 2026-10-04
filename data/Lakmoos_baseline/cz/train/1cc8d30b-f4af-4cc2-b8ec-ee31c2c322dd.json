@@ -1,0 +1,40 @@
+{
+  "id": "1cc8d30b-f4af-4cc2-b8ec-ee31c2c322dd",
+  "gender": "female",
+  "age": 41,
+  "marital_status": "divorced",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Vránová"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "vaření",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Moravská finanční správa",
+  "previous_passwords": [
+    "Tereza2016",
+    "Fabia999",
+    "BrnoFin81",
+    "LidlAlbert81",
+    "PivoKFC2020",
+    "Iveta81",
+    "Vranova2024",
+    "Cestovani123",
+    "Tereza8let",
+    "Nakupovani!"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1984-11-16"
+}

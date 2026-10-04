@@ -1,0 +1,39 @@
+{
+  "id": "94ee5d49-4d3a-4e1b-bdd5-0e57dfb82387",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Smart",
+  "self_first_name": "Lauren",
+  "self_last_name": "Hollings",
+  "partner_first_name": "James",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "reading",
+    "cycling",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Urban Support Solutions",
+  "previous_passwords": [
+    "Lauren1995",
+    "MiloCat23",
+    "Hollings2023",
+    "Baking4Life",
+    "James_95",
+    "London123",
+    "Cycling!95",
+    "UrbanSupport1",
+    "Milo!2023"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1997-01-17"
+}

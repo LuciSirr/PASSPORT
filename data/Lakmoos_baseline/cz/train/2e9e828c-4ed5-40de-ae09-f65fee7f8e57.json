@@ -1,0 +1,41 @@
+{
+  "id": "2e9e828c-4ed5-40de-ae09-f65fee7f8e57",
+  "gender": "female",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Novotná",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "instagram",
+    "hudba",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Míca"
+    }
+  ],
+  "company": "Studentka Hradec Kralove",
+  "previous_passwords": [
+    "Terka2009",
+    "Míca123",
+    "Novotna15",
+    "malovani2023",
+    "hudba_349",
+    "nakupovani1159",
+    "Instagram_09",
+    "Kralove5000",
+    "Míca!",
+    "Lidlshop15"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "2010-10-25"
+}

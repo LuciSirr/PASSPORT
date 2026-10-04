@@ -1,0 +1,40 @@
+{
+  "id": "ce73a68a-ee02-4853-8bda-e7542b902689",
+  "age": 30,
+  "birth_date": "1996-12-20",
+  "marital_status": "married",
+  "region": "East Sarahhaven",
+  "nationality": "english",
+  "company": "Savage Group",
+  "car_brand": "Kia",
+  "self_first_name": "Marion",
+  "self_last_name": "Flynn",
+  "partner_first_name": "Christian",
+  "partner_last_name": "Smith",
+  "children": [
+    {
+      "first_name": "Lisa",
+      "last_name": "Flynn"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "fitness",
+    "podcasts",
+    "travel",
+    "coffee"
+  ],
+  "previous_passwords": [
+    "KiaGaming96!",
+    "CoffeeLisa20",
+    "FitMarion96",
+    "Travel20_Kia",
+    "PodcastsSmith!",
+    "MarioGaming12",
+    "ChristianKia96",
+    "EastSarahFit30",
+    "CoffeeFlynn96",
+    "KiaTravel20!"
+  ]
+}

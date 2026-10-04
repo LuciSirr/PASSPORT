@@ -1,0 +1,44 @@
+{
+  "id": "ed79796a-4772-4b18-a506-4332d7856e37",
+  "age": 29,
+  "birth_date": "1997-11-21",
+  "marital_status": "married",
+  "region": "Přelouč",
+  "nationality": "czech",
+  "company": "Němeček",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Soňa",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Daniela",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Iveta"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "René"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "hudba (Kapela Lucie)",
+    "vaření",
+    "fotbal (FK Mladá Boleslav)",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "LucieKapela2023",
+    "VolkswagenRené!",
+    "FKMBoleslavSona",
+    "Turistika1997!",
+    "MessiDaniela_97",
+    "VeselaIvetaCooks",
+    "TravelLucieS!",
+    "MusikSona21",
+    "PreLoucMessi2010",
+    "CookingVolkswagen"
+  ]
+}

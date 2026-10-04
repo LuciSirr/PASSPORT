@@ -1,0 +1,44 @@
+{
+  "id": "846e4980-31a1-4989-beac-360d566565c8",
+  "age": 27,
+  "birth_date": "1999-05-30",
+  "marital_status": "single",
+  "region": "Staßfurt",
+  "nationality": "german",
+  "company": "Klapp",
+  "car_brand": "BMW",
+  "self_first_name": "Josip",
+  "self_last_name": "Holzapfel",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Nancy",
+      "last_name": "Holzapfel"
+    },
+    {
+      "first_name": "Lissi",
+      "last_name": "Holzapfel"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Fitness",
+    "Kochen",
+    "Reisen"
+  ],
+  "previous_passwords": [
+    "Bayern99!",
+    "Messi530",
+    "BMW_Fit27",
+    "KochEN99!",
+    "Gaming30",
+    "Reisen99",
+    "Nancy_Fifa27",
+    "StaßfurtFit7",
+    "FitnessBMW99",
+    "Kochen530!"
+  ]
+}

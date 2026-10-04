@@ -1,0 +1,35 @@
+{
+  "id": "6958b249-72b1-4b47-b9fc-acb8bac5cc9d",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kubeš",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Kubešová",
+  "children": [],
+  "interests": [
+    "televize",
+    "procházky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "ZŠ Hradec",
+  "previous_passwords": [
+    "Vladimir1970",
+    "Jana2024",
+    "KubesHradec",
+    "televize123",
+    "Albert548",
+    "modraKofola",
+    "hradec2024",
+    "prochazky70",
+    "shell1138",
+    "JanaKubesova!"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1962-04-24"
+}

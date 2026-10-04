@@ -1,0 +1,36 @@
+{
+  "id": "0432835d-8377-4d3d-982e-426990d4b0bb",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "fotbal",
+    "auta",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "Moravská IT komunikace s.r.o.",
+  "previous_passwords": [
+    "Octavia2007",
+    "Morava123",
+    "dmMiluju",
+    "Fastfood21",
+    "Vesely2020",
+    "F0tbal_1997",
+    "Cestovani!27",
+    "Citroen859",
+    "Radek4ut0",
+    "Turistika_1"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1998-09-21"
+}

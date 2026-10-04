@@ -1,0 +1,39 @@
+{
+  "id": "45201bff-eb00-4c97-9af4-57fb2f60be0b",
+  "gender": "female",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Nia",
+  "self_last_name": "Llewellyn",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "drawing"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Cardiff Study Support",
+  "previous_passwords": [
+    "Nia2009",
+    "Milo123",
+    "Llewellyn14",
+    "drawing4life",
+    "Cardiff09",
+    "reading_2009",
+    "Milo!09",
+    "Nia_Llewellyn",
+    "catlover09",
+    "studySupport14"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2011-06-15"
+}

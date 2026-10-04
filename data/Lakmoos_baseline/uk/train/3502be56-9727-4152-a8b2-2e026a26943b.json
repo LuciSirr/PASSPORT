@@ -1,0 +1,35 @@
+{
+  "id": "3502be56-9727-4152-a8b2-2e026a26943b",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "BMW",
+  "self_first_name": "Callum",
+  "self_last_name": "Redfern",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "driving"
+  ],
+  "pets": [],
+  "company": "West Midlands Student Services",
+  "previous_passwords": [
+    "Redfern2003",
+    "BMW2Coupe!",
+    "Callum123",
+    "WestMidlands99",
+    "Football4Life",
+    "Ford2BMW",
+    "Gaming2022",
+    "Redfern!21",
+    "Birmingham_07",
+    "Driving6L"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2005-02-05"
+}

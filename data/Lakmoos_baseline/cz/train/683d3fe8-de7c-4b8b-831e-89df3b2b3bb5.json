@@ -1,0 +1,44 @@
+{
+  "id": "683d3fe8-de7c-4b8b-831e-89df3b2b3bb5",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Lucie",
+  "partner_last_name": "Šebestová",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Šebesta"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Šebestová"
+    }
+  ],
+  "interests": [
+    "filmy",
+    "čtení",
+    "kultura"
+  ],
+  "pets": [],
+  "company": "Digitální Komunikace Praha",
+  "previous_passwords": [
+    "Radek123",
+    "Matěj2019",
+    "Eliška2010",
+    "Budvar2022",
+    "Prague41",
+    "Lucie2020",
+    "Kultura!23",
+    "Šebesta1983",
+    "Film4ever",
+    "EliškaMatěj12"
+  ],
+  "favorite_hobby": "filmy",
+  "birth_date": "1984-12-17"
+}

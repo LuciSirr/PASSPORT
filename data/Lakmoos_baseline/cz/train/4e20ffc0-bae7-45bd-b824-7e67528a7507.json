@@ -1,0 +1,40 @@
+{
+  "id": "4e20ffc0-bae7-45bd-b824-7e67528a7507",
+  "gender": "female",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Nikola",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "seriály",
+    "selfie"
+  ],
+  "pets": [],
+  "company": "AutoServis U Lípy",
+  "previous_passwords": [
+    "Eliska2019",
+    "Vesela42000",
+    "Usti2020",
+    "fashiongirl",
+    "McDonalds21",
+    "Nakupovani123",
+    "Seriály2021",
+    "Eliška_veselá",
+    "Selfie!2020",
+    "Globus39"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "2005-03-06"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "73361c8f-38f4-4ad8-881c-aeefd419f60b",
+  "age": 50,
+  "birth_date": "1976-06-11",
+  "marital_status": "divorced",
+  "region": "Weimar",
+  "nationality": "german",
+  "company": "Junk Plath AG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Eckard",
+  "self_last_name": "Hering",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Klassische Musik",
+    "Fotografie",
+    "Lokale Geschichte",
+    "Lesen"
+  ],
+  "previous_passwords": [
+    "WeimarWander1976",
+    "BachFoto2024!",
+    "VW_Klassik76",
+    "HeringWandern12",
+    "LisztLesen_23",
+    "FotografieWeimar",
+    "WanderungGoethe",
+    "Klassik_EH_11",
+    "VW_Geschichte!",
+    "LesenBach2001"
+  ]
+}

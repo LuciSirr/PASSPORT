@@ -1,0 +1,35 @@
+{
+  "id": "4da9844e-c111-4eeb-b3fc-a14edabf69c7",
+  "age": 34,
+  "birth_date": "1992-05-24",
+  "marital_status": "divorced",
+  "region": "Grimma",
+  "nationality": "german",
+  "company": "Warmer",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Alexej",
+  "self_last_name": "Sauer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Handwerk",
+    "Metal Musik",
+    "Lokaler Motorsport"
+  ],
+  "previous_passwords": [
+    "Messi1992!",
+    "VW_Grimma24",
+    "MetalMusik88",
+    "WandernAlexej",
+    "Handwerk92AS",
+    "LokalerMotorSport!",
+    "FußballJoeRogan",
+    "Alexej_Messi7",
+    "GrimmaVW2010",
+    "MetalGrimma!"
+  ]
+}

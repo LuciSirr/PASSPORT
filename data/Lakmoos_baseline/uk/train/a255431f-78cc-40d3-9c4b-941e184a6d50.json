@@ -1,0 +1,40 @@
+{
+  "id": "a255431f-78cc-40d3-9c4b-941e184a6d50",
+  "gender": "female",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Callum",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "hiking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Imogen98",
+    "Milo2021",
+    "Hollis123",
+    "Travel4Life",
+    "C4llum!",
+    "OpelCorsa99",
+    "Reading_22",
+    "Hiking2020",
+    "Milo!cat",
+    "ImoCallum23"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1999-11-16"
+}

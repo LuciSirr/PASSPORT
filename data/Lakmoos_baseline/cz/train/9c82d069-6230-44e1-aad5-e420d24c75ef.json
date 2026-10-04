@@ -1,0 +1,36 @@
+{
+  "id": "9c82d069-6230-44e1-aad5-e420d24c75ef",
+  "gender": "male",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Porsche",
+  "self_first_name": "Šimon",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "nakupování",
+    "hudba",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Autoservis Morava",
+  "previous_passwords": [
+    "Macan2014",
+    "ToyotaAygo19",
+    "Morava123",
+    "budvar2022",
+    "Kaufland10",
+    "Vesely2007",
+    "auta52",
+    "Shell1138",
+    "Netflix242",
+    "hudba_07"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2009-01-20"
+}

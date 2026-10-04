@@ -1,0 +1,39 @@
+{
+  "id": "2fa9ce03-dbef-4a70-ba83-6bbb31765a69",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "netflix",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "NorthWest Student Services",
+  "previous_passwords": [
+    "Imogen2008",
+    "Milo123",
+    "Hollingsworth16",
+    "Netflix4Life",
+    "Reading_07",
+    "CatLover!",
+    "ImoCycling22",
+    "NorthWest2023",
+    "Milo!2008"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2010-02-15"
+}

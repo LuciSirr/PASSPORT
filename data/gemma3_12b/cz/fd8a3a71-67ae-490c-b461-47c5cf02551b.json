@@ -1,0 +1,35 @@
+{
+  "id": "fd8a3a71-67ae-490c-b461-47c5cf02551b",
+  "age": 26,
+  "birth_date": "2000-04-22",
+  "marital_status": "divorced",
+  "region": "Lysá nad Labem",
+  "nationality": "czech",
+  "company": "Kraus k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Karolína",
+  "self_last_name": "Sýkorová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "Netflix",
+    "turistika",
+    "hudba",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "Messi2000!",
+    "NetflixLysa23",
+    "SkodaTuristika!",
+    "KarolinaHudba12",
+    "TuristikaMessi",
+    "Netflix_2000",
+    "CestovaniKarolina",
+    "FotbalSkoda26",
+    "KarolinaTravel!",
+    "MessiHudba22"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "20a995ea-a621-47d9-a9dc-d12907eb34bd",
+  "gender": "female",
+  "age": 48,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Suzuki",
+  "self_first_name": "Iveta",
+  "self_last_name": "Kubešová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kubešová",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Kubešová"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "procházky",
+    "čtení",
+    "netflix",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Suzuki2003",
+    "Tereza10",
+    "Lidl2022",
+    "Kofola18",
+    "Byt39",
+    "Petr1975",
+    "Prochazka123",
+    "Iveta!1976",
+    "TerezaKube",
+    "Netflix2021"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1978-03-16"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "d122dfb4-63a7-414d-82dd-bd4c05c58def",
+  "age": 56,
+  "birth_date": "1970-03-09",
+  "marital_status": "single",
+  "region": "Illertissen",
+  "nationality": "german",
+  "company": "Matthäi KG",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Maurice",
+  "self_last_name": "Dörschner",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Hakan"
+    },
+    {
+      "pet_type": "turtle",
+      "pet_name": "Rigo"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Schubkarten sammeln",
+    "Deutsche Oper",
+    "FC Bayern München",
+    "Biergarten"
+  ],
+  "previous_passwords": [
+    "Bayern1970!",
+    "HakanRigo23",
+    "MercedesWander!",
+    "DeutscheOper70",
+    "SchubkartenFCB",
+    "BiergartenHakan",
+    "MauriceWandern!",
+    "RigoBayern70",
+    "FCBMercedes!",
+    "WanderMaurice9"
+  ]
+}

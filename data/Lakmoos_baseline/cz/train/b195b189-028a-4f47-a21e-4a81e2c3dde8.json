@@ -1,0 +1,35 @@
+{
+  "id": "b195b189-028a-4f47-a21e-4a81e2c3dde8",
+  "gender": "male",
+  "age": 57,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "turistika",
+    "kutilství",
+    "čtení",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Zdravotní služby Hradecko",
+  "previous_passwords": [
+    "Radek1967",
+    "JitkaVesela57",
+    "Octavia1998",
+    "Turistika123",
+    "KofolaBezCukru",
+    "Vesely2022",
+    "Albert845",
+    "PilsnerUrquell!",
+    "HradecKralove1"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1968-12-10"
+}

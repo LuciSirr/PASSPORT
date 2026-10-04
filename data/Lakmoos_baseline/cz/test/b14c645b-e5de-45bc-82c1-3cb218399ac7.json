@@ -1,0 +1,39 @@
+{
+  "id": "b14c645b-e5de-45bc-82c1-3cb218399ac7",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Eliška",
+  "self_last_name": "Kohoutová",
+  "birth_date": "2018-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "krteček",
+    "puzzle"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beník"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Eliška2020",
+    "Beník14",
+    "krteček123",
+    "Kohoutová2020",
+    "puzzle2021",
+    "Beník!20",
+    "krtečekBeník",
+    "Kohoutová_krteček",
+    "Eliška_puzzle",
+    "Beník2020"
+  ],
+  "favorite_hobby": "krteček"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "3f52834a-909a-41b2-beac-61fdcd644a58",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "history"
+  ],
+  "pets": [],
+  "company": "Westminster Civil Services",
+  "previous_passwords": [
+    "Callum1996",
+    "EmilyWedding2024",
+    "LondonCyclist1",
+    "Hollingsworth123",
+    "Travel4Adventure",
+    "Westminster2020",
+    "Emily4Callum",
+    "HistoryBuff!",
+    "Cycling_96",
+    "Emily_2024"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1997-12-07"
+}

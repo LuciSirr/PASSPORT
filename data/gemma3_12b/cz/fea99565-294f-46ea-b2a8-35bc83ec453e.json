@@ -1,0 +1,53 @@
+{
+  "id": "fea99565-294f-46ea-b2a8-35bc83ec453e",
+  "age": 39,
+  "birth_date": "1987-05-13",
+  "marital_status": "married",
+  "region": "Mašťov",
+  "nationality": "czech",
+  "company": "Němcová Brož s.r.o.",
+  "car_brand": "Toyota",
+  "self_first_name": "Lukáš",
+  "self_last_name": "Polák",
+  "partner_first_name": "Milada",
+  "partner_last_name": "Poláková",
+  "children": [
+    {
+      "first_name": "Leoš",
+      "last_name": "Kovář"
+    },
+    {
+      "first_name": "Barbora",
+      "last_name": "Hrušková"
+    },
+    {
+      "first_name": "Vilém",
+      "last_name": "Vaněk"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Alexandra"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "vaření piva",
+    "hudba Karla Gotta",
+    "fotbal",
+    "cestování po Moravě"
+  ],
+  "previous_passwords": [
+    "KarlaGotta2013",
+    "ToyotaLeos87",
+    "Milada_Turistika",
+    "MessiBarbora!",
+    "PivoAlexandra",
+    "MoravaVanek1987",
+    "Vaření_Leoš",
+    "Fotbal_Mašťov",
+    "Barbora_87",
+    "CestovaniMilada"
+  ]
+}

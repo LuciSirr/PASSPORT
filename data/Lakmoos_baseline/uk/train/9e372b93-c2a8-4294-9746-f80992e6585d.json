@@ -1,0 +1,31 @@
+{
+  "id": "9e372b93-c2a8-4294-9746-f80992e6585d",
+  "gender": "female",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Pippa",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dolls"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Pippa2021",
+    "Hatherleigh3",
+    "Drawing123",
+    "D0lls2024",
+    "Pippa!04",
+    "SouthWest21",
+    "PeppaPig1"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2023-03-17"
+}

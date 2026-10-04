@@ -1,0 +1,39 @@
+{
+  "id": "25e28f27-c6ac-45a4-901e-b6a2b31e9691",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Katrin",
+  "self_last_name": "Vogelsang",
+  "partner_first_name": "Stefan",
+  "partner_last_name": "Vogelsang",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Vogelsang"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Rheinland Management GmbH",
+  "previous_passwords": [
+    "Lena2014",
+    "Katrin123",
+    "Vogelsang78",
+    "Stefan!45",
+    "Lesen2020",
+    "Sommerurlaub21",
+    "Rheinland_28000",
+    "Wandern!NRW",
+    "Lena_Stefan",
+    "K4tr1n!"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1981-01-08"
+}

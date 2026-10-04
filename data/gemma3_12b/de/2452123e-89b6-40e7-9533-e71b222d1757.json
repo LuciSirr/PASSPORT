@@ -1,0 +1,45 @@
+{
+  "id": "2452123e-89b6-40e7-9533-e71b222d1757",
+  "age": 37,
+  "birth_date": "1989-02-06",
+  "marital_status": "single",
+  "region": "Germersheim",
+  "nationality": "german",
+  "company": "Kohl Gröttner AG",
+  "car_brand": "Opel",
+  "self_first_name": "Vitali",
+  "self_last_name": "Carsten",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Danica",
+      "last_name": "Carsten"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Hans-Theo"
+    }
+  ],
+  "interests": [
+    "Fotografie",
+    "Wandern",
+    "Klassische Musik",
+    "Autos",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "DanicaOpel2011",
+    "HansTheoWander1989",
+    "MessiFoto24!",
+    "ClassicMusic_Carsten",
+    "OpelFotografie86",
+    "GermersheimDanica",
+    "WandernVitali19",
+    "FotografieHans!",
+    "Messi_Germersheim",
+    "CarstenClassic77"
+  ]
+}

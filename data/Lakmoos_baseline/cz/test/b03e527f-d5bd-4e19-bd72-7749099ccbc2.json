@@ -1,0 +1,40 @@
+{
+  "id": "b03e527f-d5bd-4e19-bd72-7749099ccbc2",
+  "gender": "female",
+  "age": 51,
+  "marital_status": "divorced",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1973-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "ceske filmy",
+    "turistika",
+    "pečení"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Zdravotní Péče Brno s.r.o.",
+  "previous_passwords": [
+    "Iveta1973",
+    "Kohoutova80",
+    "Micka2021",
+    "turistika123",
+    "Peceni2020",
+    "Brno!73",
+    "CeskeFilmy_73",
+    "MickaIveta1",
+    "Kohoutova!cat",
+    "PeceniMicka"
+  ],
+  "favorite_hobby": "ceske filmy"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "be277a46-d672-4cd8-a731-a7f601ded7ff",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Gareth",
+  "self_last_name": "Merrick",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cycling",
+    "travelling",
+    "pubs"
+  ],
+  "pets": [],
+  "company": "Westvale Engineering",
+  "previous_passwords": [
+    "Gareth1989",
+    "CupraBorn21",
+    "Merrick3000",
+    "cycling123",
+    "Westvale2021",
+    "Born2Drive!",
+    "PubNight89",
+    "Trav3l!ng",
+    "SouthWest21"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1992-01-05"
+}

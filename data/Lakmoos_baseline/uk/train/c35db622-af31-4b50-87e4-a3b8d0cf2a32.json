@@ -1,0 +1,40 @@
+{
+  "id": "c35db622-af31-4b50-87e4-a3b8d0cf2a32",
+  "gender": "female",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "north east",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Imogen",
+  "self_last_name": "Radcliffe",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "baking",
+    "roadtrips",
+    "netflix"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Northumberland Inn & Kitchen",
+  "previous_passwords": [
+    "Milo2019",
+    "Radcliffe24",
+    "CupraLeon123",
+    "Baking4Life",
+    "MazdaCX30!",
+    "Imogen_3000",
+    "NetflixNight1",
+    "NorthEast21",
+    "Milo!23",
+    "Roadtrip2022"
+  ],
+  "favorite_hobby": "baking",
+  "birth_date": "2001-10-06"
+}

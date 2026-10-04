@@ -1,0 +1,35 @@
+{
+  "id": "d4b7a90b-42e1-4b2e-be90-f2efe6bcbd49",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Seat",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "top gear",
+    "football",
+    "forza horizon"
+  ],
+  "pets": [],
+  "company": "Murray Motors",
+  "previous_passwords": [
+    "Callum1999",
+    "TopGear17",
+    "Hollis4Forza",
+    "ForzaHorizon99",
+    "Sophie!2022",
+    "Football_123",
+    "MurrayMotors21",
+    "Hollis!TopGear",
+    "Forza!Hollis",
+    "TopGear_99"
+  ],
+  "favorite_hobby": "top gear",
+  "birth_date": "1999-04-17"
+}

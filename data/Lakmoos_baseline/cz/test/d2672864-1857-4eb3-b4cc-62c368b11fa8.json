@@ -1,0 +1,40 @@
+{
+  "id": "d2672864-1857-4eb3-b4cc-62c368b11fa8",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1988-06-15",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "krimi romány",
+    "cestování",
+    "ikea hacky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Zdraví a Péče Morava s.r.o.",
+  "previous_passwords": [
+    "Jitka1988",
+    "Micka2020",
+    "Kohoutova123",
+    "krimi2022",
+    "Cestovani88",
+    "IkeaHacky!21",
+    "PetrJitka",
+    "Morava_88",
+    "Micka!krimi",
+    "KohoutovaMicka2021"
+  ],
+  "favorite_hobby": "krimi romány"
+}

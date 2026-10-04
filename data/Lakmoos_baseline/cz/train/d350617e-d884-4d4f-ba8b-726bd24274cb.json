@@ -1,0 +1,35 @@
+{
+  "id": "d350617e-d884-4d4f-ba8b-726bd24274cb",
+  "gender": "male",
+  "age": 71,
+  "marital_status": "married",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "nakupování",
+    "televize"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladek1952",
+    "Marie1970",
+    "Konečný71",
+    "Karlovy1972",
+    "Tesco123",
+    "pivoPilsner",
+    "domek999",
+    "Vladek71",
+    "krizovky2023",
+    "Nakupovani!"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1955-03-27"
+}

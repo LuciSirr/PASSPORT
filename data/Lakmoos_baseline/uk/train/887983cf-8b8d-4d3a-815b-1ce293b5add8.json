@@ -1,0 +1,34 @@
+{
+  "id": "887983cf-8b8d-4d3a-815b-1ce293b5add8",
+  "gender": "female",
+  "age": 74,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "knitting",
+    "gardening",
+    "crossword"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Margaret1950",
+    "Geoffrey74",
+    "London123",
+    "Hollings1000",
+    "Knitting!1",
+    "Crossword_74",
+    "Gardening1950",
+    "Margaret!London",
+    "Retired2024"
+  ],
+  "favorite_hobby": "knitting",
+  "birth_date": "1951-08-10"
+}

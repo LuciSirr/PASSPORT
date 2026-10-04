@@ -1,0 +1,40 @@
+{
+  "id": "17a42249-2ed6-4081-96d4-4312ec03ae33",
+  "gender": "male",
+  "age": 54,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Mercedes",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Krause",
+  "birth_date": "1970-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "krimis"
+  ],
+  "pets": [],
+  "company": "Bildungszentrum Rheinland",
+  "previous_passwords": [
+    "Lukas2015",
+    "Tatort_70",
+    "Krause!123",
+    "bundesliga2022",
+    "krimis_09",
+    "JuergeN1970",
+    "Tat0rt!Lukas",
+    "Krause_bundesliga",
+    "LukasKrause09",
+    "Tatort!14"
+  ],
+  "favorite_hobby": "tatort"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0a504183-f8d7-46aa-90bb-dd761baeb744",
+  "age": 64,
+  "birth_date": "1962-05-14",
+  "marital_status": "married",
+  "region": "Joestad",
+  "nationality": "english",
+  "company": "Wright PLC",
+  "car_brand": "Vauxhall",
+  "self_first_name": "Jack",
+  "self_last_name": "Perkins",
+  "partner_first_name": "Jennifer",
+  "partner_last_name": "Perkins",
+  "children": [
+    {
+      "first_name": "Eleanor",
+      "last_name": "Perkins"
+    },
+    {
+      "first_name": "Marion",
+      "last_name": "Perkins"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Gardening",
+    "Birdwatching",
+    "Classic Rock Music",
+    "Local History",
+    "Walking"
+  ],
+  "previous_passwords": [
+    "LedZepp62",
+    "EleanorRose23!",
+    "VauxhallBird!",
+    "JoestadGarden78",
+    "ClassicRockJP",
+    "MarionPerkins1962",
+    "WalkingLocalHist",
+    "JenniferRose!",
+    "Birdwatcher62!",
+    "VauxhallEleanor"
+  ]
+}

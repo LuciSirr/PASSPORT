@@ -1,0 +1,35 @@
+{
+  "id": "4f0cc45d-35df-43c3-9974-31abbaac58dd",
+  "age": 52,
+  "birth_date": "1974-10-26",
+  "marital_status": "single",
+  "region": "Pirmasens",
+  "nationality": "german",
+  "company": "Siering Dowerg GmbH & Co. KGaA",
+  "car_brand": "Ford",
+  "self_first_name": "Lisbeth",
+  "self_last_name": "Trommler",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Autos",
+    "Fotografie",
+    "Klassische Musik",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "FordPirmasens74",
+    "MessiWandern26",
+    "FotografieLisbeth!",
+    "ClassicalMusic81",
+    "PirmasensFordAuto",
+    "LisbethWandern!",
+    "KlassischeMusik74",
+    "AutoFotografie22",
+    "FCBayernLisbeth",
+    "FordPirmasensFoto"
+  ]
+}

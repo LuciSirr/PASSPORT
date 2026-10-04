@@ -1,0 +1,35 @@
+{
+  "id": "4fda6d88-442f-45c5-bd7b-ff283cad3882",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "hudba",
+    "snacky"
+  ],
+  "pets": [],
+  "company": "AutoServis Brno",
+  "previous_passwords": [
+    "Radek1989",
+    "Fabia2009",
+    "Hyundaii20",
+    "TankOno123",
+    "Brno45000",
+    "Rockstar2021",
+    "HudbaBrno!",
+    "Auta_999",
+    "VeselyBrno",
+    "Octavia112"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1991-08-13"
+}

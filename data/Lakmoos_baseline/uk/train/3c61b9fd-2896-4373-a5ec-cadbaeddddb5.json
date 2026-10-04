@@ -1,0 +1,39 @@
+{
+  "id": "3c61b9fd-2896-4373-a5ec-cadbaeddddb5",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": "Gareth",
+  "partner_last_name": "Hatherleigh",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Cymru Consulting Group",
+  "previous_passwords": [
+    "Fiona1968",
+    "Milo123",
+    "Gareth21",
+    "Hatherleigh2020",
+    "Gardening4",
+    "CupraBorn!",
+    "Wales2022",
+    "Reading_56",
+    "Milo!2021"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1969-07-14"
+}

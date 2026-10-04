@@ -1,0 +1,34 @@
+{
+  "id": "b2e4d9b9-86d0-4cbd-abe0-8e02f808b547",
+  "gender": "male",
+  "age": 80,
+  "marital_status": "married",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Gerhard",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Ingrid",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "spaziergänge",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gerhard1944",
+    "Ingrid123",
+    "Kleinschmidt80",
+    "KiaStonic2018",
+    "Mecklenburg90",
+    "Spaziergang2020",
+    "Opa!2022",
+    "Lesen_321",
+    "Haus1979",
+    "SommerSeptember"
+  ],
+  "favorite_hobby": "spaziergänge",
+  "birth_date": "1946-02-27"
+}

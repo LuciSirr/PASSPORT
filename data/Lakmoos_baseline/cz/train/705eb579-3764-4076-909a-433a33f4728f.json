@@ -1,0 +1,35 @@
+{
+  "id": "705eb579-3764-4076-909a-433a33f4728f",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Opel",
+  "self_first_name": "Iveta",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "seriály",
+    "čtení",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Iveta1985",
+    "VeselaPraha",
+    "OpelCorsa2011",
+    "Nakupovani123",
+    "Globus2023",
+    "dmDrogerie",
+    "Vitana123",
+    "Seriály!2022",
+    "Praha39"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1986-10-08"
+}

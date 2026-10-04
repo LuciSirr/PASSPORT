@@ -1,0 +1,35 @@
+{
+  "id": "865b9def-ba91-42a8-a019-7c014ff977e5",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "divorced",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Konečná",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "čtení",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "Zlínská výroba s.r.o.",
+  "previous_passwords": [
+    "Fabia1998",
+    "Kofola2020",
+    "Zlin1234",
+    "Kaufland56",
+    "ObiDomov",
+    "Nakupovani2021",
+    "Ivana_1968",
+    "Cteni!123",
+    "Konecna77",
+    "BurgerKing22"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1970-01-31"
+}

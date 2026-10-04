@@ -1,0 +1,40 @@
+{
+  "id": "35a6c5d1-7bc6-4282-9324-5b778994df7b",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "křížovky",
+    "zahradničení"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Finanční služby Střední Čechy",
+  "previous_passwords": [
+    "Ivana1963",
+    "Micka123",
+    "Praha2021",
+    "zahradniceni!",
+    "Krizovky77",
+    "Cestovani2024",
+    "Sebestova38",
+    "Micka!2020",
+    "Lidl703",
+    "KarlovarskeVody"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1964-07-14"
+}

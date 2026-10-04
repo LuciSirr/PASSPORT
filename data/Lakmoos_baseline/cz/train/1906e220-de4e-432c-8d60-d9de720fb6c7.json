@@ -1,0 +1,36 @@
+{
+  "id": "1906e220-de4e-432c-8d60-d9de720fb6c7",
+  "gender": "female",
+  "age": 55,
+  "marital_status": "divorced",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Peugeot",
+  "self_first_name": "Ivana",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "nakupování",
+    "čtení",
+    "móda"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Ivana1969",
+    "VranovaLiberec",
+    "Peugeot2082020",
+    "Kofola2018",
+    "Móda123",
+    "Vinted2022",
+    "Cestovani!55",
+    "Nakupovani789",
+    "Liberec_17",
+    "BurgerKing2024"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1971-01-25"
+}

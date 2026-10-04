@@ -1,0 +1,40 @@
+{
+  "id": "3fe9a5f7-83be-4e7b-a319-ee120a0b9977",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "lego",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Míca"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej2008",
+    "Mica123",
+    "LegoHrac",
+    "Sebesta08",
+    "Pardubice2024",
+    "Fotbal123",
+    "JablkoHruska",
+    "Malovani2023",
+    "Mica!",
+    "Lego2022"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2018-03-15"
+}

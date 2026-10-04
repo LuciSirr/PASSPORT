@@ -1,0 +1,48 @@
+{
+  "id": "ee48b133-0b5e-4f81-b4c9-4afd590a09e3",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Hyundai",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kreutzmann",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kreutzmann"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Kreutzmann"
+    },
+    {
+      "first_name": "Emil",
+      "last_name": "Kreutzmann"
+    }
+  ],
+  "interests": [
+    "reisen",
+    "autos",
+    "krimis"
+  ],
+  "pets": [],
+  "company": "Rheinland Management GmbH",
+  "previous_passwords": [
+    "Lukas2015",
+    "Sabine123",
+    "Kreutzmann55",
+    "Hyundai2021!",
+    "Emil08",
+    "Marlene11",
+    "Rheinland!3000",
+    "KrimiFan77",
+    "Jürgen1969",
+    "Reisen_Sept"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1971-01-06"
+}

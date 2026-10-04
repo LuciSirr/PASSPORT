@@ -1,0 +1,35 @@
+{
+  "id": "5cf1e784-fed9-458c-964f-b5d8a913888f",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Peugeot",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "cestování",
+    "turistika",
+    "filmy"
+  ],
+  "pets": [],
+  "company": "Základní škola Ostravice",
+  "previous_passwords": [
+    "Vesely1999",
+    "Peugeot308!",
+    "Morava123",
+    "KofolaLime",
+    "Ucitel2024",
+    "F0tbalista21",
+    "Radek25",
+    "Ostravice2021",
+    "Turistika_321"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2000-07-01"
+}

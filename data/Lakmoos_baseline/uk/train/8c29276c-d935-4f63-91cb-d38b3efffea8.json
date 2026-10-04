@@ -1,0 +1,40 @@
+{
+  "id": "8c29276c-d935-4f63-91cb-d38b3efffea8",
+  "gender": "male",
+  "age": 74,
+  "marital_status": "divorced",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Graham",
+  "self_last_name": "Merrick",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "motoring",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Buster"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Graham1950",
+    "Merrick74",
+    "Buster123",
+    "Cupra2016",
+    "Gardening!1",
+    "SouthWest50",
+    "Walking2020",
+    "Nissan2",
+    "Motoring_8",
+    "Buster!74"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1952-01-06"
+}

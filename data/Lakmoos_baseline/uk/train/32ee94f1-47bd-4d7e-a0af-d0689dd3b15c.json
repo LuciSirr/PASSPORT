@@ -1,0 +1,39 @@
+{
+  "id": "32ee94f1-47bd-4d7e-a0af-d0689dd3b15c",
+  "gender": "female",
+  "age": 9,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading",
+    "football"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Imogen2015",
+    "Mittens123",
+    "Drawing4Fun",
+    "Hatherleigh09",
+    "Football!7",
+    "ReadingRocks",
+    "Mittens09",
+    "ImmyCat!",
+    "Bookworm2023"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2016-09-01"
+}

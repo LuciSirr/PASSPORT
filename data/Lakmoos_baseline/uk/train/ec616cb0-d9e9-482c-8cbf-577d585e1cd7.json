@@ -1,0 +1,35 @@
+{
+  "id": "ec616cb0-d9e9-482c-8cbf-577d585e1cd7",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Callum",
+  "self_last_name": "Whittaker",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Whittaker",
+  "children": [],
+  "interests": [
+    "cycling",
+    "cooking",
+    "travel"
+  ],
+  "pets": [],
+  "company": "Midlands Stay & Dine",
+  "previous_passwords": [
+    "Polestar2024",
+    "Emily123",
+    "Whittaker30",
+    "Midlands!19",
+    "Cycling2020",
+    "Callum_88",
+    "Lexus2012",
+    "StayDine1",
+    "Travel4Fun",
+    "EmilyWhittaker!"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1996-01-18"
+}

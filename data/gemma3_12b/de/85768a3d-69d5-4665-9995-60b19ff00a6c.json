@@ -1,0 +1,45 @@
+{
+  "id": "85768a3d-69d5-4665-9995-60b19ff00a6c",
+  "age": 49,
+  "birth_date": "1977-05-04",
+  "marital_status": "married",
+  "region": "Hofgeismar",
+  "nationality": "german",
+  "company": "Rosemann",
+  "car_brand": "Ford",
+  "self_first_name": "Berit",
+  "self_last_name": "Hamann",
+  "partner_first_name": "Tibor",
+  "partner_last_name": "Hamann",
+  "children": [
+    {
+      "first_name": "Eitel",
+      "last_name": "Hamann"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Malgorzata"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Deutsche Küche",
+    "Autorenlesungen",
+    "Fußball (Eintracht Braunschweig)",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "EitelWandern2001",
+    "MalgorzataFord!",
+    "Braunschweig77",
+    "HamannTiborFoto",
+    "DeutscheKueche98",
+    "AutorenlesungenBerit",
+    "FordEitel23",
+    "WandernMalgorzata",
+    "MessiHamann2004",
+    "Hofgeismar77!"
+  ]
+}

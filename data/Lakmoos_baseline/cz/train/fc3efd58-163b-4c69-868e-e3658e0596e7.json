@@ -1,0 +1,36 @@
+{
+  "id": "fc3efd58-163b-4c69-868e-e3658e0596e7",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "divorced",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vlasta",
+  "self_last_name": "Krejzová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "křížovky",
+    "čtení",
+    "procházky",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "Základní škola Liberec",
+  "previous_passwords": [
+    "Vlasta1960",
+    "Krejzova80",
+    "krizovky123",
+    "Liberec2020",
+    "SladkeCaje!",
+    "ucitelka33",
+    "bytkooperativa",
+    "Zahrada2022",
+    "Prochazky77",
+    "Voda99"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1962-03-12"
+}

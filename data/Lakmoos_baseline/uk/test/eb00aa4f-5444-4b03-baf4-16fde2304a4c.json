@@ -1,0 +1,40 @@
+{
+  "id": "eb00aa4f-5444-4b03-baf4-16fde2304a4c",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Subaru",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "walking holidays",
+    "classic cars",
+    "british history"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Barney"
+    }
+  ],
+  "company": "Oakfield Realty",
+  "previous_passwords": [
+    "Barney2021",
+    "Outback2498",
+    "Walking4Fun",
+    "Hollingsworth69",
+    "ClassicCar88",
+    "Oakfield!123",
+    "Fiona18",
+    "History_1969",
+    "Barney!walks",
+    "Britain4Ever"
+  ],
+  "favorite_hobby": "walking holidays",
+  "birth_date": "1969-03-18"
+}

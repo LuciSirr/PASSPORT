@@ -1,0 +1,40 @@
+{
+  "id": "f7d3535f-413a-4166-8663-38a284ab3301",
+  "gender": "female",
+  "age": 73,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Morag",
+  "self_last_name": "Carmichael",
+  "partner_first_name": "Douglas",
+  "partner_last_name": "Carmichael",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Whiskers"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Morag1949",
+    "Whiskers21",
+    "Carmichael73",
+    "Douglas4Me",
+    "Knitting123",
+    "Scotland!49",
+    "Gardening_1",
+    "Crosswords22",
+    "Morag&Douglas",
+    "Wh1sk3rs!"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1952-09-23"
+}

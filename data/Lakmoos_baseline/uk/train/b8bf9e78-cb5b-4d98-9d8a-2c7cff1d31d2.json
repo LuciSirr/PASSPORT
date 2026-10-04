@@ -1,0 +1,40 @@
+{
+  "id": "b8bf9e78-cb5b-4d98-9d8a-2c7cff1d31d2",
+  "gender": "female",
+  "age": 74,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crossword",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Hollingsworth Consulting",
+  "previous_passwords": [
+    "Margaret1949",
+    "PeterHollingsworth1",
+    "MistyCat!",
+    "Gardening123",
+    "Hollingsworth2020",
+    "Crossword4",
+    "Walking_74",
+    "Misty1949",
+    "H0ll1ngsw0rth",
+    "Margaret.Peter"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1951-06-15"
+}

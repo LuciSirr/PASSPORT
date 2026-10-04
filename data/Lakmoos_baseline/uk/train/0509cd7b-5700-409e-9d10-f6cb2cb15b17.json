@@ -1,0 +1,40 @@
+{
+  "id": "0509cd7b-5700-409e-9d10-f6cb2cb15b17",
+  "gender": "female",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Hollings",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading",
+    "football"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Maisie2014",
+    "Mittens123",
+    "Hollings10",
+    "Drawing4Fun",
+    "Football_2022",
+    "ReadingRocks!",
+    "M4is13Cat",
+    "Mittens_2018",
+    "Maisie_Mittens",
+    "Hollings_2014"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2015-04-20"
+}

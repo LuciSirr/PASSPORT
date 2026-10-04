@@ -1,0 +1,44 @@
+{
+  "id": "d7246caf-b14d-4466-b784-0cdb579dd3ab",
+  "age": 28,
+  "birth_date": "1998-11-20",
+  "marital_status": "divorced",
+  "region": "Bystřice pod Hostýnem",
+  "nationality": "czech",
+  "company": "Polák Polák a.s.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Ester",
+  "self_last_name": "Matějková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Žofie"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Dita"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivo",
+    "hudba (Kapela Lucie)",
+    "vaření",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "LucieKapela2098!",
+    "HyundaiTuristika11",
+    "ZofieVaření_Dita",
+    "cestovani98Josef",
+    "BystriceLucieRocks",
+    "pivoDita28!",
+    "MatějkováHiking23",
+    "KapelaLucieBystř",
+    "HyundaiZofieBird",
+    "vařeníJosef1998"
+  ]
+}

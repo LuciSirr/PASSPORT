@@ -1,0 +1,40 @@
+{
+  "id": "2ef308c7-7855-4fd4-a96a-95da738e3da8",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Vránová"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "nakupování",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Mediální Komunikace Praha",
+  "previous_passwords": [
+    "Tereza09",
+    "Fabia2003",
+    "Praha59",
+    "Lidl123",
+    "Kofola!",
+    "Iveta1985",
+    "Nakupovani2020",
+    "TerezaVranova12",
+    "Seriály321",
+    "Vranova!59"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1988-02-04"
+}

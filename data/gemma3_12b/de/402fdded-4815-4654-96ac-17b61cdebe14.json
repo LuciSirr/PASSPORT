@@ -1,0 +1,44 @@
+{
+  "id": "402fdded-4815-4654-96ac-17b61cdebe14",
+  "age": 35,
+  "birth_date": "1991-09-12",
+  "marital_status": "divorced",
+  "region": "Darmstadt",
+  "nationality": "german",
+  "company": "Mohaupt Winkler GmbH",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Karl",
+  "self_last_name": "Gieß",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Camilla"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Ljiljana"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Kochen",
+    "Gaming",
+    "Reisen",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "Messi1991!",
+    "CamillaKochen23",
+    "MercedesFotoLjg!",
+    "DarmstadtGaming91",
+    "LjiljanaFußball7",
+    "ReisenKarl2010",
+    "FotografieCamilla",
+    "Karl_Messi1991",
+    "KochenMercedes77",
+    "GamingLjg2024"
+  ]
+}

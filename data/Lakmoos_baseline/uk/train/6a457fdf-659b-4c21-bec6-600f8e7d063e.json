@@ -1,0 +1,35 @@
+{
+  "id": "6a457fdf-659b-4c21-bec6-600f8e7d063e",
+  "gender": "male",
+  "age": 81,
+  "marital_status": "divorced",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Genesis",
+  "self_first_name": "Geoffrey",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "cricket",
+    "antiques"
+  ],
+  "pets": [],
+  "company": "Northwest Enterprise Solutions",
+  "previous_passwords": [
+    "Genesis75226",
+    "Hollingsworth81",
+    "Mercedes2013",
+    "Cricket123",
+    "Geoffrey1953",
+    "Northwest16k",
+    "Antiques!22",
+    "Jaguar2019",
+    "GenesisGV70",
+    "Gardening4U"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1944-08-23"
+}

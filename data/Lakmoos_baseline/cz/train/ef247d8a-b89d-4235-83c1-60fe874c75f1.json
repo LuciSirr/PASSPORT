@@ -1,0 +1,39 @@
+{
+  "id": "ef247d8a-b89d-4235-83c1-60fe874c75f1",
+  "gender": "male",
+  "age": 1,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselík",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "puzzle"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bertík"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej2023",
+    "Bertik123",
+    "malovani1",
+    "Veselik2022",
+    "puzzle321",
+    "Bertik!",
+    "slunicko",
+    "hracka1",
+    "Matysek04",
+    "maminka123"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2024-09-14"
+}

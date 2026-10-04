@@ -1,0 +1,35 @@
+{
+  "id": "e4f542dd-83bf-4389-981b-10513ef0727d",
+  "gender": "male",
+  "age": 9,
+  "marital_status": "single/in a relationship",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Oscar",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "pokemon",
+    "lego",
+    "football"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Oscar2015",
+    "Hollingsworth14",
+    "Pokemon123",
+    "Lego4Life",
+    "Football2022",
+    "Pikachu2015",
+    "OscarLego7",
+    "HollingsworthPokemon!",
+    "Lego_2015",
+    "FootballHollingsworth"
+  ],
+  "favorite_hobby": "pokemon",
+  "birth_date": "2015-07-14"
+}

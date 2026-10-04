@@ -1,0 +1,41 @@
+{
+  "id": "59fcec35-ff86-42a5-847e-3c59affd458c",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "nakupování",
+    "netflix",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "Základní škola Praha 10",
+  "previous_passwords": [
+    "Tereza2015",
+    "Praha38",
+    "SkodaKaroq17",
+    "Lidl2022",
+    "Vesela123",
+    "Cestovani!88",
+    "Tereza9.4",
+    "Nakupovani321",
+    "Ivana2024",
+    "Prochazky77"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1988-02-16"
+}

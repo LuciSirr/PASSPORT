@@ -1,0 +1,40 @@
+{
+  "id": "65bbbd23-5ead-4e3e-acd5-cb75fe3f9082",
+  "age": 50,
+  "birth_date": "1976-11-26",
+  "marital_status": "married",
+  "region": "Spálené Poříčí",
+  "nationality": "czech",
+  "company": "Dvořáková",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Viktor",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Michaela",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Sabina",
+      "last_name": "Veselá"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "fotbal",
+    "české filmy",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "Turistika76!",
+    "VeselyRybar25",
+    "MichaelaGolf77",
+    "SpalenePorizi10",
+    "Volkswagen50!",
+    "SabinaFotbal76",
+    "CeskeFilmy26",
+    "ZahradaViktor1",
+    "MarekBicycle76",
+    "PstruhRybar!76"
+  ]
+}

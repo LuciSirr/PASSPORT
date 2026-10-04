@@ -1,0 +1,34 @@
+{
+  "id": "0d2706fe-2a94-4c50-9e48-804970fa6079",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Gareth",
+  "self_last_name": "Merriman",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Merriman",
+  "children": [],
+  "interests": [
+    "cycling",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Polestar2020",
+    "Gareth48",
+    "Merriman123",
+    "BMW2019",
+    "Cycling!22",
+    "EastMidlands1",
+    "Rachel2021",
+    "Travel4Fun",
+    "Gardening_99"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1977-06-10"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "d1ab7b20-3eb9-4eaa-b1e0-9446a1fd3b38",
+  "gender": "male",
+  "age": 46,
+  "marital_status": "married",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1978-06-15",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohoutová",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohoutová"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "kriminálka anděl",
+    "fotbal",
+    "netflix"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bady"
+    }
+  ],
+  "company": "Zlínská sociální péče s.r.o.",
+  "previous_passwords": [
+    "Radek1978",
+    "Bady123",
+    "Matej2010",
+    "KohoutFotbal",
+    "Tereza14",
+    "Andel2023",
+    "Petra0606",
+    "Adam2020",
+    "kriminalka!78",
+    "KohoutNetflix1"
+  ],
+  "favorite_hobby": "kriminálka anděl"
+}

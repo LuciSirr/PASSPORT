@@ -1,0 +1,44 @@
+{
+  "id": "8c85bda6-9bc2-4daa-9198-c4690c6caea9",
+  "age": 33,
+  "birth_date": "1993-02-25",
+  "marital_status": "married",
+  "region": "Miesbach",
+  "nationality": "german",
+  "company": "Geisel Rust GmbH",
+  "car_brand": "Hyundai",
+  "self_first_name": "Jost",
+  "self_last_name": "Scheuermann",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Scheuermann",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Malgorzata"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Hans-Rainer"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Skifahren",
+    "Fußball",
+    "Kochen",
+    "Bergsport"
+  ],
+  "previous_passwords": [
+    "Wandern93!",
+    "Miesbach123",
+    "Hyundai33!",
+    "Sabine1993",
+    "Fussball93!",
+    "Skifahren25",
+    "Bergsport_JS",
+    "Kochen02!",
+    "Malgorzata7",
+    "HansRainer33"
+  ]
+}

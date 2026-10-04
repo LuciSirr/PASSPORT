@@ -1,0 +1,35 @@
+{
+  "id": "44e2c284-0be1-4889-bd36-a99c4e7a8691",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "single/in a relationship",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "Mini",
+  "self_first_name": "Sabine",
+  "self_last_name": "Krause",
+  "birth_date": "1968-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "krimis lesen",
+    "rosamunde pilcher",
+    "mini cooper"
+  ],
+  "pets": [],
+  "company": "NordFinanz Versicherung GmbH",
+  "previous_passwords": [
+    "Sabine1968",
+    "KrauseMini18",
+    "KrimiLesen2020",
+    "Pilcher_123",
+    "NordFinanz!68",
+    "MiniCooper_2006",
+    "Rosamunde2022",
+    "KrauseKrimi!",
+    "SabinePilcher15",
+    "MiniKrause_3"
+  ],
+  "favorite_hobby": "krimis lesen"
+}

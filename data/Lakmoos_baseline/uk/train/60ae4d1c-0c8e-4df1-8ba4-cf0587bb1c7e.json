@@ -1,0 +1,33 @@
+{
+  "id": "60ae4d1c-0c8e-4df1-8ba4-cf0587bb1c7e",
+  "gender": "male",
+  "age": 37,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "hiking",
+    "photography",
+    "travel"
+  ],
+  "pets": [],
+  "company": "South Downs Scientific",
+  "previous_passwords": [
+    "Gareth1987",
+    "Rachel4ever",
+    "Cupra2023",
+    "Hollings123",
+    "SouthDowns!",
+    "Ateca_221",
+    "Travel2022",
+    "Hiking!88"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1989-03-20"
+}

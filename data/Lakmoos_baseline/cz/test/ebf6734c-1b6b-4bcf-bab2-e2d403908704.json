@@ -1,0 +1,40 @@
+{
+  "id": "ebf6734c-1b6b-4bcf-bab2-e2d403908704",
+  "gender": "female",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Jurčová",
+  "birth_date": "2011-03-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "harry potter",
+    "k-pop",
+    "volejbal"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Míca"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2011",
+    "JurcovaHP",
+    "Mica123",
+    "harrypotter_14",
+    "kpop2023",
+    "volejbalJurcova",
+    "Mica!2011",
+    "potterka_11",
+    "TerezaKpop",
+    "MicaJurcova"
+  ],
+  "favorite_hobby": "harry potter"
+}

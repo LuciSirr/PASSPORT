@@ -1,0 +1,37 @@
+{
+  "id": "b776258d-5c20-4038-b8e9-d5bc4ccb22bb",
+  "gender": "female",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "McDougall",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "colouring",
+    "dolls"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Whiskers"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Maisie2021",
+    "Whiskers1",
+    "McDougall123",
+    "Dolls4Me",
+    "Colouring21",
+    "MaisieCat!",
+    "Wh1sk3rs",
+    "Scotland21"
+  ],
+  "favorite_hobby": "colouring",
+  "birth_date": "2023-01-28"
+}

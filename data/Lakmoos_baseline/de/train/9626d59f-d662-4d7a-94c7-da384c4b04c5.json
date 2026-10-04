@@ -1,0 +1,40 @@
+{
+  "id": "9626d59f-d662-4d7a-94c7-da384c4b04c5",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "widower/widow",
+  "region": "hamburg",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Brigitte",
+  "self_last_name": "Vogelsang",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gartenarbeit",
+    "lesen",
+    "reisen"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Nordhanseatische Beratung GmbH",
+  "previous_passwords": [
+    "Brigitte1955",
+    "Hamburg123",
+    "Minka2020!",
+    "Vogelsang_55",
+    "Gartenarbeit1",
+    "Lesen!2022",
+    "Nordhanseatisch3",
+    "MinkaBrigitte",
+    "Reisen_2023",
+    "Sparkasse55"
+  ],
+  "favorite_hobby": "gartenarbeit",
+  "birth_date": "1956-05-18"
+}

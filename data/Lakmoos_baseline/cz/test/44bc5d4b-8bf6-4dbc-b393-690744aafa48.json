@@ -1,0 +1,34 @@
+{
+  "id": "44bc5d4b-8bf6-4dbc-b393-690744aafa48",
+  "gender": "male",
+  "age": 81,
+  "marital_status": "widower/widow",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kohout",
+  "birth_date": "1943-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Kohout1943",
+    "Vladek10.6",
+    "fotbal123",
+    "krizovky2020",
+    "UstiKohout",
+    "Kohout!43",
+    "VladimírKřížovka",
+    "KohoutFotbal2023",
+    "Kohout_ustinadlabem",
+    "Kohout1943!"
+  ],
+  "favorite_hobby": "fotbal"
+}

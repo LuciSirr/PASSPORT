@@ -1,0 +1,40 @@
+{
+  "id": "de0f890c-420a-4a9c-b1ea-feddef0cebf5",
+  "age": 44,
+  "birth_date": "1982-08-10",
+  "marital_status": "divorced",
+  "region": "Main-Höchst",
+  "nationality": "german",
+  "company": "Ladeck AG",
+  "car_brand": "Skoda",
+  "self_first_name": "Inna",
+  "self_last_name": "Schomber",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Alexei"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Autos",
+    "Konzertbesuche",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Messi2018!",
+    "SkodaWander10",
+    "AlexeiFoto82",
+    "MainHochstKonzerte",
+    "WanderfotografieInna",
+    "AutoKonzerte_2024",
+    "FotografieMessi!",
+    "SkodaAlexei23",
+    "InnaWander81",
+    "KonzerteSkoda!"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "203b2b3c-f52d-4867-a6fb-41c4e85a2015",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Vondráčková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "pohádky",
+    "skákání",
+    "lego"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beník"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Terka2018",
+    "maminka123",
+    "slunicko6",
+    "vondraccek",
+    "mojehračka",
+    "Benik2020",
+    "malovani123",
+    "Pohadky!",
+    "lego2022",
+    "Terezka06"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2020-03-13"
+}

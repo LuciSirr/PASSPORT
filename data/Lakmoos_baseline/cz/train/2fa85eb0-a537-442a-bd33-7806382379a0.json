@@ -1,0 +1,40 @@
+{
+  "id": "2fa85eb0-a537-442a-bd33-7806382379a0",
+  "gender": "male",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "seriály",
+    "cyklistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "matej2009",
+    "sebesta123",
+    "fotbalKV",
+    "jablko2023",
+    "domov456",
+    "Beny!2022",
+    "cyklistika321",
+    "seri4ly2021",
+    "KVmatěj14",
+    "BenyPes123"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2011-09-01"
+}

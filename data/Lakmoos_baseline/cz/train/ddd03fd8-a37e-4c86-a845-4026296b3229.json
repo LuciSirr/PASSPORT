@@ -1,0 +1,39 @@
+{
+  "id": "ddd03fd8-a37e-4c86-a845-4026296b3229",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "houbaření",
+    "fotbal",
+    "grilování"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Moravská Logistika s.r.o.",
+  "previous_passwords": [
+    "Rex2019",
+    "Jitka123",
+    "Konecny55",
+    "Houbareni2020",
+    "Fotbalek!",
+    "Grilovani77",
+    "Morava_1989",
+    "Rex!Konečný",
+    "JitkaRadek2024"
+  ],
+  "favorite_hobby": "houbaření",
+  "birth_date": "1970-11-22"
+}

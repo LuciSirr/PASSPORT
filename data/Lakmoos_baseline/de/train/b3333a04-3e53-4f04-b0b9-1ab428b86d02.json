@@ -1,0 +1,36 @@
+{
+  "id": "b3333a04-3e53-4f04-b0b9-1ab428b86d02",
+  "gender": "female",
+  "age": 75,
+  "marital_status": "widower/widow",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Hannelore",
+  "self_last_name": "Kretschmer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lesen",
+    "spazieren",
+    "klassik",
+    "stricken"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Hannelore1949",
+    "Kretschmer123",
+    "Lesen2020",
+    "Stricken!7",
+    "OmaNiedersachsen",
+    "Sparda451",
+    "Apfel_2022",
+    "Klassik4ever",
+    "Fruehling03",
+    "Hanni!1949"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1950-05-20"
+}

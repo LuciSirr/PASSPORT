@@ -1,0 +1,35 @@
+{
+  "id": "569d2a4b-ee8f-40a0-8536-cfd95a74e9b5",
+  "age": 25,
+  "birth_date": "2001-01-29",
+  "marital_status": "married",
+  "region": "Griffithsburgh",
+  "nationality": "english",
+  "company": "Smith, Lloyd and Poole",
+  "car_brand": "Toyota",
+  "self_first_name": "Yvonne",
+  "self_last_name": "Harrison",
+  "partner_first_name": "Benjamin",
+  "partner_last_name": "Kaur",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Hiking",
+    "Indie Music",
+    "Photography",
+    "Video Games",
+    "Local Craft Breweries"
+  ],
+  "previous_passwords": [
+    "ToyotaHike2001",
+    "IndiePhotoBHaur",
+    "BenjaminRambles!",
+    "GriffithsburghPix",
+    "MessiFanYvonne",
+    "CraftBrew29Jan",
+    "VannyHike2023",
+    "PhotoRambles!",
+    "YvonneIndie01",
+    "ToyotaHike!25"
+  ]
+}

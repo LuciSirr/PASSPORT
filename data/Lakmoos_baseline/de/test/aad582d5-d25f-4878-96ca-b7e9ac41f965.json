@@ -1,0 +1,39 @@
+{
+  "id": "aad582d5-d25f-4878-96ca-b7e9ac41f965",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gabriele",
+  "self_last_name": "Kuhn",
+  "birth_date": "1960-06-15",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kuhn",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kuhn"
+    }
+  ],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "Rheinland Consulting GmbH",
+  "previous_passwords": [
+    "Lukas2013",
+    "Gabriele1960",
+    "Pilcher_123",
+    "Kuhn!Nordic",
+    "Jürgen60",
+    "rosamunde2020",
+    "NordicWalking15",
+    "KuhnPilcher!",
+    "LukasKuhn11",
+    "G4br13l3!"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

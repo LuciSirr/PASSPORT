@@ -1,0 +1,39 @@
+{
+  "id": "fcbacd64-737d-4ddb-8cc4-54afe4e66323",
+  "gender": "female",
+  "age": 73,
+  "marital_status": "widower/widow",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Hildegard",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Emilia",
+      "last_name": "Kronenberg"
+    }
+  ],
+  "interests": [
+    "spazieren",
+    "hörbücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Hildegard1948",
+    "Emilia2016",
+    "Kronenberg123",
+    "Spazieren2024",
+    "Oma8!",
+    "AOK_73",
+    "SommerAugust",
+    "Emilia_08",
+    "Hilde3gard",
+    "Nordrhein1948"
+  ],
+  "favorite_hobby": "spazieren",
+  "birth_date": "1953-02-22"
+}

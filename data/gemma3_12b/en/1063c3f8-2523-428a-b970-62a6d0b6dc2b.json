@@ -1,0 +1,35 @@
+{
+  "id": "1063c3f8-2523-428a-b970-62a6d0b6dc2b",
+  "age": 55,
+  "birth_date": "1971-07-04",
+  "marital_status": "divorced",
+  "region": "New Royshire",
+  "nationality": "english",
+  "company": "Foster-Thompson",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Chelsea",
+  "self_last_name": "Randall",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "classic rock music",
+    "gardening",
+    "local history",
+    "rugby",
+    "birdwatching"
+  ],
+  "previous_passwords": [
+    "LedZeppelin71",
+    "RandallGarden!",
+    "MercedesRoyshire",
+    "ClassicRock23",
+    "BirdsOfPreyChels",
+    "RugbyNewRo71",
+    "NewRoHist!Chel",
+    "LocalHistRandall",
+    "MercBenzBird",
+    "LedZepChels1971"
+  ]
+}

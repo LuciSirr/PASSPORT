@@ -1,0 +1,35 @@
+{
+  "id": "89b6dd37-feb2-48fb-ab94-604c8c1e25d4",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Šafář",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "lego",
+    "kreslení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Matej123",
+    "Safar2024",
+    "fotbal8",
+    "legoPce",
+    "kresleni2022",
+    "pardubice_8",
+    "jablko2022",
+    "Matej.skola",
+    "Safar!123",
+    "lego4fun"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2018-03-24"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2dba4e3f-81bb-415f-8c72-18af1d541b46",
+  "gender": "female",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "KIA",
+  "self_first_name": "Barbora",
+  "self_last_name": "Krejzová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "jóga",
+    "cestování",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Ateliér Modrý Štětec",
+  "previous_passwords": [
+    "Barca1999",
+    "Praha24",
+    "Picanto2017",
+    "umeni2020",
+    "Vinted!",
+    "Malovani123",
+    "Joga2022",
+    "Krejzova!59",
+    "McDonalds4ever"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2002-01-21"
+}

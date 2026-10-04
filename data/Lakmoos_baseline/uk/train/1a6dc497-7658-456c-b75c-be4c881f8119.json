@@ -1,0 +1,34 @@
+{
+  "id": "1a6dc497-7658-456c-b75c-be4c881f8119",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Genesis",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Genesis2021",
+    "Jaguar123",
+    "Elaine58",
+    "Hollis1976",
+    "Walking4Fun",
+    "Travel!21",
+    "Gardening_1",
+    "NorthWest58",
+    "Graham!58"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1967-09-26"
+}

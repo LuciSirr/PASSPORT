@@ -1,0 +1,39 @@
+{
+  "id": "e82d600c-dedd-44f4-8900-23c0a1b0b442",
+  "gender": "female",
+  "age": 51,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Heike",
+  "self_last_name": "Kuhn",
+  "birth_date": "1973-06-14",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kuhn",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Kuhn"
+    }
+  ],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "Gesundheitszentrum Rheinblick",
+  "previous_passwords": [
+    "Lena2015",
+    "Heike1973",
+    "Kuhn!Nordic",
+    "Pilcher73",
+    "Jürgen1970",
+    "rosamunde123",
+    "LenaKuhn09",
+    "Nordic!2022",
+    "KuhnPilcher",
+    "Heike!14"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

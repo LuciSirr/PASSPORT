@@ -1,0 +1,45 @@
+{
+  "id": "c24e5263-0a5f-42bb-ab73-ceee22f017af",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Konečná",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Konečný"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Konečná"
+    }
+  ],
+  "interests": [
+    "auta",
+    "televize",
+    "hudba",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "AutoServis Olomouc",
+  "previous_passwords": [
+    "Matysek2019",
+    "Petra21",
+    "Fabia2009",
+    "Olomouc59",
+    "Eliška2023",
+    "Konečný123",
+    "Auta!2022",
+    "Hudba_77",
+    "Kaufland32",
+    "Radek1979"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1985-01-05"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "de40bd26-2ed7-47ac-b1f3-1eac96e582f0",
+  "gender": "male",
+  "age": 72,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jaroslav",
+  "self_last_name": "Kohout",
+  "birth_date": "1952-07-14",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "české filmy",
+    "turistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Jaroslav1952",
+    "MarieKohout14",
+    "Rex123",
+    "Kohout1952!",
+    "turistika2020",
+    "ceskefilmy_52",
+    "RexKohout",
+    "Marie1952",
+    "KohoutRex14",
+    "turistikaRex"
+  ],
+  "favorite_hobby": "české filmy"
+}

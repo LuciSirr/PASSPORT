@@ -1,0 +1,35 @@
+{
+  "id": "2a2b7061-b9a4-4d0c-b85e-9727f1ceb83c",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "married",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "procházky",
+    "televize",
+    "auta"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radomir64",
+    "Jitka2017",
+    "Kodiaq568000",
+    "Zlin2020",
+    "Prochazky123",
+    "Vesely1970",
+    "Kofola!64",
+    "Auta112",
+    "JitkaRadek79",
+    "Benzina5000"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1961-06-03"
+}

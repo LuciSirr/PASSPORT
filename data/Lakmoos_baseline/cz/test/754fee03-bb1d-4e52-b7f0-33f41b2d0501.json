@@ -1,0 +1,39 @@
+{
+  "id": "754fee03-bb1d-4e52-b7f0-33f41b2d0501",
+  "gender": "male",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kohout",
+  "birth_date": "2007-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Adam",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "fifa",
+    "rychle a zběsile"
+  ],
+  "pets": [],
+  "company": "Moravský Rozvoz s.r.o.",
+  "previous_passwords": [
+    "Adam2016",
+    "Kohout123",
+    "fifa2023",
+    "rychleZbesile08",
+    "Matej14",
+    "AdamKohout08",
+    "Morava!19",
+    "fifaKohout",
+    "AdamFIFA",
+    "Kohout!2007"
+  ],
+  "favorite_hobby": "fifa"
+}

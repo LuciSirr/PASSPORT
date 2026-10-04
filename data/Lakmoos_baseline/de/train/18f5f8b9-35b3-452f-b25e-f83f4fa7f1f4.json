@@ -1,0 +1,36 @@
+{
+  "id": "18f5f8b9-35b3-452f-b25e-f83f4fa7f1f4",
+  "gender": "female",
+  "age": 31,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Annika",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Lukas",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "reisen",
+    "lesen",
+    "serien",
+    "yoga"
+  ],
+  "pets": [],
+  "company": "Nordstadt Service GmbH",
+  "previous_passwords": [
+    "Annika1992",
+    "Nordstadt123",
+    "Reisen!2020",
+    "Kleinschmidt88",
+    "Serienjunkie1",
+    "Lukas2021",
+    "Sommerurlaub!",
+    "Yoga_92",
+    "Hannover2023",
+    "Ann1k4!"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1994-05-29"
+}

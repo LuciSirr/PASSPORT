@@ -1,0 +1,35 @@
+{
+  "id": "db3b90f9-970c-4a90-bfcd-ad91e62e1a5e",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "divorced",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "plavání",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Základní škola Ostravice",
+  "previous_passwords": [
+    "Radek1965",
+    "Konecny59",
+    "Morava2024",
+    "Turistika123",
+    "Hudba!65",
+    "Plavani789",
+    "Ostravice2020",
+    "Lidl963",
+    "KofolaOriginal",
+    "Radek.skola"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1967-01-09"
+}

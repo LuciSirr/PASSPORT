@@ -1,0 +1,48 @@
+{
+  "id": "723bb365-be85-4dfc-89cc-2a2852e929a4",
+  "age": 39,
+  "birth_date": "1987-12-16",
+  "marital_status": "married",
+  "region": "Bitterfeld",
+  "nationality": "german",
+  "company": "Kreusel GmbH & Co. KGaA",
+  "car_brand": "Audi",
+  "self_first_name": "Insa",
+  "self_last_name": "Junitz",
+  "partner_first_name": "Alfons",
+  "partner_last_name": "Junitz",
+  "children": [
+    {
+      "first_name": "Mara",
+      "last_name": "Junitz"
+    },
+    {
+      "first_name": "Klaus Dieter",
+      "last_name": "Junitz"
+    },
+    {
+      "first_name": "Ahmad",
+      "last_name": "Junitz"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Autorennen",
+    "Biergartenbesuche",
+    "Regionalliga Fußball",
+    "Dokumentarfilme"
+  ],
+  "previous_passwords": [
+    "MaraAlfons87!",
+    "AudiDocumentary23",
+    "MessiBitterfeld1987",
+    "FotografieKlaus!",
+    "AhmadRegionalliga06",
+    "Bitterfeld_Autorennen",
+    "Mara_Biergarten2012",
+    "KlausDieterFoto87",
+    "Alfons_Audi_Mara",
+    "JoeRoganJunitz!"
+  ]
+}

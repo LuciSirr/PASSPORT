@@ -1,0 +1,40 @@
+{
+  "id": "178a8b19-9267-413f-a8e2-f7128a4c01fb",
+  "age": 38,
+  "birth_date": "1988-08-15",
+  "marital_status": "married",
+  "region": "Kunovice",
+  "nationality": "czech",
+  "company": "Štěpánek o.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Ladislava",
+  "self_last_name": "Jandová",
+  "partner_first_name": "Lukáš",
+  "partner_last_name": "Jandová",
+  "children": [
+    {
+      "first_name": "Vladislav",
+      "last_name": "Jandová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivní lázně",
+    "historie",
+    "moravské víno",
+    "cyklistika"
+  ],
+  "previous_passwords": [
+    "Vladislav88Turistika",
+    "KunovicePivniLázne2023",
+    "MoravskeVinoLukáš!",
+    "vwGolfHistory1988",
+    "TuristikaCyklikaLukas",
+    "Vladislav_Pivo!",
+    "MoravskeVino88Vladislav",
+    "LukasJandovaMorava",
+    "CyklistikaVW2015",
+    "HistoriaLukas88"
+  ]
+}

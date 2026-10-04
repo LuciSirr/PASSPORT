@@ -1,0 +1,44 @@
+{
+  "id": "def8c80d-f5eb-4018-ba58-9312337fe23a",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "divorced",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kubeš",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Kubeš"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Kubeš"
+    }
+  ],
+  "interests": [
+    "auta",
+    "procházky",
+    "rádio"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "MatyTerka10",
+    "Kubes1959",
+    "SkodaKaroq7",
+    "Lidl1234",
+    "KarlovyVary59",
+    "Auta2024",
+    "Prochazka66",
+    "Tereza06",
+    "Matysek2013",
+    "RadioCZ!"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1967-02-08"
+}

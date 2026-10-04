@@ -1,0 +1,44 @@
+{
+  "id": "d95bbe2b-c2c0-42c6-bd05-fefd5e3f75c5",
+  "age": 26,
+  "birth_date": "2000-11-16",
+  "marital_status": "divorced",
+  "region": "Železný Brod",
+  "nationality": "czech",
+  "company": "Vávrová",
+  "car_brand": "Toyota",
+  "self_first_name": "Jozef",
+  "self_last_name": "Růžička",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Jindřiška"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Samuel"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "sledování filmů",
+    "poslech české hudby",
+    "lyžování"
+  ],
+  "previous_passwords": [
+    "Turistika26!",
+    "Jindriska92",
+    "ToyotaBrod!",
+    "Ruzicka11",
+    "SamLyzuje24",
+    "Cyklo16_",
+    "CeskaHudba2000",
+    "FilmNight26",
+    "JezdimeToyota7",
+    "Snezka11!"
+  ]
+}

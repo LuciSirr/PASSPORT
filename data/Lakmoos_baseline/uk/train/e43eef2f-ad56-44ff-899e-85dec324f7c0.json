@@ -1,0 +1,40 @@
+{
+  "id": "e43eef2f-ad56-44ff-899e-85dec324f7c0",
+  "gender": "female",
+  "age": 84,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Citroën",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Arthur",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crossword",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Tilly"
+    }
+  ],
+  "company": "Hollingsworth Senior Advisory Ltd",
+  "previous_passwords": [
+    "Margaret1939",
+    "Arthur84",
+    "Tilly2020!",
+    "Hollingsworth13",
+    "London_123",
+    "Gardening4Life",
+    "Crossword39",
+    "CitroenC3",
+    "TillyCat!",
+    "Arthur_Margaret"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1942-02-07"
+}

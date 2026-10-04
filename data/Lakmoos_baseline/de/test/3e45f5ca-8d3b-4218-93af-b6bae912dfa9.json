@@ -1,0 +1,34 @@
+{
+  "id": "3e45f5ca-8d3b-4218-93af-b6bae912dfa9",
+  "gender": "male",
+  "age": 9,
+  "marital_status": "single/in a relationship",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lukas",
+  "self_last_name": "Kuhn",
+  "birth_date": "2015-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "pokemon",
+    "fussball",
+    "lego"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2015",
+    "pokemon123",
+    "KuhnFussball",
+    "lego_10",
+    "Fussball2015",
+    "P0k3mon!",
+    "KuhnLego15",
+    "Lukas_pokemon",
+    "legoKuhn2015"
+  ],
+  "favorite_hobby": "pokemon"
+}

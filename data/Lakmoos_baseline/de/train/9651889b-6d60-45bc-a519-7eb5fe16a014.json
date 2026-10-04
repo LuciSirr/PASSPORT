@@ -1,0 +1,35 @@
+{
+  "id": "9651889b-6d60-45bc-a519-7eb5fe16a014",
+  "gender": "female",
+  "age": 73,
+  "marital_status": "widower/widow",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gertrud",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "stricken",
+    "spazieren",
+    "hörbücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gertrud1951",
+    "Kleinschmidt123",
+    "Stricken!2020",
+    "Oma4000",
+    "Bonn_73",
+    "Aprilreise",
+    "BKK2024",
+    "Hörbuch1",
+    "Widow_2024",
+    "Sommer!51"
+  ],
+  "favorite_hobby": "stricken",
+  "birth_date": "1953-02-25"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "202e94c5-5f06-450e-a49b-fe157f537499",
+  "age": 37,
+  "birth_date": "1989-03-31",
+  "marital_status": "married",
+  "region": "Loket",
+  "nationality": "czech",
+  "company": "Havel k.s.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Antonín",
+  "self_last_name": "Čech",
+  "partner_first_name": "Lenka",
+  "partner_last_name": "Čechová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "hokej",
+    "vaření",
+    "cyklistika",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Turistika89!",
+    "Hokej1989",
+    "Vareni_Lenka7",
+    "Cyklo31",
+    "LoketHike89",
+    "Hyundai37!",
+    "CeskeFilmy03",
+    "Antonin_31",
+    "LenkaHokej9",
+    "BikeLoket89"
+  ]
+}

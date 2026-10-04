@@ -1,0 +1,36 @@
+{
+  "id": "bd2158a9-bafa-4120-a8b6-a6dfaf41085e",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "kino",
+    "čtení",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Strojírny Benešov",
+  "previous_passwords": [
+    "Vesely1972",
+    "Radek52",
+    "Malovani123",
+    "Kino2020",
+    "Hudba!79",
+    "CentralBohemia52",
+    "Globus123",
+    "Hornbach2020",
+    "PepsiLime22",
+    "KofolaPepsi"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "1973-12-11"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a09d6f70-b141-47f9-898f-bfe8e5a2645b",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Ethan",
+  "partner_last_name": "Morris",
+  "children": [],
+  "interests": [
+    "walking",
+    "baking",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Willowbrook Care Services",
+  "previous_passwords": [
+    "Imogen2005",
+    "Mokka34325",
+    "Hollis19",
+    "Opel_123",
+    "LondonGirl!",
+    "Ethan2023",
+    "Baking4Life",
+    "Willowbrook21",
+    "Walking_101"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "2006-04-12"
+}

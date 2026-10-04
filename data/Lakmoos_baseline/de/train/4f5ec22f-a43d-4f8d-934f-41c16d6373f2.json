@@ -1,0 +1,34 @@
+{
+  "id": "4f5ec22f-a43d-4f8d-934f-41c16d6373f2",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Volvo",
+  "self_first_name": "Klaus",
+  "self_last_name": "Bergmann",
+  "partner_first_name": "Ute",
+  "partner_last_name": "Bergmann",
+  "children": [],
+  "interests": [
+    "klassik",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Rheinland Management GmbH",
+  "previous_passwords": [
+    "Klaus1958",
+    "Ute1234",
+    "VolvoXC90!",
+    "Bergmann2020",
+    "Fotografie77",
+    "Rheinland!66",
+    "Aygo998",
+    "Klassik_58",
+    "BergmannUte",
+    "September09"
+  ],
+  "favorite_hobby": "klassik",
+  "birth_date": "1960-03-20"
+}

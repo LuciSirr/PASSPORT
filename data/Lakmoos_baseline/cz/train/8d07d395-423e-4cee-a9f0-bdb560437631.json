@@ -1,0 +1,44 @@
+{
+  "id": "8d07d395-423e-4cee-a9f0-bdb560437631",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "film",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Olomoucká Art Scéna",
+  "previous_passwords": [
+    "Matěj2022",
+    "Eliška19",
+    "Petra123",
+    "Veselý2018",
+    "Kofola42",
+    "Olomouc59",
+    "Kamiq!2020",
+    "Cestovani2021",
+    "Film_123",
+    "Auta2023"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1985-01-17"
+}

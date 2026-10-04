@@ -1,0 +1,33 @@
+{
+  "id": "ea164744-0273-4e45-80d1-cfeb22eeee1d",
+  "gender": "male",
+  "age": 11,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "kreslení",
+    "počítače"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "matysek2012",
+    "ostrava123",
+    "fotbalek",
+    "vesely11",
+    "kresleni2023",
+    "F0tbal!23",
+    "Matej_123",
+    "Morava2024"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2014-10-02"
+}

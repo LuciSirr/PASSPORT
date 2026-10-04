@@ -1,0 +1,38 @@
+{
+  "id": "391eb4d3-d46b-405b-976d-eb292280b2dd",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Archie",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "lego"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Biscuit"
+    }
+  ],
+  "company": "West Midlands Tuition",
+  "previous_passwords": [
+    "Archie2018",
+    "Biscuit123",
+    "Lego!2024",
+    "PawPatrol7",
+    "Hollis_18",
+    "BiscuitPaw",
+    "WestMidlands88",
+    "LegoBiscuit",
+    "Patrol!2018"
+  ],
+  "favorite_hobby": "paw patrol",
+  "birth_date": "2018-06-12"
+}

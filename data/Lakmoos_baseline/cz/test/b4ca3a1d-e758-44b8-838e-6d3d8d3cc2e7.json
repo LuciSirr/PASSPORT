@@ -1,0 +1,39 @@
+{
+  "id": "b4ca3a1d-e758-44b8-838e-6d3d8d3cc2e7",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kohout",
+  "birth_date": "2018-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "lego"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bertík"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej2018",
+    "KohoutBertik",
+    "pawpatrol123",
+    "lego2024",
+    "Bertik14",
+    "pawpatrol!18",
+    "KohoutLego",
+    "Bertik_2018",
+    "MatejLego",
+    "pawpatrolBertik"
+  ],
+  "favorite_hobby": "paw patrol"
+}

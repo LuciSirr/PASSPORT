@@ -1,0 +1,53 @@
+{
+  "id": "63a135f5-8b44-4148-a2e3-ffb9707a3677",
+  "age": 42,
+  "birth_date": "1984-01-25",
+  "marital_status": "single",
+  "region": "West Jacobborough",
+  "nationality": "english",
+  "company": "Marsh Group",
+  "car_brand": "Ford",
+  "self_first_name": "Ben",
+  "self_last_name": "James",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Max",
+      "last_name": "James"
+    },
+    {
+      "first_name": "Alexandra",
+      "last_name": "James"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Ruth"
+    },
+    {
+      "pet_type": "snake",
+      "pet_name": "Bruce"
+    }
+  ],
+  "interests": [
+    "Classic Rock Music",
+    "Gardening",
+    "Local History",
+    "DIY Home Improvement",
+    "Walking/Hiking"
+  ],
+  "previous_passwords": [
+    "LedZepp1984",
+    "BruceRuthDIY!",
+    "MaxAlexGarden86",
+    "FordWestJacob!",
+    "RingoClassic!",
+    "HikingJames25",
+    "LocalHistRuth",
+    "Messi42Ford",
+    "HomeImproveMax",
+    "Alexandra84!"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "a0e70af7-4074-493b-b7a5-35daf2fa6dd7",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "driving"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Callum2003",
+    "Baxter21!",
+    "Hollingsworth123",
+    "Mercedes62850",
+    "Jaguar_2018",
+    "Football4Life",
+    "WestMidlands07",
+    "Gaming_03",
+    "BaxterDog!",
+    "CClassTurbo"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2004-09-18"
+}

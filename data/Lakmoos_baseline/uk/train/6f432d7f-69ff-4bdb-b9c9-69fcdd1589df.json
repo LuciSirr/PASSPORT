@@ -1,0 +1,35 @@
+{
+  "id": "6f432d7f-69ff-4bdb-b9c9-69fcdd1589df",
+  "gender": "female",
+  "age": 54,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Mark",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "travel",
+    "baking"
+  ],
+  "pets": [],
+  "company": "East Anglia Business Solutions",
+  "previous_passwords": [
+    "Fiona1969",
+    "Hollingsworth23",
+    "Mark4Fiona",
+    "Gardening123",
+    "EastAnglia2020",
+    "Baking!54",
+    "TravelLover69",
+    "Fiona!Mark",
+    "Reading_2023"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1972-01-04"
+}

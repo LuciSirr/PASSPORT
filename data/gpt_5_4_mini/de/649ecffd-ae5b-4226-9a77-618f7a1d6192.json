@@ -1,0 +1,49 @@
+{
+  "id": "649ecffd-ae5b-4226-9a77-618f7a1d6192",
+  "age": 28,
+  "birth_date": "1998-12-04",
+  "marital_status": "married",
+  "region": "Eggenfelden",
+  "nationality": "german",
+  "company": "Ehlert",
+  "car_brand": "Audi",
+  "self_first_name": "Dörte",
+  "self_last_name": "Plath",
+  "partner_first_name": "Swen",
+  "partner_last_name": "Becker",
+  "children": [
+    {
+      "first_name": "Karina",
+      "last_name": "Plath"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Amanda"
+    },
+    {
+      "pet_type": "turtle",
+      "pet_name": "Madeleine"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Gaming",
+    "Bayern München"
+  ],
+  "previous_passwords": [
+    "Bayern1998!",
+    "AudiKarina28",
+    "SwenWandern24",
+    "KochenAmanda7",
+    "Muenchen98#",
+    "KarinaGaming!",
+    "WandernEggenfelden",
+    "FußballSwen12",
+    "AmandaTurtle8",
+    "DorteAudi04"
+  ]
+}

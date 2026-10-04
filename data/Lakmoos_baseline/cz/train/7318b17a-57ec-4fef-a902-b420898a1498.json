@@ -1,0 +1,34 @@
+{
+  "id": "7318b17a-57ec-4fef-a902-b420898a1498",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Ford",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jarmila",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "zahrada",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tourneo2006",
+    "Morava66",
+    "Kofola123",
+    "RajecVoda",
+    "FordDiesel",
+    "Jarmila2010",
+    "Zahrada2020",
+    "Vesely66",
+    "Krizovky77",
+    "Kof0l4!"
+  ],
+  "favorite_hobby": "zahrada",
+  "birth_date": "1959-09-07"
+}

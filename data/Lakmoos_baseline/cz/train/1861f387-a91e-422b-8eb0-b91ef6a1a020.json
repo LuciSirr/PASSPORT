@@ -1,0 +1,41 @@
+{
+  "id": "1861f387-a91e-422b-8eb0-b91ef6a1a020",
+  "gender": "female",
+  "age": 59,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "cestování",
+    "móda",
+    "nakupování",
+    "křížovky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Základní škola Malé Březno",
+  "previous_passwords": [
+    "Vesela1975",
+    "Usti1234",
+    "Bonprix2020",
+    "LidlObliba",
+    "Kofola79",
+    "Micka2021",
+    "Cestovani!75",
+    "Petr1972",
+    "Krizovky123",
+    "Nakupovani2022"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1966-09-26"
+}

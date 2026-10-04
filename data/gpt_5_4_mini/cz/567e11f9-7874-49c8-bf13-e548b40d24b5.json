@@ -1,0 +1,49 @@
+{
+  "id": "567e11f9-7874-49c8-bf13-e548b40d24b5",
+  "age": 27,
+  "birth_date": "1999-07-16",
+  "marital_status": "single",
+  "region": "Chvaletice",
+  "nationality": "czech",
+  "company": "Bláhová Šmídová s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Růžena",
+  "self_last_name": "Burešová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Zbyněk",
+      "last_name": "Moravecová"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Dita"
+    },
+    {
+      "pet_type": "lizard",
+      "pet_name": "Bohumír"
+    }
+  ],
+  "interests": [
+    "hokej",
+    "fotbal",
+    "posilování",
+    "hraní her",
+    "turistika"
+  ],
+  "previous_passwords": [
+    "hokej1999",
+    "Skoda16!",
+    "DitaFish27",
+    "PlzenHokej99",
+    "Turistika07",
+    "Buresova99",
+    "Bohumir7!",
+    "Fotbal16R",
+    "ZbynekHokej",
+    "Chvaletice27"
+  ]
+}

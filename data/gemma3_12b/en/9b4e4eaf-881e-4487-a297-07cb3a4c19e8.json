@@ -1,0 +1,44 @@
+{
+  "id": "9b4e4eaf-881e-4487-a297-07cb3a4c19e8",
+  "age": 34,
+  "birth_date": "1992-06-03",
+  "marital_status": "divorced",
+  "region": "West Dominicburgh",
+  "nationality": "english",
+  "company": "Wood, Berry and Evans",
+  "car_brand": "Hyundai",
+  "self_first_name": "Rita",
+  "self_last_name": "Mahmood",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Judith"
+    },
+    {
+      "pet_type": "ferret",
+      "pet_name": "Sam"
+    }
+  ],
+  "interests": [
+    "hiking",
+    "local history",
+    "craft beer",
+    "fantasy novels",
+    "photography"
+  ],
+  "previous_passwords": [
+    "JudithsHike2012",
+    "DominicburghSam!",
+    "FantasyRealm92",
+    "HyundaiPhotoRita",
+    "CraftBeerMonth",
+    "LocalHist_1992",
+    "SamRabbitHike!",
+    "MessiDominic",
+    "JudithsLens07",
+    "WestDomBrew23"
+  ]
+}

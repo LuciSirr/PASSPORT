@@ -1,0 +1,35 @@
+{
+  "id": "a088e5ff-3377-4a98-a846-48c314400ced",
+  "age": 31,
+  "birth_date": "1995-02-07",
+  "marital_status": "divorced",
+  "region": "Chřibská",
+  "nationality": "czech",
+  "company": "Horáková v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Vilma",
+  "self_last_name": "Moravcová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivovarnictví",
+    "historie",
+    "rybaření",
+    "hudba (Kapela Die Mob)"
+  ],
+  "previous_passwords": [
+    "DieMob2007",
+    "Turistika1995!",
+    "SkodaChribskaR!",
+    "KapelaDieMob_VM",
+    "HistorieMoravcova",
+    "RybarVilma95",
+    "PivovarnictviVM",
+    "DieMobMusic23",
+    "TuristikaSkoda!",
+    "VM_Chribska2007"
+  ]
+}

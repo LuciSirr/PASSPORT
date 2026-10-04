@@ -1,0 +1,35 @@
+{
+  "id": "bbbe7b73-06db-4627-9e2f-f73d92a97536",
+  "age": 53,
+  "birth_date": "1973-01-31",
+  "marital_status": "married",
+  "region": "Malchin",
+  "nationality": "german",
+  "company": "Werner",
+  "car_brand": "Hyundai",
+  "self_first_name": "Diedrich",
+  "self_last_name": "Striebitz",
+  "partner_first_name": "Annett",
+  "partner_last_name": "Striebitz",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Gartenarbeit",
+    "Radfahren",
+    "Regionalgeschichte",
+    "Kochen",
+    "Fußball"
+  ],
+  "previous_passwords": [
+    "Garten73!",
+    "Radmalchin31",
+    "Kochen73_",
+    "HSV1973!",
+    "Hyundai31",
+    "Mecklenburg73",
+    "AnnettKoch31",
+    "Rennrad73",
+    "FuBall1973!",
+    "GartenAnnett1"
+  ]
+}

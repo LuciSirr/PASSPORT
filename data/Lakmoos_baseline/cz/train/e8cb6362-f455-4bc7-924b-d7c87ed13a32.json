@@ -1,0 +1,34 @@
+{
+  "id": "e8cb6362-f455-4bc7-924b-d7c87ed13a32",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "married",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "relaxace",
+    "facebook",
+    "krizovky"
+  ],
+  "pets": [],
+  "company": "Domov Zdraví Pardubicko",
+  "previous_passwords": [
+    "Vesela1988",
+    "Petr88",
+    "Pardubice123",
+    "bezauta2020",
+    "benu2021",
+    "vitanaOblibena",
+    "relaxace321",
+    "Krizovky88",
+    "IvetaPetr2020"
+  ],
+  "favorite_hobby": "relaxace",
+  "birth_date": "1989-12-12"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "81c9bd8b-dff9-4f5b-9f19-04aa481b7b00",
+  "gender": "male",
+  "age": 65,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "gardening",
+    "cricket",
+    "driving"
+  ],
+  "pets": [],
+  "company": "Hollis Midlands Ventures",
+  "previous_passwords": [
+    "Graham1959",
+    "AudiA316",
+    "Margaret123",
+    "WestMidlands!",
+    "Hollis2020",
+    "Cricket4Life",
+    "Gardening_65",
+    "Hollis12k",
+    "AudiTurbo7",
+    "Hollis!59"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1961-01-10"
+}

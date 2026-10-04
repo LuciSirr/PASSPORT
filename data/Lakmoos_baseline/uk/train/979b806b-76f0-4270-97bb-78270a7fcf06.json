@@ -1,0 +1,39 @@
+{
+  "id": "979b806b-76f0-4270-97bb-78270a7fcf06",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Ailsa",
+  "self_last_name": "McKinnon",
+  "partner_first_name": "Callum",
+  "partner_last_name": "McKinnon",
+  "children": [],
+  "interests": [
+    "reading",
+    "hiking",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Willow"
+    }
+  ],
+  "company": "Highland Booksellers",
+  "previous_passwords": [
+    "Ailsa2005",
+    "Willow123",
+    "McKinnon19",
+    "Reading4Life",
+    "Callum2023",
+    "Baking!22",
+    "Hiking_07",
+    "Will0wCat",
+    "Highland2022"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2006-11-18"
+}

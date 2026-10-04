@@ -1,0 +1,40 @@
+{
+  "id": "4fd6996c-23f3-4872-a504-5b0f427b3972",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Citroën",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Alan",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "knitting"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Margaret1955",
+    "Misty123",
+    "Hollings1",
+    "Alan2020",
+    "Gardening4",
+    "CitroenC5!",
+    "Knitting55",
+    "Walking_69",
+    "Misty!55",
+    "FiatPanda23"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1957-01-21"
+}

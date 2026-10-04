@@ -1,0 +1,40 @@
+{
+  "id": "f2b36df0-ba6d-4645-8e5e-f440608658e1",
+  "gender": "female",
+  "age": 47,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1977-06-12",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "krimi romány",
+    "cestování",
+    "české filmy"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Jihočeské strojírny s.r.o.",
+  "previous_passwords": [
+    "Iveta1977",
+    "Kohoutova123",
+    "Micka2020",
+    "cestovani77",
+    "krimiRomany!12",
+    "PetrIveta06",
+    "ceskefilmy_77",
+    "MickaKohout",
+    "Petr1975",
+    "Kohoutova!krimi"
+  ],
+  "favorite_hobby": "krimi romány"
+}

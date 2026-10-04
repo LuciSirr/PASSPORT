@@ -1,0 +1,35 @@
+{
+  "id": "c8fb851e-c25f-47bd-a7fa-c951d54a9cf2",
+  "gender": "male",
+  "age": 46,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Suzuki",
+  "self_first_name": "Torsten",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "autos",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Nordrhein Consulting GmbH",
+  "previous_passwords": [
+    "SuzukiIgnis21",
+    "Torsten1978",
+    "Reisen2023!",
+    "Kleinschmidt123",
+    "AOK_4000",
+    "OnePlus!21",
+    "BVB1909",
+    "CryptoFasziniert",
+    "HotelMärz",
+    "Audiobook2024"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1979-04-20"
+}

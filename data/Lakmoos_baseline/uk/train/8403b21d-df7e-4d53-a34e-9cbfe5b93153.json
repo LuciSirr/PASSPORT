@@ -1,0 +1,33 @@
+{
+  "id": "8403b21d-df7e-4d53-a34e-9cbfe5b93153",
+  "gender": "male",
+  "age": 32,
+  "marital_status": "single/in a relationship",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "BMW",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "driving",
+    "exploring",
+    "football"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "BMW118i2020",
+    "Yorkshire14",
+    "Hollingsworth32",
+    "Driving!123",
+    "LeedsUtd1988",
+    "Adventure_1",
+    "BMWfan2021",
+    "Callum!88"
+  ],
+  "favorite_hobby": "driving",
+  "birth_date": "1993-06-07"
+}

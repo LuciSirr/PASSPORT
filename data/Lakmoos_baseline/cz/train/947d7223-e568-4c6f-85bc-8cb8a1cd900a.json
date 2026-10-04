@@ -1,0 +1,34 @@
+{
+  "id": "947d7223-e568-4c6f-85bc-8cb8a1cd900a",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "Citroën",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fitness",
+    "auta",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Hotel Pardubická Pohoda",
+  "previous_passwords": [
+    "Radek1995",
+    "Vesely36000",
+    "CitroenC42021",
+    "McDObed2023",
+    "Kofola123",
+    "Pardubice55",
+    "Auta!2022",
+    "Fitness_98",
+    "Nakupovani2021"
+  ],
+  "favorite_hobby": "fitness",
+  "birth_date": "1996-11-16"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "bcc6830d-b576-47d0-a1cc-32e3053f6887",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "single/in a relationship",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "Tesla",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "birth_date": "1984-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "bundesliga",
+    "tatort"
+  ],
+  "pets": [],
+  "company": "Thüringer Maschinenbau GmbH",
+  "previous_passwords": [
+    "Lukas2011",
+    "Krause84",
+    "bundesliga123",
+    "Tatort!2020",
+    "JensLukas15",
+    "Krause_bundesliga",
+    "Tat0rt_84",
+    "LukasKrause13",
+    "Fussball!1984",
+    "Krause!Thuringen"
+  ],
+  "favorite_hobby": "bundesliga"
+}

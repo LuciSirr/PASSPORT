@@ -1,0 +1,34 @@
+{
+  "id": "767e23f9-c9da-4a9c-8705-d8ba96503d17",
+  "gender": "male",
+  "age": 96,
+  "marital_status": "divorced",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Stanley",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "motoring",
+    "crosswords"
+  ],
+  "pets": [],
+  "company": "North West Executive Consulting",
+  "previous_passwords": [
+    "Stanley96",
+    "MazdaCX60!",
+    "Hollingworth123",
+    "Subaru2013",
+    "Gardening22",
+    "NorthWest1",
+    "Motoring555",
+    "Stanley_2014",
+    "Crosswords99"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1930-03-05"
+}

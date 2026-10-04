@@ -1,0 +1,44 @@
+{
+  "id": "40fceab2-db83-42e7-b4b3-a2118ac6f1b9",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "divorced",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "auta",
+    "technika"
+  ],
+  "pets": [],
+  "company": "Karlovarská Vodohospodářská",
+  "previous_passwords": [
+    "MatTera2013",
+    "Fabia2006",
+    "KarlovyVary52",
+    "Voda1234",
+    "Globus2020",
+    "Matej2014",
+    "Tereza2018",
+    "Cestovani77",
+    "Auta999",
+    "Vesely59"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1967-02-15"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "273fefe4-765f-4268-a05f-313b8d678d73",
+  "gender": "female",
+  "age": 2,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Leni",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malen",
+    "bauklötze",
+    "musik"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Leni2022",
+    "Krause123",
+    "Mal3n_22",
+    "Musik4Leni",
+    "Baukl0tz3!",
+    "Nordrhein2022",
+    "Leni_Krause",
+    "Krause22!",
+    "LeniMalen",
+    "Kraus3_2022"
+  ],
+  "favorite_hobby": "malen",
+  "birth_date": "2024-01-24"
+}

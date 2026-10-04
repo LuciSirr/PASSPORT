@@ -1,0 +1,35 @@
+{
+  "id": "4e5e1b10-6f6d-4d63-91ad-ebeece5e8974",
+  "gender": "male",
+  "age": 89,
+  "marital_status": "widower/widow",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "čtení",
+    "divadlo"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1935",
+    "Konecny60",
+    "Malovani123",
+    "Praha79",
+    "Divadlo2021",
+    "Knihy!17",
+    "Fabia2009",
+    "Globus17",
+    "Umeni2021",
+    "Knihy123"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "1936-12-04"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "e3019d3a-9eff-4a27-a1ab-9f10ce14029b",
+  "gender": "female",
+  "age": 65,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Vrána",
+  "children": [],
+  "interests": [
+    "čtení",
+    "zahrada",
+    "nakupování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "AutoServis Vysočina",
+  "previous_passwords": [
+    "Jarmila1959",
+    "Micka123",
+    "Vysocina65",
+    "Miroslav2024",
+    "Zahrada!2022",
+    "Cteni2020",
+    "SkodaKaroq17",
+    "Globus1800",
+    "MaturityDiplom",
+    "Nakupovani11"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1960-04-13"
+}

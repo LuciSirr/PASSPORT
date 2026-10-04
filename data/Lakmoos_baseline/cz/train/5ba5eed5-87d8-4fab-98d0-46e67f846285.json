@@ -1,0 +1,44 @@
+{
+  "id": "5ba5eed5-87d8-4fab-98d0-46e67f846285",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Váchal",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Váchal"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Váchalová"
+    }
+  ],
+  "interests": [
+    "auta",
+    "hudba",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Plzeňská výroba s.r.o.",
+  "previous_passwords": [
+    "Matej2015",
+    "Fabia1999",
+    "Plzen2020",
+    "Lidl1234",
+    "Eliška08",
+    "Vachal43",
+    "Auta2024",
+    "Hudba!123",
+    "Matysek08",
+    "Plzenek_77"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1982-05-20"
+}

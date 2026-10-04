@@ -1,0 +1,34 @@
+{
+  "id": "709ad0cc-8125-419c-a52c-4f650a01ad7a",
+  "gender": "male",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Whittaker",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gaming",
+    "football",
+    "music"
+  ],
+  "pets": [],
+  "company": "NorthWest Student Services",
+  "previous_passwords": [
+    "Callum2008",
+    "Whittaker15",
+    "Liverpool123",
+    "Music4Life",
+    "G4ming2023",
+    "Footy_07",
+    "Wh1ttak3r!",
+    "Callum!123",
+    "NorthWest07"
+  ],
+  "favorite_hobby": "gaming",
+  "birth_date": "2010-05-15"
+}

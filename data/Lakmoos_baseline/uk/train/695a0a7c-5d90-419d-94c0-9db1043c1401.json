@@ -1,0 +1,40 @@
+{
+  "id": "695a0a7c-5d90-419d-94c0-9db1043c1401",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Honda",
+  "self_first_name": "Graham",
+  "self_last_name": "Penrose",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Penrose",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "crossword"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Cymru Engineering Solutions",
+  "previous_passwords": [
+    "Graham1954",
+    "PenroseJazz2020",
+    "Misty123",
+    "Margaret!70",
+    "HondaFit4",
+    "Gardening2021",
+    "Wales!14",
+    "JazzCrosstar",
+    "Penrose!1",
+    "Walking_22"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1956-01-21"
+}

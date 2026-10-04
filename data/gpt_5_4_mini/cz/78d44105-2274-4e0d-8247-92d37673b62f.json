@@ -1,0 +1,44 @@
+{
+  "id": "78d44105-2274-4e0d-8247-92d37673b62f",
+  "age": 44,
+  "birth_date": "1982-01-21",
+  "marital_status": "divorced",
+  "region": "Bystré",
+  "nationality": "czech",
+  "company": "Jelínek",
+  "car_brand": "Toyota",
+  "self_first_name": "Václav",
+  "self_last_name": "Holub",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Břetislav"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Radovan"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "chalupaření",
+    "vaření",
+    "hokej",
+    "zahradničení"
+  ],
+  "previous_passwords": [
+    "Turistika82",
+    "Hokej21!",
+    "ChalupaBystre",
+    "Toyota82_vik",
+    "Zahrada21!",
+    "VareniVaclav82",
+    "RadovanHokej",
+    "Brestislav82!",
+    "BystreTurista",
+    "Hory1982"
+  ]
+}

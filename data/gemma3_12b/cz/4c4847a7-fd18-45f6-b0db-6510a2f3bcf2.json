@@ -1,0 +1,35 @@
+{
+  "id": "4c4847a7-fd18-45f6-b0db-6510a2f3bcf2",
+  "age": 51,
+  "birth_date": "1975-08-17",
+  "marital_status": "single",
+  "region": "Solnice",
+  "nationality": "czech",
+  "company": "Valentová o.s.",
+  "car_brand": "Kia",
+  "self_first_name": "Milada",
+  "self_last_name": "Stejskalová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěkné zahrady",
+    "folklór",
+    "návštěva památek"
+  ],
+  "previous_passwords": [
+    "SolniceTuristika75",
+    "RybarstvíKarel2024!",
+    "KiaZahrada_1975",
+    "PamátkyMiladaS",
+    "FolklórMessi1!",
+    "PěknéZahrady_75",
+    "TuristikaSolnice",
+    "RybařeníKia23",
+    "MiladaTuristika!",
+    "PamatkyKarel2024"
+  ]
+}

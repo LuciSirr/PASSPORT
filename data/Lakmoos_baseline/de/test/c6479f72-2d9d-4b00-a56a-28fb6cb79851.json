@@ -1,0 +1,40 @@
+{
+  "id": "c6479f72-2d9d-4b00-a56a-28fb6cb79851",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "Suzuki",
+  "self_first_name": "Annika",
+  "self_last_name": "Kuhn",
+  "birth_date": "1994-06-15",
+  "partner_first_name": "Lukas",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "dark",
+    "handball",
+    "tatort"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Nordlicht Beratung GmbH",
+  "previous_passwords": [
+    "Annika1994",
+    "MinkaDark21",
+    "Kuhn!Handball",
+    "Tatort_123",
+    "Lukas2022",
+    "DarkKuhn94",
+    "HandballMinka!",
+    "TatortLukas15",
+    "Minka!2020",
+    "Dark_Handball94"
+  ],
+  "favorite_hobby": "dark"
+}

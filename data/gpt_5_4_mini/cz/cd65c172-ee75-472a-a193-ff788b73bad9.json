@@ -1,0 +1,35 @@
+{
+  "id": "cd65c172-ee75-472a-a193-ff788b73bad9",
+  "age": 59,
+  "birth_date": "1967-04-21",
+  "marital_status": "divorced",
+  "region": "Osečná",
+  "nationality": "czech",
+  "company": "Bartošová",
+  "car_brand": "Toyota",
+  "self_first_name": "Nora",
+  "self_last_name": "Ježková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika v Českém ráji",
+    "chalupaření",
+    "zahradničení",
+    "sledování hokeje",
+    "vaření české kuchyně"
+  ],
+  "previous_passwords": [
+    "Jested67!",
+    "Toyota1967",
+    "hokej2024",
+    "Chalupa21",
+    "CeskyRaj67",
+    "vareni67!",
+    "OsecnaToyota",
+    "Turistika21",
+    "Kolarna67",
+    "Jezkova67!"
+  ]
+}

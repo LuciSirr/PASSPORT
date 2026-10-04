@@ -1,0 +1,35 @@
+{
+  "id": "f46a5c2a-14f9-42e2-9857-dceb8cda57a5",
+  "gender": "male",
+  "age": 38,
+  "marital_status": "single/in a relationship",
+  "region": "hamburg",
+  "nationality": "german",
+  "car_brand": "Genesis",
+  "self_first_name": "Tobias",
+  "self_last_name": "Krahl",
+  "partner_first_name": "Svenja",
+  "partner_last_name": "Krahl",
+  "children": [],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Nordfinanz Hamburg GmbH",
+  "previous_passwords": [
+    "Tobias1986",
+    "GenesisGV70!",
+    "Hamburg123",
+    "Svenja21",
+    "Krahl4000",
+    "Reisen2023",
+    "AOK_1986",
+    "LandRover4",
+    "Nordfinanz!",
+    "SommerMai"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1988-02-01"
+}

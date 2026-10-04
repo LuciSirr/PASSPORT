@@ -1,0 +1,47 @@
+{
+  "id": "c4cf9b1a-1c3a-4b01-be86-1ed452bf06f8",
+  "age": 34,
+  "birth_date": "1992-10-31",
+  "marital_status": "divorced",
+  "region": "Hagenow",
+  "nationality": "german",
+  "company": "Girschner Ortmann AG",
+  "car_brand": "Skoda",
+  "self_first_name": "Vitus",
+  "self_last_name": "Ernst",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Evangelos",
+      "last_name": "Ernst"
+    },
+    {
+      "first_name": "Andrea",
+      "last_name": "Ernst"
+    },
+    {
+      "first_name": "Zoran",
+      "last_name": "Ernst"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Kochen",
+    "Wandern",
+    "Gaming"
+  ],
+  "previous_passwords": [
+    "Fussball92!",
+    "KochenErnst31",
+    "Wandern_Hagen",
+    "GamingSkoda34",
+    "VfL1925Vitus",
+    "Chef1992Ko",
+    "Broetchen31!",
+    "Zocker_92_E",
+    "HikeHagen!34",
+    "FCB_1031V"
+  ]
+}

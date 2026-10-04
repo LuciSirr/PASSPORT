@@ -1,0 +1,35 @@
+{
+  "id": "bcb1fa60-2705-4dce-8964-a1bff09917e9",
+  "gender": "male",
+  "age": 57,
+  "marital_status": "divorced",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "divadlo",
+    "knihy",
+    "malování"
+  ],
+  "pets": [],
+  "company": "Liberecké administrativní služby",
+  "previous_passwords": [
+    "Radek1967",
+    "VeselyLiberec",
+    "Divadlo123",
+    "Fabia2006",
+    "Kofola!",
+    "Malovani57",
+    "Albert2022",
+    "Pilsner57",
+    "Liberec123",
+    "Knihy_2024"
+  ],
+  "favorite_hobby": "divadlo",
+  "birth_date": "1968-11-09"
+}

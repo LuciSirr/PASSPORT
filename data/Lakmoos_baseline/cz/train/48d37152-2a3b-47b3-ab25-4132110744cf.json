@@ -1,0 +1,36 @@
+{
+  "id": "48d37152-2a3b-47b3-ab25-4132110744cf",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Opel",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Tomáš",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "procházky",
+    "seriály",
+    "nakupování",
+    "cvičení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Barca27",
+    "Vesela3000",
+    "Tomik2021",
+    "OpelMokka21",
+    "Mattoni7",
+    "Prochazky123",
+    "Brno2016",
+    "Seriály!27",
+    "Nakupovani_2020",
+    "Veselá!82"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1999-01-04"
+}

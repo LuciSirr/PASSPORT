@@ -1,0 +1,38 @@
+{
+  "id": "40f2e7d5-dbac-40da-90da-1ec83149dc77",
+  "gender": "female",
+  "age": 7,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "MacLeod",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Willow"
+    }
+  ],
+  "company": "Edinburgh Study Support",
+  "previous_passwords": [
+    "Maisie2017",
+    "WillowCat7",
+    "MacLeod123",
+    "drawing4fun",
+    "Edinburgh2016",
+    "reading_7",
+    "Will0w!",
+    "Maisie_MacLeod",
+    "studySupport17"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2018-11-10"
+}

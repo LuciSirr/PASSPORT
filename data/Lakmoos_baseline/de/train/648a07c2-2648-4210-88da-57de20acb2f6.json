@@ -1,0 +1,35 @@
+{
+  "id": "648a07c2-2648-4210-88da-57de20acb2f6",
+  "gender": "male",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "brandenburg",
+  "nationality": "german",
+  "car_brand": "Hyundai",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobooks",
+    "streaming"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lennart1998",
+    "Ioniq5_2021",
+    "Brandenburg123",
+    "Krause!19",
+    "Sommerurlaub21",
+    "Hyundai485",
+    "Berlin2020",
+    "Audiobook2022",
+    "Reisen!07",
+    "Krause_1234"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "2000-03-19"
+}

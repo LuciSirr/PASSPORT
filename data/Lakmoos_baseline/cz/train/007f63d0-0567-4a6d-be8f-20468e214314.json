@@ -1,0 +1,41 @@
+{
+  "id": "007f63d0-0567-4a6d-be8f-20468e214314",
+  "gender": "female",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "hudba",
+    "netflix",
+    "procházky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Míca"
+    }
+  ],
+  "company": "Hradecké služby s.r.o.",
+  "previous_passwords": [
+    "Tereza2008",
+    "Míca123",
+    "Veselá15",
+    "malování2022",
+    "Hudba_321",
+    "NetflixVesela",
+    "RobinOil15",
+    "StarbucksCZ",
+    "Prochazky!",
+    "Míca2008"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2011-01-18"
+}

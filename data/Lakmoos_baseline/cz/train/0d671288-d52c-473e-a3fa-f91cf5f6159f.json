@@ -1,0 +1,40 @@
+{
+  "id": "0d671288-d52c-473e-a3fa-f91cf5f6159f",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "malování",
+    "hudba"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2008",
+    "mujbyt39",
+    "lidl988",
+    "zootfashion",
+    "voda123",
+    "Micka2020",
+    "Hudba!321",
+    "Vesela16",
+    "Malovani_08",
+    "Nakupovani123"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "2009-06-17"
+}

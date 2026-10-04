@@ -1,0 +1,34 @@
+{
+  "id": "9883f4e0-1e7c-440b-9702-042c3cce3251",
+  "gender": "male",
+  "age": 39,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Škoda",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "travel"
+  ],
+  "pets": [],
+  "company": "Yorkshire Freight Solutions",
+  "previous_passwords": [
+    "Gareth1985",
+    "Rachel4ever",
+    "Kodiaq2016",
+    "Yorkshire123",
+    "Hollings!19",
+    "Travel2022",
+    "Skoda4WD",
+    "Gardening88",
+    "Freightman2"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1986-05-23"
+}

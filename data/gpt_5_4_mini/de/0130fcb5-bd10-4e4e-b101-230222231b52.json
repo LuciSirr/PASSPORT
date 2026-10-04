@@ -1,0 +1,35 @@
+{
+  "id": "0130fcb5-bd10-4e4e-b101-230222231b52",
+  "age": 34,
+  "birth_date": "1992-03-14",
+  "marital_status": "married",
+  "region": "Eisenhüttenstadt",
+  "nationality": "german",
+  "company": "Liebelt AG & Co. KG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Nils",
+  "self_last_name": "Löwer",
+  "partner_first_name": "Ira",
+  "partner_last_name": "Löwer",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Kochen",
+    "Gaming",
+    "Wandern"
+  ],
+  "previous_passwords": [
+    "IraFussball92",
+    "Bayern14!",
+    "VW_kochen34",
+    "Radfahren92!",
+    "GamingNils24",
+    "Hiking1992",
+    "KochenIra14",
+    "EFC2024!",
+    "Wandern_34",
+    "Volkswagen92"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "35bb8c64-0338-4c66-866d-69728a4c6941",
+  "gender": "male",
+  "age": 2,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finlay",
+  "self_last_name": "Macrae",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dinosaurs"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rolo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Finlay2022",
+    "Rolo123",
+    "Macrae22",
+    "DinoLover!",
+    "Drawing4Fun",
+    "Rolo2023",
+    "FinlayRolo",
+    "MacraeDog1"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2023-12-28"
+}

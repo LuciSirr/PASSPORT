@@ -1,0 +1,39 @@
+{
+  "id": "07ad8419-4b7d-48d5-beb3-331fb840df9c",
+  "gender": "female",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lesen",
+    "malen",
+    "schwimmen"
+  ],
+  "pets": [
+    {
+      "pet_type": "katze",
+      "pet_name": "Mimi"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Lina2013",
+    "Mimi123",
+    "Kreutzmann10",
+    "Lesen4Spaß",
+    "Mal3n2020",
+    "Niedersachsen07",
+    "Mimi!2022",
+    "Lina_Mimi",
+    "Katze2021"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "2015-11-16"
+}

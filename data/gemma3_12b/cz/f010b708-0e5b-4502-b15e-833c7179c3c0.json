@@ -1,0 +1,35 @@
+{
+  "id": "f010b708-0e5b-4502-b15e-833c7179c3c0",
+  "age": 54,
+  "birth_date": "1972-08-11",
+  "marital_status": "married",
+  "region": "Moravský Beroun",
+  "nationality": "czech",
+  "company": "Stejskal Polák k.s.",
+  "car_brand": "Opel",
+  "self_first_name": "Judita",
+  "self_last_name": "Hrušková",
+  "partner_first_name": "Emil",
+  "partner_last_name": "Hrušková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivovarnictví",
+    "návštěva zámků",
+    "folklór"
+  ],
+  "previous_passwords": [
+    "MoravskyB11",
+    "RybarstvI_1972",
+    "ZamekHluboka88",
+    "OpelCorsaJudita",
+    "TuristikaEmil!",
+    "PivovarnictviBeroun",
+    "FolklórJudita23",
+    "JesenCastle72",
+    "BerounTurista!",
+    "MessiFanJudita"
+  ]
+}

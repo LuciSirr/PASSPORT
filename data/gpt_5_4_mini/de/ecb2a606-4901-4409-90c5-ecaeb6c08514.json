@@ -1,0 +1,43 @@
+{
+  "id": "ecb2a606-4901-4409-90c5-ecaeb6c08514",
+  "age": 25,
+  "birth_date": "2001-07-02",
+  "marital_status": "married",
+  "region": "Schweinfurt",
+  "nationality": "german",
+  "company": "Anders e.G.",
+  "car_brand": "BMW",
+  "self_first_name": "John",
+  "self_last_name": "Karz",
+  "partner_first_name": "Sina",
+  "partner_last_name": "Riehl",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Ludwig"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Rupert"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Fitness",
+    "Kochen"
+  ],
+  "previous_passwords": [
+    "Bayern2001!",
+    "LudwigGym25",
+    "BMWKick01",
+    "SinaKochen7",
+    "RupertPlay!",
+    "Football25_JK",
+    "Fitness2001",
+    "KochenSina!",
+    "KarzGaming01",
+    "Schweinfurt9"
+  ]
+}

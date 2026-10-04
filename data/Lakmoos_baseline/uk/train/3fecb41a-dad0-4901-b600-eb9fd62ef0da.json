@@ -1,0 +1,39 @@
+{
+  "id": "3fecb41a-dad0-4901-b600-eb9fd62ef0da",
+  "gender": "male",
+  "age": 35,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gareth",
+  "self_last_name": "Mellor",
+  "partner_first_name": "Leanne",
+  "partner_last_name": "Mellor",
+  "children": [],
+  "interests": [
+    "fishing",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Mellor Property Services",
+  "previous_passwords": [
+    "Gareth1989",
+    "Baxter123",
+    "Mellor11",
+    "Leanne4eva",
+    "Fishing2020",
+    "Mellor!89",
+    "Baxter!2021",
+    "Gardening1",
+    "LeanneMellor",
+    "MellorFishing"
+  ],
+  "favorite_hobby": "fishing",
+  "birth_date": "1991-01-14"
+}

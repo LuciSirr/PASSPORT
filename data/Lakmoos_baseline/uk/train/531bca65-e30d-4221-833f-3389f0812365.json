@@ -1,0 +1,35 @@
+{
+  "id": "531bca65-e30d-4221-833f-3389f0812365",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "KIA",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "walking",
+    "travelling",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "Hollings Construction Services",
+  "previous_passwords": [
+    "Gareth1984",
+    "RachelHollings1",
+    "KiaPicanto17",
+    "Walking123",
+    "Hollings3000",
+    "Adventure!84",
+    "SouthEastUK",
+    "Rachel1987",
+    "KiaTurbo998",
+    "Travelling_19"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1986-02-14"
+}

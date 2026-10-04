@@ -1,0 +1,40 @@
+{
+  "id": "4bd8570f-341f-4428-87bc-dd3371e24812",
+  "age": 37,
+  "birth_date": "1989-09-30",
+  "marital_status": "married",
+  "region": "Nalžovské Hory",
+  "nationality": "czech",
+  "company": "Čermáková Dostálová k.s.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Marcela",
+  "self_last_name": "Vítková",
+  "partner_first_name": "Oto",
+  "partner_last_name": "Vítková",
+  "children": [
+    {
+      "first_name": "Matyáš",
+      "last_name": "Kratochvíl"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "hokej",
+    "grilování",
+    "chalupaření",
+    "domácí kutilství"
+  ],
+  "previous_passwords": [
+    "Turistika89!",
+    "Hokej2024",
+    "Grilovani30",
+    "ChalupaHory89",
+    "Kutil_1989",
+    "Hyundai37!",
+    "OtoviHokej30",
+    "MatyasTur89",
+    "VysocinaKutil1",
+    "GulasGrill89"
+  ]
+}

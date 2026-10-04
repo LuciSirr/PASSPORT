@@ -1,0 +1,40 @@
+{
+  "id": "d1141a23-459d-4c12-8b95-07a45e1ecce0",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Gareth",
+  "self_last_name": "Mansfield",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Mansfield",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "photography"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "South Coast Ventures",
+  "previous_passwords": [
+    "Gareth1983",
+    "Rachel4ever",
+    "Baxter123",
+    "CupraLeon20",
+    "Mansfield16",
+    "Travel!2022",
+    "Cycling_88",
+    "SouthCoast99",
+    "Baxter!3",
+    "Rachel_1983"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1984-05-28"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b712a85e-1e89-4e01-a61d-068e1bee4a50",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Seat",
+  "self_first_name": "Callum",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "hiking",
+    "cycling",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Westmoor Care Services",
+  "previous_passwords": [
+    "Callum1989",
+    "Leon38355",
+    "Hatherleigh1",
+    "Westmoor2020",
+    "Hiking123",
+    "SeatLeon20",
+    "Reading4Life",
+    "Cycling_89",
+    "SouthWest!",
+    "Carework2021"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1991-04-07"
+}

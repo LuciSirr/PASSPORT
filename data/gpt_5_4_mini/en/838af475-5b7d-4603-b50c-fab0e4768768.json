@@ -1,0 +1,40 @@
+{
+  "id": "838af475-5b7d-4603-b50c-fab0e4768768",
+  "age": 54,
+  "birth_date": "1972-10-12",
+  "marital_status": "married",
+  "region": "Smithfort",
+  "nationality": "english",
+  "company": "Barber-Marsh",
+  "car_brand": "Audi",
+  "self_first_name": "Stuart",
+  "self_last_name": "James",
+  "partner_first_name": "Eileen",
+  "partner_last_name": "James",
+  "children": [
+    {
+      "first_name": "Joyce",
+      "last_name": "James"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "classic rock",
+    "cooking",
+    "local football"
+  ],
+  "previous_passwords": [
+    "EileenRoses72",
+    "AudiRock77!",
+    "JoyceWalk12",
+    "StonesSmith72",
+    "Cook4Eileen!",
+    "Gardener72_",
+    "SmithfortFC54",
+    "EileenGolf12",
+    "AudiCook72",
+    "JamesWalk54!"
+  ]
+}

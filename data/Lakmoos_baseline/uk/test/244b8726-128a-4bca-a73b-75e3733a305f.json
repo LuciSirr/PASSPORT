@@ -1,0 +1,49 @@
+{
+  "id": "244b8726-128a-4bca-a73b-75e3733a305f",
+  "gender": "male",
+  "age": 31,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Volvo",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollingsworth",
+  "children": [
+    {
+      "first_name": "Oscar",
+      "last_name": "Hollingsworth"
+    },
+    {
+      "first_name": "Amelia",
+      "last_name": "Hollingsworth"
+    }
+  ],
+  "interests": [
+    "top gear",
+    "football",
+    "fishing"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Yorkshire Motor Trade Ltd",
+  "previous_passwords": [
+    "Baxter2010",
+    "Sophie93!",
+    "Hollingsworth123",
+    "TopGear07",
+    "Fishing4Life",
+    "Football1993",
+    "Baxter_TopGear",
+    "Yorkshire07",
+    "CallumSophie",
+    "Baxter!93"
+  ],
+  "favorite_hobby": "top gear",
+  "birth_date": "1993-07-15"
+}

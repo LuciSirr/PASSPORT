@@ -1,0 +1,35 @@
+{
+  "id": "2a282f76-3f16-4b10-880f-e5a115a5890f",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "married",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radka",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "turistika",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "Plzeňská výroba s.r.o.",
+  "previous_passwords": [
+    "Radka1984",
+    "PetrVesely39",
+    "Turistika2022",
+    "BezAuta123",
+    "Plzen_67",
+    "VeselaPetr2020",
+    "Nakupovani!",
+    "Jaro2022",
+    "LidlRohlik67",
+    "RadkaPetr2023"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1987-01-01"
+}

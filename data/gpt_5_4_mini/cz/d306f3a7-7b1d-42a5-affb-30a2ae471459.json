@@ -1,0 +1,35 @@
+{
+  "id": "d306f3a7-7b1d-42a5-affb-30a2ae471459",
+  "age": 39,
+  "birth_date": "1987-11-05",
+  "marital_status": "single",
+  "region": "Úterý",
+  "nationality": "czech",
+  "company": "Matoušková",
+  "car_brand": "Škoda",
+  "self_first_name": "Markéta",
+  "self_last_name": "Marešová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "hokej",
+    "zahradničení",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Turistika87!",
+    "SkodaHike87",
+    "Hokej1987",
+    "CykloMare5",
+    "Zahrada11!",
+    "CeskeFilmy87",
+    "Ut7ri_Hike",
+    "Maresova87",
+    "HokejSkoda5",
+    "Turistika05"
+  ]
+}

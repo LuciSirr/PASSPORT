@@ -1,0 +1,35 @@
+{
+  "id": "2ee7b990-ee8f-456e-bc89-ee861d96460a",
+  "age": 50,
+  "birth_date": "1976-03-27",
+  "marital_status": "divorced",
+  "region": "New Amelia",
+  "nationality": "english",
+  "company": "Holmes-Spencer",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Kate",
+  "self_last_name": "Powell",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gardening",
+    "hiking",
+    "classic rock",
+    "home cooking",
+    "local baseball"
+  ],
+  "previous_passwords": [
+    "Roses27!",
+    "Pine76_Hike",
+    "Zeppelin27",
+    "Garden76!",
+    "VolksRock76",
+    "Baseball27!",
+    "NewAmelia76",
+    "Cook27_VW",
+    "HikeMar76",
+    "PowellRocks76"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "5a65b42c-06fb-45ae-85b4-113de94a7d26",
+  "gender": "female",
+  "age": 60,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Mini",
+  "self_first_name": "Heike",
+  "self_last_name": "Krause",
+  "birth_date": "1964-07-15",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Krause",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Gesundheitszentrum Rheinblick",
+  "previous_passwords": [
+    "Mia2019",
+    "Lukas12!",
+    "Minka_64",
+    "Krause2020",
+    "Pilcher123",
+    "NordicWalk!21",
+    "HeikeJürgen07",
+    "MiaLukas05",
+    "MinkaPilcher",
+    "Rheinblick2022"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

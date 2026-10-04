@@ -1,0 +1,35 @@
+{
+  "id": "2cdb8538-606e-4f99-9582-a67251d13823",
+  "gender": "female",
+  "age": 52,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "křížovky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Základní škola Praha-Východ",
+  "previous_passwords": [
+    "Fabia1999",
+    "Praha52",
+    "Bonprix2020",
+    "Globus123",
+    "VodaBezCukru",
+    "Cteni2024",
+    "Krizovky!52",
+    "Vranova1972",
+    "Nakupovani_123",
+    "SkodaFabia21"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1973-10-01"
+}

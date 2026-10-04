@@ -1,0 +1,35 @@
+{
+  "id": "195b00c1-b0c4-454a-a2fe-cd448df5d99f",
+  "gender": "male",
+  "age": 54,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šimáček",
+  "birth_date": "1970-06-15",
+  "partner_first_name": "Ivana",
+  "partner_last_name": "Šimáčková",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "pilsner urquell",
+    "ivysilani"
+  ],
+  "pets": [],
+  "company": "Moravský Strojírenský závod s.r.o.",
+  "previous_passwords": [
+    "Radek1970",
+    "Simacek!54",
+    "Ivana2020",
+    "Pilsner123",
+    "Fotbal_1970",
+    "Morava2022",
+    "ivysilani_135",
+    "ScoutEstate19",
+    "Šimáček2024",
+    "Benzina1373"
+  ],
+  "favorite_hobby": "fotbal"
+}

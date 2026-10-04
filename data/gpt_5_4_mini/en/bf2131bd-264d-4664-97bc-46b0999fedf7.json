@@ -1,0 +1,44 @@
+{
+  "id": "bf2131bd-264d-4664-97bc-46b0999fedf7",
+  "age": 33,
+  "birth_date": "1993-03-18",
+  "marital_status": "married",
+  "region": "South Lorraine",
+  "nationality": "english",
+  "company": "Smith, Harris and Thomas",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Anthony",
+  "self_last_name": "Graham",
+  "partner_first_name": "Georgia",
+  "partner_last_name": "Graham",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Rosemary"
+    },
+    {
+      "pet_type": "ferret",
+      "pet_name": "Rachel"
+    }
+  ],
+  "interests": [
+    "football",
+    "gaming",
+    "cooking",
+    "hiking",
+    "podcasts"
+  ],
+  "previous_passwords": [
+    "Messi93!",
+    "Graham93_",
+    "VWfootball18",
+    "Georgia33!",
+    "RosieFerret93",
+    "RachelHike33",
+    "JoeRogan93",
+    "Cooking18!",
+    "SouthLorraine33",
+    "GamingVW93!"
+  ]
+}

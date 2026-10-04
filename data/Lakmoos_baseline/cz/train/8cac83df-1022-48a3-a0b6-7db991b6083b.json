@@ -1,0 +1,34 @@
+{
+  "id": "8cac83df-1022-48a3-a0b6-7db991b6083b",
+  "gender": "male",
+  "age": 82,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kozdera",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Kozdera",
+  "children": [],
+  "interests": [
+    "procházky",
+    "čtení",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1942",
+    "MarieKozdera59",
+    "prochazky123",
+    "zahrada82",
+    "Kozdera!1968",
+    "Mattoni82",
+    "hradec59",
+    "penny645",
+    "voda1968"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1944-01-17"
+}

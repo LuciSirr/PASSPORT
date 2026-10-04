@@ -1,0 +1,38 @@
+{
+  "id": "2562ca7a-f3de-4f59-8efd-2298883d20de",
+  "gender": "female",
+  "age": 33,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Harriet",
+  "self_last_name": "Merriton",
+  "partner_first_name": "Simon",
+  "partner_last_name": "Merriton",
+  "children": [],
+  "interests": [
+    "baking",
+    "walking",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Peak View Guesthouse",
+  "previous_passwords": [
+    "Milo2019",
+    "Harriet33",
+    "Simon4Ever",
+    "Baking123",
+    "Merriton2020",
+    "Gardening!",
+    "PeakView21",
+    "Walking_88"
+  ],
+  "favorite_hobby": "baking",
+  "birth_date": "1993-02-23"
+}

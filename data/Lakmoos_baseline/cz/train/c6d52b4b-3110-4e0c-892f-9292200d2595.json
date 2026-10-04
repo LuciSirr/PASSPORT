@@ -1,0 +1,39 @@
+{
+  "id": "c6d52b4b-3110-4e0c-892f-9292200d2595",
+  "gender": "male",
+  "age": 1,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matyáš",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "lego",
+    "pohádky"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matyas2023",
+    "Maminka123",
+    "Plzenko",
+    "Auticko",
+    "Benek2024",
+    "Vesely1",
+    "Lego123",
+    "Malovani!",
+    "Pohadky2023"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2024-05-02"
+}

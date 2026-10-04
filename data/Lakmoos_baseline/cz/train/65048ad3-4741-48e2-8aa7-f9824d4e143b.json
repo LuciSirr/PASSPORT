@@ -1,0 +1,35 @@
+{
+  "id": "65048ad3-4741-48e2-8aa7-f9824d4e143b",
+  "gender": "male",
+  "age": 69,
+  "marital_status": "divorced",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "televize",
+    "zahrada",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Stavby Olomouc s.r.o.",
+  "previous_passwords": [
+    "Radomir1955",
+    "Fabia2007",
+    "Kofola67",
+    "Lidl1234",
+    "Olomouc79",
+    "Pilsner201",
+    "Zahrada2020",
+    "Vesely!67",
+    "AutoFabia16",
+    "Televize123"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1956-08-18"
+}

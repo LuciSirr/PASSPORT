@@ -1,0 +1,35 @@
+{
+  "id": "a8434141-239e-446e-9183-09bdf4c56197",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselková",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselka",
+  "children": [],
+  "interests": [
+    "čtení",
+    "turistika",
+    "plavání"
+  ],
+  "pets": [],
+  "company": "Pražská Energetika Servis",
+  "previous_passwords": [
+    "Ivana1979",
+    "PetrVeselka2020",
+    "LetniByt45",
+    "Kofola!123",
+    "Praha2020",
+    "Turistika789",
+    "Cteni_2024",
+    "Veselka1979",
+    "Globus123",
+    "Plavani77"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1981-02-20"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e3605d7b-4395-41b5-acf5-062fb81ba51f",
+  "gender": "female",
+  "age": 71,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gisela",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Heinz",
+  "partner_last_name": "Kronenberg",
+  "children": [],
+  "interests": [
+    "stricken",
+    "gartenarbeit",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "Kronenberg Beratung & Handel",
+  "previous_passwords": [
+    "Gisela1953",
+    "Heinz123",
+    "Kronenberg!71",
+    "Stricken2020",
+    "Niedersachsen53",
+    "Gartenarbeit_1",
+    "Lesen!2022",
+    "GiselaHeinz",
+    "OmaKronenberg",
+    "September09"
+  ],
+  "favorite_hobby": "stricken",
+  "birth_date": "1954-04-19"
+}

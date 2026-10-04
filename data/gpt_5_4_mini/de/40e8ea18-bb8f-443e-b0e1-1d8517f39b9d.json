@@ -1,0 +1,45 @@
+{
+  "id": "40e8ea18-bb8f-443e-b0e1-1d8517f39b9d",
+  "age": 39,
+  "birth_date": "1987-02-20",
+  "marital_status": "married",
+  "region": "Bremen",
+  "nationality": "german",
+  "company": "Killer e.G.",
+  "car_brand": "Opel",
+  "self_first_name": "Gisbert",
+  "self_last_name": "Dietz",
+  "partner_first_name": "Ante",
+  "partner_last_name": "Dietz",
+  "children": [
+    {
+      "first_name": "Janus",
+      "last_name": "Dietz"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Ludger"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Kochen",
+    "Radfahren",
+    "Norddeutsche Küche",
+    "Werder Bremen"
+  ],
+  "previous_passwords": [
+    "Werder87!",
+    "OpelBremen39",
+    "KochenJanus87",
+    "Nordsee87_",
+    "RadelnDietz39",
+    "Fussball88!",
+    "AnteKocht87",
+    "LudgerBremen1",
+    "WeserKochen39",
+    "WerderJanus20"
+  ]
+}

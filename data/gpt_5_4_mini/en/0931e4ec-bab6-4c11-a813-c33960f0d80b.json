@@ -1,0 +1,35 @@
+{
+  "id": "0931e4ec-bab6-4c11-a813-c33960f0d80b",
+  "age": 36,
+  "birth_date": "1990-07-09",
+  "marital_status": "married",
+  "region": "Charlottemouth",
+  "nationality": "english",
+  "company": "Smith, Randall and Kaur",
+  "car_brand": "Dacia",
+  "self_first_name": "Keith",
+  "self_last_name": "Nicholls",
+  "partner_first_name": "Sheila",
+  "partner_last_name": "Nicholls",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hockey",
+    "cooking",
+    "hiking",
+    "podcasts",
+    "live music"
+  ],
+  "previous_passwords": [
+    "Hockey90!",
+    "Dacia1990",
+    "HikeCharl0tte",
+    "SheilaHockey7",
+    "CookWithKeith90",
+    "PodcastsJuly09",
+    "LiveMusic36!",
+    "HockeyDacia90",
+    "Hike&Cook1990",
+    "SheilaLive90"
+  ]
+}

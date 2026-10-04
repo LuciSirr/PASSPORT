@@ -1,0 +1,36 @@
+{
+  "id": "49516f56-fa92-4486-a2de-ca37849737ba",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šebestová",
+  "children": [],
+  "interests": [
+    "čtení",
+    "procházky",
+    "křížovky",
+    "vzdělávání"
+  ],
+  "pets": [],
+  "company": "Zdraví a Sociální Péče Jihočeský kraj",
+  "previous_passwords": [
+    "Ivana1972",
+    "Sebestova43000",
+    "PetrIvana2020",
+    "Prochazka79",
+    "Krizovky123",
+    "AlbertGlobus1",
+    "ZdraviJihocechy!",
+    "Cteni1972",
+    "SebestovaPetr!",
+    "UceniNove"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1965-01-31"
+}

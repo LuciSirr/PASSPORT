@@ -1,0 +1,39 @@
+{
+  "id": "6dd74103-b053-472c-b6cb-773098ad54d3",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Renault",
+  "self_first_name": "Heike",
+  "self_last_name": "Schwanitz",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Schwanitz",
+  "children": [],
+  "interests": [
+    "reisen",
+    "wandern"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Pflegezentrum Rheinblick",
+  "previous_passwords": [
+    "Heike1968",
+    "Minka123",
+    "Schwanitz3000",
+    "Jürgen!68",
+    "Rheinblick2020",
+    "Wandern_22",
+    "Pflegezentrum!",
+    "Sommerurlaub09",
+    "MinkaSchatz",
+    "HeikeReisen!"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1970-02-06"
+}

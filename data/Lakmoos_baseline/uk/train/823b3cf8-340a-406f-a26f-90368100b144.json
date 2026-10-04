@@ -1,0 +1,39 @@
+{
+  "id": "823b3cf8-340a-406f-a26f-90368100b144",
+  "gender": "female",
+  "age": 66,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gwyneth",
+  "self_last_name": "Penrose",
+  "partner_first_name": "Alun",
+  "partner_last_name": "Penrose",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Taffy"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Gwyneth1958",
+    "Penrose66",
+    "Taffy123",
+    "Knitting4Fun",
+    "AlunPenrose!",
+    "Wales2020",
+    "Gardening_58",
+    "Crosswords7",
+    "PenroseCat1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1959-07-08"
+}

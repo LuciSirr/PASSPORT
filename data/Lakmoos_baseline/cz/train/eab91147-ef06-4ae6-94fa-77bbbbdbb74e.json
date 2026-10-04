@@ -1,0 +1,36 @@
+{
+  "id": "eab91147-ef06-4ae6-94fa-77bbbbdbb74e",
+  "gender": "male",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Citroën",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "auta",
+    "nakupování",
+    "knihy"
+  ],
+  "pets": [],
+  "company": "Technologické služby Veselý",
+  "previous_passwords": [
+    "CitroenC4_2013",
+    "PennyMarket49",
+    "KFCobedy2022",
+    "tchiboMonster24",
+    "CentralniBohemia",
+    "Vesely1999",
+    "auta123",
+    "Nakupovani2021",
+    "Knihy!2020",
+    "RadekCz49"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "2002-03-14"
+}

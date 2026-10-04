@@ -1,0 +1,44 @@
+{
+  "id": "ed2678d9-af2a-45a2-bc00-efb3da01ff46",
+  "age": 27,
+  "birth_date": "1999-03-05",
+  "marital_status": "married",
+  "region": "Bad Freienwalde",
+  "nationality": "german",
+  "company": "Gute Stiftung & Co. KG",
+  "car_brand": "BMW",
+  "self_first_name": "Annaliese",
+  "self_last_name": "Haering",
+  "partner_first_name": "Denis",
+  "partner_last_name": "Haering",
+  "children": [
+    {
+      "first_name": "Mara",
+      "last_name": "Haering"
+    },
+    {
+      "first_name": "Priska",
+      "last_name": "Haering"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Techno-Musik",
+    "Wandern",
+    "Videospiele",
+    "Fotografie",
+    "Reisen"
+  ],
+  "previous_passwords": [
+    "TechnoKraft27",
+    "MaraDenisFoto!",
+    "WanderlustBMW99",
+    "PriskaJoergRogan",
+    "BadFreienwaldeMara",
+    "VideoGameMara2024",
+    "HaeringDenisTech",
+    "ReisenPriska1999",
+    "BMWPriskaHaering",
+    "TechnoMara27!"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c2c92287-ba78-4a6b-9240-2c4abf1031e3",
+  "age": 39,
+  "birth_date": "1987-01-05",
+  "marital_status": "single",
+  "region": "Quedlinburg",
+  "nationality": "german",
+  "company": "Weinhage Herrmann e.G.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Siegrun",
+  "self_last_name": "Spieß",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Lokaler Fußballverein",
+    "Klassische Musik",
+    "Gute Küche"
+  ],
+  "previous_passwords": [
+    "Wandern2008",
+    "Messi19Quedlinburg",
+    "FotografieSpieß87",
+    "Hyundai_Klassik!",
+    "BachFoto24",
+    "LokalerFcSiegrun",
+    "GuteKueche1987",
+    "WanderlustSiegrun",
+    "FotoBach2023",
+    "HyundaiQu_87"
+  ]
+}

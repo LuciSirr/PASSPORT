@@ -1,0 +1,38 @@
+{
+  "id": "07066f61-ae3a-4f36-b819-cae22cfd16b6",
+  "gender": "male",
+  "age": 54,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Graham",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "gardening",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Eastfield Business Solutions",
+  "previous_passwords": [
+    "Graham1969",
+    "FionaMerrick123",
+    "Baxter!2020",
+    "Eastfield13",
+    "Polestar2",
+    "Gardening4",
+    "Merrick_69",
+    "Cycling2021",
+    "BaxterDog1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1972-02-07"
+}

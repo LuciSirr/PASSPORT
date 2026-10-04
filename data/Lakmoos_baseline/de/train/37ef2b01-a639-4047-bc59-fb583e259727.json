@@ -1,0 +1,35 @@
+{
+  "id": "37ef2b01-a639-4047-bc59-fb583e259727",
+  "gender": "male",
+  "age": 37,
+  "marital_status": "married",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "Škoda",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "partner_first_name": "Anja",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "podcasts",
+    "reisen",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Nordlicht IT Beratung",
+  "previous_passwords": [
+    "Jens1987",
+    "AnjaKrause2020",
+    "Skoda112",
+    "MeckPom!123",
+    "Fotografie2021",
+    "Nordlicht_5",
+    "Krause!5000",
+    "ReisenMai",
+    "AOK_1978",
+    "Schatz07"
+  ],
+  "favorite_hobby": "podcasts",
+  "birth_date": "1989-03-16"
+}

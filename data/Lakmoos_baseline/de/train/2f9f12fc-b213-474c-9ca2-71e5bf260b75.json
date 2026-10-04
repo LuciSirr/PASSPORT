@@ -1,0 +1,35 @@
+{
+  "id": "2f9f12fc-b213-474c-9ca2-71e5bf260b75",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Hyundai",
+  "self_first_name": "Annika",
+  "self_last_name": "Schrader",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "audiobooks",
+    "reisen",
+    "autos"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Annika1997",
+    "Tucson2020",
+    "Jeep!123",
+    "Schrader88",
+    "Sommer!24",
+    "OpelCorsa21",
+    "BKK2024",
+    "Reisen_06",
+    "Allianz!",
+    "Audi0b00ks"
+  ],
+  "favorite_hobby": "audiobooks",
+  "birth_date": "1998-07-11"
+}

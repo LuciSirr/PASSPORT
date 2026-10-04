@@ -1,0 +1,40 @@
+{
+  "id": "71fb2668-b668-4f33-80f7-96f5101bc77a",
+  "gender": "male",
+  "age": 38,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1986-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "cestovani",
+    "fotbal",
+    "moda"
+  ],
+  "pets": [],
+  "company": "Central Reality s.r.o.",
+  "previous_passwords": [
+    "Matej2019",
+    "Kohout59",
+    "cestovani123",
+    "Radek1986",
+    "moda2020",
+    "fotbal86",
+    "KohoutMatěj19",
+    "CentralReality2023",
+    "Globus560",
+    "Radek!moda"
+  ],
+  "favorite_hobby": "cestovani"
+}

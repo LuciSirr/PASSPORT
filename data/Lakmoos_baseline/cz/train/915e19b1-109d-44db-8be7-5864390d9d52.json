@@ -1,0 +1,36 @@
+{
+  "id": "915e19b1-109d-44db-8be7-5864390d9d52",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "auta",
+    "cestování",
+    "nakupování",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Krajský úřad Ústí nad Labem",
+  "previous_passwords": [
+    "Toyota2011",
+    "Kofola123",
+    "Usti2020",
+    "HiluxRevo",
+    "Lidl995",
+    "Petra2017",
+    "RadekPetra22",
+    "Vesely1987",
+    "auta2023",
+    "Focus!999"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1999-01-08"
+}

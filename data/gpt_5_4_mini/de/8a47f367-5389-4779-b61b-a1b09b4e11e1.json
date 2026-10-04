@@ -1,0 +1,44 @@
+{
+  "id": "8a47f367-5389-4779-b61b-a1b09b4e11e1",
+  "age": 43,
+  "birth_date": "1983-06-04",
+  "marital_status": "divorced",
+  "region": "Dieburg",
+  "nationality": "german",
+  "company": "Röhricht Jacobi Jäckel e.V.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Nathalie",
+  "self_last_name": "Bonbach",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Hans-Christian"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Leonore"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Radfahren",
+    "Kochen",
+    "Tatort"
+  ],
+  "previous_passwords": [
+    "Tatort1983!",
+    "HSV_Dieburg43",
+    "VWfahrrad83",
+    "Kochen04_Hans",
+    "Wandern_0604",
+    "Leonore2023!",
+    "Radtour83!",
+    "BVB_Nathalie4",
+    "Fußball83!",
+    "Hamster04Die"
+  ]
+}

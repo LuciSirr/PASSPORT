@@ -1,0 +1,44 @@
+{
+  "id": "1250b92c-6741-486f-b50a-1333b08ec924",
+  "age": 30,
+  "birth_date": "1996-08-17",
+  "marital_status": "single",
+  "region": "Siegen",
+  "nationality": "german",
+  "company": "Schweitzer GmbH & Co. KGaA",
+  "car_brand": "Hyundai",
+  "self_first_name": "Horst",
+  "self_last_name": "Eberth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Zoran"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Aurelia"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Gaming",
+    "E-Bikes"
+  ],
+  "previous_passwords": [
+    "BVB1996!",
+    "Kochen97_Horst",
+    "AureliaCat08",
+    "HyundaiSiegen96",
+    "Wandern_17!",
+    "FIFA_Horst30",
+    "ZoranGaming96",
+    "Ebike2024!",
+    "Mueller96_Fuss",
+    "KochBVB17"
+  ]
+}

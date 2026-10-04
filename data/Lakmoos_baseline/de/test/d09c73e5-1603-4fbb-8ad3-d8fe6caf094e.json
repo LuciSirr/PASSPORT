@@ -1,0 +1,32 @@
+{
+  "id": "d09c73e5-1603-4fbb-8ad3-d8fe6caf094e",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lukas",
+  "self_last_name": "Kuhn",
+  "birth_date": "2018-06-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "sandkasten"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2021",
+    "pawpatrol123",
+    "KuhnSandkasten",
+    "pawpatrol!21",
+    "Sandkasten2021",
+    "LukasPaw",
+    "Kuhn_14",
+    "pawKuhn2021"
+  ],
+  "favorite_hobby": "paw patrol"
+}

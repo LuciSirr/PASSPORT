@@ -1,0 +1,49 @@
+{
+  "id": "2144ee80-f1c4-47b5-8b38-b19684e93705",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "divorced",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Jakub",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "kutilství",
+    "filmy"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Stavby Karlovarsko",
+  "previous_passwords": [
+    "Vesely1970",
+    "Jakub2014",
+    "Tereza2018",
+    "Rex123",
+    "StavbyKV59",
+    "Cestovani!2020",
+    "Kutil123",
+    "KarlovyVary_59",
+    "Filmy2024",
+    "Rex!Vesely"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1967-03-21"
+}

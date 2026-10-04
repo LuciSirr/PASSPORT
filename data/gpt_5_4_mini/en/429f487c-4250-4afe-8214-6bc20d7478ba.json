@@ -1,0 +1,44 @@
+{
+  "id": "429f487c-4250-4afe-8214-6bc20d7478ba",
+  "age": 25,
+  "birth_date": "2001-02-15",
+  "marital_status": "divorced",
+  "region": "North Jennabury",
+  "nationality": "english",
+  "company": "Hargreaves Group",
+  "car_brand": "Skoda",
+  "self_first_name": "Phillip",
+  "self_last_name": "Morris",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Aaron"
+    },
+    {
+      "pet_type": "snake",
+      "pet_name": "Jayne"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "fitness",
+    "streaming series",
+    "coffee culture",
+    "travel"
+  ],
+  "previous_passwords": [
+    "Phillip01!",
+    "Skoda25_Race",
+    "JayneGaming01",
+    "Coffee1975!",
+    "AaronSnake15",
+    "Netfix&Chill01",
+    "Travel01!Skoda",
+    "FitMorris25",
+    "StreamJayne01",
+    "NORTHJan15!"
+  ]
+}

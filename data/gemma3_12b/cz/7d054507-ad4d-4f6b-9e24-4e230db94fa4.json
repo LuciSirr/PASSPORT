@@ -1,0 +1,53 @@
+{
+  "id": "7d054507-ad4d-4f6b-9e24-4e230db94fa4",
+  "age": 26,
+  "birth_date": "2000-04-23",
+  "marital_status": "single",
+  "region": "Liběchov",
+  "nationality": "czech",
+  "company": "Kadlecová",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Miroslav",
+  "self_last_name": "Vávra",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Oldřich",
+      "last_name": "Vávra"
+    },
+    {
+      "first_name": "Jaroslava",
+      "last_name": "Vávrová"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Květa"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Jozef"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "hudba (Kapela: Kryštof)",
+    "cestování",
+    "vaření",
+    "fotografování"
+  ],
+  "previous_passwords": [
+    "Krystof2000!",
+    "Oldrich_Turistika",
+    "JaroslavaFoto23",
+    "MercedesLibechov",
+    "JosefKvěta1998",
+    "VařeníKrystof!",
+    "LibechovMessi",
+    "Turistika2024",
+    "FotografieJaroslava",
+    "CestovaniOldrich"
+  ]
+}

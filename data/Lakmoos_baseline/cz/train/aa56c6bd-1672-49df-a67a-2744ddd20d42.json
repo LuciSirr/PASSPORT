@@ -1,0 +1,39 @@
+{
+  "id": "aa56c6bd-1672-49df-a67a-2744ddd20d42",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "lego",
+    "kreslení"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "matysek2016",
+    "fotbal123",
+    "vesely8",
+    "lego2024",
+    "BenyPes1",
+    "Kresleni07",
+    "F0tbalek!",
+    "MatysekBeny",
+    "Vesely2023"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2018-02-02"
+}

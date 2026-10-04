@@ -1,0 +1,40 @@
+{
+  "id": "6504e5cd-6188-41ad-994e-6cd760f81929",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Polestar",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "reisen",
+    "autos",
+    "serien"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2009",
+    "Krause123",
+    "Polestar2!",
+    "Jens1979",
+    "Reisen2023",
+    "Serien_77",
+    "Lukas!15",
+    "NRW2024",
+    "AutoF4n",
+    "KrauseLukas"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1981-01-23"
+}

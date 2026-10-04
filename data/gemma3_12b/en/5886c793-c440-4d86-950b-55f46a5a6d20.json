@@ -1,0 +1,35 @@
+{
+  "id": "5886c793-c440-4d86-950b-55f46a5a6d20",
+  "age": 25,
+  "birth_date": "2001-09-19",
+  "marital_status": "married",
+  "region": "Liamtown",
+  "nationality": "english",
+  "company": "Sanders, Hudson and King",
+  "car_brand": "Ford",
+  "self_first_name": "Tom",
+  "self_last_name": "King",
+  "partner_first_name": "Maria",
+  "partner_last_name": "King",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Gaming",
+    "Photography",
+    "Hiking",
+    "Indie Music",
+    "Local Brewery Scene"
+  ],
+  "previous_passwords": [
+    "FordLiam2001",
+    "MariaHiking!",
+    "IndieBrewTom",
+    "Messi25King",
+    "Photography_2023",
+    "JoeRoganLiam",
+    "KingFordPics",
+    "LiamtownHike!",
+    "GamingTom19",
+    "BreweryFordMaria"
+  ]
+}

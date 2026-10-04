@@ -1,0 +1,36 @@
+{
+  "id": "65812472-3dc4-4d86-be92-c91dcc3dfd8b",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Vlach",
+  "partner_first_name": "Martina",
+  "partner_last_name": "Vlachová",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "houbaření",
+    "auta",
+    "grilování"
+  ],
+  "pets": [],
+  "company": "Severočeské strojírny",
+  "previous_passwords": [
+    "Radek1976",
+    "Martina48",
+    "Vlach1234",
+    "Karoq2017",
+    "Pilsner2020",
+    "UstiNadLabem!",
+    "Grilovani77",
+    "Houbareni2022",
+    "Fotbal_123",
+    "Tesco958"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1978-03-16"
+}

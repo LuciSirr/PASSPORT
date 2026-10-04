@@ -1,0 +1,35 @@
+{
+  "id": "9310028f-5dcc-482f-bdb1-5ddadd72eec4",
+  "age": 18,
+  "birth_date": "2008-12-20",
+  "marital_status": "single",
+  "region": "Büsingen am Hochrhein",
+  "nationality": "german",
+  "company": "Scheibe Mude AG & Co. KG",
+  "car_brand": "Audi",
+  "self_first_name": "Margita",
+  "self_last_name": "Zirme",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Fitness",
+    "TikTok",
+    "Bodensee-Ausflüge"
+  ],
+  "previous_passwords": [
+    "AudiFuss80!",
+    "Bodensee24",
+    "Tiktok2008!",
+    "GamingBusi18",
+    "FifaZirme08",
+    "Fitness20_A",
+    "Konstanz08!",
+    "MargitaFit8",
+    "AudiR8Bod!",
+    "BodenseeBVB"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "60b71d36-dd61-4dc9-99ee-14b31f349830",
+  "age": 28,
+  "birth_date": "1998-11-16",
+  "marital_status": "married",
+  "region": "Pec pod Sněžkou",
+  "nationality": "czech",
+  "company": "Kučera a.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Michael",
+  "self_last_name": "Tichý",
+  "partner_first_name": "Františka",
+  "partner_last_name": "Tichá",
+  "children": [
+    {
+      "first_name": "Stanislav",
+      "last_name": "Tichý"
+    },
+    {
+      "first_name": "Nikola",
+      "last_name": "Tichá"
+    },
+    {
+      "first_name": "Štěpánka",
+      "last_name": "Tichá"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika v Krkonoších",
+    "lyžování",
+    "cyklistika",
+    "wellness",
+    "fotbal"
+  ],
+  "previous_passwords": [
+    "Tichy1998!",
+    "SnezkaHike28",
+    "Frantiska96_",
+    "Toyota4x4CZ",
+    "Krakonos99!",
+    "StanislavBike7",
+    "Wellness11",
+    "LyzePec24",
+    "Tichy_Fotbal8",
+    "NikolaSnow98"
+  ]
+}

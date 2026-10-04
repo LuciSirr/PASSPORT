@@ -1,0 +1,35 @@
+{
+  "id": "858c34c7-4ece-4e3d-9220-6dd93d939527",
+  "age": 52,
+  "birth_date": "1974-01-03",
+  "marital_status": "divorced",
+  "region": "Mohelnice",
+  "nationality": "czech",
+  "company": "Němeček Marek o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Štěpánka",
+  "self_last_name": "Kratochvílová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "chalupaření",
+    "zahradničení",
+    "hokej",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Turistika74!",
+    "Skoda1974_hike",
+    "HoryMohelnice52",
+    "Chalupa2024!",
+    "Zahrada03_74",
+    "HokejBrno52!",
+    "CeskeFilmy74",
+    "Stepanka_Mountain74",
+    "MohelniceHike!52",
+    "SkodaHokej03"
+  ]
+}

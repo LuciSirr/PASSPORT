@@ -1,0 +1,36 @@
+{
+  "id": "e82b912e-35be-4503-9e09-9f17c562470c",
+  "gender": "female",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Barbora",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Tomáš",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "umění",
+    "snackování",
+    "vylepšování"
+  ],
+  "pets": [],
+  "company": "Liberecká vzdělávací agentura",
+  "previous_passwords": [
+    "Barbora1998",
+    "Tomáš26",
+    "Liberec_2024",
+    "Fabia2023",
+    "Makro4621",
+    "BarcaLiberec",
+    "Rohlik1391",
+    "Benu26",
+    "Umění123",
+    "Šebestová98"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "2000-01-21"
+}

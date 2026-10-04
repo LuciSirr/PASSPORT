@@ -1,0 +1,35 @@
+{
+  "id": "805ba663-bc9f-4113-8c82-42327d72b55e",
+  "age": 60,
+  "birth_date": "1966-07-06",
+  "marital_status": "single",
+  "region": "Jiříkov",
+  "nationality": "czech",
+  "company": "Němeček v.o.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Nikol",
+  "self_last_name": "Beránková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "zahradničení",
+    "turistika v Českém Švýcarsku",
+    "sledování hokeje",
+    "kutilství",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Svycarsko66!",
+    "Toyota66Zahrada",
+    "Hokej1966!",
+    "Kutilek66",
+    "CeskeFilmy66",
+    "TuristikaJirikov",
+    "Nikol66Hokej",
+    "Toyota_Jirikov",
+    "Zahrada07!",
+    "Berankova66"
+  ]
+}

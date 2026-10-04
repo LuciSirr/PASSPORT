@@ -1,0 +1,35 @@
+{
+  "id": "a91393a7-b994-4232-ba7d-66465fefa6e3",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Hyundai",
+  "self_first_name": "Bernd",
+  "self_last_name": "Krause",
+  "birth_date": "1957-06-14",
+  "partner_first_name": "Gisela",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "krimis"
+  ],
+  "pets": [],
+  "company": "Westfalen Maschinenbau GmbH",
+  "previous_passwords": [
+    "Tatort1957",
+    "Krause!66",
+    "Gisela14",
+    "Bundesliga2020",
+    "Krimis123",
+    "Westfalen57",
+    "BerndKrause1",
+    "GiselaTatort",
+    "Krause_1957",
+    "Tat0rt!14"
+  ],
+  "favorite_hobby": "tatort"
+}

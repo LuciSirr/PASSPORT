@@ -1,0 +1,40 @@
+{
+  "id": "4c1e9424-9ce2-4179-8c1f-ca0606bbbb65",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "divorced",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Land Rover",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Krause",
+  "birth_date": "1965-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "landrover",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2014",
+    "Tatort!65",
+    "Krause2997",
+    "LandRover_123",
+    "Juergen1965",
+    "Tat0rt_17",
+    "LukasKrause10",
+    "Audiobook2020",
+    "Krause!Landrover",
+    "Tatort_1965"
+  ],
+  "favorite_hobby": "tatort"
+}

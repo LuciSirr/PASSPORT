@@ -1,0 +1,39 @@
+{
+  "id": "1a4df60e-bdd3-471a-966e-308f6814ecad",
+  "gender": "female",
+  "age": 75,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Dacia",
+  "self_first_name": "Marjorie",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "midsomer murders"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Whiskers"
+    }
+  ],
+  "company": "Northwest Heritage Consulting",
+  "previous_passwords": [
+    "Whiskers2019",
+    "Marjorie49!",
+    "GeoffreyCat7",
+    "Midsomer123",
+    "Hollingsworth1949",
+    "Gardening4Life",
+    "Wh1sk3rs!",
+    "MidsomerMurders22",
+    "GeoffreyJune15",
+    "GardenCat49"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1949-06-15"
+}

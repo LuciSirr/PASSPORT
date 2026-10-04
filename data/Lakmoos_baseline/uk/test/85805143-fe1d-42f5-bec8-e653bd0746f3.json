@@ -1,0 +1,39 @@
+{
+  "id": "85805143-fe1d-42f5-bec8-e653bd0746f3",
+  "gender": "male",
+  "age": 69,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "classic cars",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Buster"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Buster2005",
+    "Malcolm55!",
+    "Elaine4ever",
+    "MiniHatch19",
+    "Gardening123",
+    "Hollingsworth04",
+    "ClassicCars_17",
+    "Buster!Elaine",
+    "MiniTurbo8",
+    "Gard3nDog"
+  ],
+  "favorite_hobby": "classic cars",
+  "birth_date": "1955-04-17"
+}

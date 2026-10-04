@@ -1,0 +1,35 @@
+{
+  "id": "72ea52ae-c00c-45ed-8fb1-bf93ffe88079",
+  "age": 39,
+  "birth_date": "1987-02-19",
+  "marital_status": "single",
+  "region": "Měčín",
+  "nationality": "czech",
+  "company": "Horváth k.s.",
+  "car_brand": "Citroën",
+  "self_first_name": "Norbert",
+  "self_last_name": "Strnad",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "grilování",
+    "zahrádkářství",
+    "hokej"
+  ],
+  "previous_passwords": [
+    "MecinFotbal87",
+    "CitroenHokej19!",
+    "Turistika1987",
+    "GrilovaniMecin7",
+    "Zahradka87!",
+    "CzechLionsHockey",
+    "StrnadHokej19",
+    "MecinTour87",
+    "Fotbal1987!",
+    "Gril88Mecin"
+  ]
+}

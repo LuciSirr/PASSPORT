@@ -1,0 +1,40 @@
+{
+  "id": "f79769a9-ae89-4ba7-a894-0b17e3d3d3e3",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Fiat",
+  "self_first_name": "Bethan",
+  "self_last_name": "Merrick",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Cymru Auto Spares",
+  "previous_passwords": [
+    "Bethan1994",
+    "MiloCat!",
+    "Merrick123",
+    "Gardening4Life",
+    "Fiat500_2018",
+    "CymruAuto94",
+    "Travel2020",
+    "Walking_1",
+    "Milo2022",
+    "Merr1ck!"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1995-09-07"
+}

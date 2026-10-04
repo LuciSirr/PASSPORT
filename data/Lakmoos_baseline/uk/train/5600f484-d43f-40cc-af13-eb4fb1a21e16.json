@@ -1,0 +1,41 @@
+{
+  "id": "5600f484-d43f-40cc-af13-eb4fb1a21e16",
+  "gender": "female",
+  "age": 43,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Hyundai",
+  "self_first_name": "Harriet",
+  "self_last_name": "Mansfield",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Mansfield",
+  "children": [],
+  "interests": [
+    "reading",
+    "gardening",
+    "travel",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Eastgate Management Solutions",
+  "previous_passwords": [
+    "Harriet1979",
+    "Baxter123",
+    "Mansfield!43",
+    "Oliver2023",
+    "Eastgate2020",
+    "Reading4Life",
+    "Travel_79",
+    "Gard3ning!",
+    "BaxterMansfield",
+    "Walking2022"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1983-02-15"
+}

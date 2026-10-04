@@ -1,0 +1,40 @@
+{
+  "id": "9344e032-06a4-4bbd-9078-6781cc4614d4",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Jaguar",
+  "self_first_name": "Leonie",
+  "self_last_name": "Schwanberg",
+  "partner_first_name": "Felix",
+  "partner_last_name": "Schwanberg",
+  "children": [],
+  "interests": [
+    "reisen",
+    "musik",
+    "autos"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mila"
+    }
+  ],
+  "company": "Nordrhein Business Solutions",
+  "previous_passwords": [
+    "Leonie1997",
+    "Mila123",
+    "Schwanberg!27",
+    "Felix2022",
+    "Jaguar74088",
+    "Nordrhein_6000",
+    "Reisen06",
+    "Musik_3",
+    "BMWX1_47546",
+    "SommerJuni!"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1999-03-20"
+}

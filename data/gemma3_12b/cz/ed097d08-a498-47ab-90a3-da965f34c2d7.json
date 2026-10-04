@@ -1,0 +1,48 @@
+{
+  "id": "ed097d08-a498-47ab-90a3-da965f34c2d7",
+  "age": 50,
+  "birth_date": "1976-04-05",
+  "marital_status": "married",
+  "region": "Žirovnice",
+  "nationality": "czech",
+  "company": "Mašková",
+  "car_brand": "Dacia",
+  "self_first_name": "René",
+  "self_last_name": "Vaněk",
+  "partner_first_name": "Klára",
+  "partner_last_name": "Vaněková",
+  "children": [
+    {
+      "first_name": "Albert",
+      "last_name": "Vaněk"
+    },
+    {
+      "first_name": "Lenka",
+      "last_name": "Vaněková"
+    },
+    {
+      "first_name": "Milada",
+      "last_name": "Vaněková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "historie",
+    "pěstitelství",
+    "folklór"
+  ],
+  "previous_passwords": [
+    "Albert2001Turistika",
+    "DaciaZirovnice!",
+    "KlaraVanekHistorie",
+    "Messi76Pestitelstvi",
+    "RybarAlbert2024",
+    "LenkaFolklore76",
+    "VanekHistorie123",
+    "TuristikaZirovnice",
+    "MiladaPestovani!",
+    "DaciaAlbert2005"
+  ]
+}

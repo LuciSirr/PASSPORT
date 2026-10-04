@@ -1,0 +1,44 @@
+{
+  "id": "0d938154-f440-40f2-a546-56c8f6ebe63c",
+  "age": 30,
+  "birth_date": "1996-10-17",
+  "marital_status": "married",
+  "region": "Židlochovice",
+  "nationality": "czech",
+  "company": "Doležal",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Pokorný",
+  "partner_first_name": "Lenka",
+  "partner_last_name": "Pokorná",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Kamila"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Štěpánka"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "hudba (Kapela Lucie)",
+    "vaření",
+    "cestování",
+    "fotbal (FK Židlochovice)"
+  ],
+  "previous_passwords": [
+    "LucieKapela2017",
+    "ŠkodaKami1996!",
+    "TuristikaLenka",
+    "MessiŽidlochovice",
+    "VarovaniStěpánka",
+    "FotbalFKZ!",
+    "CestovaniVladi96",
+    "KamilaLucie1!",
+    "ŠtěpánkaTuristika",
+    "LucieVarovani"
+  ]
+}

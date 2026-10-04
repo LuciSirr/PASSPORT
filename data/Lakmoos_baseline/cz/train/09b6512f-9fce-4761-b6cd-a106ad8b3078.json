@@ -1,0 +1,36 @@
+{
+  "id": "09b6512f-9fce-4761-b6cd-a106ad8b3078",
+  "gender": "male",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vít",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "automobilismus",
+    "fotbal",
+    "knihy"
+  ],
+  "pets": [],
+  "company": "Strojírny Benešov",
+  "previous_passwords": [
+    "SkodaScala2019",
+    "Penny530",
+    "Adventure24",
+    "PilsnerUrquell",
+    "CentralBohemia1",
+    "Vit1999",
+    "Fotbal123",
+    "Benešov2020",
+    "Turistika!24",
+    "Šebesta999"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "2001-07-15"
+}

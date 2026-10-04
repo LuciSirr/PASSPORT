@@ -1,0 +1,35 @@
+{
+  "id": "9e1907c6-b4d1-4c07-a734-f0510b0635a4",
+  "age": 49,
+  "birth_date": "1977-12-30",
+  "marital_status": "single",
+  "region": "Waren",
+  "nationality": "german",
+  "company": "Kramer",
+  "car_brand": "Seat",
+  "self_first_name": "Lorenzo",
+  "self_last_name": "Jacobi Jäckel",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Oldtimer",
+    "Konzertbesuche",
+    "Deutsche Küche"
+  ],
+  "previous_passwords": [
+    "Wandern2024!",
+    "SeatIbiza77",
+    "LorenzoFoto12",
+    "OldtimerKonzert!",
+    "DeutscheKueche92",
+    "MessiFanLorenzo",
+    "FotografieWaren",
+    "KonzertBesuche_49",
+    "WanderlustSeat",
+    "JacobiFoto2000"
+  ]
+}

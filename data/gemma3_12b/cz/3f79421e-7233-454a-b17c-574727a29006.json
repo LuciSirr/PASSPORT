@@ -1,0 +1,49 @@
+{
+  "id": "3f79421e-7233-454a-b17c-574727a29006",
+  "age": 43,
+  "birth_date": "1983-07-25",
+  "marital_status": "married",
+  "region": "Sedlice",
+  "nationality": "czech",
+  "company": "Štěpánek v.o.s.",
+  "car_brand": "Ford",
+  "self_first_name": "Johana",
+  "self_last_name": "Vítková",
+  "partner_first_name": "Leoš",
+  "partner_last_name": "Holub",
+  "children": [
+    {
+      "first_name": "Dušan",
+      "last_name": "Kučerová"
+    },
+    {
+      "first_name": "Olivie",
+      "last_name": "Svobodová"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Otakar"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "čtení knih",
+    "vaření",
+    "lokální historie"
+  ],
+  "previous_passwords": [
+    "SedliceTuristika83",
+    "FordOtakar25",
+    "DusanKucerovaRybar",
+    "OlivieSvobodovaBook!",
+    "LeosHolub2023",
+    "TuristikaFord1983",
+    "Knihy_Dušan81",
+    "RybarOtakar_Sedlice",
+    "VařeníLeoš20",
+    "HistorieFordOlivie"
+  ]
+}

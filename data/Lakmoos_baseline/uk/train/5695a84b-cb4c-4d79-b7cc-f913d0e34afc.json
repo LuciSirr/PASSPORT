@@ -1,0 +1,35 @@
+{
+  "id": "5695a84b-cb4c-4d79-b7cc-f913d0e34afc",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Škoda",
+  "self_first_name": "Fiona",
+  "self_last_name": "Carmichael",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Carmichael",
+  "children": [],
+  "interests": [
+    "hiking",
+    "photography",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Lochside Analytics Ltd",
+  "previous_passwords": [
+    "Fiona1979",
+    "SkodaKodiaq17",
+    "Carmichael2020",
+    "Graham4Eva",
+    "Hiking123",
+    "Scotland!45",
+    "Lochside2022",
+    "Reading_79",
+    "Fiona!Graham",
+    "K0d14q!8"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1980-08-17"
+}

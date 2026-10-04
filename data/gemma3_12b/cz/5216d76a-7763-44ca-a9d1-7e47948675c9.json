@@ -1,0 +1,44 @@
+{
+  "id": "5216d76a-7763-44ca-a9d1-7e47948675c9",
+  "age": 70,
+  "birth_date": "1956-03-24",
+  "marital_status": "married",
+  "region": "Ždírec nad Doubravou",
+  "nationality": "czech",
+  "company": "Šmídová k.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Marcela",
+  "self_last_name": "Kopecká",
+  "partner_first_name": "Robert",
+  "partner_last_name": "Kopecký",
+  "children": [
+    {
+      "first_name": "Libuše",
+      "last_name": "Čermáková"
+    },
+    {
+      "first_name": "Dita",
+      "last_name": "Brožová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "zahradničení",
+    "turistika",
+    "návštěva divadel",
+    "rybaření",
+    "regionální historie"
+  ],
+  "previous_passwords": [
+    "DivadloBeseda24",
+    "RybářstvíVltava88",
+    "LibušeZahradni!",
+    "VolkswagenDoubrava",
+    "TuristikaKrasno!",
+    "RobertHistorie56",
+    "DitaZahrada1956",
+    "ZahradniMarcelka",
+    "DivadloBesedaKopecky",
+    "VltavaRybolov23"
+  ]
+}

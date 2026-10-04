@@ -1,0 +1,36 @@
+{
+  "id": "f6dfc07a-e22b-4dd2-b2f4-502268f4fd27",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Krejčová",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Krejčová",
+  "children": [],
+  "interests": [
+    "četba",
+    "křížovky",
+    "malování",
+    "kavárna"
+  ],
+  "pets": [],
+  "company": "Jihočeská Analytika s.r.o.",
+  "previous_passwords": [
+    "Ivana1963",
+    "Krejcova1987",
+    "Miroslav123",
+    "Malovani2020",
+    "Krizovky!88",
+    "Cetba_321",
+    "AlbertOblibenec",
+    "dmMojeDrogerie",
+    "Vivantis2020",
+    "KavarnaBrno"
+  ],
+  "favorite_hobby": "četba",
+  "birth_date": "1964-09-05"
+}

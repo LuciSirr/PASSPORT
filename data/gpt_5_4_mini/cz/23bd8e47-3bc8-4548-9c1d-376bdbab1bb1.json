@@ -1,0 +1,44 @@
+{
+  "id": "23bd8e47-3bc8-4548-9c1d-376bdbab1bb1",
+  "age": 27,
+  "birth_date": "1999-01-28",
+  "marital_status": "married",
+  "region": "Sedlec-Prčice",
+  "nationality": "czech",
+  "company": "Krejčová",
+  "car_brand": "Suzuki",
+  "self_first_name": "Přemysl",
+  "self_last_name": "Valenta",
+  "partner_first_name": "Denisa",
+  "partner_last_name": "Valentová",
+  "children": [
+    {
+      "first_name": "Svatoslav",
+      "last_name": "Valenta"
+    },
+    {
+      "first_name": "Rudolf",
+      "last_name": "Valenta"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "hraní her",
+    "turistika",
+    "české seriály"
+  ],
+  "previous_passwords": [
+    "Sparta99!",
+    "Suzuki27_Hokej",
+    "Denisa1999",
+    "Messi_28!",
+    "Turistika99",
+    "RudolfHockey7",
+    "Slavia_Valenta",
+    "Witcher27!",
+    "PragueTour99",
+    "Fotbal_99_Prcice"
+  ]
+}

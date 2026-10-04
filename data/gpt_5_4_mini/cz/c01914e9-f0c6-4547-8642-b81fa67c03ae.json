@@ -1,0 +1,49 @@
+{
+  "id": "c01914e9-f0c6-4547-8642-b81fa67c03ae",
+  "age": 29,
+  "birth_date": "1997-02-13",
+  "marital_status": "married",
+  "region": "Frýdlant nad Ostravicí",
+  "nationality": "czech",
+  "company": "Dostálová Šťastný o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Ilona",
+  "self_last_name": "Matoušková",
+  "partner_first_name": "Klement",
+  "partner_last_name": "Matoušková",
+  "children": [
+    {
+      "first_name": "Růžena",
+      "last_name": "Matoušková"
+    },
+    {
+      "first_name": "Silvie",
+      "last_name": "Matoušková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Kateřina"
+    }
+  ],
+  "interests": [
+    "turistika v Beskydech",
+    "hokej",
+    "vaření",
+    "cyklistika",
+    "sledování filmů"
+  ],
+  "previous_passwords": [
+    "Beskydy97!",
+    "Hokej29_K",
+    "Vareni97!",
+    "Skoda_Frd",
+    "Ruzena97!",
+    "Silvie_13",
+    "Klement29!",
+    "Turistika97",
+    "Katetr0_97",
+    "CykloIlona29"
+  ]
+}

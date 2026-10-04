@@ -1,0 +1,44 @@
+{
+  "id": "3ec8369b-0d65-4f71-9ebc-405dc5aefc17",
+  "age": 42,
+  "birth_date": "1984-03-02",
+  "marital_status": "married",
+  "region": "Marianhaven",
+  "nationality": "english",
+  "company": "Fleming LLC",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Dominic",
+  "self_last_name": "Whitehead",
+  "partner_first_name": "Lynda",
+  "partner_last_name": "Whitehead",
+  "children": [
+    {
+      "first_name": "Jade",
+      "last_name": "Whitehead"
+    },
+    {
+      "first_name": "Clare",
+      "last_name": "Whitehead"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Nordic walking",
+    "Coastal photography",
+    "Local history",
+    "Classic rock music",
+    "Birdwatching"
+  ],
+  "previous_passwords": [
+    "NordicTrail84!",
+    "VW_Marianhaven",
+    "ClareJadeRocks",
+    "RoxAnn1984",
+    "CoastalPix_2023",
+    "LocalHistLynda",
+    "WhitedayBird!",
+    "MessiMarianhaven",
+    "ClassicRock_DW",
+    "LyndaJade84"
+  ]
+}

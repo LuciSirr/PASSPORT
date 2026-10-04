@@ -1,0 +1,38 @@
+{
+  "id": "c137f321-64d5-430d-8fe0-9ae909eaad6d",
+  "gender": "female",
+  "age": 7,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Carmichael",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dancing"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "Highland Study Support",
+  "previous_passwords": [
+    "Maisie2017",
+    "Mittens123",
+    "Drawing4Fun",
+    "Carmichael7",
+    "DancingCat!",
+    "Highland2024",
+    "M4isieCat",
+    "Mittens7",
+    "Study123"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2019-01-31"
+}

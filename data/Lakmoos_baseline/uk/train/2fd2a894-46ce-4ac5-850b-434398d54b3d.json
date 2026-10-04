@@ -1,0 +1,35 @@
+{
+  "id": "2fd2a894-46ce-4ac5-850b-434398d54b3d",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Ethan",
+  "partner_last_name": "Baxter",
+  "children": [],
+  "interests": [
+    "yoga",
+    "baking",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Cityline Retail",
+  "previous_passwords": [
+    "Imogen2005",
+    "MiniCountryman24",
+    "HollisLondon1",
+    "Yoga_123",
+    "Ethan!2023",
+    "Baking4Life",
+    "Cityline2022",
+    "Netflix_19",
+    "AudiGirl",
+    "Hollis!20"
+  ],
+  "favorite_hobby": "yoga",
+  "birth_date": "2006-06-16"
+}

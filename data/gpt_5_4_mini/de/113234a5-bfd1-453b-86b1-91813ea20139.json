@@ -1,0 +1,48 @@
+{
+  "id": "113234a5-bfd1-453b-86b1-91813ea20139",
+  "age": 35,
+  "birth_date": "1991-07-21",
+  "marital_status": "married",
+  "region": "Potsdam",
+  "nationality": "german",
+  "company": "Ruppersberger Girschner AG",
+  "car_brand": "Renault",
+  "self_first_name": "Sönke",
+  "self_last_name": "Weihmann",
+  "partner_first_name": "Ines",
+  "partner_last_name": "Weihmann",
+  "children": [
+    {
+      "first_name": "Franz",
+      "last_name": "Weihmann"
+    },
+    {
+      "first_name": "Hedi",
+      "last_name": "Weihmann"
+    },
+    {
+      "first_name": "Marek",
+      "last_name": "Weihmann"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Kochen",
+    "Wandern",
+    "Berlin-Brandenburg"
+  ],
+  "previous_passwords": [
+    "Berlin2021!",
+    "Reneault91_FC",
+    "InesRad21",
+    "KochenHedi7",
+    "MarekBike91",
+    "PotsdamFuss21",
+    "WandernMitte!",
+    "FranzBerlin24",
+    "RenaultKombi7",
+    "RadelnInes91"
+  ]
+}

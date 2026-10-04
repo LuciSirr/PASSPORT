@@ -1,0 +1,39 @@
+{
+  "id": "e42c6988-32d0-4058-9b66-1db2b8de6edb",
+  "age": 43,
+  "birth_date": "1983-08-13",
+  "marital_status": "married",
+  "region": "Geithain",
+  "nationality": "german",
+  "company": "Weimer",
+  "car_brand": "Skoda",
+  "self_first_name": "Annegret",
+  "self_last_name": "Benthin",
+  "partner_first_name": "Hans-Christian",
+  "partner_last_name": "Eimer",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Heidemarie"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fußball",
+    "Kochen",
+    "Gartenarbeit"
+  ],
+  "previous_passwords": [
+    "Wandern83!",
+    "FussballGeithain7",
+    "Kochen1983",
+    "Gartenarbeit43",
+    "Heidemarie!83",
+    "SkodaWandern!",
+    "HansEimer83",
+    "LeipzigFussball7",
+    "KochenHans83",
+    "Garten83!"
+  ]
+}

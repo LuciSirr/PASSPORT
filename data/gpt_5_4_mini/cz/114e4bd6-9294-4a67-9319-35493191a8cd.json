@@ -1,0 +1,53 @@
+{
+  "id": "114e4bd6-9294-4a67-9319-35493191a8cd",
+  "age": 44,
+  "birth_date": "1982-08-12",
+  "marital_status": "married",
+  "region": "Vrbno pod Pradědem",
+  "nationality": "czech",
+  "company": "Kolářová Kratochvíl o.s.",
+  "car_brand": "Ford",
+  "self_first_name": "Jaroslav",
+  "self_last_name": "Prokop",
+  "partner_first_name": "Patricie",
+  "partner_last_name": "Prokopová",
+  "children": [
+    {
+      "first_name": "Zdislava",
+      "last_name": "Prokopová"
+    },
+    {
+      "first_name": "Vendula",
+      "last_name": "Prokopová"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Kateřina"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Květa"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "hokej",
+    "zahradničení",
+    "chalupaření",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "Turistika82!",
+    "Hokej1982",
+    "Zahrada_44",
+    "Chalupa12",
+    "VareniFord7",
+    "Patricie82",
+    "VendulaHokej",
+    "Kateřina82",
+    "KvětaFord44",
+    "Prokop1982!"
+  ]
+}

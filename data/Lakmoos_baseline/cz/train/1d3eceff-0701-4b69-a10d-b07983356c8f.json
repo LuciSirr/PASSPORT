@@ -1,0 +1,35 @@
+{
+  "id": "1d3eceff-0701-4b69-a10d-b07983356c8f",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "chalupa",
+    "houbaření",
+    "televize"
+  ],
+  "pets": [],
+  "company": "Stavby Hradec s.r.o.",
+  "previous_passwords": [
+    "Radomir1961",
+    "Jitka2020",
+    "Vesely63",
+    "Chalupa123",
+    "Houbar2022",
+    "StavbaHradec1",
+    "Mattoni149",
+    "Albert2022",
+    "Televize!",
+    "VeselaJitka"
+  ],
+  "favorite_hobby": "chalupa",
+  "birth_date": "1963-02-07"
+}

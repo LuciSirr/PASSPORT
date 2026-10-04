@@ -1,0 +1,34 @@
+{
+  "id": "f9f0cda8-0b67-4c80-a307-61556e374824",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gordon",
+  "self_last_name": "McAllister",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "McAllister",
+  "children": [],
+  "interests": [
+    "hillwalking",
+    "gardening",
+    "fishing"
+  ],
+  "pets": [],
+  "company": "Caledonia Construction Services",
+  "previous_passwords": [
+    "Gordon1964",
+    "Fiona4ever",
+    "McAllister123",
+    "Hillwalking2020",
+    "Fishing!64",
+    "Caledonia2021",
+    "Gardening_1",
+    "Fiona1966",
+    "Scotland!99"
+  ],
+  "favorite_hobby": "hillwalking",
+  "birth_date": "1965-11-10"
+}

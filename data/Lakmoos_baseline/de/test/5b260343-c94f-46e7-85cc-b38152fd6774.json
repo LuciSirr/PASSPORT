@@ -1,0 +1,34 @@
+{
+  "id": "5b260343-c94f-46e7-85cc-b38152fd6774",
+  "gender": "female",
+  "age": 85,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Irmgard",
+  "self_last_name": "Kuhn",
+  "birth_date": "1939-06-12",
+  "partner_first_name": "Heinrich",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "klassische musik"
+  ],
+  "pets": [],
+  "company": "Sachsen Makler & Beratung",
+  "previous_passwords": [
+    "Irmgard1933",
+    "Kuhn!4000",
+    "Pilcher123",
+    "Heinrich12",
+    "Sachsen_78",
+    "Rosamunde1950",
+    "KlassikMusik1",
+    "KuhnPilcher33",
+    "Kuhn!Rosamunde",
+    "Musik_4000"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

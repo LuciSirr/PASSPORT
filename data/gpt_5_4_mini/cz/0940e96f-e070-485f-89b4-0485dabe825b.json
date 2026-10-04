@@ -1,0 +1,48 @@
+{
+  "id": "0940e96f-e070-485f-89b4-0485dabe825b",
+  "age": 44,
+  "birth_date": "1982-03-07",
+  "marital_status": "married",
+  "region": "Velké Hamry",
+  "nationality": "czech",
+  "company": "Dostál s.r.o.",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Štěpán",
+  "self_last_name": "Matoušek",
+  "partner_first_name": "Silvie",
+  "partner_last_name": "Horáčková",
+  "children": [
+    {
+      "first_name": "Dobroslav",
+      "last_name": "Matoušek"
+    },
+    {
+      "first_name": "Silvie",
+      "last_name": "Matoušková"
+    },
+    {
+      "first_name": "Dušan",
+      "last_name": "Matoušek"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika v Jizerských horách",
+    "fotbal",
+    "chalupaření",
+    "vaření",
+    "hokej"
+  ],
+  "previous_passwords": [
+    "Jizera1982!",
+    "Sparta82_",
+    "Snezka07",
+    "Matousek44",
+    "Mercedes07!",
+    "Vareni82",
+    "Hokej1982",
+    "Silvie44!",
+    "Jizerske99",
+    "Chalupa82"
+  ]
+}

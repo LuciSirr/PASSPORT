@@ -1,0 +1,39 @@
+{
+  "id": "be365500-0d3c-4c0d-9073-5cd53d03e74e",
+  "gender": "female",
+  "age": 9,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Trelawney",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Maisie2015",
+    "Mittens123",
+    "Trelawney9",
+    "drawing4fun",
+    "Reading2017",
+    "Mittens!",
+    "Maisie_2015",
+    "catlover99",
+    "Trelawney_2015",
+    "Mittens4Maisie"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2017-03-02"
+}

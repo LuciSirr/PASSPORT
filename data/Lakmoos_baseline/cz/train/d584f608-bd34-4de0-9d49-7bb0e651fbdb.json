@@ -1,0 +1,36 @@
+{
+  "id": "d584f608-bd34-4de0-9d49-7bb0e651fbdb",
+  "gender": "female",
+  "age": 51,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šebestová",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "procházky",
+    "cukrovinky",
+    "úprava_bytu"
+  ],
+  "pets": [],
+  "company": "Správa veřejných služeb Brno",
+  "previous_passwords": [
+    "Iveta1973",
+    "PetrSebe123",
+    "Brno_789",
+    "Nakupovani2024",
+    "Šebestová!51",
+    "Lidl948",
+    "Hornbach1812",
+    "Ikea1969",
+    "VWtCross19",
+    "Cukrovinky_7"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1974-08-18"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "318fbc66-09d5-424e-a8e9-e293f7a01070",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "kreslení",
+    "minecraft"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Matej20012",
+    "Prague123",
+    "Fotbal2023",
+    "Jablko12",
+    "Kresleni2024",
+    "MinecraftCZ",
+    "Konecny123",
+    "Slavia2022",
+    "Praha12",
+    "Matej!fotbal"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2013-09-21"
+}

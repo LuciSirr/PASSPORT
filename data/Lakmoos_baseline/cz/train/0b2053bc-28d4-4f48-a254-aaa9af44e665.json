@@ -1,0 +1,35 @@
+{
+  "id": "0b2053bc-28d4-4f48-a254-aaa9af44e665",
+  "gender": "female",
+  "age": 62,
+  "marital_status": "married",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Vránová",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "zahrada",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "Olomoucké poradenství",
+  "previous_passwords": [
+    "Ivana1962",
+    "PetrIvana62",
+    "Fabia2003",
+    "olomouc42",
+    "mattoni58",
+    "Zahrada2020",
+    "Kr1zovky!",
+    "Vranova123",
+    "Lidl2020",
+    "Petr_1960"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1964-03-12"
+}

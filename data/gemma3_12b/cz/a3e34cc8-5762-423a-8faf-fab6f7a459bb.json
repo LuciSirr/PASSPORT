@@ -1,0 +1,49 @@
+{
+  "id": "a3e34cc8-5762-423a-8faf-fab6f7a459bb",
+  "age": 40,
+  "birth_date": "1986-12-28",
+  "marital_status": "married",
+  "region": "Boží Dar",
+  "nationality": "czech",
+  "company": "Beránek Bláha s.r.o.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Stanislava",
+  "self_last_name": "Mašková",
+  "partner_first_name": "Otakar",
+  "partner_last_name": "Maškova",
+  "children": [
+    {
+      "first_name": "Jiří",
+      "last_name": "Mašek"
+    },
+    {
+      "first_name": "Vendula",
+      "last_name": "Veselá-Mašková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Marian"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivovarnictví",
+    "rybaření",
+    "čtení knih",
+    "historie"
+  ],
+  "previous_passwords": [
+    "Volkswag3n28",
+    "BoziDarJiří!",
+    "Vendula_Rybar",
+    "MarianHamster86",
+    "TuristikaOtakar",
+    "Pivovarnictvi12",
+    "MessiJe88",
+    "HistorieStanislava",
+    "CteniKnihMasek",
+    "VolkswagenVesela"
+  ]
+}

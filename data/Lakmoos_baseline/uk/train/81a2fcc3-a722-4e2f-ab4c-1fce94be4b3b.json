@@ -1,0 +1,35 @@
+{
+  "id": "81a2fcc3-a722-4e2f-ab4c-1fce94be4b3b",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Graham1959",
+    "AudiA1!2010",
+    "Margaret64",
+    "RangeRoverSport22",
+    "Hollingsworth123",
+    "Gardening4Life",
+    "Travel2022",
+    "NorthWest999",
+    "Audi999",
+    "Reading!59"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1961-04-02"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d004b476-d75a-4d79-b04f-571e6bdb045d",
+  "gender": "male",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Bergmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fussball",
+    "gaming",
+    "skaten"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lennart2010",
+    "Bergmann123",
+    "Fussball04",
+    "Skaten!13",
+    "Niedersachsen07",
+    "G4ming2023",
+    "Lenny_2009",
+    "B3rgmann!",
+    "Sommer13"
+  ],
+  "favorite_hobby": "fussball",
+  "birth_date": "2013-02-17"
+}

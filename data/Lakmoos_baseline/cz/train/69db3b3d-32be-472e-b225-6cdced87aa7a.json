@@ -1,0 +1,36 @@
+{
+  "id": "69db3b3d-32be-472e-b225-6cdced87aa7a",
+  "gender": "female",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "móda",
+    "seriály",
+    "facebook"
+  ],
+  "pets": [],
+  "company": "Moravská Studentská Výpomoc",
+  "previous_passwords": [
+    "Tereza2008",
+    "vinted123",
+    "mujpes2022",
+    "penny667",
+    "netflixcz",
+    "Vesela15",
+    "Nakupovani2023",
+    "Brno!123",
+    "moda_2008",
+    "Seriály321"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "2011-02-04"
+}

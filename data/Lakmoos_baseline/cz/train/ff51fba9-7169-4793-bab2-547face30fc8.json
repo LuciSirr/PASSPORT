@@ -1,0 +1,36 @@
+{
+  "id": "ff51fba9-7169-4793-bab2-547face30fc8",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kubeš",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "netflix",
+    "hudba",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Plzeňská výroba s.r.o.",
+  "previous_passwords": [
+    "Radek2000",
+    "Kube$41",
+    "Fabia2003",
+    "Plzen123",
+    "auta2021",
+    "Kofola!",
+    "dmrossmann",
+    "Netflix123",
+    "Kubeš21",
+    "kaufland2022"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2003-02-08"
+}

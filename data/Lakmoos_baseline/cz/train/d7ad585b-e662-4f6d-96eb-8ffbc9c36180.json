@@ -1,0 +1,41 @@
+{
+  "id": "d7ad585b-e662-4f6d-96eb-8ffbc9c36180",
+  "gender": "male",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotografie",
+    "turistika",
+    "knihy",
+    "hudba"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "Ateliér Poděbrady",
+  "previous_passwords": [
+    "Beny2008",
+    "Poděbrady79",
+    "umeni24",
+    "Hyundaii20!",
+    "turistika123",
+    "Šebesta535",
+    "fotografie_1",
+    "Beny!24",
+    "hudba2000",
+    "knihy79"
+  ],
+  "favorite_hobby": "fotografie",
+  "birth_date": "2001-12-05"
+}

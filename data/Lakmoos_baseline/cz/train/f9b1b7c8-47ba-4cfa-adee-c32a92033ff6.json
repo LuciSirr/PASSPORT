@@ -1,0 +1,34 @@
+{
+  "id": "f9b1b7c8-47ba-4cfa-adee-c32a92033ff6",
+  "gender": "male",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Šimon",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "hry",
+    "cyklistika"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vesely2009",
+    "Karlovy123",
+    "Banik14",
+    "jablko2023",
+    "Simonek09",
+    "cyklistika321",
+    "fotbal!14",
+    "Vesely!123",
+    "Ban1k2023"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2011-04-19"
+}

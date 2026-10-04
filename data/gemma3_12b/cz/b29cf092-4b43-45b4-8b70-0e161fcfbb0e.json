@@ -1,0 +1,35 @@
+{
+  "id": "b29cf092-4b43-45b4-8b70-0e161fcfbb0e",
+  "age": 61,
+  "birth_date": "1965-06-16",
+  "marital_status": "single",
+  "region": "Bakov nad Jizerou",
+  "nationality": "czech",
+  "company": "Tichý",
+  "car_brand": "Škoda",
+  "self_first_name": "Svatoslav",
+  "self_last_name": "Holub",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "rybaření",
+    "česká televize",
+    "historie"
+  ],
+  "previous_passwords": [
+    "Jizerka65!",
+    "SkodaRapid2023",
+    "TuristikaBakov",
+    "RybářsvéLíbí",
+    "Historie1965",
+    "CeskaNovaTV",
+    "ZahradaSvata",
+    "MessiFan61",
+    "HolubHistorie",
+    "BakovRybolov"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1689dd45-f84f-414e-847d-2bee28490177",
+  "age": 23,
+  "birth_date": "2003-04-20",
+  "marital_status": "single",
+  "region": "Oloví",
+  "nationality": "czech",
+  "company": "Vávra",
+  "car_brand": "Toyota",
+  "self_first_name": "Magdaléna",
+  "self_last_name": "Stejskalová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Eliška"
+    }
+  ],
+  "interests": [
+    "hraní her",
+    "sledování filmů",
+    "posilování",
+    "turistika",
+    "hokej"
+  ],
+  "previous_passwords": [
+    "Hokej2003!",
+    "ToyotaEliška23",
+    "HraniHer2003",
+    "Turistika04",
+    "Filmy_03!",
+    "Posilka23",
+    "OloviHokej03",
+    "Eliška_Tour23",
+    "ToyotaFilms03",
+    "Hockey2003!"
+  ]
+}

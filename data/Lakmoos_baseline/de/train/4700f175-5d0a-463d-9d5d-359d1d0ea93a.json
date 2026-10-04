@@ -1,0 +1,35 @@
+{
+  "id": "4700f175-5d0a-463d-9d5d-359d1d0ea93a",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Porsche",
+  "self_first_name": "Gabriele",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Heinz",
+  "partner_last_name": "Kronenberg",
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobücher",
+    "kochen"
+  ],
+  "pets": [],
+  "company": "Nordfinanz Versicherung",
+  "previous_passwords": [
+    "Gabriele1961",
+    "Heinz123",
+    "Panamera2018",
+    "Niedersachsen!63",
+    "Kronenberg2020",
+    "Reisen_09",
+    "Versicherung5000",
+    "Audiobuch1",
+    "Sommer!September",
+    "Porsche4ever"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1962-10-14"
+}

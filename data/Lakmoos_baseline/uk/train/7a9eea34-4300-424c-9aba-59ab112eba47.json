@@ -1,0 +1,34 @@
+{
+  "id": "7a9eea34-4300-424c-9aba-59ab112eba47",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Genesis",
+  "self_first_name": "Gareth",
+  "self_last_name": "Penrose",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Penrose",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "Celtic Scientific Consulting",
+  "previous_passwords": [
+    "Genesis79307",
+    "Penrose1966",
+    "Elaine4ever",
+    "Wales2020",
+    "Gardening123",
+    "GV60electric",
+    "Travel!21",
+    "Kia2019",
+    "CelticConsult1"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1967-09-07"
+}

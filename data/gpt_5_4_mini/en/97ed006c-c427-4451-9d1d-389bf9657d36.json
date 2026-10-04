@@ -1,0 +1,40 @@
+{
+  "id": "97ed006c-c427-4451-9d1d-389bf9657d36",
+  "age": 42,
+  "birth_date": "1984-07-11",
+  "marital_status": "married",
+  "region": "Elliottshire",
+  "nationality": "english",
+  "company": "Green-Hanson",
+  "car_brand": "Kia",
+  "self_first_name": "Max",
+  "self_last_name": "Dixon",
+  "partner_first_name": "Caroline",
+  "partner_last_name": "Dixon",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Rebecca"
+    }
+  ],
+  "interests": [
+    "football",
+    "cooking",
+    "gardening",
+    "classic rock",
+    "hiking"
+  ],
+  "previous_passwords": [
+    "Aston84!",
+    "Kia1984_",
+    "BirdRebecca7",
+    "Hiking11",
+    "CookMax11",
+    "Gardening84",
+    "LFC_0711",
+    "ClassicRock42",
+    "Caroline84!",
+    "ElliottKia7"
+  ]
+}

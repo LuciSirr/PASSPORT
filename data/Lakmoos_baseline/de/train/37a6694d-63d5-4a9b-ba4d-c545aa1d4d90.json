@@ -1,0 +1,34 @@
+{
+  "id": "37a6694d-63d5-4a9b-ba4d-c545aa1d4d90",
+  "gender": "male",
+  "age": 72,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gerhard",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Ingrid",
+  "partner_last_name": "Kreutzmann",
+  "children": [],
+  "interests": [
+    "wandern",
+    "klassik",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "Nordwest Management GmbH",
+  "previous_passwords": [
+    "Gerhard1952",
+    "Ingrid123",
+    "Kreutzmann!72",
+    "Wandern2020",
+    "Niedersachsen1",
+    "SommerAugust",
+    "BKK_8000",
+    "Gartenarbeit22",
+    "Klassik!1"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1954-02-03"
+}

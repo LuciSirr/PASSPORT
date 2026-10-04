@@ -1,0 +1,39 @@
+{
+  "id": "4e620e98-e437-4295-ad48-b4eedd52959c",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Volvo",
+  "self_first_name": "Imogen",
+  "self_last_name": "Macrae",
+  "partner_first_name": "Callum",
+  "partner_last_name": "Macrae",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Willow"
+    }
+  ],
+  "company": "Highland Scientific Consulting",
+  "previous_passwords": [
+    "Imogen1989",
+    "WillowCat21",
+    "Macrae3000",
+    "Callum4eva",
+    "Highland123",
+    "Travel!2022",
+    "Reading_89",
+    "Hiking4Life",
+    "Willow!89"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1994-03-14"
+}

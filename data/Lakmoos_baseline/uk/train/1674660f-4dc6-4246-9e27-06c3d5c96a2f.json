@@ -1,0 +1,35 @@
+{
+  "id": "1674660f-4dc6-4246-9e27-06c3d5c96a2f",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Marion",
+  "self_last_name": "Fenwick",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Fenwick",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crossword",
+    "baking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Marion1961",
+    "Fenwick29",
+    "Graham123",
+    "London!63",
+    "Renault2024",
+    "Baking4Fun",
+    "Crossword7",
+    "Fenwick_1",
+    "Marion!Fenwick",
+    "Gardening2022"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1962-05-29"
+}

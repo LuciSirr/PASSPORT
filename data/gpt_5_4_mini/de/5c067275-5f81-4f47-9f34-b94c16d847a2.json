@@ -1,0 +1,44 @@
+{
+  "id": "5c067275-5f81-4f47-9f34-b94c16d847a2",
+  "age": 46,
+  "birth_date": "1980-07-02",
+  "marital_status": "married",
+  "region": "Königs Wusterhausen",
+  "nationality": "german",
+  "company": "Carsten",
+  "car_brand": "Audi",
+  "self_first_name": "Caterina",
+  "self_last_name": "Tintzmann",
+  "partner_first_name": "Viktor",
+  "partner_last_name": "Tintzmann",
+  "children": [
+    {
+      "first_name": "Sahin",
+      "last_name": "Tintzmann"
+    },
+    {
+      "first_name": "Heide-Marie",
+      "last_name": "Tintzmann"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Radfahren",
+    "Gartenarbeit",
+    "Fußball",
+    "Wandern",
+    "Kochen"
+  ],
+  "previous_passwords": [
+    "Radeln1980!",
+    "AudiBike46",
+    "KloMarathon72",
+    "ViktorRadt2",
+    "BayernKWH80",
+    "HeideWandern7",
+    "Kochen80!",
+    "GartenViktor46",
+    "MessiKWH02",
+    "TintzmannRad!"
+  ]
+}

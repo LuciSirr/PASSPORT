@@ -1,0 +1,35 @@
+{
+  "id": "e91d1bf0-9678-4fbc-8ebc-036d2a69e9a4",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Citroën",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "wandern",
+    "podcasts",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Stadtverwaltung Wiesbaden",
+  "previous_passwords": [
+    "Jens1983",
+    "Krause123",
+    "CitroenC3!",
+    "Wiesbaden2020",
+    "Sabine2021",
+    "Wandern!77",
+    "AOK_2000",
+    "Sommer09",
+    "Krause!83",
+    "Podcast4Life"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1985-03-16"
+}

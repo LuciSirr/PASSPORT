@@ -1,0 +1,35 @@
+{
+  "id": "68fb64a3-349b-4670-9d0d-ace247a470ad",
+  "gender": "female",
+  "age": 37,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Hyundai",
+  "self_first_name": "Annika",
+  "self_last_name": "Krausmann",
+  "partner_first_name": "Sebastian",
+  "partner_last_name": "Krausmann",
+  "children": [],
+  "interests": [
+    "audiobooks",
+    "reisen",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "Ingenieurberatung RheinWest",
+  "previous_passwords": [
+    "Annika1987",
+    "Sebastian21",
+    "Krausmann123",
+    "HyundaiIoniq5!",
+    "Reisen2022",
+    "AOK_451",
+    "Audiobook4Life",
+    "Postbank253",
+    "Podcast2023",
+    "RheinWest!"
+  ],
+  "favorite_hobby": "audiobooks",
+  "birth_date": "1989-02-25"
+}

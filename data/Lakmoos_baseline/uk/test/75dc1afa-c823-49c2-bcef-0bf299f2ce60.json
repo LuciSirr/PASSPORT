@@ -1,0 +1,34 @@
+{
+  "id": "75dc1afa-c823-49c2-bcef-0bf299f2ce60",
+  "gender": "female",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "love island",
+    "reading",
+    "baking"
+  ],
+  "pets": [],
+  "company": "NorthWest Booksellers",
+  "previous_passwords": [
+    "Imogen2007",
+    "LoveIsland123",
+    "Hollingsworth16",
+    "BakingQueen07",
+    "Reading4Life",
+    "LoveIsland!07",
+    "Imo_Bake2023",
+    "Bookworm_2007",
+    "Hollingsworth!123"
+  ],
+  "favorite_hobby": "love island",
+  "birth_date": "2007-04-16"
+}

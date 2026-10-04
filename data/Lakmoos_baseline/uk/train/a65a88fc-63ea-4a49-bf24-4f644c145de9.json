@@ -1,0 +1,40 @@
+{
+  "id": "a65a88fc-63ea-4a49-bf24-4f644c145de9",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Danielle",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Ryan",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "shopping",
+    "driving",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "London Motor Parts",
+  "previous_passwords": [
+    "Milo2021",
+    "Danielle4Merc",
+    "Hollingsworth89",
+    "London123",
+    "Baking!21",
+    "Ryan1988",
+    "Mercedes7",
+    "Shopaholic!",
+    "Milo!cat",
+    "CClass2021"
+  ],
+  "favorite_hobby": "shopping",
+  "birth_date": "1996-05-24"
+}

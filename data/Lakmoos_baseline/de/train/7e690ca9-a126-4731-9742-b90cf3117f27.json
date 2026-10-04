@@ -1,0 +1,35 @@
+{
+  "id": "7e690ca9-a126-4731-9742-b90cf3117f27",
+  "gender": "male",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Audi",
+  "self_first_name": "Lennart",
+  "self_last_name": "Schröder",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "autos",
+    "reisen",
+    "serien"
+  ],
+  "pets": [],
+  "company": "NRW Campus Services",
+  "previous_passwords": [
+    "AudiA5_2010",
+    "Schr0eder123",
+    "Duster!17",
+    "Lennart2004",
+    "NRW!2023",
+    "Reisen_08",
+    "Fussball98",
+    "Sommerurlaub1",
+    "Campus2022",
+    "Serienjunkie!"
+  ],
+  "favorite_hobby": "autos",
+  "birth_date": "2006-08-16"
+}

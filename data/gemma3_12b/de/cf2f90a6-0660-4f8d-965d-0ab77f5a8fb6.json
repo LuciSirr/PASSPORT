@@ -1,0 +1,40 @@
+{
+  "id": "cf2f90a6-0660-4f8d-965d-0ab77f5a8fb6",
+  "age": 37,
+  "birth_date": "1989-09-25",
+  "marital_status": "divorced",
+  "region": "Sulzbach-Rosenberg",
+  "nationality": "german",
+  "company": "Geißler",
+  "car_brand": "Fiat",
+  "self_first_name": "Stanislav",
+  "self_last_name": "Killer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Cristina",
+      "last_name": "Killer"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Deutsche Küche",
+    "Autos",
+    "Tatort"
+  ],
+  "previous_passwords": [
+    "Messi1989!",
+    "TatortSulzbach",
+    "CristinaFiat25",
+    "WandernStanislav",
+    "DeutscheKueche89",
+    "AutoMessi_1989",
+    "FußballCristina",
+    "MessiCristina!",
+    "Tatort25!",
+    "SulzbachFiat"
+  ]
+}

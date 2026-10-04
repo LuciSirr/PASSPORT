@@ -1,0 +1,48 @@
+{
+  "id": "313828ed-891f-445d-9665-230e875a8e8d",
+  "age": 68,
+  "birth_date": "1958-07-23",
+  "marital_status": "married",
+  "region": "Bor",
+  "nationality": "czech",
+  "company": "Slavík k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Bohuslav",
+  "self_last_name": "Němeček",
+  "partner_first_name": "Kristýna",
+  "partner_last_name": "Němečková",
+  "children": [
+    {
+      "first_name": "Františka",
+      "last_name": "Němečková"
+    },
+    {
+      "first_name": "Evelína",
+      "last_name": "Němečková"
+    },
+    {
+      "first_name": "Václav",
+      "last_name": "Němeček"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "rybaření",
+    "turistika",
+    "zahradničení",
+    "pěv",
+    "lokální historie"
+  ],
+  "previous_passwords": [
+    "BorTuristika58",
+    "KristýnaRybaření!",
+    "FrantiškaSkoda23",
+    "EvelinaPev1958",
+    "VaclavZahradni1",
+    "LokHistoriaNemecek",
+    "ŠkodaBorPev!",
+    "TuristikaEva23",
+    "RybarNemecek19",
+    "BorHistorie2024"
+  ]
+}

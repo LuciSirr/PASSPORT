@@ -1,0 +1,43 @@
+{
+  "id": "67ff58fb-8ab8-4991-9a0d-011a8f311341",
+  "age": 38,
+  "birth_date": "1988-08-18",
+  "marital_status": "divorced",
+  "region": "Wurzen",
+  "nationality": "german",
+  "company": "Ullrich e.V.",
+  "car_brand": "Ford",
+  "self_first_name": "Jann",
+  "self_last_name": "Gehringer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Karlheinz"
+    },
+    {
+      "pet_type": "bird",
+      "pet_name": "Renate"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Radfahren"
+  ],
+  "previous_passwords": [
+    "Fußball18!",
+    "WurzenBike88",
+    "Karlheinz99",
+    "FordKochen7",
+    "RBLeipzig88!",
+    "Wandern38_",
+    "RenateFly88",
+    "FCKochen18",
+    "Radfahren88!",
+    "LeipzigKocht8"
+  ]
+}

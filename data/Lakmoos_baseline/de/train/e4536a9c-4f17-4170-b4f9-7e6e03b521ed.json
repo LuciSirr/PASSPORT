@@ -1,0 +1,34 @@
+{
+  "id": "e4536a9c-4f17-4170-b4f9-7e6e03b521ed",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Torsten",
+  "self_last_name": "Krause",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "lesen",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Ingenieurservice Niedersachsen",
+  "previous_passwords": [
+    "Torsten1978",
+    "Sabine2023!",
+    "Krause123",
+    "Lesen_78",
+    "IngenieurserviceNDS",
+    "Reisen03",
+    "SabineKrause",
+    "Torsten_Sabine",
+    "Niedersachsen1978",
+    "Kraus3_27000"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1985-04-13"
+}

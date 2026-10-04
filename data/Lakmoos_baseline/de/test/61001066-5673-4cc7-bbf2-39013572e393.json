@@ -1,0 +1,34 @@
+{
+  "id": "61001066-5673-4cc7-bbf2-39013572e393",
+  "gender": "male",
+  "age": 65,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Mazda",
+  "self_first_name": "Bernd",
+  "self_last_name": "Krause",
+  "birth_date": "1959-06-12",
+  "partner_first_name": "Gisela",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "schach"
+  ],
+  "pets": [],
+  "company": "Norddeutsche Energieberatung GmbH",
+  "previous_passwords": [
+    "Bernd1959",
+    "Tatort123",
+    "Krause!59",
+    "Gisela12",
+    "Schachmeister1",
+    "TatortKrause",
+    "Niedersachsen2020",
+    "Tat0rt!59",
+    "KrauseSchach",
+    "GiselaTatort"
+  ],
+  "favorite_hobby": "tatort"
+}

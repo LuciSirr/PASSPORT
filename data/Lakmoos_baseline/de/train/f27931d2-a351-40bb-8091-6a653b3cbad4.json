@@ -1,0 +1,35 @@
+{
+  "id": "f27931d2-a351-40bb-8091-6a653b3cbad4",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "Citroën",
+  "self_first_name": "Jens",
+  "self_last_name": "Krahl",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krahl",
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobooks",
+    "kochen"
+  ],
+  "pets": [],
+  "company": "Berliner Managementberatung Krahl",
+  "previous_passwords": [
+    "Jens1979",
+    "Sabine123",
+    "Berlin!42",
+    "Krahl2020",
+    "CitroenC3",
+    "Sommerurlaub07",
+    "AOK_321",
+    "Reisen!2023",
+    "Kochen4Fun",
+    "Krahl!1979"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1984-01-25"
+}

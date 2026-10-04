@@ -1,0 +1,44 @@
+{
+  "id": "61215be5-b43c-4398-8a1a-8787df08b447",
+  "age": 31,
+  "birth_date": "1995-08-08",
+  "marital_status": "single",
+  "region": "Kehl",
+  "nationality": "german",
+  "company": "Margraf Schleich KG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Meryem",
+  "self_last_name": "Beier",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Jelena"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Stephan"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Lokaler Fußballverein",
+    "Deutsche Küche",
+    "Techno-Musik"
+  ],
+  "previous_passwords": [
+    "Jelena2023!",
+    "MessiWandern1995",
+    "FotografieKehl!",
+    "TechnoMeryem88",
+    "VW_Wanderlust",
+    "LokalerFV_Stephan",
+    "DeutscheKuecheJB",
+    "KehlPhotography!",
+    "Jelena_VW2010",
+    "MessiFoto23"
+  ]
+}

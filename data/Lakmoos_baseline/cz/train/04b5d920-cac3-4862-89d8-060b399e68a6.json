@@ -1,0 +1,35 @@
+{
+  "id": "04b5d920-cac3-4862-89d8-060b399e68a6",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "lego",
+    "kreslení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "matej2016",
+    "plzen123",
+    "skola8",
+    "vesely3000",
+    "auticko",
+    "Lego2024",
+    "Fotbal08",
+    "Kresleni123",
+    "Plzen08",
+    "Vesely8!"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2018-02-18"
+}

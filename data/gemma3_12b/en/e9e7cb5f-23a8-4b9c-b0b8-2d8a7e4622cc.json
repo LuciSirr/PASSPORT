@@ -1,0 +1,45 @@
+{
+  "id": "e9e7cb5f-23a8-4b9c-b0b8-2d8a7e4622cc",
+  "age": 33,
+  "birth_date": "1993-12-26",
+  "marital_status": "married",
+  "region": "New Damian",
+  "nationality": "english",
+  "company": "Wright, Butcher and Jones",
+  "car_brand": "BMW",
+  "self_first_name": "Amelia",
+  "self_last_name": "Campbell",
+  "partner_first_name": "James",
+  "partner_last_name": "Campbell",
+  "children": [
+    {
+      "first_name": "Alice",
+      "last_name": "Campbell"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Andrea"
+    }
+  ],
+  "interests": [
+    "Cyberpunk 2077",
+    "Hiking",
+    "Synthwave Music",
+    "Local Brewery Tours",
+    "Urban Photography"
+  ],
+  "previous_passwords": [
+    "Andrea2077!",
+    "CyberpunkHike93",
+    "AliceCampbellBmW",
+    "SynthwaveJames",
+    "NewDamianPhoto!",
+    "HikingAlice26",
+    "BreweryAndrea_1993",
+    "bMwC2077!",
+    "UrbanSynth2024",
+    "AliceCampbellHike"
+  ]
+}

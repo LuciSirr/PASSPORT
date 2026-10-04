@@ -1,0 +1,35 @@
+{
+  "id": "b1da2a4c-faa6-4b3d-9aff-aaaeb5a1545f",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Škoda",
+  "self_first_name": "Annika",
+  "self_last_name": "Krause",
+  "birth_date": "1995-05-14",
+  "partner_first_name": "Lukas",
+  "partner_last_name": "Neumann",
+  "children": [],
+  "interests": [
+    "dark",
+    "podcasts",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Büroservice RheinWest",
+  "previous_passwords": [
+    "Annika1995",
+    "KrauseDark14",
+    "podcasts123",
+    "Dark_2017",
+    "Büroservice!95",
+    "LukasKrause2020",
+    "audiobooks_14",
+    "Neumann!1995",
+    "DarkPodcasts95",
+    "Krause!podcast"
+  ],
+  "favorite_hobby": "dark"
+}

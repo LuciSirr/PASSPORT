@@ -1,0 +1,41 @@
+{
+  "id": "03298408-e565-4ac3-a037-41c04db2c452",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "grilování",
+    "netflix"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "TransLog Ústí s.r.o.",
+  "previous_passwords": [
+    "Rex2017",
+    "JitkaRadek48",
+    "Vesely1976",
+    "UstiNadLabem123",
+    "Grilovani!",
+    "Kodiaq2017",
+    "Pilsner48",
+    "Turistika123",
+    "Jitka4Radek",
+    "Rex!2020"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1978-01-21"
+}

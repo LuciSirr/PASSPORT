@@ -1,0 +1,37 @@
+{
+  "id": "6ed075a2-6a8f-491e-ab70-1ab7f856e549",
+  "gender": "female",
+  "age": 43,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Eastfield Academy",
+  "previous_passwords": [
+    "Fiona1979",
+    "Milo123",
+    "Graham22",
+    "Hollingsworth1",
+    "Eastfield2015",
+    "Gardening4",
+    "Reading_79",
+    "Milo!2014"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1982-12-02"
+}

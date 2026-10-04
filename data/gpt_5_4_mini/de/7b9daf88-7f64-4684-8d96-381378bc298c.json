@@ -1,0 +1,40 @@
+{
+  "id": "7b9daf88-7f64-4684-8d96-381378bc298c",
+  "age": 38,
+  "birth_date": "1988-05-12",
+  "marital_status": "married",
+  "region": "Osterode am Harz",
+  "nationality": "german",
+  "company": "Kruschwitz",
+  "car_brand": "Audi",
+  "self_first_name": "Raphaela",
+  "self_last_name": "Schüler",
+  "partner_first_name": "Hanspeter",
+  "partner_last_name": "Schüler",
+  "children": [
+    {
+      "first_name": "Isabell",
+      "last_name": "Schüler"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern im Harz",
+    "Fußball",
+    "Kochen",
+    "Radfahren",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "HarzWandern88",
+    "Audi_Harz38!",
+    "Hanspeter88",
+    "Isabell12!",
+    "Koeln1904Harz",
+    "Bayern88_Rad",
+    "KochenMit88",
+    "Klassik38!",
+    "HarzBike12",
+    "Osterode88!"
+  ]
+}

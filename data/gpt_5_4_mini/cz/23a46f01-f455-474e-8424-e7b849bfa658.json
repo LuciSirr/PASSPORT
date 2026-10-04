@@ -1,0 +1,35 @@
+{
+  "id": "23a46f01-f455-474e-8424-e7b849bfa658",
+  "age": 35,
+  "birth_date": "1991-07-20",
+  "marital_status": "single",
+  "region": "Klobouky u Brna",
+  "nationality": "czech",
+  "company": "Pavlík",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Milena",
+  "self_last_name": "Sedláková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "grilování",
+    "turistika",
+    "vinařství"
+  ],
+  "previous_passwords": [
+    "Slavia91!",
+    "Messi_20",
+    "Bayern1991",
+    "PilsnerBrno7",
+    "VltavaHike35",
+    "Volkswagen91",
+    "Grilovani_20",
+    "Hokej!1991",
+    "Turistika7",
+    "Vinarstvi35!"
+  ]
+}

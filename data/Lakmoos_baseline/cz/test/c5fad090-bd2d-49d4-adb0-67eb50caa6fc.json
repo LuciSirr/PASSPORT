@@ -1,0 +1,34 @@
+{
+  "id": "c5fad090-bd2d-49d4-adb0-67eb50caa6fc",
+  "gender": "male",
+  "age": 61,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1963-06-15",
+  "partner_first_name": "Ivana",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "turistika",
+    "české filmy"
+  ],
+  "pets": [],
+  "company": "Pražský Hostinec s.r.o.",
+  "previous_passwords": [
+    "Radek1963",
+    "KohoutPraha",
+    "Ivana1506",
+    "turistika2020",
+    "Hostinec45",
+    "cesk3filmy",
+    "Praha_9999",
+    "Kohout!63",
+    "RadekIvana1",
+    "Hostinec1963"
+  ],
+  "favorite_hobby": "turistika"
+}

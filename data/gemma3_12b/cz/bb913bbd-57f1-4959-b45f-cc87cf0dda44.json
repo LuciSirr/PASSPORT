@@ -1,0 +1,40 @@
+{
+  "id": "bb913bbd-57f1-4959-b45f-cc87cf0dda44",
+  "age": 41,
+  "birth_date": "1985-02-20",
+  "marital_status": "married",
+  "region": "Dašice",
+  "nationality": "czech",
+  "company": "Navrátil Hájková s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Silvie",
+  "self_last_name": "Zemanová",
+  "partner_first_name": "Alexandr",
+  "partner_last_name": "Zemanová",
+  "children": [
+    {
+      "first_name": "Šimon",
+      "last_name": "Bláha"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivovarnictví",
+    "rybaření",
+    "filmové večery",
+    "historie Dašic"
+  ],
+  "previous_passwords": [
+    "SimonsFilmVecer2008",
+    "DasiceHistorie85",
+    "SkodaTuristika23",
+    "PivovarnictviSimon",
+    "BlahaRybar1985",
+    "AlexandrZemanova1!",
+    "ŠimonTuristika!",
+    "DašicePivo8!",
+    "SkodaFilm20!",
+    "SimonsRybar85"
+  ]
+}

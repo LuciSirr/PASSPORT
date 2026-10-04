@@ -1,0 +1,48 @@
+{
+  "id": "dbbbc441-7f05-4cad-bb79-b1f056ac5c60",
+  "age": 50,
+  "birth_date": "1976-06-08",
+  "marital_status": "single",
+  "region": "Scheinfeld",
+  "nationality": "german",
+  "company": "Faust GmbH",
+  "car_brand": "Ford",
+  "self_first_name": "Wolfhard",
+  "self_last_name": "Etzler",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Gerd",
+      "last_name": "Etzler"
+    },
+    {
+      "first_name": "Tülay",
+      "last_name": "Etzler"
+    },
+    {
+      "first_name": "Francisco",
+      "last_name": "Etzler"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Deutsche Küche",
+    "Lokaler Fußballverein",
+    "Gartenarbeit"
+  ],
+  "previous_passwords": [
+    "FordWander1976",
+    "GerdFoto2024!",
+    "TülayScheinfeld",
+    "FranciscoWandern!",
+    "MessiDeutscheKueche",
+    "GartenFord76",
+    "WanderEtzler",
+    "FotografieFord!",
+    "FranzEtzlerWandern",
+    "ScheinfeldFußball23"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "8150b3b5-8349-43e1-947c-9a0087742d54",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Audi",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "birth_date": "1973-10-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "tatort",
+    "oldtimer",
+    "bundesliga"
+  ],
+  "pets": [],
+  "company": "Bauunternehmen Vogt & Partner",
+  "previous_passwords": [
+    "Tatort1973",
+    "Krause!112",
+    "Bundesliga73",
+    "Oldtimer_3008",
+    "Jens1973",
+    "AudiA5!2013",
+    "VogtPartner2020",
+    "Tatort!15",
+    "KrauseTatort123",
+    "Peugeot1973"
+  ],
+  "favorite_hobby": "tatort"
+}

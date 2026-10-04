@@ -1,0 +1,31 @@
+{
+  "id": "f93517df-5b71-4601-9af0-d07c8cee86c0",
+  "gender": "male",
+  "age": 1,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kubeš",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "matej2023",
+    "maminka123",
+    "plzenko",
+    "auticko",
+    "kubicek",
+    "malovani2024",
+    "Kubesek1",
+    "Plzen!23"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2024-06-11"
+}

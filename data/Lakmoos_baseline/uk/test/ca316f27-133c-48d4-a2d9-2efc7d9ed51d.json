@@ -1,0 +1,39 @@
+{
+  "id": "ca316f27-133c-48d4-a2d9-2efc7d9ed51d",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Poppy",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "peppa pig",
+    "building blocks"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Whiskers"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Poppy2022",
+    "PeppaPig123",
+    "Whiskers15",
+    "Blocks4Fun",
+    "HollisCat22",
+    "Peppa!Pig",
+    "PoppyPiggy",
+    "Wh1sk3rs!",
+    "Blocks2022",
+    "PeppaBlocks"
+  ],
+  "favorite_hobby": "peppa pig",
+  "birth_date": "2018-06-15"
+}

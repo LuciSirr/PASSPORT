@@ -1,0 +1,35 @@
+{
+  "id": "1d2beef9-df37-4203-bb9b-31fc97a0b508",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Mazda",
+  "self_first_name": "Annika",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Tobias",
+  "partner_last_name": "Kreutzmann",
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobooks",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Annika1989",
+    "Tobi1234",
+    "Mazda3_2020",
+    "Sommer!07",
+    "Kreutzmann77",
+    "Reisen2022",
+    "Apple4Life",
+    "BKK_7000",
+    "Flickr!19",
+    "Hessen2024"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1990-07-31"
+}

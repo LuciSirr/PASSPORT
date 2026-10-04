@@ -1,0 +1,34 @@
+{
+  "id": "b8c392e1-dd85-4154-9dad-1d844a6b345b",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heinz",
+  "self_last_name": "Kraus",
+  "partner_first_name": "Ursula",
+  "partner_last_name": "Kraus",
+  "children": [],
+  "interests": [
+    "wandern",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heinz1948",
+    "Kraus123",
+    "Ursula1972",
+    "Wandern2020",
+    "Sommer!48",
+    "Gartenarbeit_1",
+    "Rheinland78",
+    "Kraus_Ursula",
+    "Heinz!1000",
+    "AOK_1948"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1956-03-26"
+}

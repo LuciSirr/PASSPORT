@@ -1,0 +1,35 @@
+{
+  "id": "3dfd7b81-9a20-461e-81d1-0b292df350ed",
+  "gender": "female",
+  "age": 58,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Krásová",
+  "birth_date": "1966-06-12",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Krásová",
+  "children": [],
+  "interests": [
+    "české filmy",
+    "turistika",
+    "malování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Ivana1966",
+    "Krásová59",
+    "turistika2020",
+    "PetrK66",
+    "malovani123",
+    "ceskefilmy_66",
+    "Krásová!2022",
+    "IvanaPetr12",
+    "turistikaKrásová",
+    "malovani66!"
+  ],
+  "favorite_hobby": "české filmy"
+}

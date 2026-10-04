@@ -1,0 +1,53 @@
+{
+  "id": "6af13486-fc40-431a-9b72-c6c9f87d73a7",
+  "age": 33,
+  "birth_date": "1993-11-17",
+  "marital_status": "married",
+  "region": "Libochovice",
+  "nationality": "czech",
+  "company": "Pavlíček",
+  "car_brand": "Škoda",
+  "self_first_name": "Barbora",
+  "self_last_name": "Švecová",
+  "partner_first_name": "Otakar",
+  "partner_last_name": "Švec",
+  "children": [
+    {
+      "first_name": "Iveta",
+      "last_name": "Švecová"
+    },
+    {
+      "first_name": "Antonín",
+      "last_name": "Švec"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Robert"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Milada"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "hokej",
+    "vaření",
+    "zahrádkaření"
+  ],
+  "previous_passwords": [
+    "Turistika93!",
+    "SkodaHike17",
+    "HokejOtakar93",
+    "VareniIveta11",
+    "CykloLibo93",
+    "ZahradkaRobert7",
+    "MiladaBike33",
+    "AntoninTour93",
+    "SvecovaSkoda!",
+    "Libochovice93"
+  ]
+}

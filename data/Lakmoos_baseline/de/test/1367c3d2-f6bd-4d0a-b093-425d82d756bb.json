@@ -1,0 +1,34 @@
+{
+  "id": "1367c3d2-f6bd-4d0a-b093-425d82d756bb",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "brandenburg",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lukas",
+  "self_last_name": "Krause",
+  "birth_date": "2012-06-11",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "minecraft",
+    "fussball"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2012",
+    "KrauseMC",
+    "minecraft123",
+    "Fussball_11",
+    "KrauseFussball",
+    "Lukas_MC2012",
+    "minecraft!2012",
+    "Krause11",
+    "FussballKrause",
+    "MC_Krause12"
+  ],
+  "favorite_hobby": "minecraft"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0e45f8ad-73bf-4ec1-a07a-d03594f254b0",
+  "gender": "female",
+  "age": 33,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Peugeot",
+  "self_first_name": "Harriet",
+  "self_last_name": "Merriman",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Merriman",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "baking"
+  ],
+  "pets": [],
+  "company": "East Midlands Venture Hub",
+  "previous_passwords": [
+    "Harriet2011",
+    "Merriman123",
+    "Ollie4ever",
+    "Peugeot208!",
+    "TravelBug33",
+    "BakeOff2020",
+    "EastMidlands1",
+    "Reading4Fun"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1993-03-22"
+}

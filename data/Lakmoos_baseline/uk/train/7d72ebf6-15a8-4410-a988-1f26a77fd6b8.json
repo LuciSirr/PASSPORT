@@ -1,0 +1,34 @@
+{
+  "id": "7d72ebf6-15a8-4410-a988-1f26a77fd6b8",
+  "gender": "male",
+  "age": 90,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Wilfred",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": "Edith",
+  "partner_last_name": "Hollingworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crosswords"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Wilfred1934",
+    "Edith123",
+    "Hollingworth90",
+    "Yorkshire!1",
+    "Gardening1950",
+    "Crosswords7",
+    "WilfEdith34",
+    "Hollingworth_999",
+    "Wilf!Edith",
+    "Yorkshire1940"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1935-09-28"
+}

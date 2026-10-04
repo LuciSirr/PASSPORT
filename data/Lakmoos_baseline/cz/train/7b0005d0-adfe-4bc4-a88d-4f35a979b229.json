@@ -1,0 +1,35 @@
+{
+  "id": "7b0005d0-adfe-4bc4-a88d-4f35a979b229",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "televize",
+    "procházky",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "Hradecká technická kancelář",
+  "previous_passwords": [
+    "Radek1961",
+    "JanaVesela63",
+    "hradec789",
+    "prochazky2020",
+    "Vesely!123",
+    "křížovky321",
+    "Pilsner2024",
+    "dmnakup",
+    "Televize11",
+    "Vesely.Jana"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1962-09-21"
+}

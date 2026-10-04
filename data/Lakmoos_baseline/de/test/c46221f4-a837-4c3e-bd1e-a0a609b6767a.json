@@ -1,0 +1,35 @@
+{
+  "id": "c46221f4-a837-4c3e-bd1e-a0a609b6767a",
+  "gender": "female",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lena",
+  "self_last_name": "Kuhn",
+  "birth_date": "2002-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "dark",
+    "cruise reisen",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Digitalwerk Rhein",
+  "previous_passwords": [
+    "Lena2002",
+    "KuhnDark17",
+    "cruiseReisen123",
+    "Dark_0417",
+    "audiobooks2022",
+    "Digitalwerk!17",
+    "Kuhn!Dark",
+    "DarkKuhn2024",
+    "Lena_Cruise",
+    "Dark1234"
+  ],
+  "favorite_hobby": "dark"
+}

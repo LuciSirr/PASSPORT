@@ -1,0 +1,40 @@
+{
+  "id": "a52b0497-d395-46e6-be8a-073d4a0197b3",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennard",
+  "self_last_name": "Krausmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lego",
+    "fussball",
+    "zeichnen"
+  ],
+  "pets": [
+    {
+      "pet_type": "other",
+      "pet_name": "Hoppel"
+    }
+  ],
+  "company": "Nachhilfezentrum RheinKids",
+  "previous_passwords": [
+    "Lennard2016",
+    "Krausmann123",
+    "Hoppel07",
+    "Fussball8",
+    "Lego!2022",
+    "RheinKids2023",
+    "Zeichnen_88",
+    "HoppelLego",
+    "Krausmann8",
+    "L3nn4rd!"
+  ],
+  "favorite_hobby": "lego",
+  "birth_date": "2018-02-08"
+}

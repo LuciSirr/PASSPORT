@@ -1,0 +1,44 @@
+{
+  "id": "a83b4afb-b673-4e1d-8aac-b4de54322aaf",
+  "age": 27,
+  "birth_date": "1999-07-24",
+  "marital_status": "married",
+  "region": "Kathleenton",
+  "nationality": "english",
+  "company": "Gilbert LLC",
+  "car_brand": "Tesla",
+  "self_first_name": "Charlene",
+  "self_last_name": "Roberts",
+  "partner_first_name": "Robert",
+  "partner_last_name": "Roberts",
+  "children": [
+    {
+      "first_name": "Dean",
+      "last_name": "Roberts"
+    },
+    {
+      "first_name": "Bryan",
+      "last_name": "Roberts"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "fitness",
+    "streaming TV series",
+    "travel",
+    "coffee culture"
+  ],
+  "previous_passwords": [
+    "TeslaGaming99!",
+    "Stranger4Rob",
+    "NetflixDean24",
+    "CoffeeBryan07",
+    "FitLife1999!",
+    "EldenCharl27",
+    "TravelRoberts24",
+    "EssoCoffee99",
+    "RacingDean99!",
+    "Twitch27!"
+  ]
+}

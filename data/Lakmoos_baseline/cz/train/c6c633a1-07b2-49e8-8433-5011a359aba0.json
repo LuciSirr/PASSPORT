@@ -1,0 +1,36 @@
+{
+  "id": "c6c633a1-07b2-49e8-8433-5011a359aba0",
+  "gender": "female",
+  "age": 42,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "knihy",
+    "procházky",
+    "divadlo",
+    "facebook"
+  ],
+  "pets": [],
+  "company": "Pražská sociální péče s.r.o.",
+  "previous_passwords": [
+    "Iveta1982",
+    "Vesela123",
+    "Fabia2009",
+    "Praha42",
+    "Rossmann24",
+    "Lidl2021",
+    "Divadlo!2020",
+    "Prochazka77",
+    "Knihy2022",
+    "Facebook_42"
+  ],
+  "favorite_hobby": "knihy",
+  "birth_date": "1983-07-02"
+}

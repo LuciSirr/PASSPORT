@@ -1,0 +1,35 @@
+{
+  "id": "1768d341-f68b-4f27-9db4-3a207496f061",
+  "gender": "female",
+  "age": 20,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "driving",
+    "netflix",
+    "shopping"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Imogen2004",
+    "MazdaCX5!",
+    "Hollis123",
+    "Netflix_04",
+    "Driving7.4",
+    "OpelVx2018",
+    "NorthWest20",
+    "Shopper1",
+    "Mazda_39229",
+    "Hollis!04"
+  ],
+  "favorite_hobby": "driving",
+  "birth_date": "2006-03-22"
+}

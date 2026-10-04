@@ -1,0 +1,44 @@
+{
+  "id": "0aa650c7-7d3a-4ded-aa3f-365b4ee03b7e",
+  "age": 58,
+  "birth_date": "1968-11-29",
+  "marital_status": "divorced",
+  "region": "Griffithsmouth",
+  "nationality": "english",
+  "company": "Parker-Shaw",
+  "car_brand": "Honda",
+  "self_first_name": "Justin",
+  "self_last_name": "Smith",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Robert"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Joel"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "walking",
+    "classic rock",
+    "local football",
+    "cooking"
+  ],
+  "previous_passwords": [
+    "HondaRock68!",
+    "GardenJoel29",
+    "Walker1968!",
+    "FootballRobby11",
+    "ClassicSmith68",
+    "CookGriff11!",
+    "HondaRabbit29",
+    "RocknRoll68",
+    "Griffith68!",
+    "SmithHonda29"
+  ]
+}

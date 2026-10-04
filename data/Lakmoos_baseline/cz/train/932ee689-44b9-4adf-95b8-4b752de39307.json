@@ -1,0 +1,40 @@
+{
+  "id": "932ee689-44b9-4adf-95b8-4b752de39307",
+  "gender": "male",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Šimon",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "počítače",
+    "kreslení"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Max"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "plzen123",
+    "fotbal2022",
+    "vesely13",
+    "domov2021",
+    "Maxik2020",
+    "kresleni_07",
+    "Pocitace321",
+    "F0tbal!",
+    "Plz3nMax",
+    "VeselyMax13"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2012-06-12"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "efdf47c0-85e6-441f-bfa5-bd03090d2a1c",
+  "age": 42,
+  "birth_date": "1984-10-05",
+  "marital_status": "divorced",
+  "region": "Stadtsteinach",
+  "nationality": "german",
+  "company": "Birnbaum Mohaupt GbR",
+  "car_brand": "Kia",
+  "self_first_name": "James",
+  "self_last_name": "Rust",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Nevenka"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fußball",
+    "Gartenarbeit",
+    "Kochen",
+    "Bayerischer Wald"
+  ],
+  "previous_passwords": [
+    "Wandern84!",
+    "BayernWald05",
+    "KochenKia42",
+    "Lizard1984!",
+    "FuBallKia84",
+    "Garten42_10",
+    "StadtWald84",
+    "Wandern_05!",
+    "KiaRust1984",
+    "Kochen10!"
+  ]
+}

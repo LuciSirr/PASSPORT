@@ -1,0 +1,41 @@
+{
+  "id": "0f819fbe-ba66-48c7-9954-23ee6a082ff0",
+  "gender": "female",
+  "age": 62,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Toyota",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bramble"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Margaret1962",
+    "Bramble123",
+    "Hollingsworth62",
+    "Peter1960",
+    "Travel4Fun!",
+    "Reading_62",
+    "Garden2020",
+    "Walking!1",
+    "BrambleDog!",
+    "MargaretPeter62"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1964-03-28"
+}

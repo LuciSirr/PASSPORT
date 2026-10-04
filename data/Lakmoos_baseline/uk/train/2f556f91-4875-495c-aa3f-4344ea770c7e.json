@@ -1,0 +1,35 @@
+{
+  "id": "2f556f91-4875-495c-aa3f-4344ea770c7e",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gareth",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "reading"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gareth1979",
+    "HelenMerrick123",
+    "Merrick!45",
+    "Travel2020",
+    "Reading4Life",
+    "SouthEast_79",
+    "Adventure!1",
+    "Walking_123",
+    "MerrickHelen",
+    "G4r3th_1979"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1981-03-27"
+}

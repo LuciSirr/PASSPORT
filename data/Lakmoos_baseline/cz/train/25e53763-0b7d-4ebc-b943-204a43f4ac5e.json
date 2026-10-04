@@ -1,0 +1,36 @@
+{
+  "id": "25e53763-0b7d-4ebc-b943-204a43f4ac5e",
+  "gender": "male",
+  "age": 89,
+  "marital_status": "widower/widow",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "malování",
+    "hudba",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Fabia2009",
+    "Globus123",
+    "Prague79",
+    "Veolia581",
+    "Hame2024",
+    "Malovani2021",
+    "Hudba_1955",
+    "Sebesta89",
+    "Cteni!123",
+    "Nakupovani_79"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1936-06-04"
+}

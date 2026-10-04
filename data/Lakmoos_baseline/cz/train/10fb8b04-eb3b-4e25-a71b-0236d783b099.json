@@ -1,0 +1,44 @@
+{
+  "id": "10fb8b04-eb3b-4e25-a71b-0236d783b099",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "film",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Hotel Praha Gastro",
+  "previous_passwords": [
+    "Matej2011",
+    "Eliška123",
+    "Praha2020",
+    "VeselyMatysek12",
+    "PetraRadek07",
+    "Hudba!2023",
+    "Cestovani_88",
+    "Hilux2393",
+    "KubikOblibenec",
+    "Voda1234"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1985-01-11"
+}

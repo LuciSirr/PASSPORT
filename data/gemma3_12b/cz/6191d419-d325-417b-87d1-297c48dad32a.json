@@ -1,0 +1,44 @@
+{
+  "id": "6191d419-d325-417b-87d1-297c48dad32a",
+  "age": 38,
+  "birth_date": "1988-10-04",
+  "marital_status": "married",
+  "region": "Chyše",
+  "nationality": "czech",
+  "company": "Bláha v.o.s.",
+  "car_brand": "Dacia",
+  "self_first_name": "Natálie",
+  "self_last_name": "Kučerová",
+  "partner_first_name": "Šimon",
+  "partner_last_name": "Kučerová",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Jaroslav"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Hedvika"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivo",
+    "historie",
+    "rybaření",
+    "hudba Karla Gotta"
+  ],
+  "previous_passwords": [
+    "Jaroslav1988",
+    "TuristikaSimona",
+    "KarlaGottaChyse",
+    "DaciaRybar",
+    "HedvikaPivo23",
+    "MessiHistorie88",
+    "Turistika_Jaroslav",
+    "Chyse_Gotta",
+    "Simona_Turistika",
+    "RybarHedvika1990"
+  ]
+}

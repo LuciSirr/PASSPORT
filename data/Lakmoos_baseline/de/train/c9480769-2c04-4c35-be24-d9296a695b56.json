@@ -1,0 +1,35 @@
+{
+  "id": "c9480769-2c04-4c35-be24-d9296a695b56",
+  "gender": "female",
+  "age": 73,
+  "marital_status": "widower/widow",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Volvo",
+  "self_first_name": "Hannelore",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "spazierengehen",
+    "audiobücher",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Hannelore1951",
+    "VolvoEX30!",
+    "Kleinschmidt2000",
+    "Spazieren123",
+    "AOK_73",
+    "SommerJuni24",
+    "Widow2022",
+    "Gartenarbeit1",
+    "Nordrhein51",
+    "Apfelbaum!"
+  ],
+  "favorite_hobby": "spazierengehen",
+  "birth_date": "1952-07-30"
+}

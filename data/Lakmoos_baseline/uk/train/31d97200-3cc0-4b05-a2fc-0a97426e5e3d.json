@@ -1,0 +1,39 @@
+{
+  "id": "31d97200-3cc0-4b05-a2fc-0a97426e5e3d",
+  "gender": "male",
+  "age": 54,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Subaru",
+  "self_first_name": "Graham",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Alison",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "fishing",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Fenland Engineering Ltd",
+  "previous_passwords": [
+    "Graham1969",
+    "Baxter123",
+    "Merrick2020",
+    "Fishing4Life",
+    "Alison!69",
+    "Fenland2022",
+    "Gardening_1",
+    "Baxter!Merrick",
+    "Subaru22",
+    "GrahamAlison54"
+  ],
+  "favorite_hobby": "fishing",
+  "birth_date": "1972-01-14"
+}

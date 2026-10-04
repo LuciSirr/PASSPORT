@@ -1,0 +1,34 @@
+{
+  "id": "8ab642f4-af60-433c-977e-bc17c29feec4",
+  "gender": "male",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "northern ireland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "McIlveen",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gaming",
+    "football",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "Belfast Student Services",
+  "previous_passwords": [
+    "Callum2009",
+    "McIlveen123",
+    "Belfast14",
+    "Football4Life",
+    "Gaming_2023",
+    "Cycling!21",
+    "Callum!McI",
+    "Student2024",
+    "NIreland_12"
+  ],
+  "favorite_hobby": "gaming",
+  "birth_date": "2011-07-20"
+}

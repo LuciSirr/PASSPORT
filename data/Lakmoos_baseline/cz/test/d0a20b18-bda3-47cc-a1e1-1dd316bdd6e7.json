@@ -1,0 +1,35 @@
+{
+  "id": "d0a20b18-bda3-47cc-a1e1-1dd316bdd6e7",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1997-04-18",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "disney princezny",
+    "moderni umeni",
+    "cestovani"
+  ],
+  "pets": [],
+  "company": "Pražská Logistika s.r.o.",
+  "previous_passwords": [
+    "Tereza1997",
+    "KohoutovaPraha",
+    "disney123",
+    "umeni2020",
+    "Albert_838",
+    "cestovani18",
+    "Kohoutova!97",
+    "princezna2021",
+    "moderniumeni_04",
+    "TerezaDisney18"
+  ],
+  "favorite_hobby": "disney princezny"
+}

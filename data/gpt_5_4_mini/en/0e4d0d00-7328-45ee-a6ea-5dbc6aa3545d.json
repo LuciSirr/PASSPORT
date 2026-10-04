@@ -1,0 +1,53 @@
+{
+  "id": "0e4d0d00-7328-45ee-a6ea-5dbc6aa3545d",
+  "age": 44,
+  "birth_date": "1982-10-26",
+  "marital_status": "married",
+  "region": "Abbiehaven",
+  "nationality": "english",
+  "company": "Hall-Miles",
+  "car_brand": "Volvo",
+  "self_first_name": "Nicholas",
+  "self_last_name": "Smith",
+  "partner_first_name": "Hilary",
+  "partner_last_name": "Smith",
+  "children": [
+    {
+      "first_name": "Graham",
+      "last_name": "Smith"
+    },
+    {
+      "first_name": "Phillip",
+      "last_name": "Smith"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Mark"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Natasha"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "podcasts",
+    "hiking",
+    "home improvement",
+    "local football"
+  ],
+  "previous_passwords": [
+    "HilaryRHS82!",
+    "VolvoGard82",
+    "GrahamHill26",
+    "NatashaPod82",
+    "MarkGreen82!",
+    "GrahamHike82",
+    "SmithRugby26",
+    "VolvoDIY82!",
+    "PhillipFoot82",
+    "AbbieHike26!"
+  ]
+}

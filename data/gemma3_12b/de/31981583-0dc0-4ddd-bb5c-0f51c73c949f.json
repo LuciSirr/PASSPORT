@@ -1,0 +1,44 @@
+{
+  "id": "31981583-0dc0-4ddd-bb5c-0f51c73c949f",
+  "age": 45,
+  "birth_date": "1981-08-22",
+  "marital_status": "divorced",
+  "region": "Sternberg",
+  "nationality": "german",
+  "company": "Barkholz AG",
+  "car_brand": "Opel",
+  "self_first_name": "Ingried",
+  "self_last_name": "Reinhardt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Eberhard",
+      "last_name": "Reinhardt"
+    },
+    {
+      "first_name": "Tomas",
+      "last_name": "Reinhardt"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Lokaler Fußballverein",
+    "Klassische Musik",
+    "Autos"
+  ],
+  "previous_passwords": [
+    "EberhardWandern81",
+    "OpelSternberg22",
+    "MessiFotografie!",
+    "TomasKlassik1978",
+    "BergFoto2024",
+    "SternbergWanderer",
+    "ReinhardtOpel!",
+    "FußballLiebe81",
+    "ClassicMusicT",
+    "OpelBerg2023"
+  ]
+}

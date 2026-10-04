@@ -1,0 +1,40 @@
+{
+  "id": "6b31b87b-5c3d-4a26-a318-8b71ff4643c4",
+  "age": 34,
+  "birth_date": "1992-01-16",
+  "marital_status": "divorced",
+  "region": "Ahaus",
+  "nationality": "german",
+  "company": "Hentschel",
+  "car_brand": "Seat",
+  "self_first_name": "Gerta",
+  "self_last_name": "Schwital",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Paul-Heinz",
+      "last_name": "Schwital"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Kochen",
+    "Fitness",
+    "Reisen"
+  ],
+  "previous_passwords": [
+    "Messi1992!",
+    "PaulHeinz07",
+    "SeatAhaus92",
+    "Kochen2026!",
+    "RadLieb6_92",
+    "BayernPaul7",
+    "Fitness94!",
+    "Reisen_Ahaus8",
+    "Hummels16!",
+    "PastaPaul92"
+  ]
+}

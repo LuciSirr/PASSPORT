@@ -1,0 +1,36 @@
+{
+  "id": "38f4cbf1-96ed-45f6-ad09-443424eb1578",
+  "gender": "male",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "BMW",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "gaming",
+    "serien",
+    "kochen"
+  ],
+  "pets": [],
+  "company": "Rheinland Consulting GmbH",
+  "previous_passwords": [
+    "Lennart1998",
+    "Krause123",
+    "BMWi4!21",
+    "Reisen2022",
+    "Sommer!August",
+    "Fussball7",
+    "Apple_254",
+    "Gaming2020",
+    "Rheinland78",
+    "Kochen!123"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "2000-03-17"
+}

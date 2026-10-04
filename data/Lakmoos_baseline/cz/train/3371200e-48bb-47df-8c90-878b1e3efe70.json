@@ -1,0 +1,57 @@
+{
+  "id": "3371200e-48bb-47df-8c90-878b1e3efe70",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "married",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šebestová",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Šebestová"
+    },
+    {
+      "first_name": "Jakub",
+      "last_name": "Šebestová"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Šebestová"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Šebestová"
+    }
+  ],
+  "interests": [
+    "čtení",
+    "procházky",
+    "vaření"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "Hotel Liberec Plus",
+  "previous_passwords": [
+    "Tereza2009",
+    "Superb23",
+    "Liberec2020",
+    "Matěj15",
+    "dm543",
+    "Ben!2021",
+    "Prochazka123",
+    "Eliška09",
+    "Petr1984",
+    "Čtení2022"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1988-02-16"
+}

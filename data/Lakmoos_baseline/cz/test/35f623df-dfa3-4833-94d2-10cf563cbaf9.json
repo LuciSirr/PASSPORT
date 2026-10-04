@@ -1,0 +1,39 @@
+{
+  "id": "35f623df-dfa3-4833-94d2-10cf563cbaf9",
+  "gender": "female",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Jurčová",
+  "birth_date": "2011-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "stranger things",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2011",
+    "Micka123",
+    "stranger11",
+    "JurcovaMalovani",
+    "malovani2024",
+    "Micka!14",
+    "strangerthings_14",
+    "TerezaMicka",
+    "malovaniJurcova",
+    "MickaST2024"
+  ],
+  "favorite_hobby": "stranger things"
+}

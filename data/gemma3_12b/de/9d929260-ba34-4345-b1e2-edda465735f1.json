@@ -1,0 +1,44 @@
+{
+  "id": "9d929260-ba34-4345-b1e2-edda465735f1",
+  "age": 42,
+  "birth_date": "1984-07-27",
+  "marital_status": "married",
+  "region": "Angermünde",
+  "nationality": "german",
+  "company": "Klingelhöfer Heydrich GmbH",
+  "car_brand": "Audi",
+  "self_first_name": "Halil",
+  "self_last_name": "Reichmann",
+  "partner_first_name": "Lilly",
+  "partner_last_name": "Hauffer",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Mirjam"
+    },
+    {
+      "pet_type": "bird",
+      "pet_name": "Liesa"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Oldtimer",
+    "Deutsche Küche",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Wandern2002",
+    "AudiMirjam!",
+    "LillyHaufferFoto",
+    "Messi1984",
+    "OldtimerAngermuende",
+    "DeutscheKuecheLiesa",
+    "FotografieHalil87",
+    "MirjamWanderlust",
+    "FootballAngermuende!",
+    "AudiLiesa27"
+  ]
+}

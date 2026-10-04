@@ -1,0 +1,37 @@
+{
+  "id": "4dca2027-f81b-4f44-9f32-1d52c3ff404c",
+  "gender": "female",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Eliška",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "puzzle"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Míca"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Eliška2021",
+    "Micinka3",
+    "malovani123",
+    "Veselá2020",
+    "slunicko!",
+    "jablko22",
+    "puzzle321",
+    "Míca2021"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2022-10-04"
+}

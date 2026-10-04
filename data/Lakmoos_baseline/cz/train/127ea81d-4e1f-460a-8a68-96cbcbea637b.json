@@ -1,0 +1,34 @@
+{
+  "id": "127ea81d-4e1f-460a-8a68-96cbcbea637b",
+  "gender": "male",
+  "age": 2,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "autíčka"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "matej2022",
+    "auticko123",
+    "jablko",
+    "hracka",
+    "matysek",
+    "Vesely22",
+    "malovani2023",
+    "auticka!",
+    "Matysek04",
+    "j4blko"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2023-06-21"
+}

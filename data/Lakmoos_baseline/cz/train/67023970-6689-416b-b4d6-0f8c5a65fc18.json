@@ -1,0 +1,35 @@
+{
+  "id": "67023970-6689-416b-b4d6-0f8c5a65fc18",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "divorced",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "turistika",
+    "televize"
+  ],
+  "pets": [],
+  "company": "Strojírny Ústí",
+  "previous_passwords": [
+    "Fabia2005",
+    "Usti721",
+    "Lidl2020",
+    "Skoda999",
+    "KfcObedy",
+    "Radek1972",
+    "Vesely123",
+    "Turistika21",
+    "Auta_999",
+    "Televize!"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1973-05-13"
+}

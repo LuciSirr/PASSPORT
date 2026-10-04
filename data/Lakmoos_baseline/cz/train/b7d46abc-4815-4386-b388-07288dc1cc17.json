@@ -1,0 +1,35 @@
+{
+  "id": "b7d46abc-4815-4386-b388-07288dc1cc17",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "chalupa",
+    "pivo",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "Moravská Kovovýroba",
+  "previous_passwords": [
+    "Radek1969",
+    "JanaVesela55",
+    "Octavia1998",
+    "Budvar2020",
+    "chalupa123",
+    "Vesely1970",
+    "pivo!2021",
+    "krizovky77",
+    "skodaEstate",
+    "Morava2022"
+  ],
+  "favorite_hobby": "chalupa",
+  "birth_date": "1971-01-28"
+}

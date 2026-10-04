@@ -1,0 +1,35 @@
+{
+  "id": "3efb2808-f0f8-4a30-8d7b-8485449d94ab",
+  "gender": "male",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "fotbal",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Autoservis Morava",
+  "previous_passwords": [
+    "Radek17",
+    "Aygo2021",
+    "Macan790",
+    "Kofola2022",
+    "Morava123",
+    "Fotbal98",
+    "Vesely2006",
+    "ToyotaAygo21",
+    "NetflixCZ",
+    "Auta!123"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2009-01-27"
+}

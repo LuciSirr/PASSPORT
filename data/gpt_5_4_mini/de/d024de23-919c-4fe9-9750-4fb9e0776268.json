@@ -1,0 +1,35 @@
+{
+  "id": "d024de23-919c-4fe9-9750-4fb9e0776268",
+  "age": 39,
+  "birth_date": "1987-02-20",
+  "marital_status": "divorced",
+  "region": "Recklinghausen",
+  "nationality": "german",
+  "company": "Kruschwitz",
+  "car_brand": "Kia",
+  "self_first_name": "Gabor",
+  "self_last_name": "Stumpf",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "BVB",
+    "Tagesausflüge ins Ruhrgebiet"
+  ],
+  "previous_passwords": [
+    "BVB1987!",
+    "KiaRuhr24",
+    "Kochen87_",
+    "Wandern39!",
+    "BVBRevier87",
+    "RuhrTour20",
+    "Gabor1987!",
+    "KochenRuhr39",
+    "KiaBVB87",
+    "Wandern20!"
+  ]
+}

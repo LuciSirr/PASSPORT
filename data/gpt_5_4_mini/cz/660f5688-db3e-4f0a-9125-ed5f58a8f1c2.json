@@ -1,0 +1,35 @@
+{
+  "id": "660f5688-db3e-4f0a-9125-ed5f58a8f1c2",
+  "age": 46,
+  "birth_date": "1980-11-01",
+  "marital_status": "single",
+  "region": "Vidnava",
+  "nationality": "czech",
+  "company": "Hrušková",
+  "car_brand": "Hyundai",
+  "self_first_name": "Milada",
+  "self_last_name": "Matoušková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika v Jeseníkách",
+    "sledování hokeje",
+    "zahradničení",
+    "české filmy",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "Jeseniky80!",
+    "Hokej1980",
+    "Hyundai46",
+    "Milada11",
+    "Vareni80_",
+    "CzeFilmy46!",
+    "Turistika11",
+    "Jeseniky11",
+    "HokejMila80",
+    "Zahrada1980"
+  ]
+}

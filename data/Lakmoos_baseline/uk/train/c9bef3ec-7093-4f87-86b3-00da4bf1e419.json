@@ -1,0 +1,35 @@
+{
+  "id": "c9bef3ec-7093-4f87-86b3-00da4bf1e419",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Smart",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "gardening",
+    "reading"
+  ],
+  "pets": [],
+  "company": "South Downs Ventures",
+  "previous_passwords": [
+    "Fiona1971",
+    "Graham123",
+    "SmartCar23",
+    "Travel4Life",
+    "Hollingsworth2020",
+    "Gardening!1",
+    "SouthDowns21",
+    "Reading_53",
+    "Fiona&Graham",
+    "Venture2022"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1972-09-09"
+}

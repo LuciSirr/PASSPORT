@@ -1,0 +1,35 @@
+{
+  "id": "a1da27d4-cf2b-41f9-9df3-916c7f88ae17",
+  "age": 55,
+  "birth_date": "1971-10-01",
+  "marital_status": "divorced",
+  "region": "Anklam",
+  "nationality": "german",
+  "company": "Kroker Börner Stiftung & Co. KGaA",
+  "car_brand": "Hyundai",
+  "self_first_name": "Alfredo",
+  "self_last_name": "Schaaf",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Gartenarbeit",
+    "Radfahren",
+    "Schlager",
+    "Heimatgeschichte",
+    "Angeln"
+  ],
+  "previous_passwords": [
+    "Garten1971!",
+    "Radeln71_",
+    "Schlager55!",
+    "AnklamAngeln1",
+    "HyundaiBike71",
+    "Heimat71#",
+    "OderFisch55",
+    "Blumen2021!",
+    "NordostRad55",
+    "AlfredoHobby71"
+  ]
+}

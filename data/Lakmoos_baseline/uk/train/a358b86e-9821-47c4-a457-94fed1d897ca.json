@@ -1,0 +1,35 @@
+{
+  "id": "a358b86e-9821-47c4-a457-94fed1d897ca",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Porsche",
+  "self_first_name": "Gareth",
+  "self_last_name": "Penrose",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Penrose",
+  "children": [],
+  "interests": [
+    "gardening",
+    "cycling",
+    "travel",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Celtic Scientific Consulting",
+  "previous_passwords": [
+    "Gareth1966",
+    "Helen4ever",
+    "Penrose4000",
+    "Taycan2020",
+    "Wales!123",
+    "Gardening66",
+    "Helen1968",
+    "CelticConsult1",
+    "Reading_58"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1967-05-11"
+}

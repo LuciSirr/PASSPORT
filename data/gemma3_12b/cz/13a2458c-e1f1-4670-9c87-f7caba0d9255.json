@@ -1,0 +1,40 @@
+{
+  "id": "13a2458c-e1f1-4670-9c87-f7caba0d9255",
+  "age": 33,
+  "birth_date": "1993-05-01",
+  "marital_status": "married",
+  "region": "Budišov nad Budišovkou",
+  "nationality": "czech",
+  "company": "Ježek Veselý a.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Patrik",
+  "self_last_name": "Beránek",
+  "partner_first_name": "Horymír",
+  "partner_last_name": "Beránek",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Robert"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivo",
+    "fotbal",
+    "hudba",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "RobertFotbal93",
+    "MessiTuristika2024",
+    "VolkswagenPivo!",
+    "BudisovHorymir",
+    "RobertHudba1993",
+    "TuristikaMessi_!",
+    "FotbalRobert",
+    "CestovaniHorymír",
+    "PivoVolkswagen!",
+    "MessiBudisov"
+  ]
+}

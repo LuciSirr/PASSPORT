@@ -1,0 +1,35 @@
+{
+  "id": "ee9d2be9-64d2-477b-bbba-6777ebe8f265",
+  "gender": "male",
+  "age": 56,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "cricket",
+    "travelling"
+  ],
+  "pets": [],
+  "company": "East Midlands Enterprise Solutions",
+  "previous_passwords": [
+    "OpelAstra2003",
+    "Elaine56",
+    "Graham123",
+    "EastMidlands1",
+    "Kadett!21",
+    "Cricket99",
+    "Hollingsworth2020",
+    "Gardening4U",
+    "AstraElaine",
+    "Travel2022"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1969-08-29"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3460fd8d-86f7-4577-8e74-68b24c60d62c",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "married",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "Mercedes",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kuhn",
+  "birth_date": "1994-07-15",
+  "partner_first_name": "Svenja",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "tatort",
+    "kreuzfahrten"
+  ],
+  "pets": [],
+  "company": "Nordlicht Consulting GmbH",
+  "previous_passwords": [
+    "Tatort1994",
+    "KuhnSvenja15",
+    "Kreuzfahrt123",
+    "T0biJuly94",
+    "Nordlicht2020",
+    "Tat0rt!15",
+    "SvenjaKreuzfahrt",
+    "Kuhn_4000",
+    "TatortKuhn94",
+    "Kreuzfahrt!94"
+  ],
+  "favorite_hobby": "tatort"
+}

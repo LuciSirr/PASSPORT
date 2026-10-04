@@ -1,0 +1,40 @@
+{
+  "id": "d359a134-1326-4e05-b5dc-ec76dc981299",
+  "age": 36,
+  "birth_date": "1990-04-17",
+  "marital_status": "married",
+  "region": "Hodkovice nad Mohelkou",
+  "nationality": "czech",
+  "company": "Pospíšil Ježek s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Artur",
+  "self_last_name": "Bláha",
+  "partner_first_name": "Žaneta",
+  "partner_last_name": "Blahová",
+  "children": [
+    {
+      "first_name": "Aleš",
+      "last_name": "Bláha"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "hokej",
+    "vaření",
+    "cyklistika",
+    "fotbal"
+  ],
+  "previous_passwords": [
+    "Turistika1990!",
+    "HokejBlaha17",
+    "Vysocina90_",
+    "SkodaAles17",
+    "CykloZaneta90",
+    "Sparta1990!",
+    "VareniBlaha_36",
+    "Blesk90Hike",
+    "FotbalAles17!",
+    "Hory1990Artur"
+  ]
+}

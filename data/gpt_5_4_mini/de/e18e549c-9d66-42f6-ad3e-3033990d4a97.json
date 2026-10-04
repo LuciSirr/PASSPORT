@@ -1,0 +1,40 @@
+{
+  "id": "e18e549c-9d66-42f6-ad3e-3033990d4a97",
+  "age": 70,
+  "birth_date": "1956-04-22",
+  "marital_status": "single",
+  "region": "Oschatz",
+  "nationality": "german",
+  "company": "Seifert Hübel Stiftung & Co. KGaA",
+  "car_brand": "Mazda",
+  "self_first_name": "Marija",
+  "self_last_name": "Bärer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Sigfried",
+      "last_name": "Bärer"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Gartenarbeit",
+    "Wandern in der Sächsischen Schweiz",
+    "Schlager",
+    "Dynamo Dresden",
+    "Heimatgeschichte"
+  ],
+  "previous_passwords": [
+    "Dynamo56!",
+    "Garten22_",
+    "Mazda1956!",
+    "Sachsenwandern7",
+    "Schlager70",
+    "Oschatz56!",
+    "Heimat56_22",
+    "Sigfried56!",
+    "Bvaerer1956",
+    "Elbsand7!"
+  ]
+}

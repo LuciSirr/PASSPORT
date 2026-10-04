@@ -1,0 +1,40 @@
+{
+  "id": "bae7ecae-9678-401d-a973-03ba8d3414e9",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Volvo",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Jonathan",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "gardening",
+    "bake off",
+    "walking holidays"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Westmoor Brokers Ltd",
+  "previous_passwords": [
+    "Fiona1974",
+    "Milo123",
+    "Ashcroft!2020",
+    "Bake0ff2018",
+    "Gardening4Life",
+    "WalkingH0lidays22",
+    "MiloBakeoff",
+    "Jonathan74",
+    "Westmoor2021",
+    "Bakeoff!Milo"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1974-05-18"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "672ccfee-c7d3-4799-9c62-68c1e8ccff80",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Toyota",
+  "self_first_name": "Jörg",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kleinschmidt"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "audiobücher",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "RheinService Verwaltung GmbH",
+  "previous_passwords": [
+    "Lukas2023",
+    "ToyotaRav4",
+    "Jörg1976",
+    "Kleinschmidt123",
+    "Wandern!2022",
+    "NRW_5000",
+    "Audiobuch88",
+    "Lukas!1",
+    "Rhein2024",
+    "Sommerurlaub09"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1978-01-30"
+}

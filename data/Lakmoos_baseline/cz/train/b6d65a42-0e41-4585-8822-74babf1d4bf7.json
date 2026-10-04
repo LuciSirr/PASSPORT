@@ -1,0 +1,35 @@
+{
+  "id": "b6d65a42-0e41-4585-8822-74babf1d4bf7",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "malování",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Středobohemia Snack Point",
+  "previous_passwords": [
+    "Teryna2004",
+    "Kofola17",
+    "Vesela123",
+    "BohemiaSnacks",
+    "AppleWatch19",
+    "Cestovani2022",
+    "Malovani_04",
+    "Veselka!17",
+    "Kofola_2004",
+    "Nakupovani123"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "2007-03-27"
+}

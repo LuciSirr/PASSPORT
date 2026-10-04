@@ -1,0 +1,48 @@
+{
+  "id": "5f96143d-fd9a-46f4-aff2-b67493520fe2",
+  "age": 32,
+  "birth_date": "1994-10-22",
+  "marital_status": "married",
+  "region": "Wurzen",
+  "nationality": "german",
+  "company": "Drewes Weiß GmbH",
+  "car_brand": "Volvo",
+  "self_first_name": "Carl",
+  "self_last_name": "Gutknecht",
+  "partner_first_name": "Monja",
+  "partner_last_name": "Gutknecht",
+  "children": [
+    {
+      "first_name": "Solveig",
+      "last_name": "Gutknecht"
+    },
+    {
+      "first_name": "Gertrud",
+      "last_name": "Gutknecht"
+    },
+    {
+      "first_name": "Andrzej",
+      "last_name": "Gutknecht"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Wandern",
+    "Kochen",
+    "Gaming"
+  ],
+  "previous_passwords": [
+    "Wolfe94!",
+    "FCBayern22",
+    "VolvoWandern7",
+    "MonjaKochen94",
+    "SolveigBike22",
+    "AndrzejGaming94",
+    "Radeln_Wurzen32",
+    "MessiCarl22!",
+    "HerthaKuchen94",
+    "GoDynamo94!"
+  ]
+}

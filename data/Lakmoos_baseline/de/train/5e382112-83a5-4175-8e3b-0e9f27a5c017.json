@@ -1,0 +1,35 @@
+{
+  "id": "5e382112-83a5-4175-8e3b-0e9f27a5c017",
+  "gender": "male",
+  "age": 68,
+  "marital_status": "divorced",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Subaru",
+  "self_first_name": "Klaus",
+  "self_last_name": "Bergmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "wandern",
+    "audiobücher",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Klaus1956",
+    "Subaru2014",
+    "Bergmann123",
+    "Wandern!56",
+    "AOK_9000",
+    "Reisen2023",
+    "NRW!1978",
+    "Flickr2020",
+    "Sommer08",
+    "XV_4WD"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1957-12-22"
+}

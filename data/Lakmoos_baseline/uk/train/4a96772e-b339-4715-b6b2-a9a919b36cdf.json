@@ -1,0 +1,35 @@
+{
+  "id": "4a96772e-b339-4715-b6b2-a9a919b36cdf",
+  "gender": "male",
+  "age": 31,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "travelling",
+    "cycling",
+    "photography"
+  ],
+  "pets": [],
+  "company": "East Midlands Ventures Ltd",
+  "previous_passwords": [
+    "Callum1989",
+    "Hollingsworth14",
+    "MercedesCLE24",
+    "Polestar2!",
+    "EastMidlands123",
+    "Travel4Life",
+    "Cycling2021",
+    "Photo_999",
+    "H0ll1ngsw0rth",
+    "CLE2Polestar"
+  ],
+  "favorite_hobby": "travelling",
+  "birth_date": "1995-02-03"
+}

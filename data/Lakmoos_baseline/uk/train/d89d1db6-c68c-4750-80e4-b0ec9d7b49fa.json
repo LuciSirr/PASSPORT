@@ -1,0 +1,34 @@
+{
+  "id": "d89d1db6-c68c-4750-80e4-b0ec9d7b49fa",
+  "gender": "female",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "north east",
+  "nationality": "british",
+  "car_brand": "Fiat",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "travel",
+    "yoga",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Northgate Executive Solutions",
+  "previous_passwords": [
+    "Imogen1999",
+    "Fiat600!",
+    "KiaCeed18",
+    "Travel123",
+    "Hollingsworth21",
+    "OpelCorsa20",
+    "Yoga4Life",
+    "Northgate2024",
+    "Imo!2021"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "2002-01-17"
+}

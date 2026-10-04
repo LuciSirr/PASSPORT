@@ -1,0 +1,35 @@
+{
+  "id": "26528e5e-9fb5-418e-a29b-fb097edb5d0d",
+  "gender": "female",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Lena",
+  "self_last_name": "Krause",
+  "birth_date": "2001-04-17",
+  "partner_first_name": "Jonas",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "dark",
+    "berlin tag und nacht",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Krause & Partner Innovationsberatung",
+  "previous_passwords": [
+    "Lena2001",
+    "Dark_2019",
+    "Krause!17",
+    "JonasLena21",
+    "BerlinTag123",
+    "Fotografie2020",
+    "KrauseDark!",
+    "L3n4_0417",
+    "Jonas!2001",
+    "DarkKrause17"
+  ],
+  "favorite_hobby": "dark"
+}

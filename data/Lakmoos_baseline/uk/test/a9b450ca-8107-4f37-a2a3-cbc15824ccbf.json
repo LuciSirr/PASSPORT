@@ -1,0 +1,39 @@
+{
+  "id": "a9b450ca-8107-4f37-a2a3-cbc15824ccbf",
+  "gender": "female",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "heartstopper",
+    "netball",
+    "harry potter"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "West Midlands Tutoring",
+  "previous_passwords": [
+    "Imogen2010",
+    "MiloPotter!",
+    "Hollingsworth14",
+    "Heartstopper123",
+    "Netball_2024",
+    "HarryPotter3",
+    "Milo!14",
+    "Hollingsworth_Milo",
+    "PotterCat2020"
+  ],
+  "favorite_hobby": "heartstopper",
+  "birth_date": "2010-03-14"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "36de6767-e706-4421-9642-d371f9195327",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "driving"
+  ],
+  "pets": [],
+  "company": "South Coast Finance Solutions",
+  "previous_passwords": [
+    "Callum98",
+    "VWpolo2016",
+    "Hollis123",
+    "Football!23",
+    "MiniCooper9",
+    "SouthEast2021",
+    "Gaming_2000",
+    "PoloDerby!",
+    "FinanceGuy2",
+    "Hollis98!"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2002-04-17"
+}

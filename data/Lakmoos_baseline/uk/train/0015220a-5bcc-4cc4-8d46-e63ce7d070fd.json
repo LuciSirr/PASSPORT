@@ -1,0 +1,40 @@
+{
+  "id": "0015220a-5bcc-4cc4-8d46-e63ce7d070fd",
+  "gender": "female",
+  "age": 55,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Westcountry Ventures",
+  "previous_passwords": [
+    "Fiona1969",
+    "Milo123",
+    "Westcountry2020",
+    "Graham4Eva",
+    "Travel!2021",
+    "Hollingsworth77",
+    "Gardening_1",
+    "Reading4Fun",
+    "Milo!cat",
+    "Fiona!Graham"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1971-01-04"
+}

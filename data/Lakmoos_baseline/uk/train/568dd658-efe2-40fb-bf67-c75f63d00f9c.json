@@ -1,0 +1,32 @@
+{
+  "id": "568dd658-efe2-40fb-bf67-c75f63d00f9c",
+  "gender": "male",
+  "age": 0,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Reuben",
+  "self_last_name": "Merriton",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "blocks"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Reuben2024",
+    "Merriton123",
+    "Blocks4Fun",
+    "Drawing!24",
+    "ReuReu_07",
+    "SouthWestKid",
+    "MerritonBlocks",
+    "Preschool2024"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2025-09-19"
+}

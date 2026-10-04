@@ -1,0 +1,39 @@
+{
+  "id": "641f77a5-7024-4c21-b717-78c24fdd6d6e",
+  "gender": "female",
+  "age": 7,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Maisie2017",
+    "Mittens123",
+    "Drawing7",
+    "Hollingworth07",
+    "Reading_2017",
+    "M4is13Cat",
+    "Mittens!7",
+    "Maisie_Mittens",
+    "H0ll1ngw0rth",
+    "MittensMaisie"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2018-07-08"
+}

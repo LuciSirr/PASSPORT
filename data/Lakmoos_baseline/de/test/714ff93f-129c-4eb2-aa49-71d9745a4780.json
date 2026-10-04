@@ -1,0 +1,34 @@
+{
+  "id": "714ff93f-129c-4eb2-aa49-71d9745a4780",
+  "gender": "female",
+  "age": 51,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Toyota",
+  "self_first_name": "Heike",
+  "self_last_name": "Krause",
+  "birth_date": "1973-06-14",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "Nordrhein Management GmbH",
+  "previous_passwords": [
+    "Heike1973",
+    "Krause!16000",
+    "Pilcher123",
+    "JueHeike78",
+    "Aygo998",
+    "Nordic2020",
+    "Gartenarbeit54",
+    "KrauseRosamunde",
+    "Pilcher!73"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d9654035-a4ed-4254-b479-8a3d69f99b23",
+  "gender": "male",
+  "age": 38,
+  "marital_status": "single/in a relationship",
+  "region": "hamburg",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "podcasts",
+    "reisen",
+    "musik"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Kreutzmann1986",
+    "Hamburg123",
+    "KiaSorento!",
+    "Sommer07",
+    "BKK_2020",
+    "Tobi!2022",
+    "Musik4Life",
+    "Reisen2021",
+    "AXAcar1598"
+  ],
+  "favorite_hobby": "podcasts",
+  "birth_date": "1987-05-28"
+}

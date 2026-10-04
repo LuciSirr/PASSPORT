@@ -1,0 +1,35 @@
+{
+  "id": "fd04e2b6-a719-430f-aaa0-ea44412d0d43",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Toyota",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "Northwest Admin Solutions",
+  "previous_passwords": [
+    "Graham1966",
+    "Elaine58",
+    "Hollis2020",
+    "ToyotaC-HR1",
+    "Walking123",
+    "Northwest49",
+    "Travel!2022",
+    "Gardening66",
+    "Elaine&Graham",
+    "Hollis!58"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1968-02-22"
+}

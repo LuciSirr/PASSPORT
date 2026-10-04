@@ -1,0 +1,35 @@
+{
+  "id": "dfb45cdc-3121-41ba-8c97-fa7254961ee8",
+  "gender": "female",
+  "age": 52,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "procházky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Pragometal s.r.o.",
+  "previous_passwords": [
+    "Ivana1972",
+    "Fabia1999",
+    "Praha57k",
+    "Vesela80",
+    "Cteni123",
+    "Lidl2022",
+    "Kofola123",
+    "Prochazka77",
+    "VodaBezCukru",
+    "Nakupovani!"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1973-05-08"
+}

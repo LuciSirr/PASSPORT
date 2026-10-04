@@ -1,0 +1,44 @@
+{
+  "id": "e86307fb-45fa-4344-bd8e-a876c12f2666",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Konečná",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Konečný"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Konečná"
+    }
+  ],
+  "interests": [
+    "kutilství",
+    "auta",
+    "televize"
+  ],
+  "pets": [],
+  "company": "Olomoucké strojírenství s.r.o.",
+  "previous_passwords": [
+    "Matysek2022",
+    "Petra82",
+    "Konečný123",
+    "Olomouc2014",
+    "Eliška07",
+    "Fabia09",
+    "Kutil2023",
+    "Radek!41",
+    "Auta999",
+    "Televize1"
+  ],
+  "favorite_hobby": "kutilství",
+  "birth_date": "1984-12-09"
+}

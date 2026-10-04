@@ -1,0 +1,34 @@
+{
+  "id": "e57f2d96-58d1-4b03-bb53-916c57bd9167",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Dacia",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "reading"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gareth1984",
+    "Rachel4ever",
+    "Jogger2021",
+    "London123",
+    "Hollings81",
+    "Travel!22",
+    "Cycling999",
+    "DaciaEstate",
+    "Reading_40"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1985-12-17"
+}

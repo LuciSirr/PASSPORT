@@ -1,0 +1,44 @@
+{
+  "id": "a6c59ba5-829a-4fe6-97b5-600f1876dd08",
+  "age": 36,
+  "birth_date": "1990-08-09",
+  "marital_status": "married",
+  "region": "Meziměstí",
+  "nationality": "czech",
+  "company": "Tichá o.s.",
+  "car_brand": "Peugeot",
+  "self_first_name": "Rudolf",
+  "self_last_name": "Pokorný",
+  "partner_first_name": "Olivie",
+  "partner_last_name": "Pokorná",
+  "children": [
+    {
+      "first_name": "Kamila",
+      "last_name": "Pokorná"
+    },
+    {
+      "first_name": "Bohumil",
+      "last_name": "Pokorný"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "vaření",
+    "fotbal",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Turistika90!",
+    "CykloPeugeot36",
+    "Vareni1990",
+    "BohumilFotbal9",
+    "CeskeFilmy08",
+    "OlivieHike90",
+    "MessiMezimesti",
+    "KamilaBike90",
+    "Pohor!2026",
+    "SkodaTour90"
+  ]
+}

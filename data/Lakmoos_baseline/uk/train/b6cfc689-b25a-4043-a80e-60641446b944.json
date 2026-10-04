@@ -1,0 +1,39 @@
+{
+  "id": "b6cfc689-b25a-4043-a80e-60641446b944",
+  "gender": "female",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading",
+    "netball"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "Willowbrook Books",
+  "previous_passwords": [
+    "Imogen2014",
+    "Mittens123",
+    "Hatherleigh10",
+    "Drawing!22",
+    "Netball_10",
+    "Willowbrook8",
+    "Reading4Fun",
+    "M1ttens!",
+    "ImmyCat2020"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2016-03-23"
+}

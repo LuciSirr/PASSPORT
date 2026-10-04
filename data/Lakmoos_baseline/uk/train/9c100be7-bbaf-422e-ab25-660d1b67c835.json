@@ -1,0 +1,34 @@
+{
+  "id": "9c100be7-bbaf-422e-ab25-660d1b67c835",
+  "gender": "male",
+  "age": 31,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollins",
+  "partner_first_name": "Rebecca",
+  "partner_last_name": "Hollins",
+  "children": [],
+  "interests": [
+    "football",
+    "cycling",
+    "diy"
+  ],
+  "pets": [],
+  "company": "Northwest Build Solutions",
+  "previous_passwords": [
+    "Gareth1989",
+    "Rebecca21",
+    "Polestar2!",
+    "Hollins2020",
+    "Football123",
+    "Northwest49",
+    "BMW4life",
+    "Cycling_88",
+    "DiyGuy2021"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "1994-09-18"
+}

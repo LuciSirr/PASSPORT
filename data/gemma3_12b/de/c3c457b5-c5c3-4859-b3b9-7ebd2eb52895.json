@@ -1,0 +1,40 @@
+{
+  "id": "c3c457b5-c5c3-4859-b3b9-7ebd2eb52895",
+  "age": 36,
+  "birth_date": "1990-06-02",
+  "marital_status": "divorced",
+  "region": "Jüterbog",
+  "nationality": "german",
+  "company": "Mangold",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Aleksandr",
+  "self_last_name": "Geisel",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Hans-Herbert",
+      "last_name": "Geisel"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Techno",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "Messi2019Hans",
+    "MercedesWander1!",
+    "TechnoKochen90",
+    "HansHerbertFoto",
+    "JüterbogMessi",
+    "Fotografie2006",
+    "WandernHans!",
+    "HansMessi23",
+    "Kochen_Benz90",
+    "TechnoHansH"
+  ]
+}

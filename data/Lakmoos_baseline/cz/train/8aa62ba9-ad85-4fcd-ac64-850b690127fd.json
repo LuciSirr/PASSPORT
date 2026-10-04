@@ -1,0 +1,39 @@
+{
+  "id": "8aa62ba9-ad85-4fcd-ac64-850b690127fd",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "divorced",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vlasta",
+  "self_last_name": "Konečná",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "křížovky",
+    "televize"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Vlasta1960",
+    "Micka123",
+    "kocour80",
+    "liberec2020",
+    "křížovky!",
+    "LidlOblíbený",
+    "Konečná64",
+    "Nakupovani2024",
+    "Micka!2020"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1962-01-09"
+}

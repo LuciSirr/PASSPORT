@@ -1,0 +1,35 @@
+{
+  "id": "7860215e-827e-4cf8-8469-e9d99cebcc20",
+  "age": 45,
+  "birth_date": "1981-05-01",
+  "marital_status": "single",
+  "region": "Ravensburg",
+  "nationality": "german",
+  "company": "Bonbach KG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Hedwig",
+  "self_last_name": "Schmiedt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Radfahren",
+    "Kochen",
+    "Fußball",
+    "Bodensee-Ausflüge"
+  ],
+  "previous_passwords": [
+    "Wandern81!",
+    "Bodensee81",
+    "Kochen05!",
+    "Fussball81",
+    "Radfahren45",
+    "GolfGTI81!",
+    "Lindau81_",
+    "Seebrise45",
+    "Hiking81!",
+    "VW1981!"
+  ]
+}

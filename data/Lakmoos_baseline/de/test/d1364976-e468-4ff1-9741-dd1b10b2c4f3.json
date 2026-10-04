@@ -1,0 +1,34 @@
+{
+  "id": "d1364976-e468-4ff1-9741-dd1b10b2c4f3",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Krause",
+  "birth_date": "2008-06-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "germanys next topmodel",
+    "bouldern"
+  ],
+  "pets": [],
+  "company": "Bäckerei Winter",
+  "previous_passwords": [
+    "Lina2008",
+    "Krause!14",
+    "gntm2023",
+    "bouldern_123",
+    "LinaGNTM",
+    "Topmodel08",
+    "krauseBoulder",
+    "Winter!2008",
+    "LinaNextTop",
+    "Baeckerei14"
+  ],
+  "favorite_hobby": "germanys next topmodel"
+}

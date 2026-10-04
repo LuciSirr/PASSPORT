@@ -1,0 +1,35 @@
+{
+  "id": "5410523b-8180-442d-b629-969eae99bfd4",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Krejčí",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Krejčí",
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Stavby Ústí s.r.o.",
+  "previous_passwords": [
+    "Radek1979",
+    "Petra88",
+    "Krejci2022",
+    "turistika123",
+    "fotbalek!",
+    "Auta1979",
+    "PetraRadek",
+    "UstiNadLabem79",
+    "stavba88",
+    "Krejci!88"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1984-02-21"
+}

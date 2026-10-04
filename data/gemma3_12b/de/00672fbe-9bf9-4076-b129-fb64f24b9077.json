@@ -1,0 +1,40 @@
+{
+  "id": "00672fbe-9bf9-4076-b129-fb64f24b9077",
+  "age": 33,
+  "birth_date": "1993-10-24",
+  "marital_status": "married",
+  "region": "Zeulenroda",
+  "nationality": "german",
+  "company": "Keudel Dehmel AG & Co. KGaA",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Lidija",
+  "self_last_name": "Geisel",
+  "partner_first_name": "Christopher",
+  "partner_last_name": "Geisel",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Renato"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "FC Bayern München",
+    "Kochen",
+    "Techno"
+  ],
+  "previous_passwords": [
+    "RenatoWandern93",
+    "Messi24Foto",
+    "BayernKochen!",
+    "MercedesFCB19",
+    "ZeulenrodaTech",
+    "Lidija_Bayern!",
+    "ChristopherFoto93",
+    "TechnoWandernRG",
+    "FCBayernLidija24",
+    "MercedesRenato1993"
+  ]
+}

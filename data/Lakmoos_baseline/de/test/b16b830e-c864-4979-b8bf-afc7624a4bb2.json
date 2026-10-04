@@ -1,0 +1,34 @@
+{
+  "id": "b16b830e-c864-4979-b8bf-afc7624a4bb2",
+  "gender": "female",
+  "age": 81,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Subaru",
+  "self_first_name": "Hildegard",
+  "self_last_name": "Kuhn",
+  "birth_date": "1943-06-12",
+  "partner_first_name": "Werner",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "krimi hörbücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Hilde1943",
+    "Kuhn123",
+    "Pilcher2021",
+    "Werner12",
+    "rosamunde!43",
+    "KrimiKuhn",
+    "KuhnPilcher1943",
+    "HildeWerner78",
+    "krimi_1943",
+    "Pilcher12"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

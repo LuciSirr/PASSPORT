@@ -1,0 +1,35 @@
+{
+  "id": "31e61250-0d67-4c61-9fcb-980b735fe2a5",
+  "age": 34,
+  "birth_date": "1992-09-02",
+  "marital_status": "divorced",
+  "region": "Horní Jelení",
+  "nationality": "czech",
+  "company": "Šmíd",
+  "car_brand": "Škoda",
+  "self_first_name": "Blanka",
+  "self_last_name": "Tichá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hokej",
+    "turistika",
+    "vaření",
+    "cyklistika",
+    "poslech české hudby"
+  ],
+  "previous_passwords": [
+    "Hokej1992!",
+    "Skoda92_hokej",
+    "Turistika_02",
+    "Vareni1992!",
+    "Cyklo92_Jeleni",
+    "CeskaHudba34",
+    "Blanka_Hokej",
+    "Jeleni1992",
+    "Skoda_Vareni34",
+    "Hokej_Turista92"
+  ]
+}

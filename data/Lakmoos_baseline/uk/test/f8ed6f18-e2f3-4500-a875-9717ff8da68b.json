@@ -1,0 +1,39 @@
+{
+  "id": "f8ed6f18-e2f3-4500-a875-9717ff8da68b",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Archie",
+  "self_last_name": "McAllister",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "lego"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Edinburgh Study Support",
+  "previous_passwords": [
+    "Archie2019",
+    "Baxter123",
+    "PawPatrol!19",
+    "McAllisterLego7",
+    "LegoBaxter",
+    "P4wP4tr0l2022",
+    "Baxter!paw",
+    "ArchieLego",
+    "McAllister19",
+    "Lego_2019"
+  ],
+  "favorite_hobby": "paw patrol",
+  "birth_date": "2018-06-15"
+}

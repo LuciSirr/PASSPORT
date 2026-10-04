@@ -1,0 +1,34 @@
+{
+  "id": "438673ab-946f-4e04-8b49-f35f4ad0d516",
+  "gender": "male",
+  "age": 56,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Porsche",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "Dales Venture Solutions",
+  "previous_passwords": [
+    "Graham1968",
+    "Fiona4ever",
+    "Cayenne2019",
+    "Yorkshire123",
+    "Dales!56",
+    "Hollingsworth2020",
+    "Travel4Fun",
+    "Gardening_68",
+    "Fiona!1968"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1969-07-29"
+}

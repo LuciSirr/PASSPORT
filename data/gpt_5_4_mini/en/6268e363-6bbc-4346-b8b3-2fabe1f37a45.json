@@ -1,0 +1,35 @@
+{
+  "id": "6268e363-6bbc-4346-b8b3-2fabe1f37a45",
+  "age": 19,
+  "birth_date": "2007-05-29",
+  "marital_status": "single",
+  "region": "North Helenfort",
+  "nationality": "english",
+  "company": "Nicholls Group",
+  "car_brand": "Tesla",
+  "self_first_name": "Leanne",
+  "self_last_name": "Briggs",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "football",
+    "streaming TV series",
+    "fitness",
+    "music festivals"
+  ],
+  "previous_passwords": [
+    "Messi0729!",
+    "LeanneFIFA07",
+    "TeslaGaming29",
+    "Liverpool19!",
+    "Bridgerton07",
+    "BriggsFit29",
+    "SteamSeries07",
+    "BeyonceFest29",
+    "NorthHelen19",
+    "PS5_Leanne07"
+  ]
+}

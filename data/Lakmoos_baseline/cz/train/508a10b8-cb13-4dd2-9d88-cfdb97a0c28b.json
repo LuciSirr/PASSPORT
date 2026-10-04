@@ -1,0 +1,36 @@
+{
+  "id": "508a10b8-cb13-4dd2-9d88-cfdb97a0c28b",
+  "gender": "male",
+  "age": 39,
+  "marital_status": "single/in a relationship",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Křivánek",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "netflix",
+    "automobilismus"
+  ],
+  "pets": [],
+  "company": "Olomoucká výroba s.r.o.",
+  "previous_passwords": [
+    "Radek1985",
+    "Křivánek80",
+    "Hyundaii20!",
+    "Olomouc2024",
+    "Kofola4ever",
+    "Turistika123",
+    "Fotbal2023",
+    "Lidl1084",
+    "Adventure39",
+    "NetflixCZ"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1986-04-12"
+}

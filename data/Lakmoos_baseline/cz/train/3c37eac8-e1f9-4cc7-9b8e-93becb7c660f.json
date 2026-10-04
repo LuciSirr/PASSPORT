@@ -1,0 +1,35 @@
+{
+  "id": "3c37eac8-e1f9-4cc7-9b8e-93becb7c660f",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "grilování",
+    "fotbal"
+  ],
+  "pets": [],
+  "company": "EnergoServis Ústí",
+  "previous_passwords": [
+    "Fabia2001",
+    "Kaufland65",
+    "Usti9999",
+    "Pivo123",
+    "Vesely80",
+    "Grilovani2020",
+    "Slavia1969",
+    "Mazagrande1",
+    "Radek65",
+    "Fabia!999"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1973-12-20"
+}

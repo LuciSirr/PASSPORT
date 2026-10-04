@@ -1,0 +1,48 @@
+{
+  "id": "a0c8af46-db51-428d-abe2-dd264e56b2be",
+  "age": 32,
+  "birth_date": "1994-05-26",
+  "marital_status": "married",
+  "region": "Calau",
+  "nationality": "german",
+  "company": "Renner Kensy GmbH",
+  "car_brand": "Renault",
+  "self_first_name": "Viktor",
+  "self_last_name": "Liebelt",
+  "partner_first_name": "Frida",
+  "partner_last_name": "Liebelt",
+  "children": [
+    {
+      "first_name": "Bert",
+      "last_name": "Liebelt"
+    },
+    {
+      "first_name": "Cindy",
+      "last_name": "Liebelt"
+    },
+    {
+      "first_name": "Ditmar",
+      "last_name": "Liebelt"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Metal Musik",
+    "Wandern",
+    "Fotografie",
+    "Autos"
+  ],
+  "previous_passwords": [
+    "Messi2024!",
+    "RenaultWanderer1994",
+    "MetalMusikBert",
+    "FotografieCalau!",
+    "MessiFrida1994",
+    "DitmarFußball22",
+    "CindyLiebeltAuto",
+    "WandererMetal!",
+    "BertLiebeltFoto",
+    "CalauRenault94"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b9ac591a-76bc-40fd-85f6-8fb334066c60",
+  "age": 20,
+  "birth_date": "2006-10-08",
+  "marital_status": "divorced",
+  "region": "East Vanessaside",
+  "nationality": "english",
+  "company": "Johnson-Weston",
+  "car_brand": "Vauxhall",
+  "self_first_name": "Nathan",
+  "self_last_name": "Palmer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "indie music",
+    "urban sketching",
+    "vintage fashion",
+    "local hiking trails",
+    "digital art"
+  ],
+  "previous_passwords": [
+    "InterpolSketch2006",
+    "VauxhallTrails!",
+    "RykardAfterHours23",
+    "EastVanArt_0810",
+    "MessiVintage!",
+    "palmerIndieSun",
+    "UrbanHike20!",
+    "DigitalSketch_NP",
+    "VintageVauxhall8",
+    "Interpol_Palmer"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "405e3c87-b287-4e66-b0ad-4f0c32f6ff3f",
+  "gender": "female",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "plavání",
+    "čtení"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Míca"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Terka2016",
+    "plzen123",
+    "Vesela8",
+    "mojedomecek",
+    "kocour2023",
+    "Mica123",
+    "malovani2022",
+    "Plavani8",
+    "CteniMica",
+    "Vesela!2023"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2017-11-28"
+}

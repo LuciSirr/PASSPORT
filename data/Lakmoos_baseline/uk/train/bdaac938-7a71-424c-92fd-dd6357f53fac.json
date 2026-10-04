@@ -1,0 +1,33 @@
+{
+  "id": "bdaac938-7a71-424c-92fd-dd6357f53fac",
+  "gender": "female",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Bethan",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Owen",
+  "partner_last_name": "Morgan",
+  "children": [],
+  "interests": [
+    "reading",
+    "yoga",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Cwm Valley Books",
+  "previous_passwords": [
+    "Bethan1999",
+    "Hollis25",
+    "Owen4Beth",
+    "Reading123",
+    "Wales2022",
+    "Baking4Life",
+    "CwmValley8",
+    "Yoga!2021"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2000-07-21"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "c1a2c458-11f0-448a-8e27-e73091ebb268",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Harriet",
+  "self_last_name": "Merriman",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Merriman",
+  "children": [],
+  "interests": [
+    "great british bake off",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Eastgate Business Solutions",
+  "previous_passwords": [
+    "Milo2019",
+    "BakeOff!87",
+    "Harriet123",
+    "MerrimanGardening",
+    "Oliver14",
+    "MiloBakeOff",
+    "GBBO_1987",
+    "Gard3nCat!",
+    "Eastgate2020"
+  ],
+  "favorite_hobby": "great british bake off",
+  "birth_date": "1987-11-14"
+}

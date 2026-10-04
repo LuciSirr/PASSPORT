@@ -1,0 +1,35 @@
+{
+  "id": "b309b051-32f4-456c-a324-2e8c467c4452",
+  "age": 34,
+  "birth_date": "1992-04-30",
+  "marital_status": "divorced",
+  "region": "Cloppenburg",
+  "nationality": "german",
+  "company": "Patberg Rose AG & Co. KGaA",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Augustin",
+  "self_last_name": "Barth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Lokale Küche",
+    "Autos",
+    "Musik (Indie)"
+  ],
+  "previous_passwords": [
+    "Messi920430",
+    "VW_Wanderlust23",
+    "IndieMusik_AB",
+    "Fußballheld_430",
+    "LokaleKueche2!",
+    "AugstinB_Clopenburg",
+    "Messi2024!",
+    "Wandern_Augustin",
+    "IndieSounds92",
+    "Volkswagen_AB"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bfd8ff05-db09-4728-bed0-cde38c89686d",
+  "gender": "female",
+  "age": 40,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Peugeot",
+  "self_first_name": "Katrin",
+  "self_last_name": "Bergmann",
+  "partner_first_name": "Thomas",
+  "partner_last_name": "Bergmann",
+  "children": [],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Rheinland Management GmbH",
+  "previous_passwords": [
+    "Katrin1984",
+    "Bergmann23",
+    "Peugeot3008!",
+    "Thomas2020",
+    "Reisen123",
+    "NRW_23000",
+    "Sommer!84",
+    "BKK2024",
+    "Allianz!1",
+    "Podcasts2023"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1986-02-06"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "6218e0e2-68c8-48e4-aba6-bf77e731f218",
+  "gender": "female",
+  "age": 42,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radka",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "knihy",
+    "turistika",
+    "malování"
+  ],
+  "pets": [],
+  "company": "Pragometal s.r.o.",
+  "previous_passwords": [
+    "Radka1981",
+    "Fabia2009",
+    "Vesela42",
+    "Prague80m2",
+    "Kofola123",
+    "Turistika2020",
+    "Knihy!2022",
+    "Lidl2021",
+    "Cestovani_81",
+    "Malovani42"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1983-07-08"
+}

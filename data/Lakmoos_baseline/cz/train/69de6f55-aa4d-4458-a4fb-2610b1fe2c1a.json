@@ -1,0 +1,35 @@
+{
+  "id": "69de6f55-aa4d-4458-a4fb-2610b1fe2c1a",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "pohádky",
+    "koloběžka"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "tereza2018",
+    "slunicko6",
+    "maminka123",
+    "malovani2020",
+    "kolobezka7",
+    "vranova06",
+    "pohadky123",
+    "Terezka_2017",
+    "slunicko!",
+    "malovani_06"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2020-02-06"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "d89077ec-ca8d-4625-98c5-de947aa04e26",
+  "gender": "female",
+  "age": 75,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Libuše",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Vránová",
+  "children": [],
+  "interests": [
+    "čtení",
+    "křížovky",
+    "zahrádkaření"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Libuse1949",
+    "Miroslav2001",
+    "Byt39m2",
+    "Zahradka123",
+    "Praha75!",
+    "Krizovky2020",
+    "Vranova_49",
+    "Cteni2022",
+    "Globus1019",
+    "Bezdetna!"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1950-06-25"
+}

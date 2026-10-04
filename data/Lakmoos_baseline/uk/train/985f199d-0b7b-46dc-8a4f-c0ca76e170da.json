@@ -1,0 +1,35 @@
+{
+  "id": "985f199d-0b7b-46dc-8a4f-c0ca76e170da",
+  "gender": "male",
+  "age": 81,
+  "marital_status": "divorced",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Geoffrey",
+  "self_last_name": "Hollins",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "crosswords",
+    "cricket"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Opel2003",
+    "SuzukiSwift17",
+    "Hollins81",
+    "Gardening123",
+    "Cricket!74",
+    "Nova_28331",
+    "Retired2024",
+    "Crosswords21",
+    "NorthWest49",
+    "Vauxhall1.2"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1944-10-20"
+}

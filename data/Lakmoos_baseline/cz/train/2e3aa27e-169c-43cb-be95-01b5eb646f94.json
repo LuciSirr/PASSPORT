@@ -1,0 +1,34 @@
+{
+  "id": "2e3aa27e-169c-43cb-be95-01b5eb646f94",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "televize",
+    "nakupování",
+    "kutilství"
+  ],
+  "pets": [],
+  "company": "Stavby Jižní Čechy",
+  "previous_passwords": [
+    "Radek1980",
+    "Petra47",
+    "VeselyPetra",
+    "Stavba2022",
+    "Kutil123",
+    "Globus80",
+    "Televize!",
+    "JizniCechy2023",
+    "Nakupovani47"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1983-01-23"
+}

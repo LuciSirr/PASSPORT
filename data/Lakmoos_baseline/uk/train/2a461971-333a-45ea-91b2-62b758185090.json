@@ -1,0 +1,39 @@
+{
+  "id": "2a461971-333a-45ea-91b2-62b758185090",
+  "gender": "female",
+  "age": 73,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Carmichael",
+  "partner_first_name": "Douglas",
+  "partner_last_name": "Carmichael",
+  "children": [],
+  "interests": [
+    "knitting",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Margaret1949",
+    "Douglas73",
+    "Misty_2015",
+    "Carmichael123",
+    "Knitting4ever",
+    "Gardening!49",
+    "MistyCat!",
+    "Douglas_1949",
+    "Margaret!1",
+    "Scotland_73"
+  ],
+  "favorite_hobby": "knitting",
+  "birth_date": "1953-02-04"
+}

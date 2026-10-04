@@ -1,0 +1,40 @@
+{
+  "id": "7ef5a9c1-4664-4dae-9874-b2ad2cfe129d",
+  "gender": "female",
+  "age": 20,
+  "marital_status": "single/in a relationship",
+  "region": "northern ireland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Ethan",
+  "partner_last_name": "McAllister",
+  "children": [],
+  "interests": [
+    "love island",
+    "baking",
+    "netball"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Belfast Booksellers",
+  "previous_passwords": [
+    "Imogen2004",
+    "MistyLove123",
+    "Hollis_bake21",
+    "Netball4Life!",
+    "LoveIsland17",
+    "EthanMisty04",
+    "Belfast!2022",
+    "BakingQueen_04",
+    "HollisNetball",
+    "Misty!17"
+  ],
+  "favorite_hobby": "love island",
+  "birth_date": "2004-05-17"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "20d3ec5e-8d4a-4a26-b311-f179cfcbb4d6",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "divorced",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1968-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "křížovky",
+    "karlovarský filmový festival"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Liberecké strojírny s.r.o.",
+  "previous_passwords": [
+    "Ivana1968",
+    "Micka2020",
+    "Kohoutova79",
+    "cestovani123",
+    "krizovky2022",
+    "KarlovyVary68",
+    "Micka!68",
+    "KohoutovaMicka",
+    "filmfest2023",
+    "IvanaKohout"
+  ],
+  "favorite_hobby": "cestování"
+}

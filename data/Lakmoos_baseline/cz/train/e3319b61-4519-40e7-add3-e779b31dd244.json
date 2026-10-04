@@ -1,0 +1,35 @@
+{
+  "id": "e3319b61-4519-40e7-add3-e779b31dd244",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "cestování",
+    "filmy"
+  ],
+  "pets": [],
+  "company": "Stavby Morava s.r.o.",
+  "previous_passwords": [
+    "Hyundai2008",
+    "Morava123",
+    "Kofola2020",
+    "Vesely22",
+    "PraceStavba",
+    "Auta!2021",
+    "Kino_123",
+    "Karvina2001",
+    "McDonalds22",
+    "Cestovani07"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2003-11-16"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "5774febb-d002-4de4-bc00-aa8a7a9616e7",
+  "age": 46,
+  "birth_date": "1980-11-06",
+  "marital_status": "married",
+  "region": "Bohušovice nad Ohří",
+  "nationality": "czech",
+  "company": "Navrátil Kopecký v.o.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Erika",
+  "self_last_name": "Němcová",
+  "partner_first_name": "Klement",
+  "partner_last_name": "Němcová",
+  "children": [
+    {
+      "first_name": "Samuel",
+      "last_name": "Němcová"
+    },
+    {
+      "first_name": "Petr",
+      "last_name": "Němcová"
+    },
+    {
+      "first_name": "Radim",
+      "last_name": "Němcová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "zahradničení",
+    "hokej",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Turistika80!",
+    "KlementHike46",
+    "Vareni_86",
+    "HockeySam11",
+    "ToyotaOhri80",
+    "CeskeFilmy46",
+    "Zahrada11!",
+    "PetrCook86",
+    "RadimHokej80",
+    "Bohu08_Vareni"
+  ]
+}

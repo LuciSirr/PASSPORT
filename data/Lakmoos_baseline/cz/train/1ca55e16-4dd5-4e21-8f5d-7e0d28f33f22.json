@@ -1,0 +1,40 @@
+{
+  "id": "1ca55e16-4dd5-4e21-8f5d-7e0d28f33f22",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "KIA",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "auta",
+    "zahrada",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Sociální služby Hradec",
+  "previous_passwords": [
+    "Matysek2019",
+    "Vesely63",
+    "Kia579000",
+    "Zahrada123",
+    "Radek1970",
+    "Netflix2022",
+    "Auta!55",
+    "Matej07",
+    "RajecVoda55",
+    "Lidl2022"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1963-02-19"
+}

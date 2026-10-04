@@ -1,0 +1,35 @@
+{
+  "id": "c1ab624d-0261-495f-a1bc-6d615a85bcbb",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Dacia",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Vránová",
+  "children": [],
+  "interests": [
+    "čtení",
+    "facebook",
+    "seriály",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Iveta1989",
+    "PetrIveta",
+    "Sandero2009",
+    "Kaufland123",
+    "Bohemia2021",
+    "Rossmann32",
+    "Vranova!2020",
+    "Cteni2022",
+    "Serialy_321"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1993-07-21"
+}

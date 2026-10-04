@@ -1,0 +1,40 @@
+{
+  "id": "d5c14869-7f99-410d-8e37-7bd6fe2a3f87",
+  "age": 39,
+  "birth_date": "1987-10-24",
+  "marital_status": "married",
+  "region": "Uelzen",
+  "nationality": "german",
+  "company": "Klingelhöfer",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Asta",
+  "self_last_name": "Atzler",
+  "partner_first_name": "André",
+  "partner_last_name": "Atzler",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Eva-Marie"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Lokale Geschichte",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "Messi1987!",
+    "VolkswagenWander!",
+    "EvaMarieKocht24",
+    "LokaleGeschichteA",
+    "FotografieAtzler",
+    "AndrAstaWandern",
+    "UelzenMessi!",
+    "Kochen1990Eva",
+    "FußballAtzler87",
+    "VW_Fotografie23"
+  ]
+}

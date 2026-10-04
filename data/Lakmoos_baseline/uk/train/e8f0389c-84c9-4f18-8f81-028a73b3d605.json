@@ -1,0 +1,40 @@
+{
+  "id": "e8f0389c-84c9-4f18-8f81-028a73b3d605",
+  "gender": "male",
+  "age": 67,
+  "marital_status": "widower/widow",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Carmichael",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Whiskers"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Malcolm1957",
+    "Whiskers123",
+    "Carmichael67",
+    "Gardening4Life",
+    "Scotland2020",
+    "Walking!57",
+    "Reading_1",
+    "Wh1sk3rs!",
+    "MalcCat1957",
+    "Carmichael_Whiskers"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1959-02-16"
+}

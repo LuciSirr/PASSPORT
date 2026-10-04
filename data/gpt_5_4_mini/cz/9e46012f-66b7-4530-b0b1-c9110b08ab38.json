@@ -1,0 +1,40 @@
+{
+  "id": "9e46012f-66b7-4530-b0b1-c9110b08ab38",
+  "age": 46,
+  "birth_date": "1980-03-06",
+  "marital_status": "married",
+  "region": "Polná",
+  "nationality": "czech",
+  "company": "Kubíčková",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladislav",
+  "self_last_name": "Stejskal",
+  "partner_first_name": "Dita",
+  "partner_last_name": "Stejskalová",
+  "children": [
+    {
+      "first_name": "Olivie",
+      "last_name": "Soukupová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "hokej",
+    "zahradničení",
+    "vaření",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Hokej1980!",
+    "Turistika06",
+    "SkodaPolna46",
+    "VareniDita80",
+    "CeskeFilmy46!",
+    "Zahradniceni03",
+    "OlivieHokej80",
+    "PolnaHory46",
+    "SkodaHokej06",
+    "Vladislav80!"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "078724d4-3485-4d58-9da0-e28e954ccdda",
+  "gender": "male",
+  "age": 76,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Hyundai",
+  "self_first_name": "Gerhard",
+  "self_last_name": "Krause",
+  "birth_date": "1948-06-15",
+  "partner_first_name": "Ingrid",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "krimiromane",
+    "schlager",
+    "bundesliga"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gerhard1948",
+    "Krause!75",
+    "Ingrid1960",
+    "krimi123",
+    "Schlager_2020",
+    "bundesliga48",
+    "KrauseKrimi!",
+    "Ingrid75",
+    "KrauseSchlager1960"
+  ],
+  "favorite_hobby": "krimiromane"
+}

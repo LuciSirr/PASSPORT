@@ -1,0 +1,40 @@
+{
+  "id": "b8f873b2-e07c-4b98-a2d6-7a4eaa57fe0b",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Jurčová",
+  "birth_date": "1971-06-14",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Jurčová",
+  "children": [],
+  "interests": [
+    "cestování",
+    "domácí úpravy",
+    "móda"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Moravská výroba s.r.o.",
+  "previous_passwords": [
+    "Iveta1971",
+    "JurcovaRex123",
+    "Cestovani2020",
+    "Rex!14",
+    "Petr1970",
+    "moda_55",
+    "Jurcova!cestovani",
+    "domaciUpravy2022",
+    "RexJurcova",
+    "Rex1971!"
+  ],
+  "favorite_hobby": "cestování"
+}

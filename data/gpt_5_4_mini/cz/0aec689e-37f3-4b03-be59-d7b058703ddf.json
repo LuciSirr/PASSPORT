@@ -1,0 +1,40 @@
+{
+  "id": "0aec689e-37f3-4b03-be59-d7b058703ddf",
+  "age": 54,
+  "birth_date": "1972-02-27",
+  "marital_status": "married",
+  "region": "Raspenava",
+  "nationality": "czech",
+  "company": "Staňková a.s.",
+  "car_brand": "Peugeot",
+  "self_first_name": "Adéla",
+  "self_last_name": "Horváthová",
+  "partner_first_name": "Jaroslav",
+  "partner_last_name": "Horváthová",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Anna"
+    }
+  ],
+  "interests": [
+    "turistika v Jizerských horách",
+    "chalupaření",
+    "zahradničení",
+    "sledování hokeje",
+    "kutilství"
+  ],
+  "previous_passwords": [
+    "Jizerky72!",
+    "Hokej27_Adela",
+    "Chalupa54",
+    "Zahrada72!",
+    "Peugeot72",
+    "AnnaFish27",
+    "Jaroslav72!",
+    "Raspenava54",
+    "Turistika72",
+    "JizerskeHory!"
+  ]
+}

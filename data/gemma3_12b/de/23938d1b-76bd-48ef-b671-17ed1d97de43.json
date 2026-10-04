@@ -1,0 +1,40 @@
+{
+  "id": "23938d1b-76bd-48ef-b671-17ed1d97de43",
+  "age": 50,
+  "birth_date": "1976-11-16",
+  "marital_status": "divorced",
+  "region": "Meiningen",
+  "nationality": "german",
+  "company": "Fliegner",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Brigitta",
+  "self_last_name": "Reuter",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Marliese"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Schloss Meiningen",
+    "Deutsche Bahn Modelle",
+    "Klassische Musik",
+    "Lokales Brauen"
+  ],
+  "previous_passwords": [
+    "SchlossMeiningen76",
+    "MarlieseWandern!",
+    "DeutscheBahn24",
+    "VWmeininger1976",
+    "KlassischeMusik_BR",
+    "LokalesBrauen77",
+    "MeiningenWanderer",
+    "BahnModelleM76",
+    "MarlieseBrewing!",
+    "ClassicalBR23"
+  ]
+}

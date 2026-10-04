@@ -1,0 +1,40 @@
+{
+  "id": "d008d8b9-a8cf-4f93-a548-acd7916dcf0c",
+  "gender": "female",
+  "age": 78,
+  "marital_status": "married",
+  "region": "north east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Edward",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "coronation street",
+    "knitting"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "North East Artisan Gifts",
+  "previous_passwords": [
+    "Margaret1946",
+    "Misty123",
+    "CoronationStreet46",
+    "HollingsworthKnitting",
+    "EdwardJune12",
+    "Gardening!2020",
+    "Misty!Knitting",
+    "Hollingsworth1946",
+    "Coronation4Knitting",
+    "MistyJune12"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1946-06-12"
+}

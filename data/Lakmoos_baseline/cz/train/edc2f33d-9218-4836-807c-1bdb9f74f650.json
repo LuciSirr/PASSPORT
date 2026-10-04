@@ -1,0 +1,35 @@
+{
+  "id": "edc2f33d-9218-4836-807c-1bdb9f74f650",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Šimon",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "počítače",
+    "kreslení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "simca2011",
+    "usti1234",
+    "fotbalek",
+    "vesely12",
+    "kresleni2023",
+    "PCgamer11",
+    "SlovanUL!12",
+    "Simonek_07",
+    "Vesely123",
+    "f0tbal2024"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2013-06-20"
+}

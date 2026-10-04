@@ -1,0 +1,47 @@
+{
+  "id": "7b3818aa-903c-4dbd-af68-d1cdba649aeb",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Seat",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Marlon",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Lina",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Jasmin",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Marlon2014",
+    "Lina15!",
+    "Jasmin09",
+    "Krause123",
+    "SeatLeon2020",
+    "Xiaomi_23",
+    "FussballNRW",
+    "Sommerurlaub19",
+    "Gaming4Life",
+    "AOK2021"
+  ],
+  "favorite_hobby": "gaming",
+  "birth_date": "2002-04-02"
+}

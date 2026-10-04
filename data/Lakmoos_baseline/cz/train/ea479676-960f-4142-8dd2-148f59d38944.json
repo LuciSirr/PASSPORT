@@ -1,0 +1,41 @@
+{
+  "id": "ea479676-960f-4142-8dd2-148f59d38944",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "KIA",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šimková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "turistika",
+    "knihy",
+    "plavání"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Strojírny Benešov",
+  "previous_passwords": [
+    "Simkova1986",
+    "Micka17",
+    "Malovani123",
+    "Turistika2020",
+    "Iveta!86",
+    "KiaPicanto17",
+    "Lidl989",
+    "Budvar2023",
+    "Plavani77",
+    "HBOmax177"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "1988-02-21"
+}

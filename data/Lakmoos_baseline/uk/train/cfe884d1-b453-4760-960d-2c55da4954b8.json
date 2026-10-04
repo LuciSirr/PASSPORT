@@ -1,0 +1,40 @@
+{
+  "id": "cfe884d1-b453-4760-960d-2c55da4954b8",
+  "gender": "male",
+  "age": 62,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hatherleigh",
+  "children": [],
+  "interests": [
+    "travel",
+    "walking",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Westmoor Ventures",
+  "previous_passwords": [
+    "Malcolm1962",
+    "Baxter123",
+    "Fiona62!",
+    "Westmoor2020",
+    "Hatherleigh!1",
+    "Travel4Fun",
+    "Gardening_62",
+    "BaxterDog!",
+    "FionaHatherleigh",
+    "Walking2022"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1964-03-08"
+}

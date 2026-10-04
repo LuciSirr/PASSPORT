@@ -1,0 +1,45 @@
+{
+  "id": "5413101b-8c29-4d35-ab1e-95245afcde41",
+  "age": 34,
+  "birth_date": "1992-01-08",
+  "marital_status": "married",
+  "region": "Most",
+  "nationality": "czech",
+  "company": "Kubíčková k.s.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Rostislav",
+  "self_last_name": "Bílek",
+  "partner_first_name": "Věra",
+  "partner_last_name": "Bílková",
+  "children": [
+    {
+      "first_name": "Jaroslava",
+      "last_name": "Bílková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Jozef"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "vaření",
+    "turistika",
+    "auto-moto"
+  ],
+  "previous_passwords": [
+    "Slavia92!",
+    "Hokej08Vera",
+    "Hyundai_34",
+    "JozefFotbal7",
+    "Turistika1992",
+    "Vaření94Most",
+    "BilekMoto8",
+    "VeraHokej!",
+    "Most2026Auto",
+    "Jaroslava_FC"
+  ]
+}

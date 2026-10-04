@@ -1,0 +1,39 @@
+{
+  "id": "5cf40847-8199-4d18-9669-fc6036575aa5",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Harriet",
+  "self_last_name": "Merriman",
+  "partner_first_name": "Simon",
+  "partner_last_name": "Merriman",
+  "children": [],
+  "interests": [
+    "walking",
+    "baking",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Willowbrook Care Services",
+  "previous_passwords": [
+    "Harriet1988",
+    "Milo123",
+    "Merriman36",
+    "Baking4Life",
+    "Simon2020",
+    "Gardening!",
+    "Willowbrook88",
+    "MiloMerriman",
+    "Walking2022"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1989-11-09"
+}

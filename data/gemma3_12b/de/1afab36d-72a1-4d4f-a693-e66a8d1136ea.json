@@ -1,0 +1,35 @@
+{
+  "id": "1afab36d-72a1-4d4f-a693-e66a8d1136ea",
+  "age": 62,
+  "birth_date": "1964-10-01",
+  "marital_status": "married",
+  "region": "Säckingen",
+  "nationality": "german",
+  "company": "Otto AG & Co. OHG",
+  "car_brand": "BMW",
+  "self_first_name": "Ercan",
+  "self_last_name": "Trupp",
+  "partner_first_name": "Ana",
+  "partner_last_name": "Trupp",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Gartenarbeit",
+    "Deutsche Klassische Musik",
+    "Lokale Geschichte",
+    "Schlossbesichtigungen"
+  ],
+  "previous_passwords": [
+    "SchlossNeuenburg64",
+    "BMWWanderlust2024",
+    "AnaTruppGarten!",
+    "MozartSäckingen1964",
+    "WandernBMW_88",
+    "DeutscheMusikAna",
+    "SäckingenKlassik!",
+    "GartenTrupp23",
+    "HistorieBMW1001",
+    "NeuenburgWander!"
+  ]
+}

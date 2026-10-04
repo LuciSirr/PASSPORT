@@ -1,0 +1,39 @@
+{
+  "id": "a7490373-bcc5-49c8-8c19-eecce044b869",
+  "gender": "female",
+  "age": 47,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Ford",
+  "self_first_name": "Katrin",
+  "self_last_name": "Schulte",
+  "birth_date": "1977-06-14",
+  "partner_first_name": "Jens",
+  "partner_last_name": "Schulte",
+  "children": [],
+  "interests": [
+    "tatort",
+    "nordic walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Bildungszentrum RheinWest",
+  "previous_passwords": [
+    "Minka2019",
+    "Tatort77!",
+    "Schulte123",
+    "KatrinJens2020",
+    "nordicwalking_77",
+    "MinkaTatort",
+    "Jens!1977",
+    "Bildungszentrum2022",
+    "SchulteMinka!",
+    "Tatort_14"
+  ],
+  "favorite_hobby": "tatort"
+}

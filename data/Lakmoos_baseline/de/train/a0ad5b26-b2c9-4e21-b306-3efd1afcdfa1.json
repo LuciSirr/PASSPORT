@@ -1,0 +1,35 @@
+{
+  "id": "a0ad5b26-b2c9-4e21-b306-3efd1afcdfa1",
+  "gender": "female",
+  "age": 62,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Mazda",
+  "self_first_name": "Gisela",
+  "self_last_name": "Freimuth",
+  "partner_first_name": "Klaus",
+  "partner_last_name": "Freimuth",
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobücher",
+    "fernsehen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gisela1962",
+    "Klaus123",
+    "Mazda2020",
+    "Reisen!62",
+    "Freimuth_40",
+    "Sommerurlaub21",
+    "Audiobuch1",
+    "Niedersachsen7",
+    "Schatz1962",
+    "AprilReise!"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1964-01-12"
+}

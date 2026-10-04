@@ -1,0 +1,34 @@
+{
+  "id": "0e11303f-95b6-4bbb-9b59-99fb64d79d6e",
+  "gender": "male",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gaming",
+    "football",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "CityBite Café",
+  "previous_passwords": [
+    "Callum2007",
+    "Ashcroft17",
+    "London123",
+    "F00tball!",
+    "CityBite2023",
+    "G4mingLife",
+    "Cycling_99",
+    "ChelseaFan7",
+    "Ashcroft!07"
+  ],
+  "favorite_hobby": "gaming",
+  "birth_date": "2008-05-14"
+}

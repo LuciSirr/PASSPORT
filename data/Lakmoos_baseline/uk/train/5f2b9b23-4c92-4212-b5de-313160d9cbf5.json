@@ -1,0 +1,35 @@
+{
+  "id": "5f2b9b23-4c92-4212-b5de-313160d9cbf5",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Seat",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "shopping",
+    "netflix",
+    "driving"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Imogen2005",
+    "SeatLeon99",
+    "LondonGirl19",
+    "Hollis_123",
+    "Netflix4Life",
+    "Shopping!21",
+    "Imo_Seat1",
+    "Hollis2024",
+    "Leon!999",
+    "Driving30"
+  ],
+  "favorite_hobby": "shopping",
+  "birth_date": "2006-05-11"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "78974658-25f2-462f-93c5-7043180e160b",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Callum2003",
+    "Baxter123",
+    "Hollingsworth21",
+    "Football4Life",
+    "CupraLeon36584",
+    "WestMidlands!",
+    "Gaming_2003",
+    "Cycling4Fun",
+    "Baxter!03",
+    "Callum_football"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2005-02-22"
+}

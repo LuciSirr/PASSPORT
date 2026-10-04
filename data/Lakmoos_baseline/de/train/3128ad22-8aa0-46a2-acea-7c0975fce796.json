@@ -1,0 +1,48 @@
+{
+  "id": "3128ad22-8aa0-46a2-acea-7c0975fce796",
+  "gender": "female",
+  "age": 37,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Peugeot",
+  "self_first_name": "Katrin",
+  "self_last_name": "Schreiner",
+  "partner_first_name": "Markus",
+  "partner_last_name": "Schreiner",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Schreiner"
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Schreiner"
+    },
+    {
+      "first_name": "Jonas",
+      "last_name": "Schreiner"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "reisen",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2009",
+    "MiaSchatz123",
+    "Jonas07!",
+    "Katrin1977",
+    "Schreiner2020",
+    "Reisen!123",
+    "Peugeot208",
+    "Sommerurlaub21",
+    "MarkusMia14",
+    "Bonn_253"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1988-11-02"
+}

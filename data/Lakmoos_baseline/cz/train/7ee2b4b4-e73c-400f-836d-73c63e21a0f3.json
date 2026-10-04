@@ -1,0 +1,36 @@
+{
+  "id": "7ee2b4b4-e73c-400f-836d-73c63e21a0f3",
+  "gender": "male",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "cyklistika",
+    "filmy",
+    "technologie"
+  ],
+  "pets": [],
+  "company": "TechnoData Praha",
+  "previous_passwords": [
+    "Radek1989",
+    "Fabia2001",
+    "Praha41000",
+    "Vesely33",
+    "Cestovani123",
+    "Techno2022",
+    "Globus2022",
+    "Netflix123",
+    "Cyklo!2021",
+    "Vesely!89"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1993-03-21"
+}

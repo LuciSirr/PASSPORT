@@ -1,0 +1,35 @@
+{
+  "id": "fd3c927a-2f5d-4d6a-bd30-48fb2b97e1ae",
+  "gender": "male",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "Cupra",
+  "self_first_name": "Lennart",
+  "self_last_name": "Bergmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "autos",
+    "podcasts",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "CupraLeon2007",
+    "KiaEV6_2021",
+    "Sachsen123",
+    "Bergmann19",
+    "Auto!2024",
+    "Reisen_22",
+    "Vivo2020",
+    "AOK_4Life",
+    "Podcast!1",
+    "B1omass2023"
+  ],
+  "favorite_hobby": "autos",
+  "birth_date": "2006-08-22"
+}

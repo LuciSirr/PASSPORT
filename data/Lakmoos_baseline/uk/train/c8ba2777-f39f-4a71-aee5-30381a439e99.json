@@ -1,0 +1,34 @@
+{
+  "id": "c8ba2777-f39f-4a71-aee5-30381a439e99",
+  "gender": "male",
+  "age": 76,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Seat",
+  "self_first_name": "Geoffrey",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "crosswords"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Geoffrey1948",
+    "Margaret76",
+    "SeatLeon2018",
+    "Hollis123",
+    "Walking!22",
+    "SouthWest48",
+    "Honda2010",
+    "Gardening4",
+    "Crosswords_1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1949-05-08"
+}

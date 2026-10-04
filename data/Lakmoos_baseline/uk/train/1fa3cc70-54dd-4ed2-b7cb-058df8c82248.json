@@ -1,0 +1,35 @@
+{
+  "id": "1fa3cc70-54dd-4ed2-b7cb-058df8c82248",
+  "gender": "male",
+  "age": 76,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Nissan",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": "Janet",
+  "partner_last_name": "Hatherleigh",
+  "children": [],
+  "interests": [
+    "gardening",
+    "fishing",
+    "cricket"
+  ],
+  "pets": [],
+  "company": "Westmoor Engineering Ltd",
+  "previous_passwords": [
+    "Nissan2006",
+    "Janet76",
+    "Qashqai21",
+    "Malcolm4000",
+    "Westmoor123",
+    "Gardening!1",
+    "Cricket1950",
+    "SouthWest21",
+    "Hatherleigh7",
+    "Fishing_76"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1949-11-16"
+}

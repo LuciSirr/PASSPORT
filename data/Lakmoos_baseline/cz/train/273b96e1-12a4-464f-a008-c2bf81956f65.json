@@ -1,0 +1,34 @@
+{
+  "id": "273b96e1-12a4-464f-a008-c2bf81956f65",
+  "gender": "male",
+  "age": 32,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Stavby Benešov s.r.o.",
+  "previous_passwords": [
+    "Radek1989",
+    "Vesely1000",
+    "Hyundai2019",
+    "Stavba123",
+    "Kofola85",
+    "Turistika2020",
+    "Fotbalek11",
+    "Lidl2022",
+    "Auta!2023"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1994-03-27"
+}

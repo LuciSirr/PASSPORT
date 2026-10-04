@@ -1,0 +1,40 @@
+{
+  "id": "ba6afc6c-fc74-49e1-aaf2-27aff909a574",
+  "age": 29,
+  "birth_date": "1997-05-17",
+  "marital_status": "single",
+  "region": "Koblenz",
+  "nationality": "german",
+  "company": "Geisel AG",
+  "car_brand": "Skoda",
+  "self_first_name": "Franziska",
+  "self_last_name": "Mühle",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Ingried"
+    }
+  ],
+  "interests": [
+    "Wandern im Rheinsteig",
+    "Fußball",
+    "Kaffee und Cafés",
+    "Gaming",
+    "Musikfestivals"
+  ],
+  "previous_passwords": [
+    "Wander17!",
+    "BVBKoblenz97",
+    "KaffeeIngried7",
+    "SkodaRhein24",
+    "GamingMuehle29",
+    "Rammstein97!",
+    "Cafes_517",
+    "MessiKoblenz!",
+    "Festival97_",
+    "Rheinsteig29!"
+  ]
+}

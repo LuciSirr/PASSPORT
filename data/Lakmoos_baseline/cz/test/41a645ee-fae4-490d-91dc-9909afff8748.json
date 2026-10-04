@@ -1,0 +1,34 @@
+{
+  "id": "41a645ee-fae4-490d-91dc-9909afff8748",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1961-06-14",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "netflix",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Strojírny Beroun",
+  "previous_passwords": [
+    "Radek1961",
+    "Kohout82000",
+    "Jana14.6",
+    "netflix123",
+    "auta2020",
+    "Beroun2023",
+    "Strojirny!61",
+    "KohoutJana1",
+    "autaKodiaq",
+    "netflix!82000"
+  ],
+  "favorite_hobby": "netflix"
+}

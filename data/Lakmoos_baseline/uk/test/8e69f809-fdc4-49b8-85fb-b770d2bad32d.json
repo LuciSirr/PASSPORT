@@ -1,0 +1,38 @@
+{
+  "id": "8e69f809-fdc4-49b8-85fb-b770d2bad32d",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "married",
+  "region": "northern ireland",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Fiona",
+  "self_last_name": "Harrington",
+  "partner_first_name": "Mark",
+  "partner_last_name": "Harrington",
+  "children": [],
+  "interests": [
+    "great british bake off",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Ulster Precision Manufacturing",
+  "previous_passwords": [
+    "Fiona1985",
+    "Misty!14",
+    "BakeOff2020",
+    "Harrington123",
+    "Mark07_14",
+    "Gard3n1ng!",
+    "UlsterBake85",
+    "MistyBakeOff",
+    "GBBO!1985"
+  ],
+  "favorite_hobby": "great british bake off",
+  "birth_date": "1985-07-14"
+}

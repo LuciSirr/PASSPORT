@@ -1,0 +1,39 @@
+{
+  "id": "f336a2f4-3d4d-4acb-a99e-aaa5e689c909",
+  "gender": "female",
+  "age": 73,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gertrud",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Manfred",
+  "partner_last_name": "Kleinschmidt",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kleinschmidt"
+    }
+  ],
+  "interests": [
+    "stricken",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "Sachsen Handelsservice Kleinschmidt",
+  "previous_passwords": [
+    "Gertrud1949",
+    "Lukas2013",
+    "Manfred123",
+    "Kleinschmidt!73",
+    "Sachsen2024",
+    "Stricken_11",
+    "OmaLukas",
+    "Sommer!49",
+    "Gartenarbeit2023",
+    "Manfred&Gertrud"
+  ],
+  "favorite_hobby": "stricken",
+  "birth_date": "1953-02-22"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "33a849c8-0777-4086-b958-228ef46cb887",
+  "age": 25,
+  "birth_date": "2001-09-11",
+  "marital_status": "married",
+  "region": "Bernburg",
+  "nationality": "german",
+  "company": "Lehmann",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Jadwiga",
+  "self_last_name": "Dörschner",
+  "partner_first_name": "Friedrich",
+  "partner_last_name": "Dörschner",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Sükrü"
+    }
+  ],
+  "interests": [
+    "Musik Festivals",
+    "Fotografie",
+    "Wandern",
+    "Videospiele",
+    "FC Energie Cottbus"
+  ],
+  "previous_passwords": [
+    "EnergieCottbus2001",
+    "SukruFotoWandern!",
+    "MessiFC25",
+    "Jadwiga_VW_119",
+    "MusikFest2023_Jd",
+    "VideospieleSükrü",
+    "Friedrich_Berg!",
+    "CottbusWalks25",
+    "FotoMessi2001",
+    "Jadwiga_Video_09"
+  ]
+}

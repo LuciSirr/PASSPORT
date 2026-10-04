@@ -1,0 +1,35 @@
+{
+  "id": "7bfdb14f-ae13-454b-9082-8b8897542081",
+  "gender": "female",
+  "age": 52,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "čtení",
+    "křížovky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Textilní výroba Hradec",
+  "previous_passwords": [
+    "Ivana1972",
+    "Fabia2003",
+    "Kofola123",
+    "PetrVesely52",
+    "Cteni2020",
+    "Vesela52",
+    "Krizovky!21",
+    "Albert2019",
+    "Tesco42",
+    "Nakupovani1"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1973-12-01"
+}

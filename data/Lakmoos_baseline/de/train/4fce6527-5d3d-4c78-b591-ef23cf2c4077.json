@@ -1,0 +1,40 @@
+{
+  "id": "4fce6527-5d3d-4c78-b591-ef23cf2c4077",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "married",
+  "region": "hamburg",
+  "nationality": "german",
+  "car_brand": "Polestar",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Vogeler",
+  "partner_first_name": "Birgit",
+  "partner_last_name": "Vogeler",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Vogeler"
+    }
+  ],
+  "interests": [
+    "reisen",
+    "autos",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Nordhanseatische Management GmbH",
+  "previous_passwords": [
+    "Lukas2010",
+    "Birgit123",
+    "Hamburg55",
+    "Polestar2!",
+    "Vogeler1970",
+    "Reisen2022",
+    "Autos4Life",
+    "BirgitLukas",
+    "Sommer!79",
+    "Nordhanseatisch1"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1971-03-02"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "8db87049-b828-4027-b479-479fd424569a",
+  "age": 35,
+  "birth_date": "1991-01-09",
+  "marital_status": "married",
+  "region": "Diepholz",
+  "nationality": "german",
+  "company": "Mies",
+  "car_brand": "Skoda",
+  "self_first_name": "Gerhard",
+  "self_last_name": "Mohaupt",
+  "partner_first_name": "Inga",
+  "partner_last_name": "Gotthard",
+  "children": [
+    {
+      "first_name": "Ottilie",
+      "last_name": "Mohaupt"
+    },
+    {
+      "first_name": "Anne-Kathrin",
+      "last_name": "Mohaupt"
+    },
+    {
+      "first_name": "Robby",
+      "last_name": "Mohaupt"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Tatort",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "Messi2019Inga",
+    "TatortDiepholz!",
+    "WandernOttilie76",
+    "SkodaFotoRobb",
+    "KochenAnneKathrin91",
+    "MessiFotografie!",
+    "RobbyTatort23",
+    "AnneKathrinWandern",
+    "IngaSkoda2008",
+    "FotografieMohaupt"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "21a93c66-5d52-4ebf-849e-f1b063529c78",
+  "age": 73,
+  "birth_date": "1953-05-06",
+  "marital_status": "single",
+  "region": "Hrádek nad Nisou",
+  "nationality": "czech",
+  "company": "Marek",
+  "car_brand": "Škoda",
+  "self_first_name": "Dominika",
+  "self_last_name": "Svobodová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Jolana",
+      "last_name": "Svobodová"
+    },
+    {
+      "first_name": "Bohuslav",
+      "last_name": "Svoboda"
+    },
+    {
+      "first_name": "Pavel",
+      "last_name": "Sýkora"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "česká televize",
+    "rybaření",
+    "pěv"
+  ],
+  "previous_passwords": [
+    "NisouTuristika2023",
+    "Jolana_Rybar!",
+    "SkodaPev1953",
+    "ZahradaPavel",
+    "CeskáTelevizeBohuslav",
+    "Pěv_Hrádek56",
+    "TuristikaSvoboda",
+    "Sýkora2024_Fish",
+    "Škoda_Dominika!",
+    "ZahradniPev"
+  ]
+}

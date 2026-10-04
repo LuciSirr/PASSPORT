@@ -1,0 +1,40 @@
+{
+  "id": "65177739-eb4e-4554-98f7-1587fcaaa7ce",
+  "gender": "female",
+  "age": 67,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gillian",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": "Roger",
+  "partner_last_name": "Hollingworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "the crown",
+    "crossword puzzles"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Gillian1957",
+    "Misty18!",
+    "HollingworthGardening",
+    "TheCrown2020",
+    "Crossword123",
+    "Roger57",
+    "LondonCat57",
+    "MistyCrown",
+    "Gard3n1ng!",
+    "Hollingworth!18"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1957-04-18"
+}

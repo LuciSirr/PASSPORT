@@ -1,0 +1,35 @@
+{
+  "id": "72d52cb0-0931-4181-ab18-5dea804986ec",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "cestování",
+    "fotbal",
+    "grilování"
+  ],
+  "pets": [],
+  "company": "Moravský Strojírenský Závod",
+  "previous_passwords": [
+    "Radek1968",
+    "JitkaVesela51",
+    "Octavia1998",
+    "Kofola2020",
+    "Brno123",
+    "Grilovani!",
+    "Fotbal_68",
+    "TescoLidl123",
+    "Jihomorava68",
+    "RadekJitka51"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1974-10-18"
+}

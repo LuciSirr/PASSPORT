@@ -1,0 +1,35 @@
+{
+  "id": "868c05b2-8275-40ad-8793-2bf1c0765656",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Alfa Romeo",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "autos",
+    "reisen",
+    "musik"
+  ],
+  "pets": [],
+  "company": "Rheinland Service GmbH",
+  "previous_passwords": [
+    "Tobi1996",
+    "AlfaRomeo22",
+    "BMW4er2021",
+    "Kreutzmann123",
+    "Musik!2024",
+    "Sommer07",
+    "Rheinland!4",
+    "AutoF4n",
+    "FussballNRW",
+    "Tonale_97"
+  ],
+  "favorite_hobby": "autos",
+  "birth_date": "1997-07-20"
+}

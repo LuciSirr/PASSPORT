@@ -1,0 +1,40 @@
+{
+  "id": "cb048e33-e414-44c6-9257-2a2299043bbf",
+  "gender": "female",
+  "age": 11,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Šimůnková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "čtení",
+    "plavání"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Míca"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Terka2000",
+    "Prague11",
+    "zelenina123",
+    "Simunkova2023",
+    "Mica2022",
+    "malovani11",
+    "Cteni2024",
+    "plavani_123",
+    "Praha!11",
+    "M1ca_kočka"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2014-09-03"
+}

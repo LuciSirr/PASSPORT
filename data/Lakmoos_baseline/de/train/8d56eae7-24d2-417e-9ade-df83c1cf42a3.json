@@ -1,0 +1,35 @@
+{
+  "id": "8d56eae7-24d2-417e-9ade-df83c1cf42a3",
+  "gender": "female",
+  "age": 87,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gertrud",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Heinrich",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "lesen",
+    "spazieren",
+    "kreuzworträtsel"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gertrud1937",
+    "Heinrich123",
+    "Kleinschmidt!87",
+    "Lesen2020",
+    "Oma_4711",
+    "Spazierengehen1",
+    "Kreuzwort4",
+    "NRW1948",
+    "AOK_1000",
+    "Herbst10"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1939-03-14"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "94e3ae0b-97a0-400d-90d7-45a7018ef2ce",
+  "age": 30,
+  "birth_date": "1996-11-12",
+  "marital_status": "married",
+  "region": "Wismar",
+  "nationality": "german",
+  "company": "Striebitz GmbH",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Konrad",
+  "self_last_name": "Naser",
+  "partner_first_name": "Babette",
+  "partner_last_name": "Naser",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Musik (Indie)",
+    "Wandern",
+    "Reisen (Europa)",
+    "Lokaler Fußballverein (SV Wismar)"
+  ],
+  "previous_passwords": [
+    "Babette96!",
+    "MercedesFoto2024",
+    "IndieWandern1996",
+    "SVWismarKonrad!",
+    "MessiBabette!",
+    "EuropaKonrad!",
+    "FotografieWismar",
+    "wanderlust96!",
+    "IndieMusik2011",
+    "Mercedes2000Konrad"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "363c9edc-fed5-4461-8c92-159d292a50fd",
+  "age": 31,
+  "birth_date": "1995-10-15",
+  "marital_status": "married",
+  "region": "Hostomice",
+  "nationality": "czech",
+  "company": "Pokorný Beranová k.s.",
+  "car_brand": "Ford",
+  "self_first_name": "Jan",
+  "self_last_name": "Kříž",
+  "partner_first_name": "Elena",
+  "partner_last_name": "Křížová",
+  "children": [
+    {
+      "first_name": "Vlasta",
+      "last_name": "Křížová"
+    },
+    {
+      "first_name": "Štěpánka",
+      "last_name": "Křížová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "turistika",
+    "vaření",
+    "cyklistika"
+  ],
+  "previous_passwords": [
+    "Zlin2026!",
+    "ElenaHokej95",
+    "FordTuristika15",
+    "KrizFotbal31",
+    "Sparta95!",
+    "JanCyklo15",
+    "VlastaVareni!",
+    "StepankaTour95",
+    "HostomiceBike31",
+    "KrizVaReni26"
+  ]
+}

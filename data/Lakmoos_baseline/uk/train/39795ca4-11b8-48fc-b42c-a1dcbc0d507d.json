@@ -1,0 +1,40 @@
+{
+  "id": "39795ca4-11b8-48fc-b42c-a1dcbc0d507d",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Imogen",
+  "self_last_name": "Llewellyn",
+  "partner_first_name": "Rhys",
+  "partner_last_name": "Llewellyn",
+  "children": [],
+  "interests": [
+    "reading",
+    "travel",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Imogen1997",
+    "Milo123",
+    "Llewellyn!27",
+    "Reading4Life",
+    "Rhys2020",
+    "Travel_999",
+    "CatL0v3r",
+    "Wales2024",
+    "Fiat500",
+    "AudiA1!"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1999-02-16"
+}

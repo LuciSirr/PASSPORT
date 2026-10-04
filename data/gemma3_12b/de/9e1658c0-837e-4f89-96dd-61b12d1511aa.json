@@ -1,0 +1,40 @@
+{
+  "id": "9e1658c0-837e-4f89-96dd-61b12d1511aa",
+  "age": 52,
+  "birth_date": "1974-08-15",
+  "marital_status": "married",
+  "region": "Grafenau",
+  "nationality": "german",
+  "company": "Huhn Jopich GmbH",
+  "car_brand": "Audi",
+  "self_first_name": "Harald",
+  "self_last_name": "Steinberg",
+  "partner_first_name": "Jane",
+  "partner_last_name": "Steinberg",
+  "children": [
+    {
+      "first_name": "Hajo",
+      "last_name": "Steinberg"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Deutsche Küche",
+    "Querdenken",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Hajo2023!",
+    "AudiWander1974",
+    "JoeRoganFoto",
+    "JaneSteinbergFußball",
+    "QuerdenkenGrafenau",
+    "MessiBergWandern",
+    "DeutscheKueche74",
+    "GrafenauFoto23",
+    "WanderAudiHajo",
+    "FotografieJane!"
+  ]
+}

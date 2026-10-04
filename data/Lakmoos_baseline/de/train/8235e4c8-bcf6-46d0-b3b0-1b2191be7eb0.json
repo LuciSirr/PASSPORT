@@ -1,0 +1,35 @@
+{
+  "id": "8235e4c8-bcf6-46d0-b3b0-1b2191be7eb0",
+  "gender": "male",
+  "age": 46,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Jens",
+  "self_last_name": "Krahl",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobooks",
+    "streaming"
+  ],
+  "pets": [],
+  "company": "Sachsen Business Consulting",
+  "previous_passwords": [
+    "Jens1978",
+    "Krahl7000",
+    "Sachsen!123",
+    "Reisen2022",
+    "Apple_46",
+    "Sommer07",
+    "Business1978",
+    "Krahl!2024",
+    "Audiobooks1",
+    "HotelJuly"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1979-06-21"
+}

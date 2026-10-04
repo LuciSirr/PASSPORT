@@ -1,0 +1,39 @@
+{
+  "id": "5eb37074-adc1-4669-9cba-cdbf60808747",
+  "gender": "female",
+  "age": 33,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Peugeot",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1991-06-12",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohoutová"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "vinted",
+    "pečení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2010",
+    "Kohoutova123",
+    "cestovani_91",
+    "Vinted2023",
+    "PetrTereza12",
+    "Peceni!14",
+    "jitkaKohout",
+    "Tereza_pece",
+    "Kohout!2024"
+  ],
+  "favorite_hobby": "cestování"
+}

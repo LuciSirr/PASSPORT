@@ -1,0 +1,35 @@
+{
+  "id": "96e9902a-b3ec-4f70-b1d5-e87ee7fa6ae2",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Callum1999",
+    "Polestar57222",
+    "Emily123",
+    "London_99",
+    "Football4Life",
+    "Hollingsworth2020",
+    "BMW5years",
+    "Cycling!23",
+    "Gaming_Emily",
+    "H0ll1ngsw0rth"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2003-02-27"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "28f8c22b-59ae-4146-9681-2e2ddd2a24ff",
+  "age": 39,
+  "birth_date": "1987-12-02",
+  "marital_status": "married",
+  "region": "Hrádek",
+  "nationality": "czech",
+  "company": "Hrušková Kašpar v.o.s.",
+  "car_brand": "Kia",
+  "self_first_name": "Renáta",
+  "self_last_name": "Čechová",
+  "partner_first_name": "Ivan",
+  "partner_last_name": "Čechová",
+  "children": [
+    {
+      "first_name": "Igor",
+      "last_name": "Čech"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Žák"
+    },
+    {
+      "first_name": "Oto",
+      "last_name": "Horák"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Alžběta"
+    },
+    {
+      "pet_type": "lizard",
+      "pet_name": "Ivo"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "vaření",
+    "filmové večery",
+    "fotbal",
+    "historie"
+  ],
+  "previous_passwords": [
+    "RobertZák87",
+    "IvoLizardFilm",
+    "KiaHrádek2012",
+    "IvanCechovaTuristika!",
+    "MessiFan1987",
+    "AlzbetaKiasport",
+    "IgorHorakVaření1",
+    "TuristikaIvo!",
+    "FotbalMessi87",
+    "HistorieRobert"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ee09ccce-48e9-49d0-adfb-cda82bf3e737",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Gareth",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "gardening",
+    "baking",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Fiona1988",
+    "Ashcroft123",
+    "MiloCat!",
+    "Gareth88",
+    "Baking4Life",
+    "Reading2020",
+    "Gardening_1",
+    "Milo2015",
+    "Fiona!Ash"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1989-06-20"
+}

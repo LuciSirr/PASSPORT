@@ -1,0 +1,35 @@
+{
+  "id": "f6931b9f-5d76-4ce1-8925-528c456cdd7d",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Porsche",
+  "self_first_name": "Gareth",
+  "self_last_name": "Ashdown",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Ashdown",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "Ashdown Business Solutions",
+  "previous_passwords": [
+    "Gareth1984",
+    "Ashdown16",
+    "Fiona4Ever",
+    "Porsche2020",
+    "London123",
+    "Travel!2022",
+    "Ashdown!1",
+    "Cycling88",
+    "FionaAshdown",
+    "Business16"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1985-09-26"
+}

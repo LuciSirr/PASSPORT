@@ -1,0 +1,35 @@
+{
+  "id": "9edff2b7-783b-42c7-85b9-0b341d815c53",
+  "age": 26,
+  "birth_date": "2000-12-02",
+  "marital_status": "married",
+  "region": "Šlapanice",
+  "nationality": "czech",
+  "company": "Stejskalová Vlčková k.s.",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Eva",
+  "self_last_name": "Machová",
+  "partner_first_name": "Tomáš",
+  "partner_last_name": "Machová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "Netflix",
+    "turistika",
+    "hudba - Kapela Slza",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "Slza2000!",
+    "MessiEva26",
+    "NetflixTom!",
+    "MercedesEva",
+    "Turistika1999",
+    "SlzaHudbaEva",
+    "EvaMachova02",
+    "MercedesSlza",
+    "Turistika2000",
+    "NetflixEvaMach"
+  ]
+}

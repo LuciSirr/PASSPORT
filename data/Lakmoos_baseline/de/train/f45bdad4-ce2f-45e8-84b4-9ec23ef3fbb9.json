@@ -1,0 +1,40 @@
+{
+  "id": "f45bdad4-ce2f-45e8-84b4-9ec23ef3fbb9",
+  "gender": "male",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennard",
+  "self_last_name": "Kraus",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fussball",
+    "videospiele",
+    "lesen"
+  ],
+  "pets": [
+    {
+      "pet_type": "other",
+      "pet_name": "Hoppel"
+    }
+  ],
+  "company": "Schülerhilfe Dortmund",
+  "previous_passwords": [
+    "Lennard2014",
+    "Kraus123",
+    "Fussball!10",
+    "Hoppel2020",
+    "Dortmund09",
+    "Lesen_321",
+    "Videospiele4",
+    "Schuelerhilfe2022",
+    "Lenny!07",
+    "KrausHoppel"
+  ],
+  "favorite_hobby": "fussball",
+  "birth_date": "2015-12-01"
+}

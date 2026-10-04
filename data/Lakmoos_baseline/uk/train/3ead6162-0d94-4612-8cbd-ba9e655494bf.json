@@ -1,0 +1,39 @@
+{
+  "id": "3ead6162-0d94-4612-8cbd-ba9e655494bf",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Caldwell",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Caldwell",
+  "children": [],
+  "interests": [
+    "walking",
+    "travelling",
+    "history"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bracken"
+    }
+  ],
+  "company": "Strathview Management Ltd",
+  "previous_passwords": [
+    "Malcolm1964",
+    "FionaCaldwell1",
+    "Bracken123",
+    "Strathview2020",
+    "walking4life",
+    "HistoryBuff!",
+    "Scotland_64",
+    "Caldwell!2022",
+    "Trav3l2021"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1966-01-19"
+}

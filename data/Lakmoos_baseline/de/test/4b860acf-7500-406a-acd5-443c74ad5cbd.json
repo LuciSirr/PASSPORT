@@ -1,0 +1,33 @@
+{
+  "id": "4b860acf-7500-406a-acd5-443c74ad5cbd",
+  "gender": "female",
+  "age": 60,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Toyota",
+  "self_first_name": "Heike",
+  "self_last_name": "Kuhn",
+  "birth_date": "1964-07-15",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "Gesundheitszentrum Rheinblick",
+  "previous_passwords": [
+    "Heike1964",
+    "JueKu64!",
+    "Pilcher2019",
+    "NordicWalk123",
+    "Kuhn!2021",
+    "Rheinblick15",
+    "Rosamunde_64",
+    "JürgenHeike07",
+    "PilcherKuhn2020"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

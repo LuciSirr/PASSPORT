@@ -1,0 +1,35 @@
+{
+  "id": "54605e07-2a6b-4161-9c36-041490203a08",
+  "age": 35,
+  "birth_date": "1991-08-20",
+  "marital_status": "single",
+  "region": "Ralsko",
+  "nationality": "czech",
+  "company": "Krejčová o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Sabina",
+  "self_last_name": "Kratochvílová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "hokej",
+    "grilování",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "TourDeSkoda91",
+    "HokejRalsko91!",
+    "Rybareni20_Sab",
+    "Grilovani91!",
+    "CykloSkoda20",
+    "Turistika1991",
+    "SabinaHike91",
+    "RalskoBike20!",
+    "SkodaRyby91",
+    "HokejCzech91_"
+  ]
+}

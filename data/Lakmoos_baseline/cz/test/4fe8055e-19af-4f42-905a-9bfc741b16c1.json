@@ -1,0 +1,39 @@
+{
+  "id": "4fe8055e-19af-4f42-905a-9bfc741b16c1",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "divorced",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Dacia",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1968-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "ordinace v růžové zahradě",
+    "krizovky",
+    "turistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Jitka1968",
+    "Kohoutova79",
+    "Micka123",
+    "ordinace2020",
+    "krizovky!68",
+    "turistika_21",
+    "MickaKohout",
+    "ruzovazahrada12",
+    "JitkaMicka68"
+  ],
+  "favorite_hobby": "ordinace v růžové zahradě"
+}

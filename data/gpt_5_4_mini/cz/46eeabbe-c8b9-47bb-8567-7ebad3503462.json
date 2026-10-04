@@ -1,0 +1,35 @@
+{
+  "id": "46eeabbe-c8b9-47bb-8567-7ebad3503462",
+  "age": 53,
+  "birth_date": "1973-05-18",
+  "marital_status": "married",
+  "region": "Kamenický Šenov",
+  "nationality": "czech",
+  "company": "Ježek",
+  "car_brand": "Škoda",
+  "self_first_name": "Blanka",
+  "self_last_name": "Valentová",
+  "partner_first_name": "Klement",
+  "partner_last_name": "Valentová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika v Českém Švýcarsku",
+    "chalupaření",
+    "zahradničení",
+    "hokej",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Snezka73!",
+    "Skoda73K",
+    "Klement18!",
+    "CeskySvycar9",
+    "Chalupa73",
+    "Hokej73!",
+    "Bozena73",
+    "Zahrada18!",
+    "Valentova05",
+    "Kamenice73"
+  ]
+}

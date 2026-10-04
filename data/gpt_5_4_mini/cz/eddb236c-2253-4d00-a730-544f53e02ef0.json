@@ -1,0 +1,40 @@
+{
+  "id": "eddb236c-2253-4d00-a730-544f53e02ef0",
+  "age": 51,
+  "birth_date": "1975-09-19",
+  "marital_status": "single",
+  "region": "Dašice",
+  "nationality": "czech",
+  "company": "Polák a.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Naděžda",
+  "self_last_name": "Slavíková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "René"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "chalupaření",
+    "hokej",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Skoda1975!",
+    "ReneLizard75",
+    "Turistika19",
+    "Hokej1975",
+    "CeskeFilmy51",
+    "Zahrada_75",
+    "ChalupaRenE",
+    "DasicE1975",
+    "SkodaHokej51",
+    "Slavikova75!"
+  ]
+}

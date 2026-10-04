@@ -1,0 +1,35 @@
+{
+  "id": "c48a5796-02af-456c-8e59-c21437b21a2b",
+  "gender": "female",
+  "age": 42,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "seriály",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Vysočina Poradenství",
+  "previous_passwords": [
+    "Vysocina1979",
+    "LidlOblibena42",
+    "Maturita2001",
+    "Rossmann123",
+    "VitanaObed",
+    "Cteni2024",
+    "Serialy!79",
+    "Nakupovani_42",
+    "Vesela1979",
+    "Pilulka.cz2023"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1983-07-28"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9c394f66-18ca-4de8-ad61-eafdc74f6b46",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Tilly"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Margaret1961",
+    "Tilly123",
+    "Hollings63",
+    "Peter4ever",
+    "Knitting2020",
+    "Gardening!",
+    "Crosswords_1",
+    "Tilly!61",
+    "Margaret.Peter"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1962-05-16"
+}

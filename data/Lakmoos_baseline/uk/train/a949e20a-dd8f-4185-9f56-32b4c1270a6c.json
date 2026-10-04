@@ -1,0 +1,40 @@
+{
+  "id": "a949e20a-dd8f-4185-9f56-32b4c1270a6c",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "photography"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Milo2019",
+    "CupraLeon4",
+    "Callum123",
+    "WestMidlands!",
+    "Sophie2020",
+    "Travel4Fun",
+    "Hollingsworth29",
+    "Cycling_89",
+    "Milo!cat",
+    "Photo2021"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1996-05-07"
+}

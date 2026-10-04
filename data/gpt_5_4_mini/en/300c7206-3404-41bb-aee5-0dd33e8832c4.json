@@ -1,0 +1,44 @@
+{
+  "id": "300c7206-3404-41bb-aee5-0dd33e8832c4",
+  "age": 50,
+  "birth_date": "1976-12-10",
+  "marital_status": "divorced",
+  "region": "Youngstad",
+  "nationality": "english",
+  "company": "Powell PLC",
+  "car_brand": "MG",
+  "self_first_name": "Arthur",
+  "self_last_name": "Chambers",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Iain"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Rachel"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "walking",
+    "local football",
+    "cooking",
+    "classic rock"
+  ],
+  "previous_passwords": [
+    "Arthur10Rock!",
+    "MGBloom76",
+    "IainGarden12",
+    "RachelWalk76",
+    "YoungstadFC10",
+    "Classic76Rock",
+    "ChambersCook10",
+    "MG_Motown76",
+    "Iain_76_Putt",
+    "SpringHill76!"
+  ]
+}

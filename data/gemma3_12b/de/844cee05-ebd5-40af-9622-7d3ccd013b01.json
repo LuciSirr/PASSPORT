@@ -1,0 +1,40 @@
+{
+  "id": "844cee05-ebd5-40af-9622-7d3ccd013b01",
+  "age": 39,
+  "birth_date": "1987-12-01",
+  "marital_status": "married",
+  "region": "Kleve",
+  "nationality": "german",
+  "company": "Trüb Koch AG",
+  "car_brand": "Mazda",
+  "self_first_name": "Dörthe",
+  "self_last_name": "Stumpf",
+  "partner_first_name": "Bertram",
+  "partner_last_name": "Stumpf",
+  "children": [
+    {
+      "first_name": "Rüdiger",
+      "last_name": "Stumpf"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Wandern",
+    "Lokaler Fußballverein",
+    "Deutsche Küche",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "Ruediger1987!",
+    "MazdaKleverWanderung",
+    "MessiFotografie87",
+    "BertramKlassik01",
+    "KleveFoto2024",
+    "DeutscheKuecheRu",
+    "WanderlustDorothe!",
+    "ClassicMusicMazda",
+    "FußballKlever22",
+    "RuedigerFotoBerg"
+  ]
+}

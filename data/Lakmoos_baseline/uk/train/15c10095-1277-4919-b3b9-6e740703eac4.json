@@ -1,0 +1,39 @@
+{
+  "id": "15c10095-1277-4919-b3b9-6e740703eac4",
+  "gender": "female",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "netball",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Northway Student Services",
+  "previous_passwords": [
+    "Imogen2010",
+    "Milo123",
+    "Netball4Life",
+    "Hollis13",
+    "Drawing_101",
+    "BakingQueen!",
+    "Milo2017",
+    "Im0g3n!",
+    "Northway2023"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2012-10-06"
+}

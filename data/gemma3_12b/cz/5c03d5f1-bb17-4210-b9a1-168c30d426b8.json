@@ -1,0 +1,40 @@
+{
+  "id": "5c03d5f1-bb17-4210-b9a1-168c30d426b8",
+  "age": 26,
+  "birth_date": "2000-05-12",
+  "marital_status": "married",
+  "region": "Podbořany",
+  "nationality": "czech",
+  "company": "Mašková k.s.",
+  "car_brand": "Dacia",
+  "self_first_name": "Jiřina",
+  "self_last_name": "Ježková",
+  "partner_first_name": "Alois",
+  "partner_last_name": "Ježková",
+  "children": [
+    {
+      "first_name": "Stanislav",
+      "last_name": "Bártová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "hudba (Kapela Lucie)",
+    "fotbal (FK Podbořany)",
+    "cestování",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "Lucie2000",
+    "StanislavTuristika!",
+    "FKPodboranyAlois",
+    "DaciaCestovani12",
+    "MessiJiřina1998",
+    "VařeníPodbořany",
+    "KapelaLucie_26",
+    "TuristikaStanislav",
+    "PodbořanyHudba",
+    "JiřinaMessi2000"
+  ]
+}

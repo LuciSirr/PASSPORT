@@ -1,0 +1,36 @@
+{
+  "id": "9e960e34-93ae-4dbf-928f-9607c12126d5",
+  "gender": "female",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "běhání",
+    "seriály",
+    "nakupování",
+    "streamování"
+  ],
+  "pets": [],
+  "company": "Prague Student Services",
+  "previous_passwords": [
+    "Barca2000",
+    "Vesela24",
+    "Fabia2021",
+    "Praha24",
+    "Lidl123",
+    "dmKosmetika",
+    "Behani2022",
+    "Serialy!23",
+    "Vinted2022",
+    "NovaHBO159"
+  ],
+  "favorite_hobby": "běhání",
+  "birth_date": "2001-11-10"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "9b231666-9716-4f6a-9b0d-7c064cbbeacc",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Suzuki",
+  "self_first_name": "Heinz",
+  "self_last_name": "Kuhn",
+  "birth_date": "1958-06-10",
+  "partner_first_name": "Brigitte",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "krimi hörbücher",
+    "bundesliga",
+    "nordsee reisen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heinz1958",
+    "Kuhn!123",
+    "Brigitte58",
+    "krimi2020",
+    "Bundesliga58",
+    "Nordsee_09",
+    "KuhnKrimi!",
+    "BrigitteKuhn58",
+    "hörbuch123",
+    "Kuhn!krimi1958"
+  ],
+  "favorite_hobby": "krimi hörbücher"
+}

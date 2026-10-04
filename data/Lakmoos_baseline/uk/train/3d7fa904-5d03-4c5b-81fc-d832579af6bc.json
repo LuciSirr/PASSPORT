@@ -1,0 +1,40 @@
+{
+  "id": "3d7fa904-5d03-4c5b-81fc-d832579af6bc",
+  "gender": "female",
+  "age": 87,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Evelyn",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Harold",
+  "partner_last_name": "Ashcombe",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crosswords",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Ashcombe Consulting Ltd",
+  "previous_passwords": [
+    "Evelyn1937",
+    "Harold21",
+    "Misty123",
+    "Ashcombe2021",
+    "Gardening4",
+    "London999",
+    "Crosswords!",
+    "VWTaigo32474",
+    "Evelyn_Harold",
+    "Misty!21"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1938-06-23"
+}

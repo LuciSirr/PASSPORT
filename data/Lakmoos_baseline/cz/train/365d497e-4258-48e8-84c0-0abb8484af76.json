@@ -1,0 +1,36 @@
+{
+  "id": "365d497e-4258-48e8-84c0-0abb8484af76",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "jóga",
+    "nakupování",
+    "plavání"
+  ],
+  "pets": [],
+  "company": "AutoServis Veselý s.r.o.",
+  "previous_passwords": [
+    "Barbora1989",
+    "Veselá45",
+    "Scala2019!",
+    "Cestovani123",
+    "Yoga_2020",
+    "Plavani7",
+    "PilsnerU",
+    "CentralBohemia89",
+    "Nakupovani!",
+    "SkodaScala2019"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1993-06-23"
+}

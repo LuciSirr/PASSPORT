@@ -1,0 +1,53 @@
+{
+  "id": "d073b1d0-b87d-4ff1-ba33-47c9ddd443a0",
+  "age": 50,
+  "birth_date": "1976-06-10",
+  "marital_status": "married",
+  "region": "South Abigail",
+  "nationality": "english",
+  "company": "Finch LLC",
+  "car_brand": "Vauxhall",
+  "self_first_name": "Chelsea",
+  "self_last_name": "King",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "King",
+  "children": [
+    {
+      "first_name": "Margaret",
+      "last_name": "King"
+    },
+    {
+      "first_name": "Alexandra",
+      "last_name": "King"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Raymond"
+    },
+    {
+      "pet_type": "bird",
+      "pet_name": "Denis"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "home improvement",
+    "classic rock",
+    "local football",
+    "cooking"
+  ],
+  "previous_passwords": [
+    "Chelsea76!",
+    "Vauxhall10",
+    "Daisy76_Garden",
+    "Rock19610!",
+    "Geoffrey76",
+    "Foxes10_King",
+    "DenisBird76",
+    "CookKing10!",
+    "Margaret76_",
+    "SouthAbi50!"
+  ]
+}

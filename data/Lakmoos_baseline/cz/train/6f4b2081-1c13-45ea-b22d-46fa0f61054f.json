@@ -1,0 +1,40 @@
+{
+  "id": "6f4b2081-1c13-45ea-b22d-46fa0f61054f",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Tomáš",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "streamování",
+    "procházky",
+    "vaření"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Vysočina Sociální Péče s.r.o.",
+  "previous_passwords": [
+    "Micka2020",
+    "Tomáš27",
+    "IvetaVysocina",
+    "Vaření123",
+    "Procházky!",
+    "Šebestová2024",
+    "Streamovani_159",
+    "Micka!2021",
+    "Hornbach863",
+    "Kaufland_Šebestová"
+  ],
+  "favorite_hobby": "streamování",
+  "birth_date": "1998-10-27"
+}

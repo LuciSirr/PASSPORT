@@ -1,0 +1,40 @@
+{
+  "id": "3e8dda5a-28eb-4b01-93a9-8d84d0e6982c",
+  "age": 62,
+  "birth_date": "1964-07-31",
+  "marital_status": "single",
+  "region": "Ivanovice na Hané",
+  "nationality": "czech",
+  "company": "Dostál",
+  "car_brand": "Škoda",
+  "self_first_name": "Elena",
+  "self_last_name": "Bártová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Iveta"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "zahradničení",
+    "pěvání v sboru",
+    "historie"
+  ],
+  "previous_passwords": [
+    "IvanoviceTuristika64",
+    "RybarstvíJosef2024",
+    "ZahradaIveta1964",
+    "SkodaHistorie!",
+    "TuristikaBártová",
+    "PetrSbor2023",
+    "Historie64Skoda",
+    "RybářJosef!",
+    "ZahradničkaIveta",
+    "HanáTuristika!"
+  ]
+}

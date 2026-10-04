@@ -1,0 +1,35 @@
+{
+  "id": "3347f00d-44eb-41f9-ba63-371db3653a18",
+  "age": 36,
+  "birth_date": "1990-04-02",
+  "marital_status": "divorced",
+  "region": "Wolmirstedt",
+  "nationality": "german",
+  "company": "Barkholz Stiftung & Co. KG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Gundula",
+  "self_last_name": "Thanel",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Kochen",
+    "Wandern",
+    "Regionalgeschichte"
+  ],
+  "previous_passwords": [
+    "Fussball90!",
+    "Wolmirstedt02",
+    "Radtour36_",
+    "Kochen1990!",
+    "Wander_02!",
+    "Volkswagen36",
+    "HFC_1990!",
+    "ElbeRad90",
+    "Regional90!",
+    "Kuchen_36!"
+  ]
+}

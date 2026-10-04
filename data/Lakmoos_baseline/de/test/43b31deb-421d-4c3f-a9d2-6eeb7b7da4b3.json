@@ -1,0 +1,35 @@
+{
+  "id": "43b31deb-421d-4c3f-a9d2-6eeb7b7da4b3",
+  "gender": "female",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Mini",
+  "self_first_name": "Lena",
+  "self_last_name": "Kuhn",
+  "birth_date": "1996-07-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "dark",
+    "gossip girl",
+    "fashion"
+  ],
+  "pets": [],
+  "company": "Kuhn & Partner Unternehmerberatung",
+  "previous_passwords": [
+    "Lena1996",
+    "KuhnDark14",
+    "GossipGirl!96",
+    "fashionista_28",
+    "Dark_2019",
+    "Kuhn!123",
+    "LenaGossip2020",
+    "DarkKuhn_96",
+    "fashionGirl14",
+    "G0ssipKuhn"
+  ],
+  "favorite_hobby": "dark"
+}

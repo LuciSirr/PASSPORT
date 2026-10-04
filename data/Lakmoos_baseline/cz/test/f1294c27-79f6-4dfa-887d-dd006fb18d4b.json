@@ -1,0 +1,39 @@
+{
+  "id": "f1294c27-79f6-4dfa-887d-dd006fb18d4b",
+  "gender": "male",
+  "age": 69,
+  "marital_status": "married",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Nissan",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kohout",
+  "birth_date": "1955-06-12",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Tomáš",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "české filmy",
+    "fotbal",
+    "krimi seriály"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1955",
+    "Kohout123",
+    "Marie12.6",
+    "Tomas2024",
+    "ceskefilmy55",
+    "krimiSeriály2020",
+    "Olomouc!59",
+    "fotbal1974",
+    "Kohout!2023"
+  ],
+  "favorite_hobby": "české filmy"
+}

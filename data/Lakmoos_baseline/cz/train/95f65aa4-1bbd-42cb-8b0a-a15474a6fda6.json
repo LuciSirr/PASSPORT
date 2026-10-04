@@ -1,0 +1,36 @@
+{
+  "id": "95f65aa4-1bbd-42cb-8b0a-a15474a6fda6",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "married",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Vránová",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "zahrada",
+    "čtení",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Plzeňská Administrativa s.r.o.",
+  "previous_passwords": [
+    "Jarmila1959",
+    "Fabia2001",
+    "Plzenka59",
+    "MiroJarka2023",
+    "Billa123",
+    "Zahrada2022",
+    "Krizovky64",
+    "Rossmann64",
+    "MiroslavVranova!",
+    "Seriály2021"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1961-06-15"
+}

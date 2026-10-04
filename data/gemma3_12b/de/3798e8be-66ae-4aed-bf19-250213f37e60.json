@@ -1,0 +1,35 @@
+{
+  "id": "3798e8be-66ae-4aed-bf19-250213f37e60",
+  "age": 54,
+  "birth_date": "1972-02-17",
+  "marital_status": "single",
+  "region": "Kamenz",
+  "nationality": "german",
+  "company": "Kabus",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Rosina",
+  "self_last_name": "Stadelmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Klassische Musik",
+    "Lokale Geschichte",
+    "Gartenarbeit"
+  ],
+  "previous_passwords": [
+    "Bach1972!",
+    "MercedesWanderer",
+    "KamenzFoto23",
+    "WandernRosina",
+    "ClassicalMusic72",
+    "FotografieRS!",
+    "Gartenarbeit19",
+    "LokaleGeschichte!",
+    "BachKlassikRS",
+    "MercedesKamenz"
+  ]
+}

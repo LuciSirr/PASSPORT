@@ -1,0 +1,40 @@
+{
+  "id": "0d968e86-eafc-4796-aa2c-4286f39c6337",
+  "age": 62,
+  "birth_date": "1964-02-06",
+  "marital_status": "single",
+  "region": "Teterow",
+  "nationality": "german",
+  "company": "Kusch AG & Co. OHG",
+  "car_brand": "Audi",
+  "self_first_name": "Zoran",
+  "self_last_name": "Lindner",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Ljudmila"
+    }
+  ],
+  "interests": [
+    "Gartenarbeit",
+    "Wandern in der Mecklenburgischen Seenplatte",
+    "Schlager",
+    "Kochen",
+    "Heimatgeschichte"
+  ],
+  "previous_passwords": [
+    "Garten64!",
+    "Audi1964",
+    "Ljudmila62",
+    "Seenplatte64",
+    "Schlager64!",
+    "Kochen06_",
+    "Teterow64",
+    "Wandern62!",
+    "Heimat64",
+    "AudiTeterow64"
+  ]
+}

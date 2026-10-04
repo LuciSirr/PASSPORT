@@ -1,0 +1,36 @@
+{
+  "id": "bc1b35a9-e797-49dc-a2a0-79f7df8598bc",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Katrin",
+  "self_last_name": "Vogelsang",
+  "partner_first_name": "Andreas",
+  "partner_last_name": "Vogelsang",
+  "children": [],
+  "interests": [
+    "kreuzfahrten",
+    "audiobooks",
+    "musik",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Katrin1979",
+    "Andreas2023",
+    "Vogelsang123",
+    "Kreuzfahrt!10",
+    "Musikliebe79",
+    "Sommerurlaub2022",
+    "Lesen_456",
+    "Audiobook4ever",
+    "NRW!4000",
+    "SchatzAndi"
+  ],
+  "favorite_hobby": "kreuzfahrten",
+  "birth_date": "1980-08-21"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "7fae1e29-c6d9-45b8-b876-11b87697d2b5",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Citroën",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "facebook",
+    "nakupování",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Lesy Morava s.r.o.",
+  "previous_passwords": [
+    "CitroenC4_2012",
+    "Morava47000",
+    "Budvar2021",
+    "Zalando123",
+    "PraceLes",
+    "Vesely21",
+    "Auta!2023",
+    "Facebook_11",
+    "Kaufland987",
+    "C4Diesel6.8"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2004-04-15"
+}

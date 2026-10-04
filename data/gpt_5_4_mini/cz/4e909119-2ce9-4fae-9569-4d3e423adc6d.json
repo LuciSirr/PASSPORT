@@ -1,0 +1,40 @@
+{
+  "id": "4e909119-2ce9-4fae-9569-4d3e423adc6d",
+  "age": 40,
+  "birth_date": "1986-02-20",
+  "marital_status": "married",
+  "region": "Mirotice",
+  "nationality": "czech",
+  "company": "Vacek",
+  "car_brand": "Škoda",
+  "self_first_name": "Dagmar",
+  "self_last_name": "Poláková",
+  "partner_first_name": "Vít",
+  "partner_last_name": "Polák",
+  "children": [
+    {
+      "first_name": "Lubomír",
+      "last_name": "Holub"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "zahradničení",
+    "rybaření",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Slavia1986!",
+    "Skoda86_fotbal",
+    "Mirotice20!",
+    "Turistika86",
+    "Vitek1986",
+    "Zahrada_86",
+    "Rybareni20!",
+    "Ceskefilmy86",
+    "Polakovafotbal",
+    "Lubomir86_Skoda"
+  ]
+}

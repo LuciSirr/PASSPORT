@@ -1,0 +1,40 @@
+{
+  "id": "545c7df0-5d65-4e37-9ce8-0ae2a5d51d5c",
+  "gender": "female",
+  "age": 7,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Whittingham",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading",
+    "football"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "Little Learners Tutoring",
+  "previous_passwords": [
+    "Imogen2017",
+    "Mittens123",
+    "Whittingham7",
+    "Drawing4Fun",
+    "LondonCat!",
+    "LittleLearner7",
+    "Football2023",
+    "Im0g3n!",
+    "Mittens_7",
+    "Reading2022"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2018-12-29"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "bc291d2a-dc59-4a9a-8f51-435be94e905c",
+  "age": 38,
+  "birth_date": "1988-02-09",
+  "marital_status": "single",
+  "region": "North Melanieberg",
+  "nationality": "english",
+  "company": "Ward PLC",
+  "car_brand": "MINI",
+  "self_first_name": "Bryan",
+  "self_last_name": "Gould",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Lorraine"
+    }
+  ],
+  "interests": [
+    "Hiking",
+    "Photography",
+    "Classic Rock Music",
+    "Local Craft Breweries",
+    "Gardening"
+  ],
+  "previous_passwords": [
+    "LedZeppelin88!",
+    "LorraineHike22",
+    "MiniBrewing1988",
+    "MelaniebergPhoto!",
+    "GouldClassicRock",
+    "MessiGardens7",
+    "HikingLorraine!",
+    "Bryan88Craft!",
+    "MiniGardens2024",
+    "LZRocksMelanie"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6a07406d-5a0f-4758-a5d7-74ba7ce80d69",
+  "gender": "female",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Tereza",
+  "self_last_name": "Šimková",
+  "partner_first_name": "Jakub",
+  "partner_last_name": "Šimková",
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Šimková"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Šimková"
+    }
+  ],
+  "interests": [
+    "plavání",
+    "nakupování",
+    "procházky",
+    "hudba"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "Plzeňská služba s.r.o.",
+  "previous_passwords": [
+    "Tereza2002",
+    "EliMatej21",
+    "Benek123",
+    "Plzenka2024",
+    "Jakub!07",
+    "Simkova59",
+    "Hudba_321",
+    "Prochazka!",
+    "Fabia999",
+    "EliBen2020"
+  ],
+  "favorite_hobby": "plavání",
+  "birth_date": "2004-12-02"
+}

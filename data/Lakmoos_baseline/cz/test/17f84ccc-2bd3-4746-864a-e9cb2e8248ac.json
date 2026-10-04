@@ -1,0 +1,40 @@
+{
+  "id": "17f84ccc-2bd3-4746-864a-e9cb2e8248ac",
+  "gender": "male",
+  "age": 38,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1986-06-12",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "breaking bad",
+    "fotbal",
+    "cyklistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bady"
+    }
+  ],
+  "company": "Kreativní Studio U Labe",
+  "previous_passwords": [
+    "Radek1986",
+    "Kohout123",
+    "Bady2017",
+    "breakingbad86",
+    "Petra12",
+    "fotbal2020",
+    "Kohout!Bady",
+    "cyklistika86",
+    "BreakingBad_123",
+    "UstiLabem86"
+  ],
+  "favorite_hobby": "breaking bad"
+}

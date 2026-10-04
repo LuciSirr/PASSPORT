@@ -1,0 +1,34 @@
+{
+  "id": "70d57f6d-b165-4354-9079-54046c1ab874",
+  "gender": "male",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Ashford",
+  "partner_first_name": "Maya",
+  "partner_last_name": "Ashford",
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "Urban Grind Cafe",
+  "previous_passwords": [
+    "Callum2007",
+    "Ashford17",
+    "UrbanGrind123",
+    "Maya4ever",
+    "Football!21",
+    "LondonBoy07",
+    "Cycling_123",
+    "G4mingTime",
+    "Ashford!07"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2008-05-28"
+}

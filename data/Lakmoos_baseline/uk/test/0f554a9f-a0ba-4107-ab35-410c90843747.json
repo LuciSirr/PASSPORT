@@ -1,0 +1,40 @@
+{
+  "id": "0f554a9f-a0ba-4107-ab35-410c90843747",
+  "gender": "male",
+  "age": 85,
+  "marital_status": "widower/widow",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Subaru",
+  "self_first_name": "Stanley",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "classic cars",
+    "cricket",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Northwest Timber Supplies",
+  "previous_passwords": [
+    "Stanley1928",
+    "Baxter123",
+    "Cricket1948",
+    "Hollingsworth!28",
+    "Gardening_56",
+    "ClassicCars2023",
+    "BaxterCricket7",
+    "Northwest1948",
+    "Timber!28",
+    "Stanley!Baxter"
+  ],
+  "favorite_hobby": "classic cars",
+  "birth_date": "1939-06-15"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "fa8d603a-c020-43c7-8bc3-135fc28937b9",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "auta",
+    "turistika",
+    "filmy"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Beny2010",
+    "Radek52",
+    "Fabia_999",
+    "JitkaRadek",
+    "Usti1234",
+    "Turistika2021",
+    "Konecny1972",
+    "Beny!",
+    "McDonalds266",
+    "Auta2024"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1974-01-26"
+}

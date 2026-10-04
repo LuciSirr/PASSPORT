@@ -1,0 +1,48 @@
+{
+  "id": "bd35a3e6-40e2-4662-9364-a8a5557faafb",
+  "age": 44,
+  "birth_date": "1982-04-02",
+  "marital_status": "married",
+  "region": "Třeboň",
+  "nationality": "czech",
+  "company": "Hrušková Beranová s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Ondřej",
+  "self_last_name": "Ježek",
+  "partner_first_name": "Miroslava",
+  "partner_last_name": "Ježková",
+  "children": [
+    {
+      "first_name": "Věra",
+      "last_name": "Ježková"
+    },
+    {
+      "first_name": "Agáta",
+      "last_name": "Ježková"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Ježková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "rybaření",
+    "turistika",
+    "čtení knih",
+    "pěvání v sboru",
+    "cyklistika"
+  ],
+  "previous_passwords": [
+    "VeraAgata1982",
+    "TrebonFishing!",
+    "SkodaOctavia23",
+    "TerezaReads2024",
+    "MiroslavaChoir!",
+    "CyclingJežek77",
+    "MessiFanVera",
+    "AgataTourism89",
+    "Turistika2Ježek",
+    "BooksJežková19"
+  ]
+}

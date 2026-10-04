@@ -1,0 +1,35 @@
+{
+  "id": "798974c1-41a6-4d9a-9192-7c95dc491f94",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "hudba",
+    "malování",
+    "kutilství",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Liberecká výroba s.r.o.",
+  "previous_passwords": [
+    "Radek1999",
+    "VeselyLiberec22",
+    "Kutil123",
+    "Malovani2022",
+    "Hudba!22",
+    "BurgerKingCZ",
+    "RockRadio99",
+    "Hornbach2022",
+    "Netflix_22"
+  ],
+  "favorite_hobby": "hudba",
+  "birth_date": "2004-02-29"
+}

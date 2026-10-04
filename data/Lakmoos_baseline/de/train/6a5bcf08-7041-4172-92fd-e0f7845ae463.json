@@ -1,0 +1,40 @@
+{
+  "id": "6a5bcf08-7041-4172-92fd-e0f7845ae463",
+  "gender": "female",
+  "age": 43,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Katrin",
+  "self_last_name": "Vogelsang",
+  "partner_first_name": "Markus",
+  "partner_last_name": "Vogelsang",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Vogelsang"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "spazieren",
+    "backen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lena2016",
+    "Katrin123",
+    "Vogelsang84",
+    "Markus!2010",
+    "Lesen_2020",
+    "Hessen2022",
+    "Backen77",
+    "Sommer!84",
+    "LenaMarkus",
+    "K4tr1n!"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1983-03-16"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "3cc33774-f0be-4848-b1bd-d9fcff2bce1e",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "married",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "turistika",
+    "křížovky",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Ivana1975",
+    "PetrVesely14",
+    "Plzen2014",
+    "Turistika123",
+    "Krizovky58",
+    "AlbertNakup",
+    "Hornbach2020",
+    "CestaBezAuta",
+    "Vesela!39",
+    "Fotografie2022"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1987-02-04"
+}

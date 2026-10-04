@@ -1,0 +1,41 @@
+{
+  "id": "e422a732-3565-40a5-894d-f416f410157d",
+  "gender": "female",
+  "age": 48,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "plavání",
+    "čtení",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Strojírny Beroun",
+  "previous_passwords": [
+    "Tereza2014",
+    "SkodaSuperb22",
+    "Vesela81000",
+    "Lidl1234",
+    "Mattoni2020",
+    "Cestovani!48",
+    "Petr1974",
+    "Plavani321",
+    "Tereza10",
+    "Vesela2023"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1977-12-01"
+}

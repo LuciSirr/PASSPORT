@@ -1,0 +1,48 @@
+{
+  "id": "2ee5d336-9087-44f3-971f-92147e66ecd4",
+  "age": 77,
+  "birth_date": "1949-03-08",
+  "marital_status": "married",
+  "region": "Havířov",
+  "nationality": "czech",
+  "company": "Horák Kolářová k.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Strnad",
+  "partner_first_name": "Zdeňka",
+  "partner_last_name": "Strnadová",
+  "children": [
+    {
+      "first_name": "Boleslav",
+      "last_name": "Strnad"
+    },
+    {
+      "first_name": "Bohumil",
+      "last_name": "Strnad"
+    },
+    {
+      "first_name": "Elena",
+      "last_name": "Strnadová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "zahradničení",
+    "sledování hokeje",
+    "turistika v Beskydech",
+    "vaření české kuchyně",
+    "čtení knih"
+  ],
+  "previous_passwords": [
+    "Beskydy49!",
+    "Hokej1949",
+    "Zahrada49_",
+    "Strnad08!",
+    "Volkswagen77",
+    "Knedliky49",
+    "Turistika77!",
+    "KnihyStrnad",
+    "PivoBoleslav49",
+    "VeselyBohumil8"
+  ]
+}

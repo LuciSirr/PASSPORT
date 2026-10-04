@@ -1,0 +1,35 @@
+{
+  "id": "4d9484d9-b5d3-4dae-8ea6-8f4aa96cfa04",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "divorced",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "kutilství",
+    "zahrada",
+    "televize"
+  ],
+  "pets": [],
+  "company": "Zlínská Energetika",
+  "previous_passwords": [
+    "Radomir1959",
+    "Fabia2007",
+    "Makro3476",
+    "Zlin2022",
+    "Kofola123",
+    "Vesely64",
+    "Kutil2020",
+    "Pilsner64",
+    "Zahrada!59",
+    "Televize111"
+  ],
+  "favorite_hobby": "kutilství",
+  "birth_date": "1962-02-14"
+}

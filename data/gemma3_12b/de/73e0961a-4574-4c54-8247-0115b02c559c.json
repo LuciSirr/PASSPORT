@@ -1,0 +1,44 @@
+{
+  "id": "73e0961a-4574-4c54-8247-0115b02c559c",
+  "age": 52,
+  "birth_date": "1974-05-09",
+  "marital_status": "married",
+  "region": "Büsingen am Hochrhein",
+  "nationality": "german",
+  "company": "Rohleder AG & Co. OHG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Loretta",
+  "self_last_name": "Gutknecht",
+  "partner_first_name": "Gustav",
+  "partner_last_name": "Krebs",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Aleksandra"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Lutz"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Deutsche Klassische Musik",
+    "Lokales Vereinsleben",
+    "Autos"
+  ],
+  "previous_passwords": [
+    "Volkswagen74Gut",
+    "WandernAleksandra!",
+    "DeutscheKlassi1974",
+    "FotografieKrebs",
+    "LutzHochrhein23",
+    "GustavFoto!",
+    "BuesingenMessi",
+    "AutoGutknecht_1974",
+    "WanderlustLutz",
+    "KrebsFotografie74"
+  ]
+}

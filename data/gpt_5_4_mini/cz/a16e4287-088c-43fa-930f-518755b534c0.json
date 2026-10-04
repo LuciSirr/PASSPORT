@@ -1,0 +1,48 @@
+{
+  "id": "a16e4287-088c-43fa-930f-518755b534c0",
+  "age": 28,
+  "birth_date": "1998-04-17",
+  "marital_status": "married",
+  "region": "Dobřichovice",
+  "nationality": "czech",
+  "company": "Janečková",
+  "car_brand": "Škoda",
+  "self_first_name": "Olivie",
+  "self_last_name": "Staňková",
+  "partner_first_name": "Ondřej",
+  "partner_last_name": "Staňka",
+  "children": [
+    {
+      "first_name": "Štěpánka",
+      "last_name": "Staňková"
+    },
+    {
+      "first_name": "Vojtěch",
+      "last_name": "Staňka"
+    },
+    {
+      "first_name": "Albert",
+      "last_name": "Staňka"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "hokej",
+    "poslech hudby",
+    "cestování po Česku"
+  ],
+  "previous_passwords": [
+    "Hokej_98!",
+    "Turistika17",
+    "SkodaVojta24",
+    "CykloStanka8",
+    "CestovaniCZ98",
+    "HudbaOlivie!",
+    "BilaHora17",
+    "SkodaRally98",
+    "OndrejHokej7",
+    "Dobrichovice24"
+  ]
+}

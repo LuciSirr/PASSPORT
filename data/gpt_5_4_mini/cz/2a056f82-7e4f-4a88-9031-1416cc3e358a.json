@@ -1,0 +1,35 @@
+{
+  "id": "2a056f82-7e4f-4a88-9031-1416cc3e358a",
+  "age": 36,
+  "birth_date": "1990-06-29",
+  "marital_status": "married",
+  "region": "Dobruška",
+  "nationality": "czech",
+  "company": "Beránková",
+  "car_brand": "Audi",
+  "self_first_name": "Renata",
+  "self_last_name": "Fišerová",
+  "partner_first_name": "Vlastimil",
+  "partner_last_name": "Fišerová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "hokej",
+    "vaření",
+    "zahrádkářství"
+  ],
+  "previous_passwords": [
+    "turistika29",
+    "Vlastimil90!",
+    "AudiDobra68",
+    "cyklo_29Ren",
+    "hokej1990",
+    "vareni_36!",
+    "zahradka90",
+    "Dobruska29!",
+    "bikeVlasta6",
+    "turistika_90"
+  ]
+}

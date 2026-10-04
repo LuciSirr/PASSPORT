@@ -1,0 +1,53 @@
+{
+  "id": "69b5da86-759e-4323-b1c8-17015c6a0cd5",
+  "age": 43,
+  "birth_date": "1983-01-22",
+  "marital_status": "married",
+  "region": "Hulín",
+  "nationality": "czech",
+  "company": "Krausová Jelínková v.o.s.",
+  "car_brand": "Peugeot",
+  "self_first_name": "Lenka",
+  "self_last_name": "Králová",
+  "partner_first_name": "Filip",
+  "partner_last_name": "Králová",
+  "children": [
+    {
+      "first_name": "Daniela",
+      "last_name": "Sýkorová"
+    },
+    {
+      "first_name": "Svatopluk",
+      "last_name": "Slavík"
+    },
+    {
+      "first_name": "Daniela",
+      "last_name": "Vacková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Libuše"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "zahrádkaření",
+    "vaření",
+    "hokej"
+  ],
+  "previous_passwords": [
+    "Fotbal83!",
+    "HokejLenka22",
+    "Turistika_43",
+    "VareniFilip7",
+    "Zahradka!83",
+    "Pezolibuse22",
+    "PeugeotLenka",
+    "LibuseHulin43",
+    "DanielaHokej!",
+    "Slavik83_Fot"
+  ]
+}

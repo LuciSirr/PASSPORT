@@ -1,0 +1,38 @@
+{
+  "id": "04cfdcc8-2937-4207-b001-f4748c6a9269",
+  "gender": "male",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Archie",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "minecraft",
+    "arsenal fc"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Whiskers"
+    }
+  ],
+  "company": "South West Study Helpers",
+  "previous_passwords": [
+    "Archie2014",
+    "Whiskers123",
+    "Minecraft4Life",
+    "Hollis_Arsenal",
+    "Arsenal2024",
+    "Whiskers!14",
+    "Minecraf7Cat",
+    "Hollis123",
+    "Gunnerz2014"
+  ],
+  "favorite_hobby": "minecraft",
+  "birth_date": "2014-06-15"
+}

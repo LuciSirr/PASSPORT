@@ -1,0 +1,35 @@
+{
+  "id": "da6680a5-29a8-4814-b14a-f090b3a9107a",
+  "age": 49,
+  "birth_date": "1977-04-18",
+  "marital_status": "married",
+  "region": "Jevišovice",
+  "nationality": "czech",
+  "company": "Kadlecová s.r.o.",
+  "car_brand": "Toyota",
+  "self_first_name": "Lenka",
+  "self_last_name": "Ševčíková",
+  "partner_first_name": "Jaroslav",
+  "partner_last_name": "Beránek",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "zahradničení",
+    "turistika",
+    "sledování hokeje",
+    "vaření",
+    "tramping"
+  ],
+  "previous_passwords": [
+    "Hokej1977!",
+    "Toyota49_Jaro",
+    "Zahrada18Lenka",
+    "Turistika77",
+    "Tramping_JV!",
+    "VareniLenka4",
+    "BeranekHokej24",
+    "Jevisovice_77",
+    "Jaroslav_Tour49",
+    "LenkaToyota7"
+  ]
+}

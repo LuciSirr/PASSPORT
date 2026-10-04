@@ -1,0 +1,36 @@
+{
+  "id": "425b5a5c-f565-43ab-ae97-7b096a501ec7",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Tomáš",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "seriály",
+    "facebook",
+    "cestování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Iveta1984",
+    "Vesela123",
+    "Tomik2020",
+    "Fabia2012",
+    "Kofola30",
+    "PragueGirl30",
+    "rossmann17",
+    "Netflix123",
+    "Nakupovani2021",
+    "Seriály!88"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1996-02-04"
+}

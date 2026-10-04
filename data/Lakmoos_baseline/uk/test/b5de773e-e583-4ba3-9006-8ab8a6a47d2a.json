@@ -1,0 +1,39 @@
+{
+  "id": "b5de773e-e583-4ba3-9006-8ab8a6a47d2a",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "top gear",
+    "fishing"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Midlands Motor Parts",
+  "previous_passwords": [
+    "Gareth1977",
+    "Baxter123",
+    "TopGear!77",
+    "Fishing4Life",
+    "Rachel2020",
+    "Hollings!18",
+    "BaxterFishing",
+    "Midlands77",
+    "TopGearBaxter",
+    "Fish!ng1977"
+  ],
+  "favorite_hobby": "top gear",
+  "birth_date": "1977-03-18"
+}

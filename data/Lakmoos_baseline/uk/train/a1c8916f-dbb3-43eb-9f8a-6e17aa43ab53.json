@@ -1,0 +1,39 @@
+{
+  "id": "a1c8916f-dbb3-43eb-9f8a-6e17aa43ab53",
+  "gender": "male",
+  "age": 96,
+  "marital_status": "divorced",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Peugeot",
+  "self_first_name": "Stanley",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Marmalade"
+    }
+  ],
+  "company": "Northwest Ventures Ltd",
+  "previous_passwords": [
+    "Stanley1928",
+    "Marmalade14",
+    "Hollingworth12",
+    "Peugeot508!",
+    "Gardening123",
+    "Crosswords21",
+    "KiaSportage8",
+    "Northwest2024",
+    "Marmalade!",
+    "StanleyCat1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1930-01-19"
+}

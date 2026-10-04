@@ -1,0 +1,40 @@
+{
+  "id": "04b17dbb-cf26-4aec-9dd8-13245ffd7654",
+  "gender": "male",
+  "age": 71,
+  "marital_status": "married",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Křivánek",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Křivánková",
+  "children": [],
+  "interests": [
+    "zahrada",
+    "křížovky",
+    "televize"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1953",
+    "Marie822",
+    "Rex637",
+    "Krizovky18",
+    "Zahrada150",
+    "Křivánek2024",
+    "BohemiaSekt!",
+    "Lidl822",
+    "Teta637",
+    "Dum150m2"
+  ],
+  "favorite_hobby": "zahrada",
+  "birth_date": "1954-12-28"
+}

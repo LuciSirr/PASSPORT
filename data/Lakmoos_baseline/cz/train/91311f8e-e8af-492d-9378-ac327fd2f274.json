@@ -1,0 +1,40 @@
+{
+  "id": "91311f8e-e8af-492d-9378-ac327fd2f274",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "lego",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "other",
+      "pet_name": "Křeček"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "matej2016",
+    "pardubice123",
+    "vesely8",
+    "skola2024",
+    "krecek!",
+    "lego123",
+    "fotbal2022",
+    "malovani8",
+    "Vesely_2024",
+    "Mat3j8"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2017-11-18"
+}

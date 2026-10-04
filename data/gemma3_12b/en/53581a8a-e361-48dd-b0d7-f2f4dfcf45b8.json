@@ -1,0 +1,35 @@
+{
+  "id": "53581a8a-e361-48dd-b0d7-f2f4dfcf45b8",
+  "age": 24,
+  "birth_date": "2002-05-28",
+  "marital_status": "married",
+  "region": "New Malcolmchester",
+  "nationality": "english",
+  "company": "Bennett-Browne",
+  "car_brand": "MG",
+  "self_first_name": "Alexandra",
+  "self_last_name": "Richardson",
+  "partner_first_name": "Mohammed",
+  "partner_last_name": "Richardson",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Gaming",
+    "Indie Music",
+    "Hiking",
+    "Photography",
+    "Local Craft Breweries"
+  ],
+  "previous_passwords": [
+    "IndieFest2002",
+    "MG_Hiker24",
+    "JoeRoganPics!",
+    "MessiRich28",
+    "NewMalcPhoto",
+    "CraftBrewRich",
+    "AlexandraHike!",
+    "GamingRich24",
+    "MG_IndieFest!",
+    "PhotoWalk2002"
+  ]
+}

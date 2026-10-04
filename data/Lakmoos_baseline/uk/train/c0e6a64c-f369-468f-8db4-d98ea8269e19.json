@@ -1,0 +1,35 @@
+{
+  "id": "c0e6a64c-f369-468f-8db4-d98ea8269e19",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Graham",
+  "self_last_name": "Carmichael",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Carmichael",
+  "children": [],
+  "interests": [
+    "hiking",
+    "photography",
+    "travelling"
+  ],
+  "pets": [],
+  "company": "Lochside Ventures Ltd",
+  "previous_passwords": [
+    "Graham1976",
+    "Fiona123",
+    "TROC40459",
+    "Lochside2020",
+    "Scotland!48",
+    "Carmichael1",
+    "Hiking2022",
+    "VWfan7",
+    "Fiona&Graham",
+    "Travel4Life"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1977-07-28"
+}

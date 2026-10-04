@@ -1,0 +1,57 @@
+{
+  "id": "6e7c9c8f-ae5f-44ea-8b7f-7d815ce93faf",
+  "age": 53,
+  "birth_date": "1973-07-07",
+  "marital_status": "married",
+  "region": "Zásmuky",
+  "nationality": "czech",
+  "company": "Černý Vávra s.r.o.",
+  "car_brand": "Toyota",
+  "self_first_name": "Nikola",
+  "self_last_name": "Staňková",
+  "partner_first_name": "Blahoslav",
+  "partner_last_name": "Staňka",
+  "children": [
+    {
+      "first_name": "Ivana",
+      "last_name": "Müllerová"
+    },
+    {
+      "first_name": "Marta",
+      "last_name": "Konečná"
+    },
+    {
+      "first_name": "Miloš",
+      "last_name": "Mašek"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Marta"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Karel"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "čtení knih",
+    "pěstování zeleniny",
+    "historie"
+  ],
+  "previous_passwords": [
+    "MartaPesok2000",
+    "ToyotaMilos23",
+    "IvanaKarelHistorie",
+    "BlahoslavTuristika!",
+    "MasekRybar73",
+    "ZasmukyMuller",
+    "KarelKnihy1973",
+    "MartaToyotaR!",
+    "MilosKonecnaFish",
+    "ReadingHistory2007"
+  ]
+}

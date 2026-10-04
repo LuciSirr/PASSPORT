@@ -1,0 +1,40 @@
+{
+  "id": "6ecb799b-0e71-43c5-8db4-2eb7d65aa604",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Smart",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Gareth",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "walking",
+    "baking",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Westway Auto Supplies",
+  "previous_passwords": [
+    "Milo2022",
+    "Fiona!35",
+    "Gareth123",
+    "Hollingsworth1",
+    "Baking4Life",
+    "SmartSUV23",
+    "Westway2023",
+    "Gardening_88",
+    "Milo!cat",
+    "FionaWalking7"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1991-02-06"
+}

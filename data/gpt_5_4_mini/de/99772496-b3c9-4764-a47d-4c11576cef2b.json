@@ -1,0 +1,40 @@
+{
+  "id": "99772496-b3c9-4764-a47d-4c11576cef2b",
+  "age": 18,
+  "birth_date": "2008-09-01",
+  "marital_status": "single",
+  "region": "Badoberan",
+  "nationality": "german",
+  "company": "Gute",
+  "car_brand": "Citroën",
+  "self_first_name": "Annita",
+  "self_last_name": "Warmer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Raimund"
+    }
+  ],
+  "interests": [
+    "Gaming",
+    "Fußball",
+    "Fitness",
+    "Musik hören",
+    "Skateboarden"
+  ],
+  "previous_passwords": [
+    "Fussball09!",
+    "GamingRaimund8",
+    "Skate2008_",
+    "Citroen18!",
+    "Metallica09",
+    "FitnessBoro1",
+    "AnnitaMusic08",
+    "LizardSkate!",
+    "BVB2008Ann",
+    "Raimund09!!"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ae545a8b-ce07-4ff0-8a3e-9c9ba023f98a",
+  "age": 44,
+  "birth_date": "1982-01-10",
+  "marital_status": "single",
+  "region": "Jaroměřice nad Rokytnou",
+  "nationality": "czech",
+  "company": "Pokorná a.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Jaroslav",
+  "self_last_name": "Vlček",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hokej",
+    "turistika",
+    "zahradničení",
+    "české filmy",
+    "zámecké památky"
+  ],
+  "previous_passwords": [
+    "Hokej1982!",
+    "Jaromerice82",
+    "Toyota44_",
+    "Turistika10",
+    "Zamek82!",
+    "CeskeFilmy10",
+    "HradecHokej44",
+    "Rokytnou82",
+    "Zahrada44!",
+    "Vlcek1982"
+  ]
+}

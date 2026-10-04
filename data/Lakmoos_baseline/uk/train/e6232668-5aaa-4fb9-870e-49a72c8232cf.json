@@ -1,0 +1,35 @@
+{
+  "id": "e6232668-5aaa-4fb9-870e-49a72c8232cf",
+  "gender": "male",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "driving",
+    "cycling",
+    "travel",
+    "pubs"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Callum1991",
+    "VolvoXC60!",
+    "Hollis22",
+    "Sophie_123",
+    "MercedesEQA21",
+    "Driving4Life",
+    "Travel2022",
+    "Pubs!91",
+    "Hollis!1"
+  ],
+  "favorite_hobby": "driving",
+  "birth_date": "1992-12-12"
+}

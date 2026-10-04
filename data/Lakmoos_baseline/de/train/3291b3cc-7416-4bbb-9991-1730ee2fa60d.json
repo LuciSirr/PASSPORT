@@ -1,0 +1,34 @@
+{
+  "id": "3291b3cc-7416-4bbb-9991-1730ee2fa60d",
+  "gender": "male",
+  "age": 82,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Škoda",
+  "self_first_name": "Heinz",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Gertrud",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "audiobücher",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heinz1942",
+    "Gertrud123",
+    "Octavia27",
+    "Niedersachsen!82",
+    "Kleinschmidt2020",
+    "Audiobuch456",
+    "SommerAugust",
+    "AOK_106200",
+    "Skoda1.4",
+    "Schatz!82"
+  ],
+  "favorite_hobby": "audiobücher",
+  "birth_date": "1944-01-06"
+}

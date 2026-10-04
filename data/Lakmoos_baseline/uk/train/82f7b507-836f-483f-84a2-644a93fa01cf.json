@@ -1,0 +1,39 @@
+{
+  "id": "82f7b507-836f-483f-84a2-644a93fa01cf",
+  "gender": "female",
+  "age": 66,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Hollins",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollins",
+  "children": [],
+  "interests": [
+    "gardening",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Moorfield Guesthouse",
+  "previous_passwords": [
+    "Misty2017",
+    "Marion66",
+    "Graham123",
+    "Hollins2000",
+    "Baking4Fun",
+    "Moorfield7",
+    "Gardening!",
+    "MistyCat1",
+    "Marion!66",
+    "GrahamMisty"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1960-03-25"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "85540f4f-72bb-48bf-a5bb-d81c622f7cb1",
+  "age": 45,
+  "birth_date": "1981-12-27",
+  "marital_status": "single",
+  "region": "Chrast",
+  "nationality": "czech",
+  "company": "Bureš k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Petra",
+  "self_last_name": "Matějková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Adéla"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Libuše"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivní lázně",
+    "České Budějovice lední hokeje",
+    "folklorní festivaly"
+  ],
+  "previous_passwords": [
+    "AdelaRibicka27",
+    "BudoviceHockey!",
+    "SkodaTuristika81",
+    "RybarLibuse03",
+    "PivniLaznePetra",
+    "Folklornifestival1981",
+    "MessiFanAdela",
+    "ChrastTuristka!",
+    "AdelaSkodaFish",
+    "Budovice27Ribicka"
+  ]
+}

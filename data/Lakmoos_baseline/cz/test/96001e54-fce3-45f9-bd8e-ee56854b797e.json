@@ -1,0 +1,34 @@
+{
+  "id": "96001e54-fce3-45f9-bd8e-ee56854b797e",
+  "gender": "male",
+  "age": 57,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Šimáček",
+  "birth_date": "1967-06-10",
+  "partner_first_name": "Ivana",
+  "partner_last_name": "Šimáček",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "české filmy"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radek1967",
+    "Simacek79",
+    "Ivana10.6",
+    "fotbal123",
+    "Praha2020",
+    "ceskefilmy67",
+    "Kofola!14",
+    "shell1518",
+    "RadekIvana79",
+    "Albert535"
+  ],
+  "favorite_hobby": "fotbal"
+}

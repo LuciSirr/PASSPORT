@@ -1,0 +1,49 @@
+{
+  "id": "8ec487a7-26bf-4eab-ae5e-f6a2b122f722",
+  "age": 75,
+  "birth_date": "1951-11-25",
+  "marital_status": "married",
+  "region": "Roth",
+  "nationality": "german",
+  "company": "Heintze KG",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Gabriela",
+  "self_last_name": "Heser",
+  "partner_first_name": "Mohammad",
+  "partner_last_name": "Heser",
+  "children": [
+    {
+      "first_name": "Andrzej",
+      "last_name": "Heser"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Elif"
+    },
+    {
+      "pet_type": "dog",
+      "pet_name": "Ivanka"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Schallplatten",
+    "Gemütliches Beisammensein",
+    "Volkshochschule",
+    "Lokaler Gartenbauverein"
+  ],
+  "previous_passwords": [
+    "MercedesElif1951",
+    "AndrzejWandern25",
+    "SchallplattenRoth!",
+    "MohammadGemuetlich75",
+    "ElifMercedesWalk",
+    "IvankaVolkshochsc!",
+    "RothGardenAndrzej",
+    "Wanderung_Elif05",
+    "MercedesAndrzej95",
+    "SchallplattenIvanka"
+  ]
+}

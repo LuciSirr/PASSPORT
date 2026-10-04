@@ -1,0 +1,34 @@
+{
+  "id": "8e2f5ca0-0cfd-4aa3-aecd-f093e96392e2",
+  "gender": "male",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennard",
+  "self_last_name": "Krausmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fussball",
+    "videospiele",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lennard2013",
+    "Krausmann123",
+    "Fussball10",
+    "BVB09!",
+    "L3sen2020",
+    "Videospiele_10",
+    "NRW2000",
+    "Krausmann!",
+    "Lenny_123"
+  ],
+  "favorite_hobby": "fussball",
+  "birth_date": "2016-01-30"
+}

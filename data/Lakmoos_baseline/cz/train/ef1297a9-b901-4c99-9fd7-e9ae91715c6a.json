@@ -1,0 +1,36 @@
+{
+  "id": "ef1297a9-b901-4c99-9fd7-e9ae91715c6a",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "divorced",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "turistika",
+    "filmy",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Severočeská doprava s.r.o.",
+  "previous_passwords": [
+    "Fabia2001",
+    "Globus123",
+    "Usti2020",
+    "BohemiaSekt52",
+    "Mountfield!",
+    "Radek1972",
+    "Vesely_999",
+    "Auta1234",
+    "Turistika2021",
+    "Filmy!52"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1973-04-06"
+}

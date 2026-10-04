@@ -1,0 +1,35 @@
+{
+  "id": "54c76a1a-8d05-4ae7-b01b-dbf16d657b4c",
+  "gender": "male",
+  "age": 49,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "cestování",
+    "auta",
+    "filmy"
+  ],
+  "pets": [],
+  "company": "Pragometal s.r.o.",
+  "previous_passwords": [
+    "Radek1975",
+    "Petra2023",
+    "Fabia999",
+    "Praha5000",
+    "BohemiaSekt49",
+    "Kaufland2023",
+    "Voda1234",
+    "Cestovani21",
+    "Vesely!123",
+    "McDonalds49"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1976-11-01"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "43e2fda7-19ff-4e53-874d-8b58589b067d",
+  "gender": "male",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Dacia",
+  "self_first_name": "Timo",
+  "self_last_name": "Schwanberg",
+  "partner_first_name": "Lena",
+  "partner_last_name": "Schwanberg",
+  "children": [],
+  "interests": [
+    "reisen",
+    "videospiele",
+    "musik"
+  ],
+  "pets": [],
+  "company": "RheinSupport GmbH",
+  "previous_passwords": [
+    "Timo1998",
+    "Schwanberg123",
+    "Jogger22MY!",
+    "Lena2021",
+    "Reisen07",
+    "Musik_1598",
+    "Rheinpfalz!",
+    "Opel19",
+    "Sommer2023",
+    "Fussball4"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "2000-02-04"
+}

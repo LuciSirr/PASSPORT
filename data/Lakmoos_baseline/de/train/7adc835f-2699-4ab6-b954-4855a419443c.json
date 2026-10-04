@@ -1,0 +1,40 @@
+{
+  "id": "7adc835f-2699-4ab6-b954-4855a419443c",
+  "gender": "female",
+  "age": 77,
+  "marital_status": "widower/widow",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gertrud",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kleinschmidt"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "spazieren",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "Kleinschmidt Handelsagentur",
+  "previous_passwords": [
+    "Lukas2016",
+    "Gertrud77!",
+    "Kleinschmidt123",
+    "Lesen_2024",
+    "Spazieren08",
+    "Lukas_Gerti",
+    "Niedersachsen77",
+    "Handel3000",
+    "OmaLukas",
+    "Bücherliebe1"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1948-06-10"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "6ab2a5b1-465a-463b-af68-1c4cee648c04",
+  "gender": "male",
+  "age": 37,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Tesla",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kuhn",
+  "birth_date": "1987-06-15",
+  "partner_first_name": "Sandra",
+  "partner_last_name": "Kuhn",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kuhn"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Kuhn"
+    },
+    {
+      "first_name": "Emil",
+      "last_name": "Kuhn"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "fahrradtouren"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2011",
+    "Sandra87!",
+    "Tatort123",
+    "Kuhn2020",
+    "Bundesliga_13",
+    "Marlene15",
+    "Emil_2022",
+    "FahrradKuhn",
+    "SandraTatort",
+    "Kuhn!87"
+  ],
+  "favorite_hobby": "tatort"
+}

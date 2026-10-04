@@ -1,0 +1,35 @@
+{
+  "id": "317b0daa-2f53-41d1-bbd7-8f3d13d3fd5a",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Subaru",
+  "self_first_name": "Heinrich",
+  "self_last_name": "Krause",
+  "partner_first_name": "Renate",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "wandern",
+    "klassik",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Krause & Partner Unternehmensberatung",
+  "previous_passwords": [
+    "Heinrich1954",
+    "Renate123",
+    "Krause1978",
+    "Subaru2015",
+    "Niedersachsen!",
+    "Wandern2020",
+    "Klassik4ever",
+    "Fotografie_77",
+    "Sparkasse451",
+    "KrauseRenate54"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1956-02-17"
+}

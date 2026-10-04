@@ -1,0 +1,40 @@
+{
+  "id": "117ffa54-0f7b-4507-bfa8-d8d5c9e873c8",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Hollings",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "football",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "NorthWest Study Support",
+  "previous_passwords": [
+    "Maisie2008",
+    "MiloCat12",
+    "Hollings123",
+    "reading4life",
+    "Baking_08",
+    "Football_3",
+    "Milo!2008",
+    "NorthWest08",
+    "Maisie_Milo",
+    "Hollings4ever"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2009-09-02"
+}

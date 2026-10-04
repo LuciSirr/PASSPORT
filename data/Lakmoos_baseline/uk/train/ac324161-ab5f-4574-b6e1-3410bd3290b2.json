@@ -1,0 +1,40 @@
+{
+  "id": "ac324161-ab5f-4574-b6e1-3410bd3290b2",
+  "gender": "female",
+  "age": 62,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Fiat",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "South Downs Consulting",
+  "previous_passwords": [
+    "Misty2018",
+    "Margaret62",
+    "PeterHollingsworth",
+    "SouthDowns123",
+    "Gardening4Life",
+    "Hollingsworth2020",
+    "Reading!1",
+    "MistyCat!",
+    "Walking2022",
+    "Margaret_Peter"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1963-06-12"
+}

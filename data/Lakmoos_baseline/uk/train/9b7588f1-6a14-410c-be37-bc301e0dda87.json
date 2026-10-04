@@ -1,0 +1,35 @@
+{
+  "id": "9b7588f1-6a14-410c-be37-bc301e0dda87",
+  "gender": "male",
+  "age": 46,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Škoda",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "history"
+  ],
+  "pets": [],
+  "company": "Urban Venture Solutions",
+  "previous_passwords": [
+    "Gareth1978",
+    "Fiona123",
+    "Kodiaq2016",
+    "London4ever",
+    "UrbanVenture!17",
+    "HistoryBuff78",
+    "Travel_2023",
+    "Hollingsworth1",
+    "Cycling4Life",
+    "Fiona&Gareth"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1980-02-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "730a58eb-6d50-4fc5-8111-2e61c1ae24d3",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kohout",
+  "birth_date": "2012-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "minecraft"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej2012",
+    "Kohout123",
+    "rexFIFA14",
+    "minecraft2024",
+    "FifaRex12",
+    "kohout_mine",
+    "Rex!2012",
+    "fifaKohout",
+    "Mat3jF1fa",
+    "rex12345"
+  ],
+  "favorite_hobby": "fifa"
+}

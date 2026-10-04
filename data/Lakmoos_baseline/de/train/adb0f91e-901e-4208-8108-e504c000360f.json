@@ -1,0 +1,35 @@
+{
+  "id": "adb0f91e-901e-4208-8108-e504c000360f",
+  "gender": "female",
+  "age": 57,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gabriele",
+  "self_last_name": "Kreutzer",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kreutzer",
+  "children": [],
+  "interests": [
+    "lesen",
+    "spazieren",
+    "stricken"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gabriele1967",
+    "Jürgen123",
+    "Kreutzer!57",
+    "Lesen2020",
+    "Stricken_77",
+    "Spazierengehen1",
+    "GabiJue77",
+    "Sommerurlaub21",
+    "AOK_2000",
+    "Rheinland78"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1969-01-23"
+}

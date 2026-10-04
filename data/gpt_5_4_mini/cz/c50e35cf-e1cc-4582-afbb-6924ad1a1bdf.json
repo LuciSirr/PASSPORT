@@ -1,0 +1,40 @@
+{
+  "id": "c50e35cf-e1cc-4582-afbb-6924ad1a1bdf",
+  "age": 38,
+  "birth_date": "1988-10-22",
+  "marital_status": "married",
+  "region": "Uhlířské Janovice",
+  "nationality": "czech",
+  "company": "Svobodová a.s.",
+  "car_brand": "Kia",
+  "self_first_name": "Kamil",
+  "self_last_name": "Svoboda",
+  "partner_first_name": "Martina",
+  "partner_last_name": "Svobodová",
+  "children": [
+    {
+      "first_name": "Michaela",
+      "last_name": "Svobodová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "turistika",
+    "grilování",
+    "chalupaření"
+  ],
+  "previous_passwords": [
+    "Sparta88!",
+    "Kia2022_",
+    "Martina22!",
+    "Bayern88",
+    "Hike22_Kamil",
+    "Grilovani88",
+    "BrnoHockey22",
+    "Turistika88!",
+    "Svoboda10Kia",
+    "Michaela88_"
+  ]
+}

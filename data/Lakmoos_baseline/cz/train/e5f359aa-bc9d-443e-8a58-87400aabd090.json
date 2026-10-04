@@ -1,0 +1,34 @@
+{
+  "id": "e5f359aa-bc9d-443e-8a58-87400aabd090",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Iveta",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Hotel Praha 9",
+  "previous_passwords": [
+    "Radek1973",
+    "IvetaVesela33",
+    "Octavia1998",
+    "Praha51!",
+    "Shell1340",
+    "Kaufland123",
+    "Nakupovani2024",
+    "Vesely_77",
+    "Auta4life",
+    "Tesco833"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1975-02-10"
+}

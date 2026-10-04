@@ -1,0 +1,35 @@
+{
+  "id": "c73a4f3e-b573-489f-bd14-8591704f2b5b",
+  "gender": "male",
+  "age": 44,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Gareth",
+  "self_last_name": "Mawson",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Mawson",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "travel",
+    "football"
+  ],
+  "pets": [],
+  "company": "Yorkshire Motor Parts",
+  "previous_passwords": [
+    "Polestar2022",
+    "Helen44",
+    "Mawson2000",
+    "Yorkshire1",
+    "Football_88",
+    "Gareth!123",
+    "Audi2Polestar",
+    "Travel2021",
+    "Gardening4U"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1981-04-22"
+}

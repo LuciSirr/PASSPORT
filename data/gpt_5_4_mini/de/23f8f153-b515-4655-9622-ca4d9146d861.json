@@ -1,0 +1,35 @@
+{
+  "id": "23f8f153-b515-4655-9622-ca4d9146d861",
+  "age": 25,
+  "birth_date": "2001-06-16",
+  "marital_status": "divorced",
+  "region": "Meiningen",
+  "nationality": "german",
+  "company": "Schlosser Seip GmbH & Co. OHG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Edeltrud",
+  "self_last_name": "Birnbaum",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Fitness",
+    "Kochen",
+    "Wandern"
+  ],
+  "previous_passwords": [
+    "Fussball2001!",
+    "GamingMeiningen7",
+    "VWfitness16",
+    "Kochen16_07",
+    "Wandern25!",
+    "Bayern2001",
+    "FIFA_Meiningen",
+    "KochVibes01",
+    "Hike&Run25",
+    "Edel2001!"
+  ]
+}

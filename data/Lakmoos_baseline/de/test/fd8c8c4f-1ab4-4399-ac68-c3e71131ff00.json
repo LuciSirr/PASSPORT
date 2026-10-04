@@ -1,0 +1,35 @@
+{
+  "id": "fd8c8c4f-1ab4-4399-ac68-c3e71131ff00",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Alfa Romeo",
+  "self_first_name": "Bernd",
+  "self_last_name": "Krause",
+  "birth_date": "1961-06-15",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "krimis"
+  ],
+  "pets": [],
+  "company": "Gesundheitszentrum Niedersachsen",
+  "previous_passwords": [
+    "Bernd1961",
+    "KrauseTatort!",
+    "Sabine0615",
+    "Bundesliga2020",
+    "Krimis123",
+    "Tat0rt_15",
+    "Gesundheit2024",
+    "KrauseKrimis!",
+    "SabineKrause61",
+    "TatortBundesliga"
+  ],
+  "favorite_hobby": "tatort"
+}

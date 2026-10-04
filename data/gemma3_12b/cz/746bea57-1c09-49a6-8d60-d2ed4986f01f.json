@@ -1,0 +1,44 @@
+{
+  "id": "746bea57-1c09-49a6-8d60-d2ed4986f01f",
+  "age": 24,
+  "birth_date": "2002-11-02",
+  "marital_status": "single",
+  "region": "Štíty",
+  "nationality": "czech",
+  "company": "Hájková",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Štěpán",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Libor"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Pavla"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "hudba (Kapela Slza)",
+    "fotografování",
+    "cestování",
+    "videohry"
+  ],
+  "previous_passwords": [
+    "Slza2002!",
+    "TuristikaStěpán",
+    "MercedesLibor7",
+    "KapelaSlzaFoto",
+    "Vesely2002Pavla",
+    "FotografieStity",
+    "Cestovani24!",
+    "VideohryŠtěpán",
+    "Mercedes24Slza",
+    "TuristikaLibor"
+  ]
+}

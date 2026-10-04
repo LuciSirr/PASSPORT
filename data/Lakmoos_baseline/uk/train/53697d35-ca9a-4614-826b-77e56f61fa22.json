@@ -1,0 +1,35 @@
+{
+  "id": "53697d35-ca9a-4614-826b-77e56f61fa22",
+  "gender": "male",
+  "age": 56,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "BMW",
+  "self_first_name": "Graham",
+  "self_last_name": "Fenwick",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Fenwick",
+  "children": [],
+  "interests": [
+    "gardening",
+    "cricket",
+    "driving"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Graham1968",
+    "Helen4ever",
+    "Fenwick2021",
+    "BMWi4M50",
+    "Cricket123",
+    "EastMidlands!",
+    "Gardening21",
+    "Helen!68",
+    "BMW83238",
+    "Fenwick!1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1969-04-04"
+}

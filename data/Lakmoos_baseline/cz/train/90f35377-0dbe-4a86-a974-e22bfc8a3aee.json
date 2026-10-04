@@ -1,0 +1,41 @@
+{
+  "id": "90f35377-0dbe-4a86-a974-e22bfc8a3aee",
+  "gender": "female",
+  "age": 41,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Vránová",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Vránová"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "čtení",
+    "pečení",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "Vysočina Sociální Péče s.r.o.",
+  "previous_passwords": [
+    "Tereza2009",
+    "Superb22",
+    "dmnakup2021",
+    "Lidl1234",
+    "IvetaPetr15",
+    "Peceni2020",
+    "Vysočina79",
+    "Nakupovani!",
+    "Tereza15",
+    "Cteni2024"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1985-03-20"
+}

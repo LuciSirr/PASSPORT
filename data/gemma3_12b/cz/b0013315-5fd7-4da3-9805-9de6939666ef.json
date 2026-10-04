@@ -1,0 +1,53 @@
+{
+  "id": "b0013315-5fd7-4da3-9805-9de6939666ef",
+  "age": 52,
+  "birth_date": "1974-07-31",
+  "marital_status": "married",
+  "region": "Veltrusy",
+  "nationality": "czech",
+  "company": "Dvořáková",
+  "car_brand": "Škoda",
+  "self_first_name": "Jindřich",
+  "self_last_name": "Brož",
+  "partner_first_name": "Alice",
+  "partner_last_name": "Brožová",
+  "children": [
+    {
+      "first_name": "Marek",
+      "last_name": "Brož"
+    },
+    {
+      "first_name": "Květa",
+      "last_name": "Brožová"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Radek"
+    },
+    {
+      "pet_type": "ferret",
+      "pet_name": "Miluše"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěstitelství",
+    "folklór",
+    "hudba Karla Haška"
+  ],
+  "previous_passwords": [
+    "KarlaHaska2024",
+    "Marek_Turistika74",
+    "SkodaVeltrusy!",
+    "RadekMiluseFish",
+    "KvětaBrozova1974",
+    "AliceBrozova_Pestitelstvi",
+    "Rybar_Marek",
+    "FolklórAlice22",
+    "ŠkodaTuristika!",
+    "MiluseRadek_Hudba"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "5bec3cfd-a3b7-43b1-92e6-8a949728e7e6",
+  "age": 24,
+  "birth_date": "2002-04-30",
+  "marital_status": "single",
+  "region": "Dalemouth",
+  "nationality": "english",
+  "company": "Moore, Carpenter and Smith",
+  "car_brand": "MG",
+  "self_first_name": "Declan",
+  "self_last_name": "Hunt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Andrea"
+    }
+  ],
+  "interests": [
+    "Hiking",
+    "Indie Music",
+    "Photography",
+    "Board Games",
+    "Local Rugby"
+  ],
+  "previous_passwords": [
+    "Andrea2002!",
+    "HikingMG24",
+    "IndieRugby!",
+    "PhotoDalemouth",
+    "BoardGameHunt",
+    "Messi_0430",
+    "LocalRugbyDec",
+    "MG_Andrea19",
+    "Photography24!",
+    "IndieMusicDal"
+  ]
+}

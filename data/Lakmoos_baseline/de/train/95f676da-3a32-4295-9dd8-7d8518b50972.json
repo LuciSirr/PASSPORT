@@ -1,0 +1,33 @@
+{
+  "id": "95f676da-3a32-4295-9dd8-7d8518b50972",
+  "gender": "male",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fußball",
+    "lego",
+    "videospiele"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lennart2014",
+    "Fussball123",
+    "Kleinschmidt10",
+    "Lego!2020",
+    "MeckPom2000",
+    "Lenny_10",
+    "Schule2024",
+    "Videospiele7"
+  ],
+  "favorite_hobby": "fußball",
+  "birth_date": "2015-11-16"
+}

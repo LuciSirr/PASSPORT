@@ -1,0 +1,44 @@
+{
+  "id": "e74eb3b2-c6fe-4051-bdfd-bb177be89b14",
+  "age": 30,
+  "birth_date": "1996-06-21",
+  "marital_status": "married",
+  "region": "Smiřice",
+  "nationality": "czech",
+  "company": "Sýkorová",
+  "car_brand": "Kia",
+  "self_first_name": "Václav",
+  "self_last_name": "Procházka",
+  "partner_first_name": "Ema",
+  "partner_last_name": "Procházková",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Květa"
+    },
+    {
+      "pet_type": "lizard",
+      "pet_name": "Matyáš"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "deskové hry",
+    "hudba (Kapela Lucie)",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "Lucie2019",
+    "KiaTuristika!",
+    "MessiSmiřice",
+    "KvětaFotbal96",
+    "MatyasDeskovka",
+    "Vaclava_Emma",
+    "TravelLucie!",
+    "Turistika1996",
+    "KiaMatyas21",
+    "LucieKapela_c"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "a8993934-cd59-4d05-a07d-b7a4e22bbd0b",
+  "gender": "female",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "tanec",
+    "kreslení",
+    "čtení"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2011",
+    "kocka123",
+    "hradec12",
+    "skola2023",
+    "Micka2020",
+    "tanecka!",
+    "Vranova07",
+    "cteni_123",
+    "M1cka",
+    "kresleni11"
+  ],
+  "favorite_hobby": "tanec",
+  "birth_date": "2014-01-10"
+}

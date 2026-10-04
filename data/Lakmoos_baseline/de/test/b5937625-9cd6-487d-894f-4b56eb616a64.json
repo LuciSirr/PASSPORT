@@ -1,0 +1,34 @@
+{
+  "id": "b5937625-9cd6-487d-894f-4b56eb616a64",
+  "gender": "female",
+  "age": 75,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Brigitte",
+  "self_last_name": "Kuhn",
+  "birth_date": "1949-08-12",
+  "partner_first_name": "Wolfgang",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "Kuhn Beratung & Management",
+  "previous_passwords": [
+    "Brigitte1949",
+    "KuhnRosamunde123",
+    "Wolfgang12!",
+    "Pilcher_49",
+    "Gartenarbeit2020",
+    "KuhnBeratung!",
+    "Br1g1tt3_1949",
+    "RosamundePilcher12",
+    "Kuhn_Management",
+    "WolfgangGarten49"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

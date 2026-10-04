@@ -1,0 +1,35 @@
+{
+  "id": "69e064d2-a317-439a-8d5a-c3c3753399fe",
+  "gender": "female",
+  "age": 43,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Cupra",
+  "self_first_name": "Katrin",
+  "self_last_name": "Vogelsang",
+  "partner_first_name": "Markus",
+  "partner_last_name": "Vogelsang",
+  "children": [],
+  "interests": [
+    "lesen",
+    "wandern",
+    "yoga"
+  ],
+  "pets": [],
+  "company": "Hessen Unternehmerberatung",
+  "previous_passwords": [
+    "Katrin1981",
+    "Vogelsang32",
+    "Markus!123",
+    "Hessen2020",
+    "Lesen_0815",
+    "Yoga4Life",
+    "CupraLeon24",
+    "SommerAugust",
+    "SchatzMarkus",
+    "Wandern!321"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1983-03-28"
+}

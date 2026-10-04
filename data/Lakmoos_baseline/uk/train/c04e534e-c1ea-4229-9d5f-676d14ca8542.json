@@ -1,0 +1,40 @@
+{
+  "id": "c04e534e-c1ea-4229-9d5f-676d14ca8542",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Ford",
+  "self_first_name": "Imogen",
+  "self_last_name": "Radcliffe",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Radcliffe",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Willow"
+    }
+  ],
+  "company": "London Care Collective",
+  "previous_passwords": [
+    "Imogen2014",
+    "Radcliffe123",
+    "WillowCat!",
+    "London4Life",
+    "Travel2020",
+    "Oliver_30",
+    "Reading88",
+    "Kuga15",
+    "Willow2021",
+    "Radcliffe!9"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1996-03-11"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2df3b592-f7aa-45f8-824b-a105a7060a27",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "divorced",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vlasta",
+  "self_last_name": "Kubešová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "televize",
+    "procházky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Vlasta1959",
+    "Micka64",
+    "Kubesova100",
+    "nakupovani123",
+    "kaufland64",
+    "teta406",
+    "vitana2023",
+    "Liberec59",
+    "Prochazky!",
+    "MujDum119"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1962-02-22"
+}

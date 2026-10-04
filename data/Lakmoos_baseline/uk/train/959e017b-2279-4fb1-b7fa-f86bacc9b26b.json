@@ -1,0 +1,33 @@
+{
+  "id": "959e017b-2279-4fb1-b7fa-f86bacc9b26b",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Ethan",
+  "partner_last_name": "Morris",
+  "children": [],
+  "interests": [
+    "reading",
+    "yoga",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Westway Books",
+  "previous_passwords": [
+    "Imogen2005",
+    "Hollis19",
+    "Westway123",
+    "Reading4Life",
+    "Baking_22",
+    "EthanMorris!",
+    "YogaGirl05",
+    "Hollis!2023"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2006-12-23"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c34e9eff-dd66-48dd-9746-c92a5f8e8690",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Kretschmer",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kretschmer",
+  "children": [],
+  "interests": [
+    "wandern",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Kretschmer & Partner Unternehmensberatung",
+  "previous_passwords": [
+    "Juergen1969",
+    "Sabine123",
+    "Kretschmer!55",
+    "Sachsen2020",
+    "Fotografie_77",
+    "Wandern4ever",
+    "SabineJue",
+    "Kretschmer1978",
+    "Unternehmer!1",
+    "Sachsen_5000"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1971-01-05"
+}

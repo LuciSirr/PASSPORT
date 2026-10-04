@@ -1,0 +1,34 @@
+{
+  "id": "2dbb5629-96ee-42e8-9c56-91fc025191e1",
+  "gender": "male",
+  "age": 33,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gareth",
+  "self_last_name": "Merriton",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Merriton",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "reading"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gareth1989",
+    "Rachel33",
+    "Merriton2020",
+    "Cycling123",
+    "WestMidlands!",
+    "Reading4Life",
+    "Gardening_89",
+    "Rachel&Gareth",
+    "Merriton!19"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1993-02-25"
+}

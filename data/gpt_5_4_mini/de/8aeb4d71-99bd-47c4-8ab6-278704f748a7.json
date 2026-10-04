@@ -1,0 +1,35 @@
+{
+  "id": "8aeb4d71-99bd-47c4-8ab6-278704f748a7",
+  "age": 35,
+  "birth_date": "1991-07-25",
+  "marital_status": "married",
+  "region": "Weimar",
+  "nationality": "german",
+  "company": "Jungfer Häring AG",
+  "car_brand": "Audi",
+  "self_first_name": "Heinz-Günther",
+  "self_last_name": "Hettner",
+  "partner_first_name": "Mariola",
+  "partner_last_name": "Hettner",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Radfahren",
+    "Kochen",
+    "Fußball",
+    "Bücher lesen"
+  ],
+  "previous_passwords": [
+    "Wandern91!",
+    "AudiWeimar25",
+    "Kochen!1991",
+    "Radfahren_91",
+    "FuBballHettner7",
+    "Buecher25!",
+    "Mariola91",
+    "HettnerRadtour",
+    "WartburgWandern",
+    "HeinzG75!"
+  ]
+}

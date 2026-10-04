@@ -1,0 +1,34 @@
+{
+  "id": "346ed6b9-9e94-4194-b8bd-65a3f5d349ea",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Jeep",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Krause",
+  "birth_date": "1969-04-17",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "klassik radio"
+  ],
+  "pets": [],
+  "company": "Westfalen Service GmbH",
+  "previous_passwords": [
+    "Tatort1969",
+    "Krause!17",
+    "Sabine2020",
+    "klassikradio_69",
+    "Westfalen123",
+    "Juer9en_Tat0rt",
+    "Krause1969!",
+    "SabineKrause17",
+    "Tat0rt!Sabine",
+    "RadioKrause69"
+  ],
+  "favorite_hobby": "tatort"
+}

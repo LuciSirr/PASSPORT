@@ -1,0 +1,53 @@
+{
+  "id": "b1306da7-387c-40f0-8e50-ca4cd2c2d191",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Ivana",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    },
+    {
+      "first_name": "Jakub",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "auta",
+    "knihy",
+    "vzdělávání"
+  ],
+  "pets": [],
+  "company": "Úřad pro obranu a sociální zabezpečení Střední Čechy",
+  "previous_passwords": [
+    "Matěj2009",
+    "Kodiaq2017",
+    "Kofola2020",
+    "Radek45",
+    "Ivana123",
+    "Vesely2015",
+    "Cestovani!22",
+    "Jakub04",
+    "Globus123",
+    "Auta_789"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1981-02-11"
+}

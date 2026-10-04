@@ -1,0 +1,40 @@
+{
+  "id": "d55eed50-36b5-4849-9fee-f1d96f1a2ddd",
+  "gender": "male",
+  "age": 61,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Peugeot",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Judith",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "gardening",
+    "history"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "West Midlands Executive Solutions",
+  "previous_passwords": [
+    "Malcolm1963",
+    "Baxter123",
+    "Judith!63",
+    "Hollingsworth2007",
+    "Travel4Fun",
+    "WestMidlands1",
+    "Gardening_2020",
+    "Porsche911",
+    "History3",
+    "Baxter!63"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1965-01-18"
+}

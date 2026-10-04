@@ -1,0 +1,35 @@
+{
+  "id": "a7d2dd1c-4342-4c27-8445-7a378c3251c2",
+  "age": 29,
+  "birth_date": "1997-06-25",
+  "marital_status": "single",
+  "region": "Samburgh",
+  "nationality": "english",
+  "company": "Kemp-Ashton",
+  "car_brand": "Toyota",
+  "self_first_name": "Henry",
+  "self_last_name": "Kennedy",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Coastal Hiking",
+    "Photography",
+    "Local History",
+    "Craft Beer",
+    "Digital Illustration"
+  ],
+  "previous_passwords": [
+    "SamburghHike29!",
+    "ToyotaCoast1997",
+    "PhotographyKen!",
+    "LocalHist_Henry",
+    "CraftBeerKen25",
+    "DigitalDraw_HK",
+    "MessiFanHenry",
+    "CoastalView199!",
+    "Henry_Photo2024",
+    "HistSam_Toyota"
+  ]
+}

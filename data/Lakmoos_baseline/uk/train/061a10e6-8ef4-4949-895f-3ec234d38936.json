@@ -1,0 +1,40 @@
+{
+  "id": "061a10e6-8ef4-4949-895f-3ec234d38936",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Nissan",
+  "self_first_name": "Gillian",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Westcountry Business Solutions",
+  "previous_passwords": [
+    "Gillian1959",
+    "Milo21!",
+    "Hollis123",
+    "Westcountry2020",
+    "Gardening4Life",
+    "Martin66",
+    "Travel_07",
+    "ReadingCat1",
+    "MiloHollis",
+    "G1llian!"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1963-02-18"
+}

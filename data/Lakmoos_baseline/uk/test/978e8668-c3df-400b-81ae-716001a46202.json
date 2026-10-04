@@ -1,0 +1,35 @@
+{
+  "id": "978e8668-c3df-400b-81ae-716001a46202",
+  "gender": "male",
+  "age": 65,
+  "marital_status": "divorced",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Peugeot",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "classic cars",
+    "gardening",
+    "coronation street"
+  ],
+  "pets": [],
+  "company": "Greenfield Academy",
+  "previous_passwords": [
+    "Hollis1959",
+    "Greenfield123",
+    "ClassicCars!59",
+    "Gardening2020",
+    "Corrie!12",
+    "London4000",
+    "Peugeot207",
+    "Swift2006",
+    "KiaEV6!21",
+    "HollisCorrie59"
+  ],
+  "favorite_hobby": "classic cars",
+  "birth_date": "1959-06-12"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d7c70d1a-efd1-4f41-b52a-c0992214fb94",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Toyota",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "travel"
+  ],
+  "pets": [],
+  "company": "South Coast Assurance",
+  "previous_passwords": [
+    "Gareth1983",
+    "Rachel4ever",
+    "AygoX2021",
+    "Hollings123",
+    "Travel!21",
+    "Gardening_88",
+    "SouthCoast51",
+    "VW2Toyota",
+    "BootSize998"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1985-01-09"
+}

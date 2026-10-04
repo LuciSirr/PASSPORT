@@ -1,0 +1,41 @@
+{
+  "id": "65fbeb84-9b4b-4169-9a35-a34476227c4c",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Tomáš",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "cestování",
+    "nakupování",
+    "seriály",
+    "plavání"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Městský úřad Hodonín",
+  "previous_passwords": [
+    "Micka2020",
+    "Fabia1999",
+    "Morava27",
+    "Kofola!",
+    "Lidl2021",
+    "Barca_123",
+    "Tomasek27",
+    "Plavani2022",
+    "Vesela2024",
+    "Cestovani!7"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1999-01-21"
+}

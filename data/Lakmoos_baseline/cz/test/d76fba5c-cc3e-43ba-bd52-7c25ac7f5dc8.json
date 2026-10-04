@@ -1,0 +1,45 @@
+{
+  "id": "d76fba5c-cc3e-43ba-bd52-7c25ac7f5dc8",
+  "gender": "female",
+  "age": 46,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Ford",
+  "self_first_name": "Iveta",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1978-06-15",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohoutová"
+    }
+  ],
+  "interests": [
+    "ordinace v růžové zahradě",
+    "pečení",
+    "turistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "Moravská výroba s.r.o.",
+  "previous_passwords": [
+    "Tereza2017",
+    "Ben!78",
+    "Kohoutova123",
+    "PetrKohout_15",
+    "peceni2020",
+    "Ordinace78",
+    "BenKohout_2017",
+    "turistika_15",
+    "Iveta1978",
+    "TerezaBen!"
+  ],
+  "favorite_hobby": "ordinace v růžové zahradě"
+}

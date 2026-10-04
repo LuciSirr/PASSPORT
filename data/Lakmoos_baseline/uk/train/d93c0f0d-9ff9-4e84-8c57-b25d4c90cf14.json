@@ -1,0 +1,39 @@
+{
+  "id": "d93c0f0d-9ff9-4e84-8c57-b25d4c90cf14",
+  "gender": "female",
+  "age": 68,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Marion1956",
+    "Misty123",
+    "Hollings68",
+    "Geoffrey2020",
+    "Gardening4",
+    "Knitting!56",
+    "Misty!2021",
+    "Crosswords_7",
+    "MarionCat1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1957-12-11"
+}

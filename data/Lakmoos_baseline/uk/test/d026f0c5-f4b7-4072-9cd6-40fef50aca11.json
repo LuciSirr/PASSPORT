@@ -1,0 +1,40 @@
+{
+  "id": "d026f0c5-f4b7-4072-9cd6-40fef50aca11",
+  "gender": "male",
+  "age": 53,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Julia",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "british history",
+    "cricket"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Marmalade"
+    }
+  ],
+  "company": "Hollingsworth Consulting",
+  "previous_passwords": [
+    "Graham1971",
+    "Marmalade16!",
+    "Cricket2020",
+    "Julia4ever",
+    "Hollingsworth123",
+    "Gardening_71",
+    "BritishHistory!21",
+    "MarmaladeCricket",
+    "Julia1971",
+    "HollingsworthCat"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1971-04-16"
+}

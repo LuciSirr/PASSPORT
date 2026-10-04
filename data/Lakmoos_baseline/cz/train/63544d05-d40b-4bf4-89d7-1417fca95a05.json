@@ -1,0 +1,40 @@
+{
+  "id": "63544d05-d40b-4bf4-89d7-1417fca95a05",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "single/in a relationship",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotografie",
+    "netflix"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "Olomouc Media Solutions s.r.o.",
+  "previous_passwords": [
+    "Radek1981",
+    "Beny123",
+    "Petra2020",
+    "Konecny75000",
+    "Olomouc59",
+    "Turistika!81",
+    "Fotografie2024",
+    "BenyKFC!",
+    "PetraRadek1",
+    "Dobravoda_1981"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1982-05-31"
+}

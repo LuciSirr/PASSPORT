@@ -1,0 +1,45 @@
+{
+  "id": "186e8c75-dbf5-44cd-a80a-8b1886e06f56",
+  "age": 30,
+  "birth_date": "1996-05-17",
+  "marital_status": "single",
+  "region": "Liběchov",
+  "nationality": "czech",
+  "company": "Hrušková v.o.s.",
+  "car_brand": "Kia",
+  "self_first_name": "Zdenka",
+  "self_last_name": "Tůmová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Gabriela",
+      "last_name": "Vítková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Renáta"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "pivo",
+    "hudba",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "Messi96Fan",
+    "Renata_Hiking23",
+    "KiaLibechov!",
+    "GabrielaPivo",
+    "TuristikaMessi",
+    "HudbaZdenka17",
+    "CestovaniRenata",
+    "Fotbal_Kia2024",
+    "ZdenkaMessiFCB",
+    "LibechovHiking!"
+  ]
+}

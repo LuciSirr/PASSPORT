@@ -1,0 +1,35 @@
+{
+  "id": "ced3285c-fc0b-45a5-ab68-d62f9b544871",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Krejčík",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Krejčíková",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "politika",
+    "facebook",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1954",
+    "Marie2020",
+    "KrejcikVysočina",
+    "Budvar1974",
+    "Krizovky123",
+    "Lidl23",
+    "McD299",
+    "Samsung123",
+    "Politika2021"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1955-05-10"
+}

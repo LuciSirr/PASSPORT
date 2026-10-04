@@ -1,0 +1,34 @@
+{
+  "id": "df72c7f0-9c10-4067-89ba-f826467be40a",
+  "gender": "female",
+  "age": 79,
+  "marital_status": "widower/widow",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Libuše",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "vaření",
+    "procházky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Libuse1945",
+    "Fabia2007",
+    "Kofola123",
+    "Kaufland79",
+    "Mattoni2020",
+    "Vranova!79",
+    "Prochazky2022",
+    "Hradec_1000",
+    "Vareni2023"
+  ],
+  "favorite_hobby": "vaření",
+  "birth_date": "1946-12-19"
+}

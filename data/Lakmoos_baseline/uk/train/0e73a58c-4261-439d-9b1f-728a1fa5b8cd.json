@@ -1,0 +1,39 @@
+{
+  "id": "0e73a58c-4261-439d-9b1f-728a1fa5b8cd",
+  "gender": "female",
+  "age": 59,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gillian",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Gillian1965",
+    "Misty123",
+    "Hollingsworth59",
+    "Martin2023",
+    "Gardening4ever",
+    "Yorkshire!1",
+    "Reading_65",
+    "Misty!cat",
+    "Walking2022"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1967-02-24"
+}

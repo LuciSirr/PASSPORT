@@ -1,0 +1,44 @@
+{
+  "id": "d0650655-8138-423c-a64c-d0cbf9891db8",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "divadlo",
+    "malování",
+    "knihy"
+  ],
+  "pets": [],
+  "company": "Ministerstvo obrany ČR",
+  "previous_passwords": [
+    "Matysek2011",
+    "Eliška03",
+    "Praha2020",
+    "Divadlo123",
+    "Veselý41",
+    "KFCobliba",
+    "Globus59",
+    "MatejEliška12",
+    "Radek!1983",
+    "Malovani2024"
+  ],
+  "favorite_hobby": "divadlo",
+  "birth_date": "1984-11-06"
+}

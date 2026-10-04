@@ -1,0 +1,35 @@
+{
+  "id": "0a665cff-f8b7-425b-ac93-f79196c8ad69",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Gareth",
+  "self_last_name": "McAllister",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "McAllister",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travelling",
+    "photography"
+  ],
+  "pets": [],
+  "company": "Strathmore Engineering Solutions",
+  "previous_passwords": [
+    "Gareth1979",
+    "CupraLeon19",
+    "Strathmore123",
+    "Hiking4Life",
+    "McAllister2020",
+    "Fiona!21",
+    "Scotland_43",
+    "Travel2022",
+    "Leon36595",
+    "Photo!123"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1982-07-19"
+}

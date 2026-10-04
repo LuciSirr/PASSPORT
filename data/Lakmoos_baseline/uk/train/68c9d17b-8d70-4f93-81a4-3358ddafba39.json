@@ -1,0 +1,40 @@
+{
+  "id": "68c9d17b-8d70-4f93-81a4-3358ddafba39",
+  "gender": "male",
+  "age": 65,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Dacia",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Janet",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "antiques"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "West Midlands Trading Solutions",
+  "previous_passwords": [
+    "Malcolm1959",
+    "Janet123",
+    "Baxter!2020",
+    "Hollingsworth16",
+    "Gardening4",
+    "WestMidlands1",
+    "Stepway999",
+    "Walking2021",
+    "BaxterDog",
+    "JanetMalcolm"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1960-10-24"
+}

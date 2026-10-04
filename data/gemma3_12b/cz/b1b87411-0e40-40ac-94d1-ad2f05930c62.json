@@ -1,0 +1,35 @@
+{
+  "id": "b1b87411-0e40-40ac-94d1-ad2f05930c62",
+  "age": 21,
+  "birth_date": "2005-07-27",
+  "marital_status": "married",
+  "region": "Bystré",
+  "nationality": "czech",
+  "company": "Kadlecová",
+  "car_brand": "Renault",
+  "self_first_name": "Leoš",
+  "self_last_name": "Kratochvíl",
+  "partner_first_name": "Alena",
+  "partner_last_name": "Kratochvílová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Netflix",
+    "cestování",
+    "fotbal",
+    "hudba",
+    "turistika"
+  ],
+  "previous_passwords": [
+    "Messi2005!",
+    "RenaultTuristika727",
+    "StrangerThingsAlena",
+    "BystreNetflix_1998",
+    "HudbaLeos21",
+    "CestovaniAlena!",
+    "FotbalMessi23",
+    "TuristikaLeos10",
+    "NetflixBystre2005",
+    "Renault_Messi"
+  ]
+}

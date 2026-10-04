@@ -1,0 +1,40 @@
+{
+  "id": "4361b584-28cf-4128-8b03-4fe82889f1cf",
+  "gender": "female",
+  "age": 9,
+  "marital_status": "single/in a relationship",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading",
+    "football"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Maisie2015",
+    "Mittens123",
+    "Hollingworth9",
+    "football4life",
+    "drawing_2022",
+    "YorkshireGirl!",
+    "readingrocks",
+    "Mittens_2017",
+    "MaisieCat!",
+    "Hollingworth_10"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2016-12-20"
+}

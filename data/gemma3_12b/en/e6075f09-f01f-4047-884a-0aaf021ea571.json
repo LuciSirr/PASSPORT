@@ -1,0 +1,45 @@
+{
+  "id": "e6075f09-f01f-4047-884a-0aaf021ea571",
+  "age": 26,
+  "birth_date": "2000-06-04",
+  "marital_status": "married",
+  "region": "East Gail",
+  "nationality": "english",
+  "company": "Richardson Ltd",
+  "car_brand": "BMW",
+  "self_first_name": "Andrew",
+  "self_last_name": "Pearson",
+  "partner_first_name": "Beth",
+  "partner_last_name": "Pearson",
+  "children": [
+    {
+      "first_name": "Sally",
+      "last_name": "Pearson"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Debra"
+    }
+  ],
+  "interests": [
+    "hiking",
+    "indie music",
+    "photography",
+    "video games",
+    "local breweries"
+  ],
+  "previous_passwords": [
+    "SallyHike2000",
+    "DebraBrewing!",
+    "MessiEastGail",
+    "IndieBeth26",
+    "BMW_Photo_7",
+    "RoganSally!",
+    "PearsonHike19",
+    "EastGail_Pic",
+    "SallyDebra04",
+    "BMW_Indie2000"
+  ]
+}

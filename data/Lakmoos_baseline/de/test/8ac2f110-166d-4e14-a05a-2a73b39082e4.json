@@ -1,0 +1,35 @@
+{
+  "id": "8ac2f110-166d-4e14-a05a-2a73b39082e4",
+  "gender": "female",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lena",
+  "self_last_name": "Krause",
+  "birth_date": "2002-08-14",
+  "partner_first_name": "Jonas",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "germanys next topmodel",
+    "bouldern",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "Rheinland Startups GmbH",
+  "previous_passwords": [
+    "Lena2002",
+    "Krause!14",
+    "bouldern123",
+    "Jonas2021",
+    "GNTM_2022",
+    "podcast_4life",
+    "Rheinland2023",
+    "KrauseBoulder!",
+    "L3n4!0814",
+    "Topmodel2022"
+  ],
+  "favorite_hobby": "germanys next topmodel"
+}

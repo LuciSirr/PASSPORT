@@ -1,0 +1,34 @@
+{
+  "id": "de9cf7ce-34c0-46ae-b5f8-4fea31b3c148",
+  "gender": "female",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Callum",
+  "partner_last_name": "Murray",
+  "children": [],
+  "interests": [
+    "yoga",
+    "baking",
+    "reading"
+  ],
+  "pets": [],
+  "company": "West Midlands Startup Hub",
+  "previous_passwords": [
+    "Imogen1999",
+    "Ashcroft12",
+    "Callum4Eva",
+    "Yoga123",
+    "BakingQueen!",
+    "WestMidlands2022",
+    "Startup!Hub",
+    "Immy_23",
+    "Reading4Life"
+  ],
+  "favorite_hobby": "yoga",
+  "birth_date": "2002-04-13"
+}

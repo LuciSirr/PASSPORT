@@ -1,0 +1,35 @@
+{
+  "id": "a1f14b3f-1e36-4cff-a776-8ea63e67cfef",
+  "age": 49,
+  "birth_date": "1977-03-07",
+  "marital_status": "married",
+  "region": "Hluk",
+  "nationality": "czech",
+  "company": "Prokop",
+  "car_brand": "Hyundai",
+  "self_first_name": "Aneta",
+  "self_last_name": "Dvořáková",
+  "partner_first_name": "Ladislav",
+  "partner_last_name": "Dvořáková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "zahrádkaření",
+    "turistika",
+    "rybaření",
+    "folklor"
+  ],
+  "previous_passwords": [
+    "Zlin2027!",
+    "Hyundai49",
+    "Ladislav77!",
+    "Turistika77",
+    "FotbalHluk7",
+    "Zahradka77",
+    "Rybarska49!",
+    "Folklor03",
+    "Slezsko77!",
+    "Aneta1977"
+  ]
+}

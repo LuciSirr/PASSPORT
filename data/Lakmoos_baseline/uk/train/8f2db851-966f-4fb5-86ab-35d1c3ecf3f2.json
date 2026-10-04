@@ -1,0 +1,38 @@
+{
+  "id": "8f2db851-966f-4fb5-86ab-35d1c3ecf3f2",
+  "gender": "male",
+  "age": 2,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Albie",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dinosaurs",
+    "puzzles"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Biscuit"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Albie2022",
+    "Biscuit1",
+    "Dino123",
+    "Hollis22",
+    "Drawing4",
+    "Biscuit!",
+    "AlbieDino",
+    "Puzzle22"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2023-08-17"
+}

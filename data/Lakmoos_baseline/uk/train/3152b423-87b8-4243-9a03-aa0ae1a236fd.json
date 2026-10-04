@@ -1,0 +1,39 @@
+{
+  "id": "3152b423-87b8-4243-9a03-aa0ae1a236fd",
+  "gender": "male",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Oliver",
+  "self_last_name": "Merrick",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dinosaurs"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Biscuit"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Oliver2021",
+    "Biscuit123",
+    "Din0saur!",
+    "Merrick21",
+    "Drawing4fun",
+    "Biscuit21",
+    "Oliver_dino",
+    "Merrick2021",
+    "Biscuit!",
+    "Dinosaurs2021"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2023-02-04"
+}

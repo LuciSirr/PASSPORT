@@ -1,0 +1,53 @@
+{
+  "id": "a1dbccb0-eb49-4d31-8583-f1e3d1345acf",
+  "age": 33,
+  "birth_date": "1993-03-29",
+  "marital_status": "married",
+  "region": "Mýto",
+  "nationality": "czech",
+  "company": "Vlčková Beran a.s.",
+  "car_brand": "Dacia",
+  "self_first_name": "Felix",
+  "self_last_name": "Kraus",
+  "partner_first_name": "Otýlie",
+  "partner_last_name": "Kraušová",
+  "children": [
+    {
+      "first_name": "Patricie",
+      "last_name": "Kraušová"
+    },
+    {
+      "first_name": "Denis",
+      "last_name": "Kraus"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Miluše"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Ilona"
+    }
+  ],
+  "interests": [
+    "cyklistika",
+    "hokej",
+    "turistika",
+    "vaření",
+    "fotbal"
+  ],
+  "previous_passwords": [
+    "KrausBike93",
+    "Otylie1993!",
+    "MiluSEbike29",
+    "DaciaTour23",
+    "PatricieHokej7",
+    "MestoMyto33",
+    "IlonaHorse93",
+    "HockeyKraus!",
+    "Vareni29M",
+    "DenisFotbal93"
+  ]
+}

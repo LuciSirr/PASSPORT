@@ -1,0 +1,44 @@
+{
+  "id": "cfc3f8d8-e1b5-4a15-a709-dfebe44f5946",
+  "gender": "female",
+  "age": 37,
+  "marital_status": "married",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Veronika",
+  "self_last_name": "Krejzová",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Krejzová",
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Krejzová"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Krejza"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "vaření",
+    "facebook"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Eliška2010",
+    "Fabia123",
+    "Adamko13",
+    "Globus2022",
+    "Veru79",
+    "Nakupovani2023",
+    "Martin2021",
+    "Krejzova77",
+    "AdamEliška11",
+    "Facebook!"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1989-01-11"
+}

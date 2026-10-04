@@ -1,0 +1,57 @@
+{
+  "id": "389c3ccf-d80b-435f-a961-d1a99cb70d90",
+  "age": 39,
+  "birth_date": "1987-05-08",
+  "marital_status": "married",
+  "region": "Klötze",
+  "nationality": "german",
+  "company": "Rohleder Matthäi GmbH",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Hans-Karl",
+  "self_last_name": "Mülichen",
+  "partner_first_name": "Antoinette",
+  "partner_last_name": "Mülichen",
+  "children": [
+    {
+      "first_name": "Gertrude",
+      "last_name": "Mülichen"
+    },
+    {
+      "first_name": "André",
+      "last_name": "Mülichen"
+    },
+    {
+      "first_name": "Luzie",
+      "last_name": "Mülichen"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Wolf-Dieter"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Franca"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Heimwerken",
+    "Radfahren"
+  ],
+  "previous_passwords": [
+    "Fussball87!",
+    "Wandern_Kloetze39",
+    "Kochen1987!",
+    "Radfahren88",
+    "Heimwerken_08",
+    "Mercedes39!",
+    "Antoinette87",
+    "Franca2027!",
+    "Muellichen87",
+    "Luzie_508"
+  ]
+}

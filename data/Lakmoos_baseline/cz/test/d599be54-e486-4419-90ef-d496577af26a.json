@@ -1,0 +1,39 @@
+{
+  "id": "d599be54-e486-4419-90ef-d496577af26a",
+  "gender": "male",
+  "age": 54,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šimáček",
+  "birth_date": "1970-06-15",
+  "partner_first_name": "Iveta",
+  "partner_last_name": "Šimáček",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "české filmy"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Stavby Morava s.r.o.",
+  "previous_passwords": [
+    "Radek1970",
+    "Rex1234",
+    "Simacek!15",
+    "fotbal2020",
+    "Iveta1975",
+    "Morava_98",
+    "ceskefilmy_1",
+    "Rex!1970",
+    "stavby2023",
+    "SimacekFotbal"
+  ],
+  "favorite_hobby": "fotbal"
+}

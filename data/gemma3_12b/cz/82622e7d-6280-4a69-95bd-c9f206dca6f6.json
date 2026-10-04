@@ -1,0 +1,35 @@
+{
+  "id": "82622e7d-6280-4a69-95bd-c9f206dca6f6",
+  "age": 40,
+  "birth_date": "1986-07-10",
+  "marital_status": "single",
+  "region": "Žulová",
+  "nationality": "czech",
+  "company": "Dušková",
+  "car_brand": "BMW",
+  "self_first_name": "Alexandra",
+  "self_last_name": "Tůmová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivovarnictví",
+    "folklór",
+    "historie"
+  ],
+  "previous_passwords": [
+    "ZulovaTuristika86!",
+    "BMW_Rybář1986",
+    "PivovarnictviAlex86",
+    "FolklórHistorie23",
+    "Turistika_Zulova",
+    "HistorieMessi!",
+    "AlexBMW2010",
+    "RybářskýKlub86",
+    "ZulovaFolklór23",
+    "PivoHistorie_Alex"
+  ]
+}

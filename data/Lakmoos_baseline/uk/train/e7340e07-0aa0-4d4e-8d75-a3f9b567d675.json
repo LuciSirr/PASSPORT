@@ -1,0 +1,40 @@
+{
+  "id": "e7340e07-0aa0-4d4e-8d75-a3f9b567d675",
+  "gender": "male",
+  "age": 75,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Geoffrey",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Geoffrey1949",
+    "Baxter21",
+    "Hollingsworth75",
+    "Margaret123",
+    "Gardening!1",
+    "Walking2022",
+    "Crosswords_49",
+    "Baxter!75",
+    "MargaretBaxter",
+    "Ge0ffrey!"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1951-02-06"
+}

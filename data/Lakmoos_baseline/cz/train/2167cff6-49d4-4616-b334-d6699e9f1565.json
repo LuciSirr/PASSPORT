@@ -1,0 +1,35 @@
+{
+  "id": "2167cff6-49d4-4616-b334-d6699e9f1565",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "počítače",
+    "cyklistika"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "matej2011",
+    "olomouc123",
+    "vesely12",
+    "fotbalek",
+    "skola2023",
+    "cyklistika11",
+    "Vesely_2012",
+    "Olomouc!12",
+    "fotbal123",
+    "skola_vesely"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2014-02-23"
+}

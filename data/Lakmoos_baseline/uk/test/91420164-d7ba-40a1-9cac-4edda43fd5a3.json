@@ -1,0 +1,39 @@
+{
+  "id": "91420164-d7ba-40a1-9cac-4edda43fd5a3",
+  "gender": "female",
+  "age": 42,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Hyundai",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "great british bake off",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Fiona1982",
+    "Milo123",
+    "BakeOff2019",
+    "Hollingsworth82",
+    "Gardening4Life",
+    "Graham2020!",
+    "MiloBakeOff",
+    "Bake0ff!82",
+    "CatLover15",
+    "GBBO_Milo"
+  ],
+  "favorite_hobby": "great british bake off",
+  "birth_date": "1982-06-15"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c1a6fa98-7028-40d9-bb25-51d50e8c9766",
+  "age": 37,
+  "birth_date": "1989-03-06",
+  "marital_status": "divorced",
+  "region": "Göppingen",
+  "nationality": "german",
+  "company": "Riehl GbR",
+  "car_brand": "BMW",
+  "self_first_name": "Marta",
+  "self_last_name": "Lindner",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Autos",
+    "Kochen",
+    "Netflix"
+  ],
+  "previous_passwords": [
+    "Messi1989!",
+    "NetflixWandern89",
+    "BMW_Kochen23",
+    "FußballGoeppingen",
+    "AutosMarta89",
+    "NetflixMessi!",
+    "WandernBmW1989",
+    "Kochen_Fußball",
+    "MartaNetflix23",
+    "Autos_Goep1989"
+  ]
+}

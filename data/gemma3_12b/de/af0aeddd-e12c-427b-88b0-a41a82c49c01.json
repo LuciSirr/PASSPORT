@@ -1,0 +1,40 @@
+{
+  "id": "af0aeddd-e12c-427b-88b0-a41a82c49c01",
+  "age": 27,
+  "birth_date": "1999-07-18",
+  "marital_status": "married",
+  "region": "Grimmen",
+  "nationality": "german",
+  "company": "Reising Grein Groth KG",
+  "car_brand": "Audi",
+  "self_first_name": "Pamela",
+  "self_last_name": "Gröttner",
+  "partner_first_name": "Amir",
+  "partner_last_name": "Gröttner",
+  "children": [
+    {
+      "first_name": "Kunibert",
+      "last_name": "Gröttner"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Musik Festivals",
+    "Fotografie",
+    "Wandern",
+    "Videospiele",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Messi99Wandern",
+    "AudiGrimmen27",
+    "KunibertFoto!",
+    "AmirMusikFest",
+    "VideospielePG1999",
+    "LokalerFV_Kuni",
+    "FotografieGrimmen",
+    "WandernAudi2024",
+    "Messi_Pamela",
+    "Videospiele_27"
+  ]
+}

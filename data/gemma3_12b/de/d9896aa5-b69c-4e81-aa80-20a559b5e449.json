@@ -1,0 +1,49 @@
+{
+  "id": "d9896aa5-b69c-4e81-aa80-20a559b5e449",
+  "age": 34,
+  "birth_date": "1992-11-07",
+  "marital_status": "single",
+  "region": "Wismar",
+  "nationality": "german",
+  "company": "Bachmann KG",
+  "car_brand": "Toyota",
+  "self_first_name": "Irmgard",
+  "self_last_name": "Caspar",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "René",
+      "last_name": "Caspar"
+    },
+    {
+      "first_name": "Pascale",
+      "last_name": "Caspar"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Loretta"
+    }
+  ],
+  "interests": [
+    "Fotografie",
+    "Fernwandern",
+    "Handwerkskunst",
+    "Lokaler Fußballverein",
+    "Musik: Kraftwerk"
+  ],
+  "previous_passwords": [
+    "RenCaspar92!",
+    "KraftwerkFoto23",
+    "LorettaWismar",
+    "ToyotaFern1107",
+    "MessiHandwerk",
+    "PascaleFoto!",
+    "FernWanderer22",
+    "KraftwerkLoretta",
+    "WismarFoto92",
+    "RenCasparToyota"
+  ]
+}

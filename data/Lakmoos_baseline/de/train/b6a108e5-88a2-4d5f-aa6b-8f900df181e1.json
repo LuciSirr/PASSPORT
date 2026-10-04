@@ -1,0 +1,34 @@
+{
+  "id": "b6a108e5-88a2-4d5f-aa6b-8f900df181e1",
+  "gender": "female",
+  "age": 28,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Annika",
+  "self_last_name": "Schreiner",
+  "partner_first_name": "Lukas",
+  "partner_last_name": "Schreiner",
+  "children": [],
+  "interests": [
+    "lesen",
+    "yoga"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Annika1995",
+    "Schreiner123",
+    "Lukas2020",
+    "Lesen!2022",
+    "Y0ga_28",
+    "NRW2023",
+    "Xiaomi!95",
+    "AnnikaLukas",
+    "Sommer09",
+    "Buchliebhaber1"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1998-02-14"
+}

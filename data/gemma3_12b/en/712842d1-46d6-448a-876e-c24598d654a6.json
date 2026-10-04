@@ -1,0 +1,48 @@
+{
+  "id": "712842d1-46d6-448a-876e-c24598d654a6",
+  "age": 54,
+  "birth_date": "1972-03-07",
+  "marital_status": "married",
+  "region": "South Alexfurt",
+  "nationality": "english",
+  "company": "Parker-Lord",
+  "car_brand": "BMW",
+  "self_first_name": "Sharon",
+  "self_last_name": "Hall",
+  "partner_first_name": "Clive",
+  "partner_last_name": "Hall",
+  "children": [
+    {
+      "first_name": "Holly",
+      "last_name": "Hall"
+    },
+    {
+      "first_name": "Cameron",
+      "last_name": "Hall"
+    },
+    {
+      "first_name": "Oliver",
+      "last_name": "Hall"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "gardening",
+    "local history",
+    "classic rock music",
+    "birdwatching",
+    "walking"
+  ],
+  "previous_passwords": [
+    "ClassicRock72!",
+    "HollysGarden2024",
+    "BMW_Oliver",
+    "SouthAlexBird!",
+    "CameronHall1972",
+    "LedZepp_Sharon",
+    "CliveWalks2018",
+    "GardensOfHolly",
+    "OliverBirdWatch",
+    "History_BMW"
+  ]
+}

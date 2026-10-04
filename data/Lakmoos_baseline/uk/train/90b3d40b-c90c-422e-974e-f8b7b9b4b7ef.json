@@ -1,0 +1,36 @@
+{
+  "id": "90b3d40b-c90c-422e-974e-f8b7b9b4b7ef",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gareth",
+  "self_last_name": "Merriton",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Merriton",
+  "children": [],
+  "interests": [
+    "walking",
+    "cooking",
+    "travel",
+    "pubs"
+  ],
+  "pets": [],
+  "company": "Downland Guesthouse",
+  "previous_passwords": [
+    "Gareth1979",
+    "Helen4ever",
+    "Merriton3000",
+    "Downland123",
+    "Walking2020",
+    "Travel!79",
+    "Cooking_45",
+    "PubNight!",
+    "Helen1978",
+    "Merriton!"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1981-01-09"
+}

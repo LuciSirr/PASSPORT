@@ -1,0 +1,33 @@
+{
+  "id": "5d65389f-0184-4538-900b-b171bd08f2fd",
+  "gender": "male",
+  "age": 61,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Smart",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kreutzmann",
+  "children": [],
+  "interests": [
+    "wandern",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "Ingenieurbüro Meyer & Partner",
+  "previous_passwords": [
+    "Juergen1963",
+    "Sabine123",
+    "Kreutzmann2020",
+    "Smart#1!",
+    "Niedersachsen77",
+    "Wandern2022",
+    "Fotografie_63",
+    "Sparkasse451",
+    "Briquette4Life"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1965-03-03"
+}

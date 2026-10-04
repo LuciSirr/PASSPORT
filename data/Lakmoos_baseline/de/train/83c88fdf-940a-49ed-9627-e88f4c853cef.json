@@ -1,0 +1,34 @@
+{
+  "id": "83c88fdf-940a-49ed-9627-e88f4c853cef",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Alfa Romeo",
+  "self_first_name": "Lennart",
+  "self_last_name": "Kraus",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "autos",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Rheinland Consulting GmbH",
+  "previous_passwords": [
+    "Giulia2018",
+    "Kraus3000",
+    "AlfaRomeo!",
+    "Sommerurlaub19",
+    "Lennart123",
+    "Rheinland_27",
+    "Prestige2020",
+    "Fahrt10k",
+    "AOKpasswort",
+    "Auto!2891"
+  ],
+  "favorite_hobby": "autos",
+  "birth_date": "1998-10-02"
+}

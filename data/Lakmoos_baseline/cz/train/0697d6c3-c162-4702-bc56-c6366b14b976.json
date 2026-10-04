@@ -1,0 +1,35 @@
+{
+  "id": "0697d6c3-c162-4702-bc56-c6366b14b976",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "filmy",
+    "hry",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Plzeňská Energetika",
+  "previous_passwords": [
+    "Fabia2006",
+    "Plzen123",
+    "Kofola2020",
+    "Hyundaii30",
+    "BurgerKing22",
+    "Vesely1999",
+    "Hudba_321",
+    "Filmy2021",
+    "Auta!2022"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2003-02-18"
+}

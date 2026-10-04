@@ -1,0 +1,39 @@
+{
+  "id": "1e24dbe8-3c52-4758-a6ca-fb05f0f4bc53",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Gillian",
+  "self_last_name": "Fenwick",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Fenwick",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crosswords",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "London Borough Social Services",
+  "previous_passwords": [
+    "Gillian1961",
+    "Misty123",
+    "MiniHatch19",
+    "Fenwick3000",
+    "London!63",
+    "Gardening4U",
+    "Crosswords2020",
+    "Martin4ever",
+    "Misty!2022"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1963-01-22"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "861743f0-4e53-44e6-8720-9a04961788cd",
+  "age": 36,
+  "birth_date": "1990-09-28",
+  "marital_status": "divorced",
+  "region": "Port Sophie",
+  "nationality": "english",
+  "company": "Bennett, Richardson and Smith",
+  "car_brand": "Land Rover",
+  "self_first_name": "Donald",
+  "self_last_name": "Barnett",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Frank"
+    }
+  ],
+  "interests": [
+    "Hiking",
+    "Photography",
+    "Local Craft Breweries",
+    "Gardening",
+    "Sci-Fi Films"
+  ],
+  "previous_passwords": [
+    "FrankLandRover28",
+    "RogueHike2010",
+    "LandRoverPhoto!",
+    "GardeningBarnett",
+    "PortSophieSciFi",
+    "MessiHike90",
+    "BarnettFrank19",
+    "CraftBrew2024",
+    "LandRoverGardn!",
+    "StarWarsPort28"
+  ]
+}

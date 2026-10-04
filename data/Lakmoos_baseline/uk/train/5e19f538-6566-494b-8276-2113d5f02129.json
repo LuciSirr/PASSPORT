@@ -1,0 +1,40 @@
+{
+  "id": "5e19f538-6566-494b-8276-2113d5f02129",
+  "gender": "female",
+  "age": 60,
+  "marital_status": "divorced",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Hollings",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Tilly"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Marion1964",
+    "TillyCat1",
+    "Hollings123",
+    "Knitting2020",
+    "Gardening4U",
+    "Tilly!64",
+    "Crosswords22",
+    "EastMidlands19",
+    "Marion_Tilly",
+    "Divorce2024"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1966-02-02"
+}

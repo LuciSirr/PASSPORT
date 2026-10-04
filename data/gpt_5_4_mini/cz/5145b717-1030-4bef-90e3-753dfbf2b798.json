@@ -1,0 +1,48 @@
+{
+  "id": "5145b717-1030-4bef-90e3-753dfbf2b798",
+  "age": 34,
+  "birth_date": "1992-08-02",
+  "marital_status": "married",
+  "region": "Most",
+  "nationality": "czech",
+  "company": "Tomanová Mašková k.s.",
+  "car_brand": "Seat",
+  "self_first_name": "Anděla",
+  "self_last_name": "Vávrová",
+  "partner_first_name": "Jan",
+  "partner_last_name": "Vávrová",
+  "children": [
+    {
+      "first_name": "Ján",
+      "last_name": "Hájek"
+    },
+    {
+      "first_name": "Ladislav",
+      "last_name": "Šmíd"
+    },
+    {
+      "first_name": "Dita",
+      "last_name": "Marková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "turistika",
+    "vaření",
+    "hraní her"
+  ],
+  "previous_passwords": [
+    "Sparta92!",
+    "SeatMost92",
+    "HajekHokej24",
+    "Turistika92",
+    "VareniJan92",
+    "DitaFotbal8",
+    "GamingVavra92",
+    "Vavrova_0802",
+    "MostBike92",
+    "LadislavGolf24"
+  ]
+}

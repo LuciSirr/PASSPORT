@@ -1,0 +1,40 @@
+{
+  "id": "7316a555-db92-4148-a25e-b0c4486ea059",
+  "gender": "male",
+  "age": 44,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Dacia",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Gareth1979",
+    "Rachel123",
+    "Baxter!14",
+    "Hollingsworth2020",
+    "Duster97",
+    "Yorkshire_79",
+    "Walking4Life",
+    "Gardening2022",
+    "BaxterDog1",
+    "RachelBaxter!"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1982-03-18"
+}

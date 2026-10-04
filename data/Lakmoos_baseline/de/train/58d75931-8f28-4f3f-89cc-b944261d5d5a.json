@@ -1,0 +1,36 @@
+{
+  "id": "58d75931-8f28-4f3f-89cc-b944261d5d5a",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Mini",
+  "self_first_name": "Annika",
+  "self_last_name": "Schröder",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "streaming",
+    "musik",
+    "fotografie"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Annika1994",
+    "MiniHatch21",
+    "Sommer06!",
+    "Schr0eder123",
+    "Reisen2023",
+    "Musik_94",
+    "Fotografie_1",
+    "Niedersachsen!",
+    "Apple2020",
+    "AOK_253"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1995-08-17"
+}

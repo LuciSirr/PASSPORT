@@ -1,0 +1,35 @@
+{
+  "id": "067ee58a-5067-451a-9b31-c5d16d822306",
+  "age": 26,
+  "birth_date": "2000-10-19",
+  "marital_status": "married",
+  "region": "Witzenhausen",
+  "nationality": "german",
+  "company": "Zimmer Graf e.V.",
+  "car_brand": "Citroën",
+  "self_first_name": "Elizabeth",
+  "self_last_name": "Hecker",
+  "partner_first_name": "Hans-Wolfgang",
+  "partner_last_name": "Hecker",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Metal Musik",
+    "Wandern",
+    "Escape Rooms",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "MetalMusik2000!",
+    "CitroenWandern!",
+    "EscapeRoomsHecker",
+    "MessiWitzehausen19",
+    "FotoHansWolfgang",
+    "LokalerFußball26",
+    "HeckerPhotography!",
+    "CitroenEscape00",
+    "WandernMessi20!",
+    "MetalMusik_Hecker"
+  ]
+}

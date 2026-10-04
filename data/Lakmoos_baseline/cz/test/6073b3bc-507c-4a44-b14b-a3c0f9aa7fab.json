@@ -1,0 +1,39 @@
+{
+  "id": "6073b3bc-507c-4a44-b14b-a3c0f9aa7fab",
+  "gender": "male",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Adam",
+  "self_last_name": "Jurčo",
+  "birth_date": "2005-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "star wars"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Moravská studentská služba s.r.o.",
+  "previous_passwords": [
+    "Adam2005",
+    "JurcoRex17",
+    "fotbal123",
+    "starwars05",
+    "Rex!2005",
+    "MoravskaSlužba515",
+    "JurcoFotbal!",
+    "RexJurco_17",
+    "starwars_fotbal",
+    "AdamRex2005"
+  ],
+  "favorite_hobby": "fotbal"
+}

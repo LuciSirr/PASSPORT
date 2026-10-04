@@ -1,0 +1,35 @@
+{
+  "id": "acde9699-559d-424a-9d00-e099a4faed19",
+  "age": 26,
+  "birth_date": "2000-02-21",
+  "marital_status": "single",
+  "region": "Main-Höchst",
+  "nationality": "german",
+  "company": "Mälzer Etzler AG & Co. KGaA",
+  "car_brand": "Toyota",
+  "self_first_name": "Tomas",
+  "self_last_name": "Höfig",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Fitnessstudio",
+    "Streaming-Serien",
+    "Reisen",
+    "Tech-News"
+  ],
+  "previous_passwords": [
+    "Muenchen2000!",
+    "FCBayern21!",
+    "NetflixTomas7",
+    "Toyota2000_",
+    "CR7Fitness!",
+    "SkyGo26Toms",
+    "MainHochst24",
+    "Haaland_21!",
+    "GymTomas2000",
+    "TechNews26!"
+  ]
+}

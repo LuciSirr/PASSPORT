@@ -1,0 +1,35 @@
+{
+  "id": "f10da4b7-1a6c-4ac4-b811-61f9c6ae3bb2",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Mercedes",
+  "self_first_name": "Rainer",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kronenberg",
+  "children": [],
+  "interests": [
+    "reisen",
+    "autos",
+    "musik"
+  ],
+  "pets": [],
+  "company": "Ingenieurbüro Kronenberg & Partner",
+  "previous_passwords": [
+    "Rainer1955",
+    "Sabine123",
+    "MercedesS500!",
+    "Kronenberg2020",
+    "Reisen07",
+    "Musik_341",
+    "Sommerurlaub!",
+    "LandRover99",
+    "ING253",
+    "SabineRainer!"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1967-02-23"
+}

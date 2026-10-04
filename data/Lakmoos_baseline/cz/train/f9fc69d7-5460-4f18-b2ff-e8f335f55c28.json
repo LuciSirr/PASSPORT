@@ -1,0 +1,40 @@
+{
+  "id": "f9fc69d7-5460-4f18-b2ff-e8f335f55c28",
+  "gender": "male",
+  "age": 71,
+  "marital_status": "married",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Jarmila",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotografie",
+    "kutilství"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1953",
+    "Jarmila23",
+    "Beny123",
+    "turistika2020",
+    "Sebesta!53",
+    "KarlovyVary1953",
+    "pohoda23",
+    "lidldoma",
+    "uniqa123",
+    "Beny!2021"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1954-11-10"
+}

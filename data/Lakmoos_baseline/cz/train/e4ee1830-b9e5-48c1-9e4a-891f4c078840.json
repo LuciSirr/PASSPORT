@@ -1,0 +1,39 @@
+{
+  "id": "e4ee1830-b9e5-48c1-9e4a-891f4c078840",
+  "gender": "female",
+  "age": 0,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Eliška",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "puzzle"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "maminka2023",
+    "slunicko",
+    "skolka123",
+    "Micka2024",
+    "Vesela01",
+    "malovani123",
+    "Eliška_2023",
+    "Puzzle!23",
+    "M1cka!",
+    "skolkaVysocina"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2025-09-08"
+}

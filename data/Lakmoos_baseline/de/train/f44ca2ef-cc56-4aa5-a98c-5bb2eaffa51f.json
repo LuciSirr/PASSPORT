@@ -1,0 +1,37 @@
+{
+  "id": "f44ca2ef-cc56-4aa5-a98c-5bb2eaffa51f",
+  "gender": "female",
+  "age": 5,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Leni",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malen",
+    "puzzeln"
+  ],
+  "pets": [
+    {
+      "pet_type": "other",
+      "pet_name": "Hoppel"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Leni2019",
+    "Hoppel123",
+    "Kreutzmann5",
+    "Malen2024",
+    "Sachsen!",
+    "Puzzeln22",
+    "Leni_Hoppel",
+    "Kindergarten19"
+  ],
+  "favorite_hobby": "malen",
+  "birth_date": "2020-09-26"
+}

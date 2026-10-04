@@ -1,0 +1,53 @@
+{
+  "id": "8a953153-edef-43fc-aad0-0fdbb1f01e7a",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Jurčo",
+  "birth_date": "1982-06-15",
+  "partner_first_name": "Lucie",
+  "partner_last_name": "Jurčo",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Jurčo"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Jurčo"
+    },
+    {
+      "first_name": "Tobias",
+      "last_name": "Jurčo"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "disney pohádky"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "Moravská výroba s.r.o.",
+  "previous_passwords": [
+    "Radek1982",
+    "JurcoBeny123",
+    "Matej2019",
+    "turistika_15",
+    "Eliška2022!",
+    "LucieRadek82",
+    "BenyFotbal2020",
+    "Tobias2024",
+    "disneyJurco",
+    "Jurco!1506"
+  ],
+  "favorite_hobby": "turistika"
+}

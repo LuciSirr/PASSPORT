@@ -1,0 +1,35 @@
+{
+  "id": "19998c30-34a6-4bd3-bf7e-8b9ac352b6ed",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Dacia",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Gareth",
+  "partner_last_name": "Ashcombe",
+  "children": [],
+  "interests": [
+    "walking",
+    "baking",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Fiona1989",
+    "Ashcombe123",
+    "Duster2010",
+    "Gareth4eva",
+    "Baking!22",
+    "SouthWest88",
+    "Walking_01",
+    "DaciaDuster14",
+    "Fiona&Gareth",
+    "Gardening2021"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1991-03-15"
+}

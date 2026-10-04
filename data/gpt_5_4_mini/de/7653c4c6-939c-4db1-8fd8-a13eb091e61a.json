@@ -1,0 +1,49 @@
+{
+  "id": "7653c4c6-939c-4db1-8fd8-a13eb091e61a",
+  "age": 30,
+  "birth_date": "1996-03-29",
+  "marital_status": "divorced",
+  "region": "Kehl",
+  "nationality": "german",
+  "company": "Förster Trub GmbH & Co. KG",
+  "car_brand": "Skoda",
+  "self_first_name": "Heinz-Dieter",
+  "self_last_name": "Ernst",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Georgia",
+      "last_name": "Ernst"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Mariana"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Luciano"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Kochen",
+    "Wandern",
+    "Reisen"
+  ],
+  "previous_passwords": [
+    "Mia29Fussball!",
+    "SkodaRad96",
+    "KochenGeorgia3",
+    "Wander2026!",
+    "RennradHeinz30",
+    "MarianaRide96",
+    "LucianoSnack29",
+    "ReiseKehl96!",
+    "BayernHeinz29",
+    "FifaSkoda30"
+  ]
+}

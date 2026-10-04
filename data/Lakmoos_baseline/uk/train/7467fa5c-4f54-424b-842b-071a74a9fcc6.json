@@ -1,0 +1,39 @@
+{
+  "id": "7467fa5c-4f54-424b-842b-071a74a9fcc6",
+  "gender": "female",
+  "age": 84,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Smart",
+  "self_first_name": "Mavis",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollingworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crosswords",
+    "knitting"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Tilly"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Mavis1939",
+    "TillyCat1",
+    "Hollingworth84",
+    "Geoffrey2020",
+    "Gardening123",
+    "London!39",
+    "Knitting_44",
+    "Crosswords22",
+    "Tilly!2023"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1941-10-27"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "9ef92625-c915-4a46-85c7-66ae8517d219",
+  "age": 37,
+  "birth_date": "1989-04-25",
+  "marital_status": "divorced",
+  "region": "Hluboká nad Vltavou",
+  "nationality": "czech",
+  "company": "Veselý",
+  "car_brand": "Renault",
+  "self_first_name": "Oldřich",
+  "self_last_name": "Tichý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivní lázně",
+    "historie",
+    "čtení",
+    "lokální cyklistika"
+  ],
+  "previous_passwords": [
+    "HlubokaHistory89",
+    "RenaultTuristika25",
+    "OldrichMessi1989!",
+    "PivniLazneCzecht",
+    "JoeRoganTuristika!",
+    "CteniHluboka77",
+    "LokCyklistaOldrich",
+    "TuristikaRenault!",
+    "HistoryOldrich89",
+    "MessiPivniLazne25"
+  ]
+}

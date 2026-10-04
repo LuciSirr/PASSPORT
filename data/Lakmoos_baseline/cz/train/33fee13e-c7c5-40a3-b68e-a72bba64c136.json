@@ -1,0 +1,49 @@
+{
+  "id": "33fee13e-c7c5-40a3-b68e-a72bba64c136",
+  "gender": "female",
+  "age": 58,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Dacia",
+  "self_first_name": "Ivana",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Vrána",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Vránová"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Vrána"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "čtení",
+    "turistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2007",
+    "Matysek08",
+    "Duster2010",
+    "Kaufland123",
+    "Vanoce2022",
+    "Beny2016",
+    "Nakupovani!",
+    "Petr1970",
+    "MatysekTereza08",
+    "Vranova58"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1967-10-21"
+}

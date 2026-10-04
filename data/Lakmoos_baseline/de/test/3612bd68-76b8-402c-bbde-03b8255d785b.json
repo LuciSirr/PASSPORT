@@ -1,0 +1,32 @@
+{
+  "id": "3612bd68-76b8-402c-bbde-03b8255d785b",
+  "gender": "female",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Kuhn",
+  "birth_date": "2016-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "bibi und tina",
+    "malen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lina2016",
+    "KuhnBibi123",
+    "BibiTina10",
+    "malen_2022",
+    "LinaMalen!",
+    "BibiKuhn16",
+    "Tina_0610",
+    "KuhnMalen123"
+  ],
+  "favorite_hobby": "bibi und tina"
+}

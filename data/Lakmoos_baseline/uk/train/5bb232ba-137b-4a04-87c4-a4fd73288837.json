@@ -1,0 +1,40 @@
+{
+  "id": "5bb232ba-137b-4a04-87c4-a4fd73288837",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Lexus",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "football",
+    "cycling",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "NorthWest Build Solutions",
+  "previous_passwords": [
+    "Callum1984",
+    "Emily2023!",
+    "Baxter123",
+    "Hollingsworth07",
+    "Football4Life",
+    "Gardening_21",
+    "NorthWestBuild2022",
+    "Baxter!2023",
+    "Cycling_88",
+    "EmilyHollingsworth"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "1995-05-20"
+}

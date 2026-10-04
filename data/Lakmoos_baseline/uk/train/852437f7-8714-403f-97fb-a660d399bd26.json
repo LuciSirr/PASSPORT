@@ -1,0 +1,34 @@
+{
+  "id": "852437f7-8714-403f-97fb-a660d399bd26",
+  "gender": "female",
+  "age": 48,
+  "marital_status": "divorced",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "walking"
+  ],
+  "pets": [],
+  "company": "Pendle Business Solutions",
+  "previous_passwords": [
+    "Fiona1976",
+    "Pendle123",
+    "Hollingsworth66",
+    "Gardening4Life",
+    "Reading2020",
+    "Fiona!66",
+    "Walking_77",
+    "BusinessQueen1",
+    "NorthWest2024"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1978-01-26"
+}

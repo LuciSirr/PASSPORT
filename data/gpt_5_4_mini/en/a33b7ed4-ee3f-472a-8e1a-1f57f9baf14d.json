@@ -1,0 +1,40 @@
+{
+  "id": "a33b7ed4-ee3f-472a-8e1a-1f57f9baf14d",
+  "age": 20,
+  "birth_date": "2006-06-03",
+  "marital_status": "married",
+  "region": "Joshuabury",
+  "nationality": "english",
+  "company": "Johnston and Sons",
+  "car_brand": "Audi",
+  "self_first_name": "Christian",
+  "self_last_name": "Khan",
+  "partner_first_name": "Sian",
+  "partner_last_name": "Khan",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Sian"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "football",
+    "streaming TV series",
+    "hip-hop music",
+    "fitness"
+  ],
+  "previous_passwords": [
+    "AudiGaming06",
+    "SianGPig03!",
+    "United06_",
+    "KhanRivals99",
+    "HipHop20!",
+    "JoshuaFC06",
+    "FitnessSian7",
+    "AudiTVseries",
+    "SianKhan06!",
+    "FIFA06Khan"
+  ]
+}

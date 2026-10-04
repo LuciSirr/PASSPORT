@@ -1,0 +1,40 @@
+{
+  "id": "fc794a5e-fce3-47a2-9bed-b9602ca71a65",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "Fiat",
+  "self_first_name": "Annika",
+  "self_last_name": "Kuhn",
+  "birth_date": "1994-06-15",
+  "partner_first_name": "Lukas",
+  "partner_last_name": "Kuhn",
+  "children": [
+    {
+      "first_name": "Mila",
+      "last_name": "Kuhn"
+    }
+  ],
+  "interests": [
+    "dark netflix",
+    "audiobooks",
+    "city trips"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Mila2022",
+    "AnnikaDark94",
+    "Kuhn!Berlin",
+    "DarkNetflix123",
+    "MilaKuhn15",
+    "Citytrip2023",
+    "AnnikaAudiobook",
+    "Lukas_0615",
+    "Dark_4nnika",
+    "KuhnMila!"
+  ],
+  "favorite_hobby": "dark netflix"
+}

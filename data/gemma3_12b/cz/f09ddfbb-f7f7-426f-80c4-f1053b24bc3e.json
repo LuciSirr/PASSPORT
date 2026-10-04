@@ -1,0 +1,44 @@
+{
+  "id": "f09ddfbb-f7f7-426f-80c4-f1053b24bc3e",
+  "age": 32,
+  "birth_date": "1994-01-25",
+  "marital_status": "single",
+  "region": "Bílovec",
+  "nationality": "czech",
+  "company": "Bílek Valenta s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Štefan",
+  "self_last_name": "Musil",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Patrik"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Anna"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "pivo",
+    "hudba",
+    "Vaření"
+  ],
+  "previous_passwords": [
+    "Messi94Turistika",
+    "SkodaPatrik25!",
+    "BílovecHudba1994",
+    "FotbalPivoAnna",
+    "TuristikaStefan!",
+    "VařeníSkoda_2010",
+    "MessiTuristikaŠ",
+    "PatrikHudba2023",
+    "Štefan_Messi!",
+    "PivoSkoda94"
+  ]
+}

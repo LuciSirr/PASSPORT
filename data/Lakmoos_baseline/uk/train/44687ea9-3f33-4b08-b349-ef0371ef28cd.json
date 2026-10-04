@@ -1,0 +1,36 @@
+{
+  "id": "44687ea9-3f33-4b08-b349-ef0371ef28cd",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Harriet",
+  "self_last_name": "Merriton",
+  "partner_first_name": "Simon",
+  "partner_last_name": "Merriton",
+  "children": [],
+  "interests": [
+    "reading",
+    "gardening",
+    "travel",
+    "baking"
+  ],
+  "pets": [],
+  "company": "West Midlands Enterprise Hub",
+  "previous_passwords": [
+    "Harriet1989",
+    "Simon4Ever",
+    "Merriton123",
+    "Reading!2020",
+    "WestMidlands22",
+    "Baking_89",
+    "Travel2021",
+    "Gardening4U",
+    "SimonHarriet19",
+    "EnterpriseHub!"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1991-01-18"
+}

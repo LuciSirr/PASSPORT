@@ -1,0 +1,35 @@
+{
+  "id": "13f80633-c835-41b6-9cf7-a05067361a04",
+  "age": 55,
+  "birth_date": "1971-06-01",
+  "marital_status": "divorced",
+  "region": "Klobouky u Brna",
+  "nationality": "czech",
+  "company": "Strnad k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Jan",
+  "self_last_name": "Vacek",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "rybaření",
+    "historie",
+    "moravský víno"
+  ],
+  "previous_passwords": [
+    "MoravskyVino2021",
+    "SkodaOctavia71",
+    "TuristikaBrno!",
+    "RybářstvíJan55",
+    "HistorieJanova",
+    "Zahrada_2001",
+    "MessiFanJan",
+    "KloboukyJanV",
+    "ŠkodaFan71!",
+    "Turistika_Joe"
+  ]
+}

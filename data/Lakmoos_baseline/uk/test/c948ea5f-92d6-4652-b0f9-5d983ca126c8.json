@@ -1,0 +1,40 @@
+{
+  "id": "c948ea5f-92d6-4652-b0f9-5d983ca126c8",
+  "gender": "female",
+  "age": 62,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "british baking show",
+    "walking holidays"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Marmalade"
+    }
+  ],
+  "company": "Northwest Enterprise Solutions",
+  "previous_passwords": [
+    "Fiona1962",
+    "Marmalade14",
+    "Hollingsworth62",
+    "BakingShow2020",
+    "Gardening123",
+    "Graham&Fiona",
+    "WalkingH0lidays",
+    "Marmalade!62",
+    "GreatBritishBake1",
+    "FionaCat2022"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1962-06-14"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "15a90430-cf88-420f-94a9-e27e117b0ee6",
+  "gender": "female",
+  "age": 41,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Fiona",
+  "self_last_name": "Caldwell",
+  "partner_first_name": "James",
+  "partner_last_name": "Caldwell",
+  "children": [],
+  "interests": [
+    "great british bake off",
+    "outlander",
+    "hillwalking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Whisky"
+    }
+  ],
+  "company": "Thistle Business Solutions",
+  "previous_passwords": [
+    "Whisky2019",
+    "BakeOff123",
+    "Caldwell!83",
+    "Outlander14",
+    "Hillwalk3r",
+    "FionaBake2020",
+    "Whisky!Bake",
+    "Thistle2022",
+    "GBBO_1983",
+    "Outlander!Whisky"
+  ],
+  "favorite_hobby": "great british bake off",
+  "birth_date": "1983-06-14"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0889ccc3-e7c8-4cd5-9ae3-a2725a14c72b",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1984-06-15",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohoutová",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Kohoutová"
+    }
+  ],
+  "interests": [
+    "cesky hokej",
+    "cestovani"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bady"
+    }
+  ],
+  "company": "AutoServis Kohout s.r.o.",
+  "previous_passwords": [
+    "Radek1984",
+    "KohoutMatěj06",
+    "Bady2020!",
+    "Petra15.6",
+    "ceskyhokej123",
+    "Eliška2018",
+    "KohoutCestovani22",
+    "MatějBady11",
+    "Kohout!84",
+    "BadyKohout2023"
+  ],
+  "favorite_hobby": "cesky hokej"
+}

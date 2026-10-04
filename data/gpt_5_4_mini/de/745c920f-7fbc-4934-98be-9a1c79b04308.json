@@ -1,0 +1,35 @@
+{
+  "id": "745c920f-7fbc-4934-98be-9a1c79b04308",
+  "age": 61,
+  "birth_date": "1965-10-04",
+  "marital_status": "divorced",
+  "region": "Dinkelsbühl",
+  "nationality": "german",
+  "company": "Rogner",
+  "car_brand": "BMW",
+  "self_first_name": "Carolin",
+  "self_last_name": "Hein",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern in Franken",
+    "SpVgg Ansbach 09",
+    "Gartenarbeit",
+    "Klassische Musik",
+    "Heimatgeschichte"
+  ],
+  "previous_passwords": [
+    "Wandern65!",
+    "Ansbach09_",
+    "BMW1965!",
+    "Heimat65",
+    "Franken61!",
+    "Garten61_",
+    "Mozart1965",
+    "Dinkelsbuehl!",
+    "Klassik04",
+    "Hein1965!"
+  ]
+}

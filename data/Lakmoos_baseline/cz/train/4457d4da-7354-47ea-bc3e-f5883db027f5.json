@@ -1,0 +1,35 @@
+{
+  "id": "4457d4da-7354-47ea-bc3e-f5883db027f5",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "seriály",
+    "malování"
+  ],
+  "pets": [],
+  "company": "Veselá Art & Design",
+  "previous_passwords": [
+    "Tereza2005",
+    "Vesela123",
+    "Nakupovani19",
+    "Seriály2023",
+    "Malovani_22",
+    "Kofola2022",
+    "Vintedka2021",
+    "Globus123",
+    "Terezka!",
+    "DmNakup19"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "2007-01-11"
+}

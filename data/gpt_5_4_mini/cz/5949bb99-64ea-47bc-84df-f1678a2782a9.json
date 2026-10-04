@@ -1,0 +1,47 @@
+{
+  "id": "5949bb99-64ea-47bc-84df-f1678a2782a9",
+  "age": 47,
+  "birth_date": "1979-03-16",
+  "marital_status": "married",
+  "region": "Chlumec nad Cidlinou",
+  "nationality": "czech",
+  "company": "Malý Müllerová o.s.",
+  "car_brand": "Peugeot",
+  "self_first_name": "Miloš",
+  "self_last_name": "Dostál",
+  "partner_first_name": "Světlana",
+  "partner_last_name": "Dostálová",
+  "children": [
+    {
+      "first_name": "Pavel",
+      "last_name": "Dostál"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Dostálová"
+    },
+    {
+      "first_name": "Norbert",
+      "last_name": "Dostál"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "zahradničení",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "PavelFotbal79",
+    "SvetlanaRyby16",
+    "MilosTuristika79",
+    "Peugeot123!",
+    "ZahradaCidlinou",
+    "NorbertHike16",
+    "PavlovoJaro79",
+    "Rybareni_03",
+    "MilosPeugeot47",
+    "EliškaLes2024"
+  ]
+}

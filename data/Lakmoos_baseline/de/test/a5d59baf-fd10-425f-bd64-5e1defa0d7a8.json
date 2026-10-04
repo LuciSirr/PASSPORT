@@ -1,0 +1,34 @@
+{
+  "id": "a5d59baf-fd10-425f-bd64-5e1defa0d7a8",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lukas",
+  "self_last_name": "Krause",
+  "birth_date": "2018-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "sandkasten"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2021",
+    "pawpatrol123",
+    "KrauseSandkasten",
+    "pawpatrol!21",
+    "Sandkasten2021",
+    "LukasPaw21",
+    "Krause!paw",
+    "pawpatrolKrause",
+    "Sandkasten_10",
+    "Lukas!10"
+  ],
+  "favorite_hobby": "paw patrol"
+}

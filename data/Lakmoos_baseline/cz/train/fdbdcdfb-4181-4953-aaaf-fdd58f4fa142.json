@@ -1,0 +1,35 @@
+{
+  "id": "fdbdcdfb-4181-4953-aaaf-fdd58f4fa142",
+  "gender": "female",
+  "age": 57,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "četba",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Ivana1967",
+    "Miroslav57",
+    "Vesela1000",
+    "Kytky2020",
+    "Morava_57",
+    "Kofola123",
+    "LidlOblibena",
+    "Nakupovani!",
+    "Cetba2024",
+    "VeselaBrno"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1969-03-10"
+}

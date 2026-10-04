@@ -1,0 +1,40 @@
+{
+  "id": "ba141096-34a3-4b07-9c40-6d20e4ae43b9",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "single/in a relationship",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "Renault",
+  "self_first_name": "Jens",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kreutzmann"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "lesen",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "Kreutzmann Beratung & Handel",
+  "previous_passwords": [
+    "Lukas2018",
+    "Kreutzmann123",
+    "Wandern!45",
+    "Jens1979",
+    "Thuringen2024",
+    "RenaultKangoo21",
+    "Sommerurlaub19",
+    "Lukas!Kreutzmann",
+    "Beratung_9000",
+    "Podcasts2023"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1980-04-07"
+}

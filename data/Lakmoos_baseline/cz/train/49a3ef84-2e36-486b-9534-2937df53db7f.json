@@ -1,0 +1,35 @@
+{
+  "id": "49a3ef84-2e36-486b-9534-2937df53db7f",
+  "gender": "male",
+  "age": 32,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Šebestová",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Strojírny Beroun",
+  "previous_passwords": [
+    "Radek1989",
+    "Petra2020",
+    "Fabia2012",
+    "Lidl1234",
+    "Hornbach88",
+    "Rockstar88",
+    "CentralBohemia32",
+    "Fotbal2021",
+    "Sebesta!32",
+    "PetraRadek2022"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1994-03-02"
+}

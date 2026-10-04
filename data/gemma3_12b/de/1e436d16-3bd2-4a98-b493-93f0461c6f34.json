@@ -1,0 +1,35 @@
+{
+  "id": "1e436d16-3bd2-4a98-b493-93f0461c6f34",
+  "age": 51,
+  "birth_date": "1975-01-10",
+  "marital_status": "divorced",
+  "region": "Mellrichstadt",
+  "nationality": "german",
+  "company": "Kranz AG & Co. KG",
+  "car_brand": "Citroën",
+  "self_first_name": "Jozef",
+  "self_last_name": "Schinke",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Autorenlesungen",
+    "Gemütliches Beisammensein",
+    "Schubserliges Radfahren",
+    "Lokale Geschichte"
+  ],
+  "previous_passwords": [
+    "Autorenlesungen75!",
+    "CitroenWanderung23",
+    "SchinkeRadfahren1975",
+    "GemuetlichSchinke",
+    "LokaleGeschichte24",
+    "WandernMellrichstadt",
+    "SchinkeAutoren!",
+    "CitroenSchinke75",
+    "WanderungJoeRogan",
+    "SchinkeRad2000"
+  ]
+}

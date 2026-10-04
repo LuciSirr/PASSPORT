@@ -1,0 +1,48 @@
+{
+  "id": "4ba4e0c0-2913-4865-9564-e1fc3fcfae55",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Tesla",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kreutzer",
+  "partner_first_name": "Sandra",
+  "partner_last_name": "Kreutzer",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kreutzer"
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Kreutzer"
+    },
+    {
+      "first_name": "Leon",
+      "last_name": "Kreutzer"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "musik",
+    "urlaub"
+  ],
+  "pets": [],
+  "company": "Gesundheitspflege Rhein",
+  "previous_passwords": [
+    "Tobias1989",
+    "Sandra2023!",
+    "Lukas15",
+    "Mia08",
+    "Leon15",
+    "Tesla46464",
+    "Kreutzer123",
+    "UrlaubSept",
+    "Gesundheit4",
+    "Sommer2022"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1991-06-30"
+}

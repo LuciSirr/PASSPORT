@@ -1,0 +1,43 @@
+{
+  "id": "7bf9d835-b5b5-466f-aeb2-05c045a1a602",
+  "age": 28,
+  "birth_date": "1998-09-05",
+  "marital_status": "married",
+  "region": "Vincentfort",
+  "nationality": "english",
+  "company": "Morris, Parkinson and Williams",
+  "car_brand": "BMW",
+  "self_first_name": "Jayne",
+  "self_last_name": "Thomas",
+  "partner_first_name": "James",
+  "partner_last_name": "Thomas",
+  "children": [
+    {
+      "first_name": "Nathan",
+      "last_name": "Thomas"
+    },
+    {
+      "first_name": "Charlotte",
+      "last_name": "Thomas"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "streaming TV series",
+    "fitness",
+    "coffee culture"
+  ],
+  "previous_passwords": [
+    "BMW_Jayne98",
+    "JamesGaming98!",
+    "NetflixNathan05",
+    "CoffeeCharlotte28",
+    "GTA_BMW98",
+    "StravaJayne05",
+    "F1JamesThomas",
+    "BBCSeries98!",
+    "LatteVincent28",
+    "ZeldaJayne05"
+  ]
+}

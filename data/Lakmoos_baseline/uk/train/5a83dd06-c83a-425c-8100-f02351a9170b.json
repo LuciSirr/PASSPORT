@@ -1,0 +1,39 @@
+{
+  "id": "5a83dd06-c83a-425c-8100-f02351a9170b",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Škoda",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "fishing",
+    "gardening",
+    "football"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Buster"
+    }
+  ],
+  "company": "East Midlands Buildworks",
+  "previous_passwords": [
+    "Buster2013",
+    "Gareth123",
+    "Octavia2.0",
+    "Rachel!48",
+    "Hollings1976",
+    "Fishing4Life",
+    "SkodaDiesel",
+    "EastMidlands1",
+    "Football!88"
+  ],
+  "favorite_hobby": "fishing",
+  "birth_date": "1978-02-16"
+}

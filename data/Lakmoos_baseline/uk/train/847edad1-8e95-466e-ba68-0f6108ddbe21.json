@@ -1,0 +1,34 @@
+{
+  "id": "847edad1-8e95-466e-ba68-0f6108ddbe21",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Škoda",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "driving"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Callum2000",
+    "SkodaYeti7",
+    "London123",
+    "Football!23",
+    "Hollis85",
+    "Gaming_2000",
+    "VW2Skoda",
+    "Diesel7.1",
+    "Karoq2024"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2003-02-07"
+}

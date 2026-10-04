@@ -1,0 +1,35 @@
+{
+  "id": "6a09d7bb-a471-46b0-a909-2941fa7afd8c",
+  "gender": "male",
+  "age": 100,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heinrich",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Gertrud",
+  "partner_last_name": "Kreutzmann",
+  "children": [],
+  "interests": [
+    "spazieren",
+    "schach",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heinrich1924",
+    "Gertrud123",
+    "Kreutzmann!48",
+    "Schachmeister1",
+    "Sommer1948",
+    "AOK_100",
+    "Gartenarbeit2020",
+    "Spazierengehen!",
+    "NRW1948",
+    "HeinrichGertrud24"
+  ],
+  "favorite_hobby": "spazieren",
+  "birth_date": "1926-03-02"
+}

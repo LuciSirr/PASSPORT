@@ -1,0 +1,35 @@
+{
+  "id": "951ae1e5-5f32-44f8-bb4d-6073efb9b259",
+  "age": 44,
+  "birth_date": "1982-03-26",
+  "marital_status": "single",
+  "region": "Sebnitz",
+  "nationality": "german",
+  "company": "Wähner AG",
+  "car_brand": "Seat",
+  "self_first_name": "Katharine",
+  "self_last_name": "Wesack",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Autos",
+    "Lokaler Fußballverein",
+    "Deutsche Küche"
+  ],
+  "previous_passwords": [
+    "SeatAlpenWanderung!",
+    "Fotografie1982",
+    "KatharineMessi23",
+    "SebnitzWandern!",
+    "DeutscheKuecheK82",
+    "VWautoFoto2024",
+    "KatharineWanderer",
+    "LokalerFußball!",
+    "FotografieSeebn1tz",
+    "KatharineAuto82"
+  ]
+}

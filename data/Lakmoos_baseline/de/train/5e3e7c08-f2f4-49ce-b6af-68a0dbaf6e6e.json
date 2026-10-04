@@ -1,0 +1,40 @@
+{
+  "id": "5e3e7c08-f2f4-49ce-b6af-68a0dbaf6e6e",
+  "gender": "female",
+  "age": 67,
+  "marital_status": "married",
+  "region": "hamburg",
+  "nationality": "german",
+  "car_brand": "Porsche",
+  "self_first_name": "Gisela",
+  "self_last_name": "Krauss",
+  "partner_first_name": "Wolfgang",
+  "partner_last_name": "Krauss",
+  "children": [],
+  "interests": [
+    "lesen",
+    "reisen",
+    "gartenarbeit"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Hanseatische Verwaltungsdienste GmbH",
+  "previous_passwords": [
+    "Gisela1957",
+    "Wolfgang123",
+    "Minka!2016",
+    "Krauss4000",
+    "Hamburg_67",
+    "Lesen2020",
+    "SommerMai!",
+    "Porsche2894",
+    "Gartenarbeit3",
+    "Krauss_ING"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1958-05-19"
+}

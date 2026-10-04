@@ -1,0 +1,34 @@
+{
+  "id": "990baa14-a4cd-4227-9c8b-e088831bee53",
+  "gender": "female",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Annika",
+  "self_last_name": "Krause",
+  "birth_date": "1996-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "dark",
+    "wellnessurlaub"
+  ],
+  "pets": [],
+  "company": "Hessen Service GmbH",
+  "previous_passwords": [
+    "Annika1996",
+    "KrauseDark17",
+    "wellness2020",
+    "Dark_123",
+    "Hessen!96",
+    "AnnikaWellness",
+    "Krause!17",
+    "darkKrause2021",
+    "wellnessurlaub_96",
+    "D4rk!Annika"
+  ],
+  "favorite_hobby": "dark"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c53099f9-3cf6-4c53-a6d5-8c156434d120",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Ursula",
+  "self_last_name": "Kronberger",
+  "partner_first_name": "Heinz",
+  "partner_last_name": "Kronberger",
+  "children": [],
+  "interests": [
+    "lesen",
+    "wandern",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "Kronberger Beratung & Service",
+  "previous_passwords": [
+    "Ursula1955",
+    "Heinz1972!",
+    "Kronberger123",
+    "Sommerurlaub06",
+    "Hessen8000",
+    "Lesen_2020",
+    "Gartenarbeit55",
+    "Beratung_1978",
+    "Schatz!69",
+    "Wandern_06"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1956-07-28"
+}

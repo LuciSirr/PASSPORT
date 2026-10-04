@@ -1,0 +1,49 @@
+{
+  "id": "b4ac3891-9bad-4df4-b402-76e78cf470da",
+  "age": 59,
+  "birth_date": "1967-05-22",
+  "marital_status": "married",
+  "region": "Eisenach",
+  "nationality": "german",
+  "company": "Jäkel OHG mbH",
+  "car_brand": "Renault",
+  "self_first_name": "Sonia",
+  "self_last_name": "Jopich",
+  "partner_first_name": "Thorsten",
+  "partner_last_name": "Jopich",
+  "children": [
+    {
+      "first_name": "Halil",
+      "last_name": "Jopich"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Roderich"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Benno"
+    }
+  ],
+  "interests": [
+    "Gärtnern",
+    "Wandern im Thüringer Wald",
+    "Fußball",
+    "Heimatgeschichte",
+    "Radfahren"
+  ],
+  "previous_passwords": [
+    "Wandern67!",
+    "Rennrad22",
+    "Roderich67",
+    "Thorsten1967!",
+    "Eisenach22",
+    "RheinFire67",
+    "BennoGarten7",
+    "Renault22!",
+    "Werder67",
+    "ThWald59"
+  ]
+}

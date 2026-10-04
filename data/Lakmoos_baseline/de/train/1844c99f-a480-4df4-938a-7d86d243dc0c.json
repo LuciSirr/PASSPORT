@@ -1,0 +1,39 @@
+{
+  "id": "1844c99f-a480-4df4-938a-7d86d243dc0c",
+  "gender": "male",
+  "age": 68,
+  "marital_status": "divorced",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Ford",
+  "self_first_name": "Klaus",
+  "self_last_name": "Bergmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Jonas",
+      "last_name": "Bergmann"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "RheinMedia IT-Service",
+  "previous_passwords": [
+    "Klaus1956",
+    "Jonas2011",
+    "Bergmann123",
+    "FordRanger22",
+    "Wandern!56",
+    "Sommer06",
+    "Rhein_4000",
+    "Audiobuch2023",
+    "B3rgmann!",
+    "KlausJonas11"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1957-06-21"
+}

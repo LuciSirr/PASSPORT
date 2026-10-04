@@ -1,0 +1,44 @@
+{
+  "id": "19145c03-9d20-4f9e-8c30-f79031690153",
+  "age": 58,
+  "birth_date": "1968-09-01",
+  "marital_status": "married",
+  "region": "Strausberg",
+  "nationality": "german",
+  "company": "Ebert e.V.",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Judith",
+  "self_last_name": "Ziegert",
+  "partner_first_name": "Korbinian",
+  "partner_last_name": "Ziegert",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Ahmet"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Lars"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Radfahren",
+    "Gartenarbeit",
+    "Schlager",
+    "Heimwerken"
+  ],
+  "previous_passwords": [
+    "Wandern68!",
+    "Radfahren09",
+    "Garten_1968",
+    "Schlager58!",
+    "Heimwerk68",
+    "LarsWandern!",
+    "KorbiRad68",
+    "Mercedes58!",
+    "AhmetGarten9",
+    "Strausberg68"
+  ]
+}

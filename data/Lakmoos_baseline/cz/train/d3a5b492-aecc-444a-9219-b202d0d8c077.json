@@ -1,0 +1,40 @@
+{
+  "id": "d3a5b492-aecc-444a-9219-b202d0d8c077",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "pečení",
+    "zahrada",
+    "nakupování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Krajský úřad Brno",
+  "previous_passwords": [
+    "Vesela2017",
+    "Micka123",
+    "Petr1972",
+    "Kofola2020",
+    "JaroNaZahrade",
+    "Krizovky48",
+    "Peceni!2021",
+    "Brno_2015",
+    "LidlObliba48"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1975-10-01"
+}

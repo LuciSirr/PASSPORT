@@ -1,0 +1,41 @@
+{
+  "id": "a6e1aec9-9800-4353-b33f-897745933a36",
+  "gender": "female",
+  "age": 55,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Hyundai",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Willowbrook Health Services",
+  "previous_passwords": [
+    "Fiona1969",
+    "Milo123",
+    "Ashcroft2020",
+    "Graham!55",
+    "Travel4Fun",
+    "Willowbrook22",
+    "Gardening!1",
+    "LondonCat",
+    "FionaGraham",
+    "Reading_69"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1971-01-01"
+}

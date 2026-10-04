@@ -1,0 +1,40 @@
+{
+  "id": "8e9be437-9d84-4bd9-9f72-9a751a11a346",
+  "age": 41,
+  "birth_date": "1985-02-05",
+  "marital_status": "single",
+  "region": "Mayen",
+  "nationality": "german",
+  "company": "Scheuermann AG & Co. KGaA",
+  "car_brand": "Renault",
+  "self_first_name": "Vito",
+  "self_last_name": "Scholz",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Anastasia"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Klassische Musik",
+    "Autorenlesungen",
+    "Regionale Küche"
+  ],
+  "previous_passwords": [
+    "AnastasiaWandern85",
+    "RenaultFoto2024",
+    "KlassischeMusik_Vito",
+    "MayenAutoren!1985",
+    "MessiWalks2005",
+    "RegionaleKueche_AS",
+    "JoeRoganPhoto12",
+    "VitoScholzClassic",
+    "WandernRenault20",
+    "FotografieMayen85"
+  ]
+}

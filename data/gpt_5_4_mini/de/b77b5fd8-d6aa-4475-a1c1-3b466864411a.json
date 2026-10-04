@@ -1,0 +1,35 @@
+{
+  "id": "b77b5fd8-d6aa-4475-a1c1-3b466864411a",
+  "age": 61,
+  "birth_date": "1965-11-30",
+  "marital_status": "married",
+  "region": "Meppen",
+  "nationality": "german",
+  "company": "Schuster GmbH & Co. KG",
+  "car_brand": "Mini",
+  "self_first_name": "Alberto",
+  "self_last_name": "Hübel",
+  "partner_first_name": "Justine",
+  "partner_last_name": "Hübel",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Gärtnern",
+    "Radfahren",
+    "Fußball",
+    "Schützenverein",
+    "Wandern"
+  ],
+  "previous_passwords": [
+    "Garten65!",
+    "BikeMeppen11",
+    "Mini2025!",
+    "EmslandRad61",
+    "BVB1965!",
+    "Schuetzen11",
+    "Wandern30!",
+    "Justine1965",
+    "Fussball65#",
+    "Gardening61!"
+  ]
+}

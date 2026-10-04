@@ -1,0 +1,35 @@
+{
+  "id": "33039e58-52e2-46ec-9a95-125663d2b66c",
+  "age": 50,
+  "birth_date": "1976-01-23",
+  "marital_status": "married",
+  "region": "Eggenfelden",
+  "nationality": "german",
+  "company": "Eckbauer",
+  "car_brand": "Audi",
+  "self_first_name": "Kasimir",
+  "self_last_name": "Noack",
+  "partner_first_name": "Cläre",
+  "partner_last_name": "Weimer",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Gartenarbeit",
+    "Deutsche Filme",
+    "Volksmusik"
+  ],
+  "previous_passwords": [
+    "Messi23FCB",
+    "AudiEggenfelden76",
+    "WandernCläre!",
+    "DeutscheFilmeKas",
+    "Volksmusik76!",
+    "FußballMessi_1976",
+    "GartenarbeitNoack",
+    "KlareWanderung22",
+    "Audi_Bayern76",
+    "MessiNoackFCB"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "271a9efe-5934-401e-8b0d-96067372907e",
+  "gender": "male",
+  "age": 35,
+  "marital_status": "divorced",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Šimáček",
+  "birth_date": "1989-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "radio beat",
+    "fotbal",
+    "hbo max"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Vysočina Strojírny s.r.o.",
+  "previous_passwords": [
+    "Radek1989",
+    "Rex1234",
+    "Simacek!89",
+    "fotbal2020",
+    "beat_456",
+    "HBOmax2023",
+    "RexSimacek",
+    "VysočinaStrojirny",
+    "Rex!fotbal",
+    "radioBeat89"
+  ],
+  "favorite_hobby": "radio beat"
+}

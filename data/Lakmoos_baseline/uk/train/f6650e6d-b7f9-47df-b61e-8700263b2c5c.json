@@ -1,0 +1,38 @@
+{
+  "id": "f6650e6d-b7f9-47df-b61e-8700263b2c5c",
+  "gender": "male",
+  "age": 2,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finlay",
+  "self_last_name": "Macrae",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dinosaurs"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rufus"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Finlay2022",
+    "Rufus123",
+    "Macrae22",
+    "Drawing4Fun",
+    "D1n0saur!",
+    "FinlayRufus",
+    "Scotland22",
+    "RufusDog",
+    "Macrae!2022"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2023-09-05"
+}

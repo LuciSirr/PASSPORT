@@ -1,0 +1,40 @@
+{
+  "id": "f5d6182d-a562-4da0-bebd-d6111457bd04",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Mini",
+  "self_first_name": "Ursula",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "wandern",
+    "audiobooks",
+    "gartenarbeit"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Westfalen Fertigung GmbH",
+  "previous_passwords": [
+    "Ursula1961",
+    "Minka123",
+    "MiniCabrio2002",
+    "Kleinschmidt!20",
+    "Wandern2023",
+    "Westfalen_2000",
+    "Gartenarbeit4",
+    "Mitsubishi_33392",
+    "SommerSeptember",
+    "Audiobook1"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1962-09-23"
+}

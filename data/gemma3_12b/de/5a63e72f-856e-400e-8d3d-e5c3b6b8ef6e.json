@@ -1,0 +1,40 @@
+{
+  "id": "5a63e72f-856e-400e-8d3d-e5c3b6b8ef6e",
+  "age": 29,
+  "birth_date": "1997-04-19",
+  "marital_status": "married",
+  "region": "Gunzenhausen",
+  "nationality": "german",
+  "company": "Zobel GmbH & Co. KGaA",
+  "car_brand": "Skoda",
+  "self_first_name": "Pedro",
+  "self_last_name": "Fritsch",
+  "partner_first_name": "Amalie",
+  "partner_last_name": "Beyer",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Marisa"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Techno",
+    "Wandern",
+    "Gaming",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "Messi2024",
+    "AmalieGunzenhausen",
+    "TechnoMarisa!",
+    "SkodaWander97",
+    "FotoMessi1997",
+    "GamingAmalie!",
+    "MessiWandern!",
+    "MarisaFußball24",
+    "SkodaTechno97",
+    "PedroFoto2024"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "07cf92e8-f2ca-4518-8393-56b9530de737",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Fiat",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Hatherleigh",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "hiking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Westmoor Ventures",
+  "previous_passwords": [
+    "Imogen1989",
+    "Milo123",
+    "Westmoor2023",
+    "Hatherleigh!35",
+    "Travel4Life",
+    "Oliver1987",
+    "Reading_89",
+    "HikingMilo",
+    "Fiat600EV",
+    "SouthWest!"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1990-11-16"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cdf069a9-9a7d-4890-b984-1cfaa364654b",
+  "gender": "male",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "seriály",
+    "hudba",
+    "facebook"
+  ],
+  "pets": [],
+  "company": "AutoServis Ostrava",
+  "previous_passwords": [
+    "Radek2007",
+    "Vesely17",
+    "Aygo998",
+    "KFCsnack14",
+    "Morava123",
+    "ToyotaX21",
+    "Ostrava!2023",
+    "auta2022",
+    "Netflix2023"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2008-10-12"
+}

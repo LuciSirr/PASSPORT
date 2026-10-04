@@ -1,0 +1,35 @@
+{
+  "id": "d6293a5c-0b2b-4735-a8cf-45d650d73663",
+  "gender": "female",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "tanec",
+    "čtení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tereza20012",
+    "hradec123",
+    "jablko2023",
+    "skola12",
+    "Vesela2012",
+    "malovani_321",
+    "tanec2024",
+    "cteni!12",
+    "T3r3za_vesela",
+    "HradecKralove12"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2013-12-19"
+}

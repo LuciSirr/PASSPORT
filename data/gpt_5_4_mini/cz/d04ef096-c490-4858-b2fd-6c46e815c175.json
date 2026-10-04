@@ -1,0 +1,44 @@
+{
+  "id": "d04ef096-c490-4858-b2fd-6c46e815c175",
+  "age": 35,
+  "birth_date": "1991-11-05",
+  "marital_status": "married",
+  "region": "Duchcov",
+  "nationality": "czech",
+  "company": "Slavík a.s.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Patricie",
+  "self_last_name": "Beránková",
+  "partner_first_name": "Mojmír",
+  "partner_last_name": "Beránková",
+  "children": [
+    {
+      "first_name": "Vladimír",
+      "last_name": "Svobodová"
+    },
+    {
+      "first_name": "Tadeáš",
+      "last_name": "Pavlíčková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "hokej",
+    "fotbal",
+    "turistika",
+    "grilování",
+    "české seriály"
+  ],
+  "previous_passwords": [
+    "Hokej1991!",
+    "MojmirHokej91",
+    "Sparta11_Duch",
+    "Hyundai05!",
+    "TadeasFotbal7",
+    "Turistika91",
+    "Grilovani11!",
+    "BerankovaHokej",
+    "Ceskeserialy91",
+    "VladimirHokej05"
+  ]
+}

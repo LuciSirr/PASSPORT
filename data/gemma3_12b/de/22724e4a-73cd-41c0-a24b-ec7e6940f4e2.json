@@ -1,0 +1,44 @@
+{
+  "id": "22724e4a-73cd-41c0-a24b-ec7e6940f4e2",
+  "age": 41,
+  "birth_date": "1985-10-19",
+  "marital_status": "married",
+  "region": "Bergzabern",
+  "nationality": "german",
+  "company": "Jäkel",
+  "car_brand": "Toyota",
+  "self_first_name": "Burghard",
+  "self_last_name": "Stey",
+  "partner_first_name": "Miriam",
+  "partner_last_name": "Stey",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Theodora"
+    },
+    {
+      "pet_type": "dog",
+      "pet_name": "Dusan"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Biergartenbesuche",
+    "Autos",
+    "Deutsche Küche"
+  ],
+  "previous_passwords": [
+    "TheodoraWandern85",
+    "ToyotaBergzabern!",
+    "MiriamDusanFoto23",
+    "DeutscheKueche1985",
+    "MessiWandern_85",
+    "BergzabernBiergarten",
+    "ToyotaTheodora24",
+    "FotografieDusan!",
+    "WandernMiriam2023",
+    "Toyota_85_Foto"
+  ]
+}

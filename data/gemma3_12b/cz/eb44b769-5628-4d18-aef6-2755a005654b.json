@@ -1,0 +1,48 @@
+{
+  "id": "eb44b769-5628-4d18-aef6-2755a005654b",
+  "age": 52,
+  "birth_date": "1974-08-25",
+  "marital_status": "married",
+  "region": "Němčice nad Hanou",
+  "nationality": "czech",
+  "company": "Kraus Fišer k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Bedřich",
+  "self_last_name": "Vacek",
+  "partner_first_name": "Ludmila",
+  "partner_last_name": "Vacková",
+  "children": [
+    {
+      "first_name": "Vilém",
+      "last_name": "Vacek"
+    },
+    {
+      "first_name": "Helena",
+      "last_name": "Vacková"
+    },
+    {
+      "first_name": "Jonáš",
+      "last_name": "Vacek"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "rybaření",
+    "turistika",
+    "lokální historie",
+    "česká kuchyně",
+    "zahradničení"
+  ],
+  "previous_passwords": [
+    "Hanuska2024",
+    "Vilém_Rybář",
+    "SkodaOctavia74",
+    "HelenaTuristika!",
+    "Jonáš_Zahradni1",
+    "NěmčiceHistorie",
+    "MessiLovci1974",
+    "VacekLudmila88",
+    "TuristikaVacek",
+    "CeskáKuchyně!"
+  ]
+}

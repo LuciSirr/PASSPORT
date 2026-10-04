@@ -1,0 +1,32 @@
+{
+  "id": "3faba4c8-0e77-4b2e-b5a7-be47c3fe2b9b",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Kuhn",
+  "birth_date": "2018-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "bibi und tina",
+    "malen"
+  ],
+  "pets": [],
+  "company": "Kinderhaus Sonnenschein",
+  "previous_passwords": [
+    "Lina2018",
+    "KuhnMalen123",
+    "BibiTina2022",
+    "Sonnenschein18",
+    "malen_0610",
+    "bibiundtina!18",
+    "KuhnBibi2020",
+    "LinaMalen22"
+  ],
+  "favorite_hobby": "bibi und tina"
+}

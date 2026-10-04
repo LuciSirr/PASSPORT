@@ -1,0 +1,40 @@
+{
+  "id": "52053c22-1e04-48af-8474-6d0950014f37",
+  "age": 35,
+  "birth_date": "1991-09-14",
+  "marital_status": "married",
+  "region": "Kladruby",
+  "nationality": "czech",
+  "company": "Marek",
+  "car_brand": "Mazda",
+  "self_first_name": "Miloš",
+  "self_last_name": "Slavík",
+  "partner_first_name": "Slavěna",
+  "partner_last_name": "Slavíková",
+  "children": [
+    {
+      "first_name": "Štefan",
+      "last_name": "Slavík"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "fotbal",
+    "historie",
+    "hudba"
+  ],
+  "previous_passwords": [
+    "Messi1991!",
+    "TuristikaSlavena",
+    "MazdaKladruby23",
+    "StefanVaření!",
+    "Historie1409",
+    "JoeRoganSlavik",
+    "FotbalSlavík88",
+    "HudbaŠtefan2024",
+    "KladrubyMessi",
+    "SlavíkCooking!"
+  ]
+}

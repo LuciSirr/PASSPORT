@@ -1,0 +1,35 @@
+{
+  "id": "c373342a-c668-4ac8-92b7-19abb554b57f",
+  "gender": "male",
+  "age": 56,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "cooking"
+  ],
+  "pets": [],
+  "company": "Daleside Guesthouse",
+  "previous_passwords": [
+    "Graham1968",
+    "Elaine2023",
+    "Corsa24",
+    "Yorkshire1",
+    "Daleside123",
+    "Travel!56",
+    "Walking_74",
+    "Hollis2000",
+    "OpelNova",
+    "Cooking4Fun"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1969-04-06"
+}

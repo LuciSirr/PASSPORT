@@ -1,0 +1,35 @@
+{
+  "id": "8d368331-c174-4889-922a-f88343add030",
+  "age": 37,
+  "birth_date": "1989-10-28",
+  "marital_status": "single",
+  "region": "Mettmann",
+  "nationality": "german",
+  "company": "Kitzmann",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Camilla",
+  "self_last_name": "Karge",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Reisen",
+    "Handwerk",
+    "Lokaler Fußballverein",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "Fotografie28!",
+    "MessiMettmann19",
+    "VW_Karge_Reisen",
+    "Handwerk89_Foto",
+    "ClassicalMusicCK",
+    "LokalerFV_Camilla",
+    "Bergfrieden2023",
+    "JoeRogan_Karge",
+    "Reisen_Camilla89",
+    "Volkswagen_Foto!"
+  ]
+}

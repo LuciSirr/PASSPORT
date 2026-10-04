@@ -1,0 +1,35 @@
+{
+  "id": "e1932818-151d-4211-b016-3bee56193843",
+  "gender": "female",
+  "age": 89,
+  "marital_status": "married",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gertrud",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Heinz",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "stricken",
+    "spazieren",
+    "hörbücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gertrud1935",
+    "Heinz123",
+    "Kleinschmidt!89",
+    "Stricken2020",
+    "MeckPom_1000",
+    "OmaHeinz1",
+    "Sommer!78",
+    "Hörbuch3",
+    "Berlin1948",
+    "Schatz!123"
+  ],
+  "favorite_hobby": "stricken",
+  "birth_date": "1937-01-16"
+}

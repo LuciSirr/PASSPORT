@@ -1,0 +1,41 @@
+{
+  "id": "857364b4-e65f-4a86-808b-c76d4c93571a",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Ford",
+  "self_first_name": "Gillian",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Malcolm",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "travel",
+    "antiques"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Hollingsworth Consulting",
+  "previous_passwords": [
+    "Gillian1968",
+    "Baxter123",
+    "Malcolm2020",
+    "Hollingsworth!56",
+    "FordPuma999",
+    "Travel4Fun",
+    "EastMidlands1",
+    "Gardening_68",
+    "Baxter!2023",
+    "Walking_5"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1969-12-25"
+}

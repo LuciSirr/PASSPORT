@@ -1,0 +1,48 @@
+{
+  "id": "b116b3fb-0a0e-4f6c-8865-1d3cec1dbae9",
+  "age": 48,
+  "birth_date": "1978-04-01",
+  "marital_status": "married",
+  "region": "Hansestadttralsund",
+  "nationality": "german",
+  "company": "Adler Hänel Stiftung & Co. KGaA",
+  "car_brand": "Audi",
+  "self_first_name": "Mato",
+  "self_last_name": "Oestrovsky",
+  "partner_first_name": "Arzu",
+  "partner_last_name": "Oestrovsky",
+  "children": [
+    {
+      "first_name": "Stavros",
+      "last_name": "Oestrovsky"
+    },
+    {
+      "first_name": "Annerose",
+      "last_name": "Oestrovsky"
+    },
+    {
+      "first_name": "Erica",
+      "last_name": "Oestrovsky"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Klassische Musik",
+    "Schifffahrt",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Stavros2001Wandern!",
+    "Annerose_Fotografie78",
+    "MessiTraumfussball",
+    "AudiHansestadt23",
+    "Arzu_KlassikMusik!",
+    "EricaWandern2024",
+    "SchiffahrtTralsund",
+    "FotografieBerg2001",
+    "StavrosBergFoto",
+    "KlassischeMusikArzu"
+  ]
+}

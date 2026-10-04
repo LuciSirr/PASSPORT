@@ -1,0 +1,36 @@
+{
+  "id": "4ef01e43-6d1c-4c76-9c2b-5d07b57fdbf5",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "turistika",
+    "vintage",
+    "knihy"
+  ],
+  "pets": [],
+  "company": "Zdraví Morava s.r.o.",
+  "previous_passwords": [
+    "Kofola2020",
+    "LidlObi33",
+    "Magistra79",
+    "Morava123",
+    "Vinted2022",
+    "Iveta1989",
+    "Sebestova_79",
+    "malovani123",
+    "Brno!2020",
+    "turistika2021"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "1995-11-19"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "0aaf9f4b-06c6-48b0-816f-15e9ff8b61e7",
+  "gender": "male",
+  "age": 68,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kubeš",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Kubešová",
+  "children": [],
+  "interests": [
+    "cestování",
+    "móda",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1956",
+    "Jana2017",
+    "Kubes68",
+    "Karoq2020",
+    "Cestovani123",
+    "PilsnerUrquell",
+    "Usti_nad_Labem",
+    "Lidl1234",
+    "Seriály2024",
+    "Škoda!2017"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1957-06-10"
+}

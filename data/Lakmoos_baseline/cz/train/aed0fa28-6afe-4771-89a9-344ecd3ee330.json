@@ -1,0 +1,40 @@
+{
+  "id": "aed0fa28-6afe-4771-89a9-344ecd3ee330",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Martina",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "auta",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Strojírny Benešov",
+  "previous_passwords": [
+    "Matysek2022",
+    "Vesely123",
+    "MartinaRadek51",
+    "SkodaOctavia98",
+    "LidlOblibenec",
+    "Radek1973",
+    "Hudba!2024",
+    "Cestovani_77",
+    "Octavia4ever",
+    "Matěj07"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1974-11-15"
+}

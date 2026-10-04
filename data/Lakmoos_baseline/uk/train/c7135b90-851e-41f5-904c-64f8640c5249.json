@@ -1,0 +1,40 @@
+{
+  "id": "c7135b90-851e-41f5-904c-64f8640c5249",
+  "gender": "female",
+  "age": 65,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Margaret1959",
+    "MistyCat12",
+    "Hollingsworth65",
+    "Peter1960",
+    "Gardening123",
+    "WestMidlands!",
+    "Knitting4U",
+    "Misty_2020",
+    "Walking3",
+    "M4rg4r3t!"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1960-04-16"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "d8a55a81-a497-49cc-823a-fe60b3351b29",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollins",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollins",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "motoring"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Buster"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Graham1958",
+    "Margaret66",
+    "Buster123",
+    "Hollins2020",
+    "OpelCorsa24",
+    "Gardening!1",
+    "Subaru110",
+    "Walking_99",
+    "NorthWest58"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1959-05-05"
+}

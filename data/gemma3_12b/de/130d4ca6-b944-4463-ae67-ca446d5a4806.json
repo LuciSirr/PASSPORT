@@ -1,0 +1,35 @@
+{
+  "id": "130d4ca6-b944-4463-ae67-ca446d5a4806",
+  "age": 34,
+  "birth_date": "1992-08-15",
+  "marital_status": "married",
+  "region": "Sonneberg",
+  "nationality": "german",
+  "company": "Gehringer Bruder GmbH & Co. OHG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Jelena",
+  "self_last_name": "Ziegert",
+  "partner_first_name": "Frieda",
+  "partner_last_name": "Ziegert",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Autos",
+    "Fotografie",
+    "Lokaler Fußballverein",
+    "Brettspiele"
+  ],
+  "previous_passwords": [
+    "VWGolf92!",
+    "Messi2024Wandern",
+    "FotografieSonneberg",
+    "FriedaWanderlust",
+    "AutosLokalerFV!",
+    "Brettspiele1992",
+    "JelenaFotoVW",
+    "SonnebergMessi",
+    "WandernVW2015",
+    "FotografieFrieda"
+  ]
+}

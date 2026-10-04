@@ -1,0 +1,40 @@
+{
+  "id": "f16e71e7-1bed-4c1c-aff2-3938d858949c",
+  "gender": "female",
+  "age": 44,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "british baking",
+    "coastal hiking",
+    "gardener's world"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Westmoor Brokers Ltd",
+  "previous_passwords": [
+    "Fiona1980",
+    "Milo14!",
+    "Ashcroft2020",
+    "Baking123",
+    "Graham80",
+    "Hiking_44",
+    "Gardener2021",
+    "MiloBaker",
+    "Westmoor!9",
+    "CoastalCat80"
+  ],
+  "favorite_hobby": "british baking",
+  "birth_date": "1980-05-14"
+}

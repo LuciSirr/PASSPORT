@@ -1,0 +1,35 @@
+{
+  "id": "7bfaa457-2f76-4623-afab-3aaa1710fb82",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Šimon",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "hry",
+    "kreslení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Sparta2012",
+    "pes1234",
+    "Praha12",
+    "Vesely2023",
+    "kresleni123",
+    "f0tb4l2022",
+    "Hry!2021",
+    "Simon12",
+    "VeselejKluk",
+    "Praha_123"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2013-07-08"
+}

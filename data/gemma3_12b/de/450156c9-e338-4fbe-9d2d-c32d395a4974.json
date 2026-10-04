@@ -1,0 +1,35 @@
+{
+  "id": "450156c9-e338-4fbe-9d2d-c32d395a4974",
+  "age": 70,
+  "birth_date": "1956-10-25",
+  "marital_status": "single",
+  "region": "Erbisdorf",
+  "nationality": "german",
+  "company": "Liebelt GmbH",
+  "car_brand": "Ford",
+  "self_first_name": "Gerti",
+  "self_last_name": "Schäfer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Schach",
+    "Volksmusik",
+    "Deutsche Fernsehspiele",
+    "Briefmarken"
+  ],
+  "previous_passwords": [
+    "DeutscheSpiele70",
+    "FordWander1956",
+    "SchachErbisdorf!",
+    "WandernSchäfer25",
+    "VolksmusikFord",
+    "Briefmarken70!",
+    "SchachJoeRogan",
+    "ErbisdorfWalks!",
+    "FordSchach1956",
+    "DeutscheSpieleGerti"
+  ]
+}

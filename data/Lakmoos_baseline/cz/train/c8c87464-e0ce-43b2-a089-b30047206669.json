@@ -1,0 +1,39 @@
+{
+  "id": "c8c87464-e0ce-43b2-a089-b30047206669",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "procházky",
+    "vaření",
+    "čtení"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Pražské sociální služby",
+  "previous_passwords": [
+    "Iveta1980",
+    "Micka123",
+    "PetrSebe45",
+    "Prochazky2020",
+    "Kofola2020",
+    "Praha!59",
+    "Sebe1234",
+    "Cteni2021",
+    "Micka!80"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1981-03-16"
+}

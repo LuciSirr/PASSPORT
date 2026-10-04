@@ -1,0 +1,44 @@
+{
+  "id": "44c042a6-7a1a-4917-91c2-5e39cf516493",
+  "age": 48,
+  "birth_date": "1978-07-03",
+  "marital_status": "married",
+  "region": "Kojetín",
+  "nationality": "czech",
+  "company": "Pešková",
+  "car_brand": "Citroën",
+  "self_first_name": "Hedvika",
+  "self_last_name": "Sedláčková",
+  "partner_first_name": "Ivan",
+  "partner_last_name": "Sedláčková",
+  "children": [
+    {
+      "first_name": "Radek",
+      "last_name": "Sedláček"
+    },
+    {
+      "first_name": "Mojmír",
+      "last_name": "Tůma"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivovarnictví",
+    "Slezský fotbal",
+    "historie Olomouce"
+  ],
+  "previous_passwords": [
+    "CitroenRadek1978",
+    "TuristikaIvan!",
+    "OlomoucHistory78",
+    "RybářMojmír22",
+    "SlezskýFotbalMessi",
+    "PivovarnictviRadek",
+    "Radek_Turistika",
+    "Citroen78Tůma",
+    "IvanSedlackova1",
+    "Turistika_1978"
+  ]
+}

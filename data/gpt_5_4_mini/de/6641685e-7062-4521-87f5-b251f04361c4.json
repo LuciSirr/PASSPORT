@@ -1,0 +1,49 @@
+{
+  "id": "6641685e-7062-4521-87f5-b251f04361c4",
+  "age": 29,
+  "birth_date": "1997-04-28",
+  "marital_status": "married",
+  "region": "Koblenz",
+  "nationality": "german",
+  "company": "Herrmann GmbH & Co. KG",
+  "car_brand": "Toyota",
+  "self_first_name": "Isabelle",
+  "self_last_name": "Girschner",
+  "partner_first_name": "Alf",
+  "partner_last_name": "Girschner",
+  "children": [
+    {
+      "first_name": "Klaus-Michael",
+      "last_name": "Girschner"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Brigitta"
+    },
+    {
+      "pet_type": "fish",
+      "pet_name": "Heiko"
+    }
+  ],
+  "interests": [
+    "Wandern im Mittelrheintal",
+    "Fußball",
+    "Kaffee und Cafés",
+    "Gaming",
+    "Radsport"
+  ],
+  "previous_passwords": [
+    "WanderKoblenz97!",
+    "AlfKaffee28",
+    "KSC_Rad97",
+    "ToyotaHeiko7",
+    "GamingKlaus97",
+    "RheinHike97",
+    "Brigitta29!",
+    "FCBayern29",
+    "CafesGirschner7",
+    "Radsport97_Alf"
+  ]
+}

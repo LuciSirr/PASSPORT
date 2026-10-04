@@ -1,0 +1,49 @@
+{
+  "id": "cfd7f34a-f28a-4ca3-bf55-2a71199572c4",
+  "age": 32,
+  "birth_date": "1994-06-13",
+  "marital_status": "married",
+  "region": "Scheinfeld",
+  "nationality": "german",
+  "company": "Wilms e.V.",
+  "car_brand": "Audi",
+  "self_first_name": "Leila",
+  "self_last_name": "Börner",
+  "partner_first_name": "Veli",
+  "partner_last_name": "Börner",
+  "children": [
+    {
+      "first_name": "Karl-Peter",
+      "last_name": "Börner"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Börner"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Wilfried"
+    }
+  ],
+  "interests": [
+    "Fotografie",
+    "Wandern",
+    "FC Bayern München",
+    "Kaffee",
+    "Lesen"
+  ],
+  "previous_passwords": [
+    "KarlPeter1994",
+    "AudiWanderlust!",
+    "BayernMesse23",
+    "WilfriedKaffee",
+    "LeilaFoto2024",
+    "VeliBörnerWandern",
+    "MarleneFCB_88",
+    "KaffeepodcastJoe",
+    "Scheinfeld_Foto",
+    "BayernKarlPeter"
+  ]
+}

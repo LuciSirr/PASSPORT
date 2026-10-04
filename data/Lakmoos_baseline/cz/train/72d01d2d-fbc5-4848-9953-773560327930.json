@@ -1,0 +1,44 @@
+{
+  "id": "72d01d2d-fbc5-4848-9953-773560327930",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "móda",
+    "nakupování",
+    "televize"
+  ],
+  "pets": [],
+  "company": "Plzeňská sociální péče s.r.o.",
+  "previous_passwords": [
+    "Matysek08",
+    "EliVoda",
+    "Fabia1999",
+    "Plzen123",
+    "Kofola2020",
+    "Radek43",
+    "Vesely2024",
+    "Eliška08",
+    "Moda!123",
+    "McD346"
+  ],
+  "favorite_hobby": "móda",
+  "birth_date": "1982-08-11"
+}

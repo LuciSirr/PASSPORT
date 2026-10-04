@@ -1,0 +1,38 @@
+{
+  "id": "1039cacf-7432-4642-9287-cb02ed6bf072",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Archie",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "pokemon",
+    "lego"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Biscuit"
+    }
+  ],
+  "company": "Westfield Student Services",
+  "previous_passwords": [
+    "Archie2016",
+    "Biscuit123",
+    "LegoMaster8",
+    "P0kemonGo!",
+    "Hollis2024",
+    "BiscuitLego",
+    "Westfield16",
+    "Pikachu8",
+    "Hollis!Biscuit"
+  ],
+  "favorite_hobby": "pokemon",
+  "birth_date": "2016-06-12"
+}

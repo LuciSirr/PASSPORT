@@ -1,0 +1,35 @@
+{
+  "id": "5a43a948-ab50-4b20-9778-2df598a10fb6",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "divorced",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "kutilství"
+  ],
+  "pets": [],
+  "company": "Jihočeská výroba s.r.o.",
+  "previous_passwords": [
+    "Radek123",
+    "Vesely1964",
+    "Fabia2007",
+    "Sumava100",
+    "Albert2023",
+    "Turistika57",
+    "Cyklistika2024",
+    "Mountfield!",
+    "CeskaPosta10",
+    "Kutil_999"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1966-03-10"
+}

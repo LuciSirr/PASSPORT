@@ -1,0 +1,36 @@
+{
+  "id": "a371fcce-7e91-45ce-a24d-58489ecef1a1",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Ingrid",
+  "self_last_name": "Schreber",
+  "partner_first_name": "Klaus",
+  "partner_last_name": "Schreber",
+  "children": [],
+  "interests": [
+    "gartenarbeit",
+    "lesen",
+    "spazieren",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Ingrid1955",
+    "KlausSchatz!",
+    "Schreber123",
+    "Sommer06",
+    "Gartenarbeit2020",
+    "AOK_43000",
+    "Sachsen!55",
+    "Haus1948",
+    "Lesen_1",
+    "KlausIngrid"
+  ],
+  "favorite_hobby": "gartenarbeit",
+  "birth_date": "1956-08-15"
+}

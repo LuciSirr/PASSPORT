@@ -1,0 +1,48 @@
+{
+  "id": "5185a7aa-726c-4842-83cb-2a3a86c46db2",
+  "age": 48,
+  "birth_date": "1978-01-15",
+  "marital_status": "married",
+  "region": "Klimkovice",
+  "nationality": "czech",
+  "company": "Soukupová",
+  "car_brand": "Kia",
+  "self_first_name": "Kristýna",
+  "self_last_name": "Burešová",
+  "partner_first_name": "Radovan",
+  "partner_last_name": "Bureš",
+  "children": [
+    {
+      "first_name": "Klaudie",
+      "last_name": "Burešová"
+    },
+    {
+      "first_name": "Bohumila",
+      "last_name": "Burešová"
+    },
+    {
+      "first_name": "Renáta",
+      "last_name": "Burešová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "historie",
+    "pivovarnictví",
+    "folklór"
+  ],
+  "previous_passwords": [
+    "KlaudieTuristika78",
+    "RenataFolklór2024",
+    "KiaRybařeníBořemila",
+    "RadovanHistorie15",
+    "BohumilaPivovarnictví!",
+    "TuristikaKlimkovice",
+    "KristýnaMessi2023",
+    "FolklórRadovanKlaudie",
+    "HistorieKia78!",
+    "RybařeníBohumilaR"
+  ]
+}

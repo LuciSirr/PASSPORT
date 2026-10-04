@@ -1,0 +1,44 @@
+{
+  "id": "6382e00c-899a-4ae0-9f02-67c74dae0c32",
+  "age": 48,
+  "birth_date": "1978-06-26",
+  "marital_status": "married",
+  "region": "Schongau",
+  "nationality": "german",
+  "company": "Geißler Freudenberger GmbH",
+  "car_brand": "Audi",
+  "self_first_name": "Helma",
+  "self_last_name": "Rogner",
+  "partner_first_name": "Heinz-Günther",
+  "partner_last_name": "Rogner",
+  "children": [
+    {
+      "first_name": "Hüseyin",
+      "last_name": "Rogner"
+    },
+    {
+      "first_name": "Igor",
+      "last_name": "Rogner"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Radfahren",
+    "Bayerische Küche",
+    "FC Bayern München",
+    "Gartenarbeit"
+  ],
+  "previous_passwords": [
+    "Bayern1978!",
+    "Wandern26_",
+    "AudiSchongau8",
+    "Radeln78!",
+    "HuiyssenBayern",
+    "HeinzGiro26",
+    "Garten26!",
+    "MiaSanMia78",
+    "HuoBayern!",
+    "SchongauRadtour8"
+  ]
+}

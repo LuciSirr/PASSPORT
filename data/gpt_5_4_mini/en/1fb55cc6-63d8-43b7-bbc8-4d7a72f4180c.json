@@ -1,0 +1,40 @@
+{
+  "id": "1fb55cc6-63d8-43b7-bbc8-4d7a72f4180c",
+  "age": 64,
+  "birth_date": "1962-01-20",
+  "marital_status": "married",
+  "region": "New Julian",
+  "nationality": "english",
+  "company": "Wade-Price",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Wendy",
+  "self_last_name": "Chapman",
+  "partner_first_name": "Ashley",
+  "partner_last_name": "Chapman",
+  "children": [
+    {
+      "first_name": "Marian",
+      "last_name": "Chapman"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "gardening",
+    "local history",
+    "birdwatching",
+    "classic rock",
+    "walking"
+  ],
+  "previous_passwords": [
+    "MerseyBird64",
+    "AshGarden62!",
+    "MercedesWalk20",
+    "RockWendy62",
+    "MarianHist62",
+    "Bluebird1962",
+    "AshleyRock64",
+    "NewJulianBird!",
+    "GardenChap62",
+    "Classic64Rock"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3d3b6755-250e-416f-8e2e-49fbf5aa8ba5",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Poppy",
+  "self_last_name": "Harrington",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "peppa pig",
+    "building blocks"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Poppy2022",
+    "PeppaPig123",
+    "Blocks_22",
+    "HarringtonPeppa",
+    "PeppaPig!2022",
+    "PoppyBlocks7",
+    "PeppaPig_07",
+    "Piggy2022!",
+    "Harr1ngt0n22",
+    "PeppaPigBlocks"
+  ],
+  "favorite_hobby": "peppa pig",
+  "birth_date": "2018-07-15"
+}

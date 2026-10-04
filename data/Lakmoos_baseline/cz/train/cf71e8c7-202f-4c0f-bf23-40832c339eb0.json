@@ -1,0 +1,40 @@
+{
+  "id": "cf71e8c7-202f-4c0f-bf23-40832c339eb0",
+  "gender": "female",
+  "age": 59,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselková",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Veselka",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "čtení",
+    "zahrada"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Stavby Sever s.r.o.",
+  "previous_passwords": [
+    "Miroslav1975",
+    "Micka2020",
+    "Zahrada59",
+    "UstiNadLabem1",
+    "Nakupovani123",
+    "Veselka!75",
+    "Ivana1975",
+    "Tesco2022",
+    "Kofola59",
+    "Stavba2020"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1966-06-29"
+}

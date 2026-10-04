@@ -1,0 +1,49 @@
+{
+  "id": "5882f4b8-e5eb-4301-8341-be3efaffa59c",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Hyundai",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Ivy",
+      "last_name": "Hollingsworth"
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Hollingsworth"
+    }
+  ],
+  "interests": [
+    "arsenal fc",
+    "top gear",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Graham1972",
+    "Milo!15",
+    "ArsenalFC_123",
+    "TopGear2020",
+    "Hollingsworth4cat",
+    "Gardening_72",
+    "MiloArsenal!",
+    "London_1972",
+    "TopGearMilo",
+    "Arsenal!1972"
+  ],
+  "favorite_hobby": "arsenal fc",
+  "birth_date": "1972-04-15"
+}

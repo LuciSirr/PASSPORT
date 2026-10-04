@@ -1,0 +1,35 @@
+{
+  "id": "45617656-6f35-47bf-8523-5758eee823dc",
+  "gender": "female",
+  "age": 76,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marjorie",
+  "self_last_name": "Fenwick",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Fenwick",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crossword",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Fenwick & Rowe Consulting",
+  "previous_passwords": [
+    "Marjorie1948",
+    "Fenwick20",
+    "Geoffrey123",
+    "London!76",
+    "Baking4Fun",
+    "Crossword22",
+    "Fenwick_1948",
+    "Marj!e76",
+    "GeoffreyFenwick",
+    "Garden1948"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1950-01-09"
+}

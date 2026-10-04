@@ -1,0 +1,40 @@
+{
+  "id": "986e87c5-038a-4c2e-8ec1-ee7492f755f3",
+  "gender": "female",
+  "age": 23,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Veronika",
+  "self_last_name": "Kučerová",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Kučerová",
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Kučerová"
+    }
+  ],
+  "interests": [
+    "vaření",
+    "nakupování",
+    "internet"
+  ],
+  "pets": [],
+  "company": "Moravská domácnost s.r.o.",
+  "previous_passwords": [
+    "Eliška2022",
+    "verca123",
+    "morava6000",
+    "martinverca",
+    "bytsny79",
+    "EliškaKucharka",
+    "Nakupovani2021",
+    "Kucerova!23",
+    "MartinEliška",
+    "VercaMorava"
+  ],
+  "favorite_hobby": "vaření",
+  "birth_date": "2002-05-21"
+}

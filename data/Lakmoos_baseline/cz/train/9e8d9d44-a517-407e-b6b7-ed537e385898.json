@@ -1,0 +1,34 @@
+{
+  "id": "9e8d9d44-a517-407e-b6b7-ed537e385898",
+  "gender": "male",
+  "age": 73,
+  "marital_status": "widower/widow",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "divadlo",
+    "křížovky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Základní škola Olomouc-Nová Ulice",
+  "previous_passwords": [
+    "Vladimir1951",
+    "Konečný2020",
+    "Divadlo73",
+    "Olomouc7899",
+    "Nakupovani123",
+    "Křížovky51",
+    "PivoBezAlkoholu",
+    "BytOlomouc!",
+    "Ucitel_2024"
+  ],
+  "favorite_hobby": "divadlo",
+  "birth_date": "1952-11-01"
+}

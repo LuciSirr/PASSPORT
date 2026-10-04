@@ -1,0 +1,40 @@
+{
+  "id": "986c3f95-e0f4-43cf-9238-83ca956fb0ae",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jarmila",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "zahrada",
+    "auta",
+    "křížovky"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Lesní a zemědělská služba Vysočina",
+  "previous_passwords": [
+    "Rex2001",
+    "Zahrada123",
+    "Vesely59",
+    "Jarmila2020",
+    "Superb_2000",
+    "Vysočina!23",
+    "KfcOblibenec",
+    "Pilsner211",
+    "Rex!59",
+    "Auta_112"
+  ],
+  "favorite_hobby": "zahrada",
+  "birth_date": "1965-09-04"
+}

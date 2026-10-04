@@ -1,0 +1,45 @@
+{
+  "id": "6d605000-6d6e-421a-99a7-276be58bd054",
+  "age": 37,
+  "birth_date": "1989-03-09",
+  "marital_status": "married",
+  "region": "Vohenstrauß",
+  "nationality": "german",
+  "company": "Lindau",
+  "car_brand": "Audi",
+  "self_first_name": "Gundi",
+  "self_last_name": "Holzapfel",
+  "partner_first_name": "Bernadette",
+  "partner_last_name": "Holzapfel",
+  "children": [
+    {
+      "first_name": "Margaret",
+      "last_name": "Holzapfel"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Alban"
+    }
+  ],
+  "interests": [
+    "Wandern in der Oberpfalz",
+    "Fußball",
+    "Grillen",
+    "Heimwerken",
+    "Bayerische Biergärten"
+  ],
+  "previous_passwords": [
+    "Wander89!",
+    "Biergarten37",
+    "AudiGrill89",
+    "AlbanVogel9",
+    "Bernadette!9",
+    "BayernFußball89",
+    "Oberpfalz_Hike",
+    "Holzapfel37!",
+    "Grillen89#",
+    "Vohenstrauss!37"
+  ]
+}

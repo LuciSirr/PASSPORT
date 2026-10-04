@@ -1,0 +1,35 @@
+{
+  "id": "314a0c25-11d2-48aa-8aab-5b5fee55a004",
+  "gender": "male",
+  "age": 61,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Novotný",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Novotná",
+  "children": [],
+  "interests": [
+    "sběratelství",
+    "čtení",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Strojírny Central Bohemia",
+  "previous_passwords": [
+    "RadekJana2023",
+    "Novotny77000",
+    "Sberatelstvi61",
+    "Magnesia80",
+    "Lidl2022",
+    "Datart4888",
+    "JanaRadek!",
+    "Nakupovani123",
+    "Novotny1983",
+    "KofolaBezCukru"
+  ],
+  "favorite_hobby": "sběratelství",
+  "birth_date": "1964-04-17"
+}

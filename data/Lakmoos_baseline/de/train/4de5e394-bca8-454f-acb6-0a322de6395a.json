@@ -1,0 +1,34 @@
+{
+  "id": "4de5e394-bca8-454f-acb6-0a322de6395a",
+  "gender": "female",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lesen",
+    "basteln",
+    "schwimmen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lina2014",
+    "Kreutzmann123",
+    "Lesen4ever",
+    "Basteln2020",
+    "Schwimmen07",
+    "NRW_Maedchen",
+    "Lina!10",
+    "Kreutzmann_10",
+    "Sommerferien22"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "2016-03-10"
+}

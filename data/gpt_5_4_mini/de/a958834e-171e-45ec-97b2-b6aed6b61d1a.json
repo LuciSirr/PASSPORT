@@ -1,0 +1,40 @@
+{
+  "id": "a958834e-171e-45ec-97b2-b6aed6b61d1a",
+  "age": 39,
+  "birth_date": "1987-02-12",
+  "marital_status": "divorced",
+  "region": "Eisenach",
+  "nationality": "german",
+  "company": "Johann Hertrampf AG",
+  "car_brand": "Ford",
+  "self_first_name": "Johanna",
+  "self_last_name": "Eberhardt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Bozena",
+      "last_name": "Eberhardt"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern im Thüringer Wald",
+    "Fußball",
+    "Kochen",
+    "Radfahren",
+    "Geschichte und Burgen"
+  ],
+  "previous_passwords": [
+    "Wartburg87!",
+    "Bozena1987",
+    "Hainich39",
+    "FCBayern87",
+    "FordEis72",
+    "RadelnEisenach1",
+    "Kochen12!",
+    "Tivoli1987",
+    "Burgen87#",
+    "ThueringerWald39"
+  ]
+}

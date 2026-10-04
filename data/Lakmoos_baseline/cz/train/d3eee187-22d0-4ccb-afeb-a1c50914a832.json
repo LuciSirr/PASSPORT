@@ -1,0 +1,40 @@
+{
+  "id": "d3eee187-22d0-4ccb-afeb-a1c50914a832",
+  "gender": "female",
+  "age": 23,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Lucie",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šebestová",
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Šebestová"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "filmy",
+    "internet"
+  ],
+  "pets": [],
+  "company": "Moravská služba domácností",
+  "previous_passwords": [
+    "Lucie2021",
+    "Eliška123",
+    "móda2022",
+    "Šebestová1000",
+    "rohlikcz",
+    "Petr2022",
+    "Eliška2!",
+    "Morava_23",
+    "Filmy321",
+    "Nakupovani_!"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "2003-03-19"
+}

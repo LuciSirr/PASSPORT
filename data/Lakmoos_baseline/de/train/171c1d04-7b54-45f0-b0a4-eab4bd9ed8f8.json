@@ -1,0 +1,34 @@
+{
+  "id": "171c1d04-7b54-45f0-b0a4-eab4bd9ed8f8",
+  "gender": "male",
+  "age": 31,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "Seat",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "streaming",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Sachsen Service GmbH",
+  "previous_passwords": [
+    "Tobi1992",
+    "Kreutzmann123",
+    "SeatAteca2018",
+    "Spring2022!",
+    "SachsenAnhalt88",
+    "Reisen_2023",
+    "Apple4Life",
+    "Fussball_96",
+    "Sommer!August",
+    "Allianz321"
+  ],
+  "favorite_hobby": "streaming",
+  "birth_date": "1995-01-11"
+}

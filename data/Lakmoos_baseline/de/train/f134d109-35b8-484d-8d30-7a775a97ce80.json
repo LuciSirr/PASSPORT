@@ -1,0 +1,35 @@
+{
+  "id": "f134d109-35b8-484d-8d30-7a775a97ce80",
+  "gender": "male",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "bremen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fussball",
+    "gaming",
+    "musik"
+  ],
+  "pets": [],
+  "company": "Bremen Studentenhilfe",
+  "previous_passwords": [
+    "Lennart2006",
+    "Krause123",
+    "Bremen07!",
+    "Fussball4ever",
+    "Studentenhilfe2023",
+    "Gaming_17",
+    "Musikliebhaber",
+    "Krause_7000",
+    "LennartBremen",
+    "Sommer2006"
+  ],
+  "favorite_hobby": "fussball",
+  "birth_date": "2008-04-11"
+}

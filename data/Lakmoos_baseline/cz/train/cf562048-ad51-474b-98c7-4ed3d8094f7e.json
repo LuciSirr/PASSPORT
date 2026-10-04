@@ -1,0 +1,36 @@
+{
+  "id": "cf562048-ad51-474b-98c7-4ed3d8094f7e",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "auta",
+    "filmy",
+    "nakupování",
+    "relaxace"
+  ],
+  "pets": [],
+  "company": "Krajský úřad Jihočeského kraje",
+  "previous_passwords": [
+    "Toyota2019",
+    "Proace595000",
+    "Blanik2020",
+    "Penny378",
+    "KFCoblibenec",
+    "Radek1979",
+    "Petra2023",
+    "Vesely123",
+    "auta2020",
+    "Filmy!2022"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1982-05-08"
+}

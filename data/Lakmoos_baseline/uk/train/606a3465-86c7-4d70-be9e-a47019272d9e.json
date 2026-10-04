@@ -1,0 +1,36 @@
+{
+  "id": "606a3465-86c7-4d70-be9e-a47019272d9e",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gillian",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Roger",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [],
+  "company": "South Downs Scientific Consulting",
+  "previous_passwords": [
+    "Gillian1961",
+    "Roger63",
+    "Hollis4000",
+    "Travel4Life",
+    "Gardening123",
+    "SouthDowns2020",
+    "Reading!1",
+    "Hollis!61",
+    "G1llian!",
+    "Walking_2022"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1962-09-01"
+}

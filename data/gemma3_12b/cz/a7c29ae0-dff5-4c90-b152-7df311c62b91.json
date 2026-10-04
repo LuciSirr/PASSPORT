@@ -1,0 +1,35 @@
+{
+  "id": "a7c29ae0-dff5-4c90-b152-7df311c62b91",
+  "age": 38,
+  "birth_date": "1988-12-16",
+  "marital_status": "married",
+  "region": "Železný Brod",
+  "nationality": "czech",
+  "company": "Doležal",
+  "car_brand": "Škoda",
+  "self_first_name": "Zbyněk",
+  "self_last_name": "Beránek",
+  "partner_first_name": "Klára",
+  "partner_last_name": "Beránková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivo",
+    "hudba Karla Gotta",
+    "rybaření",
+    "automobilismus"
+  ],
+  "previous_passwords": [
+    "Klara2018",
+    "SkodaOctavia88",
+    "KarlaGotta19",
+    "TuristikaZelezny",
+    "Rysar2024!",
+    "MessiFan1988",
+    "PivoZbynek12",
+    "AutomobilismusKb",
+    "Zbynek_Rybar77",
+    "Gotthudba4ever"
+  ]
+}

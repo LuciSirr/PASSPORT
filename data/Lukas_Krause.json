@@ -1,0 +1,35 @@
+{
+  "id": "0cd4be35-037f-470c-8dc2-68d91b06263c",
+  "gender": "male",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lukas",
+  "self_last_name": "Krause",
+  "birth_date": "2009-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "minecraft",
+    "bundesliga"
+  ],
+  "pets": [],
+  "company": "Schülerhilfe Magdeburg",
+  "previous_passwords": [
+    "Lukas2009",
+    "KrauseFIFA23",
+    "minecraft_17",
+    "bundesliga2024",
+    "Schuelerhilfe09",
+    "F1f4_Magdeburg",
+    "Krause!17",
+    "Lukas_Minecraft",
+    "FIFA_2009",
+    "bund3sl1g4_23"
+  ],
+  "favorite_hobby": "fifa"
+}

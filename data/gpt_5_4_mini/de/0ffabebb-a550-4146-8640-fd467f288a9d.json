@@ -1,0 +1,35 @@
+{
+  "id": "0ffabebb-a550-4146-8640-fd467f288a9d",
+  "age": 36,
+  "birth_date": "1990-10-01",
+  "marital_status": "single",
+  "region": "Gadebusch",
+  "nationality": "german",
+  "company": "Sontag AG & Co. KG",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Ottmar",
+  "self_last_name": "Schinke",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Heimwerken",
+    "Schleswig-Holstein-Fußball"
+  ],
+  "previous_passwords": [
+    "HSV1990!",
+    "Wandern90_",
+    "Mercedes01",
+    "KochenG6",
+    "Holstein10!",
+    "BVB_Ottmar36",
+    "Hiking90Gd",
+    "Fussball91!",
+    "Schleswig90",
+    "Heimwerk36!"
+  ]
+}

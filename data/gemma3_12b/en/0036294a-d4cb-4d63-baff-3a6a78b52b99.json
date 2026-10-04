@@ -1,0 +1,35 @@
+{
+  "id": "0036294a-d4cb-4d63-baff-3a6a78b52b99",
+  "age": 26,
+  "birth_date": "2000-08-26",
+  "marital_status": "married",
+  "region": "East Wayneport",
+  "nationality": "english",
+  "company": "Roberts Ltd",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Ryan",
+  "self_last_name": "Clarke",
+  "partner_first_name": "Lynda",
+  "partner_last_name": "Clarke",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Hiking",
+    "Indie Music",
+    "Photography",
+    "Board Games",
+    "Local Craft Breweries"
+  ],
+  "previous_passwords": [
+    "vwSummit2020",
+    "IndieFestLynda",
+    "PhotographyEast",
+    "BoardGameRyan!",
+    "MessiClarke08",
+    "BreweryHike26",
+    "LyndaPhoto2000",
+    "ClarkeSummit!",
+    "HikingIndieR",
+    "EastWayneBrew"
+  ]
+}

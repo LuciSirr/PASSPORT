@@ -1,0 +1,49 @@
+{
+  "id": "e60c0826-c919-4149-b4f2-9f05abdcbfde",
+  "gender": "female",
+  "age": 58,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "KIA",
+  "self_first_name": "Ivana",
+  "self_last_name": "Konečná",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Konečný",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Konečná"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Konečný"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "čtení",
+    "procházky"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bára"
+    }
+  ],
+  "company": "Sociální služby Ostravsko",
+  "previous_passwords": [
+    "Tereza2016",
+    "Matysek08",
+    "KiaCeeed18",
+    "Tesco2022",
+    "Ivana123",
+    "BaraPes1",
+    "Nakupovani77",
+    "Petr1970",
+    "Prochazka!",
+    "Konecna58"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1968-02-29"
+}

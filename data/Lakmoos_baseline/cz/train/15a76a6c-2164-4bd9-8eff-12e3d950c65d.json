@@ -1,0 +1,36 @@
+{
+  "id": "15a76a6c-2164-4bd9-8eff-12e3d950c65d",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Seat",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "fitness",
+    "kino",
+    "facebook"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Barbora2003",
+    "Vesela19",
+    "Ibiza_999",
+    "KofolaLime",
+    "Redbullka123",
+    "Malovani2022",
+    "Billa554",
+    "Barca123",
+    "Fitnesska03",
+    "Kino!2021"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2007-03-17"
+}

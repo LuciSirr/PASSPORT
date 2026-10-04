@@ -1,0 +1,35 @@
+{
+  "id": "e9464aa9-d257-41c1-8e89-f68a7bd770fc",
+  "age": 45,
+  "birth_date": "1981-08-09",
+  "marital_status": "single",
+  "region": "Mirovice",
+  "nationality": "czech",
+  "company": "Mach",
+  "car_brand": "Škoda",
+  "self_first_name": "Bohumil",
+  "self_last_name": "Ježek",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "zahrádkaření",
+    "vaření",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "Slavia81!",
+    "skoda1981",
+    "turistika09",
+    "rybareni45",
+    "Mirovice81",
+    "varenicZ9",
+    "Fotbal81!",
+    "zahradka81",
+    "Bohumil09",
+    "CeskaLipa45"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "968ec7bd-8e64-4a7d-aa21-9d14b2b648fe",
+  "gender": "female",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "kreslení",
+    "tanec"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2010",
+    "jahoda123",
+    "Veselka13",
+    "kocour2023",
+    "tanec2022",
+    "kresleni_11",
+    "Terezka!13",
+    "Bohemia2023",
+    "VeseleSrdce1"
+  ],
+  "favorite_hobby": "kreslení",
+  "birth_date": "2013-02-17"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cc17da49-7560-4e6e-a492-9659aa30bbec",
+  "age": 50,
+  "birth_date": "1976-08-26",
+  "marital_status": "divorced",
+  "region": "Cottbus",
+  "nationality": "german",
+  "company": "Mentzel",
+  "car_brand": "Hyundai",
+  "self_first_name": "Michel",
+  "self_last_name": "Jacob",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gartenarbeit",
+    "Wandern",
+    "Kochen",
+    "FC Energie Cottbus"
+  ],
+  "previous_passwords": [
+    "Energie26!",
+    "Hansa1976",
+    "Wandern76",
+    "Kochen26_",
+    "Hyundai50!",
+    "Cottbus26",
+    "Fussball76!",
+    "Garten76#",
+    "Michel08!",
+    "EnergieCb26"
+  ]
+}

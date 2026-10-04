@@ -1,0 +1,35 @@
+{
+  "id": "dba3481c-c8c3-4310-8fe1-79501b49e5c6",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "divadlo",
+    "hudba",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Strojírny Beroun",
+  "previous_passwords": [
+    "Radek1972",
+    "Vesely52",
+    "Kofola2020",
+    "Divadlo123",
+    "Makro!76",
+    "Hudba1972",
+    "CentralBohemia1",
+    "Cteni_2024",
+    "Alza1234"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1973-10-18"
+}

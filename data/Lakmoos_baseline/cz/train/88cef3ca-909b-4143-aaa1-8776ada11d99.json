@@ -1,0 +1,34 @@
+{
+  "id": "88cef3ca-909b-4143-aaa1-8776ada11d99",
+  "gender": "female",
+  "age": 9,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "tanec",
+    "čtení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2015",
+    "prague123",
+    "slunicko9",
+    "jahoda2023",
+    "Malovani123",
+    "Vranova09",
+    "cteni2024",
+    "tanec_321",
+    "Praha!2014"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2017-01-16"
+}

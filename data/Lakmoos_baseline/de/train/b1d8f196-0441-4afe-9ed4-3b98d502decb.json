@@ -1,0 +1,35 @@
+{
+  "id": "b1d8f196-0441-4afe-9ed4-3b98d502decb",
+  "gender": "male",
+  "age": 38,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Tesla",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Sandra",
+  "partner_last_name": "Kreutzmann",
+  "children": [],
+  "interests": [
+    "reisen",
+    "autos",
+    "streaming"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tobias1986",
+    "Sandra2023",
+    "TeslaY2020",
+    "Kreutzmann24!",
+    "Reisen_123",
+    "Niedersachsen84",
+    "Sommer!07",
+    "AutoFan2024",
+    "SandraTobi",
+    "Fussball_86"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1988-03-23"
+}

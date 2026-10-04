@@ -1,0 +1,40 @@
+{
+  "id": "0aa6a457-bec1-4473-a1c5-35295c41afce",
+  "age": 36,
+  "birth_date": "1990-05-13",
+  "marital_status": "married",
+  "region": "South Gracefort",
+  "nationality": "english",
+  "company": "Sheppard-Robinson",
+  "car_brand": "MINI",
+  "self_first_name": "Francesca",
+  "self_last_name": "Davies",
+  "partner_first_name": "Arthur",
+  "partner_last_name": "Davies",
+  "children": [
+    {
+      "first_name": "Valerie",
+      "last_name": "Davies"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "hiking",
+    "podcasts",
+    "home cooking",
+    "fitness",
+    "travel"
+  ],
+  "previous_passwords": [
+    "HikeValerie90",
+    "ArthurRun24!",
+    "MINICook13",
+    "DaviesPod25",
+    "TravelGrace90",
+    "FitArthur36",
+    "ValerieHike13",
+    "CookDavies90!",
+    "Podcast90_Arthur",
+    "MINITravel36"
+  ]
+}

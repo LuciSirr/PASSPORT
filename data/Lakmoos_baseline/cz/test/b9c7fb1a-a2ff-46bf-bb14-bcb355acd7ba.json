@@ -1,0 +1,47 @@
+{
+  "id": "b9c7fb1a-a2ff-46bf-bb14-bcb355acd7ba",
+  "gender": "female",
+  "age": 41,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Petra",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1983-06-12",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohoutová"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "křížovky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Zdraví a Péče Beroun s.r.o.",
+  "previous_passwords": [
+    "Tereza2010",
+    "AdamKohout12",
+    "Micka123",
+    "Kohoutova83",
+    "cestovani2022",
+    "krizovky!11",
+    "PetraMicka",
+    "Martin1980",
+    "Kohout!2023"
+  ],
+  "favorite_hobby": "cestování"
+}

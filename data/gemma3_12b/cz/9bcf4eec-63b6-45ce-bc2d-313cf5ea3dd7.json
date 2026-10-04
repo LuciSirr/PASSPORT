@@ -1,0 +1,53 @@
+{
+  "id": "9bcf4eec-63b6-45ce-bc2d-313cf5ea3dd7",
+  "age": 39,
+  "birth_date": "1987-11-03",
+  "marital_status": "married",
+  "region": "Kosmonosy",
+  "nationality": "czech",
+  "company": "Svobodová Kadlec v.o.s.",
+  "car_brand": "Ford",
+  "self_first_name": "Hana",
+  "self_last_name": "Kadlecová",
+  "partner_first_name": "David",
+  "partner_last_name": "Kadlecová",
+  "children": [
+    {
+      "first_name": "Lukáš",
+      "last_name": "Kadlec"
+    },
+    {
+      "first_name": "Gabriela",
+      "last_name": "Kadlecová"
+    },
+    {
+      "first_name": "Dušan",
+      "last_name": "Kadlec"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Judita"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "vaření",
+    "historie",
+    "hudba Karla Gotta",
+    "fotbal"
+  ],
+  "previous_passwords": [
+    "KarlaGotta87!",
+    "FordFocus2011",
+    "LukášJudita1987",
+    "MessiTuristika!",
+    "GabiHistorie23",
+    "DavidKosmonosy",
+    "VařeníDušan_12",
+    "GabrielaFord!",
+    "Judita87_Gotta",
+    "Kosmonosy_1987"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "93dc79a4-7a5b-46c0-a6ae-2289a8cfec05",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Mini",
+  "self_first_name": "Lena",
+  "self_last_name": "Krause",
+  "birth_date": "2005-02-18",
+  "partner_first_name": "Jonas",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "gossip girl",
+    "audiobooks",
+    "pinterest"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Autohaus Hessenblick",
+  "previous_passwords": [
+    "Lena2005",
+    "Milo_123",
+    "KrauseGG18",
+    "G0ssipGirl!",
+    "Jonas2023",
+    "p1nterest05",
+    "Autohaus!18",
+    "MiloKrause",
+    "Audiobook_05"
+  ],
+  "favorite_hobby": "gossip girl"
+}

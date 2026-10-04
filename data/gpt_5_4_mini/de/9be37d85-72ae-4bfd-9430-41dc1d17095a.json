@@ -1,0 +1,40 @@
+{
+  "id": "9be37d85-72ae-4bfd-9430-41dc1d17095a",
+  "age": 54,
+  "birth_date": "1972-09-06",
+  "marital_status": "married",
+  "region": "Herford",
+  "nationality": "german",
+  "company": "Mentzel GbR",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Jadwiga",
+  "self_last_name": "Bohnbach",
+  "partner_first_name": "Sylvio",
+  "partner_last_name": "Bohnbach",
+  "children": [
+    {
+      "first_name": "Andreas",
+      "last_name": "Bohnbach"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Gartenarbeit",
+    "Kochen",
+    "Heimatverein Herford"
+  ],
+  "previous_passwords": [
+    "HerfordFussball72",
+    "BohnenbachWandern6",
+    "MercedesKochen72!",
+    "HSVHerford1972",
+    "Garten2022Bohn",
+    "SylvioWandern06",
+    "AndreasFuss72!",
+    "Heimatverein54",
+    "KochenHerford72",
+    "MBenz_Garten72"
+  ]
+}

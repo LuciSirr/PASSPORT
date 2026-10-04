@@ -1,0 +1,40 @@
+{
+  "id": "17706170-60a0-4ce6-8d26-972a97320208",
+  "age": 39,
+  "birth_date": "1987-11-03",
+  "marital_status": "married",
+  "region": "Hostouň",
+  "nationality": "czech",
+  "company": "Bílková s.r.o.",
+  "car_brand": "Kia",
+  "self_first_name": "Aneta",
+  "self_last_name": "Vlčková",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Vlčková",
+  "children": [
+    {
+      "first_name": "Klára",
+      "last_name": "Kopecká"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "fotbal",
+    "hudba Karla Gotta",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "KarlaGotta2008",
+    "KopeckaKlara1987",
+    "KiaHostounTuristika!",
+    "MessiFanAneta_87",
+    "VlcovaCooking23",
+    "TuristikaKlara!",
+    "HostounKarlaG",
+    "FotbalMessiAneta",
+    "CestovaniKia_1103",
+    "VařeníKopecká2024"
+  ]
+}

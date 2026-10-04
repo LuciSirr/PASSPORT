@@ -1,0 +1,44 @@
+{
+  "id": "d5f8ddea-800b-473d-9844-92ef6b26aadd",
+  "age": 24,
+  "birth_date": "2002-09-11",
+  "marital_status": "single",
+  "region": "Monschau",
+  "nationality": "german",
+  "company": "Neureuther",
+  "car_brand": "Hyundai",
+  "self_first_name": "Brigitte",
+  "self_last_name": "Sager",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Pero"
+    },
+    {
+      "pet_type": "bird",
+      "pet_name": "Czeslaw"
+    }
+  ],
+  "interests": [
+    "Wandern in der Eifel",
+    "Fußball",
+    "Gaming",
+    "Kaffee & Cafés",
+    "Festivalbesuche"
+  ],
+  "previous_passwords": [
+    "EifelHike11",
+    "MonschauKaffee24",
+    "HyundaiGolf02",
+    "CzeslawBird!",
+    "PeroLizard22",
+    "BayernHike11",
+    "KaffeeMonschau",
+    "Festival24!",
+    "Wandern2002",
+    "HyundaiEifel!"
+  ]
+}

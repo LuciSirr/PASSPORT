@@ -1,0 +1,35 @@
+{
+  "id": "9a3b3570-2fa5-4238-8add-43173f7cfc81",
+  "age": 57,
+  "birth_date": "1969-04-29",
+  "marital_status": "divorced",
+  "region": "Zschopau",
+  "nationality": "german",
+  "company": "Fröhlich Klotz AG & Co. OHG",
+  "car_brand": "BMW",
+  "self_first_name": "Heinz-Otto",
+  "self_last_name": "Geisler",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern im Erzgebirge",
+    "Fußball",
+    "Gartenarbeit",
+    "Heimatgeschichte",
+    "Oldtimer"
+  ],
+  "previous_passwords": [
+    "Wander29!",
+    "Erzgebirge69",
+    "BMW1972!",
+    "RoterBerg97",
+    "Fussball69!",
+    "BFC_Dynamo57",
+    "Garten69_",
+    "Oldtimer29",
+    "Heimat1969",
+    "Zschopau57!"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "834ac951-99f2-4ad2-958c-480740dfd05f",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šimková",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šimková",
+  "children": [],
+  "interests": [
+    "vaření",
+    "nakupování",
+    "sledování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Iveta1989",
+    "Simkova32",
+    "Fabia2009",
+    "Petr2020",
+    "Penny750",
+    "Nakupovani123",
+    "IvySledovani1",
+    "Sinsay950",
+    "PetrIveta21",
+    "Varení2022"
+  ],
+  "favorite_hobby": "vaření",
+  "birth_date": "1994-02-20"
+}

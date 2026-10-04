@@ -1,0 +1,35 @@
+{
+  "id": "5f44b23a-6b76-4e78-b4e2-6d4b807829bf",
+  "age": 41,
+  "birth_date": "1985-02-26",
+  "marital_status": "divorced",
+  "region": "Rudná",
+  "nationality": "czech",
+  "company": "Říhová v.o.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Andrea",
+  "self_last_name": "Šťastná",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "vaření",
+    "hokej",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "turistika85!",
+    "cyklo1985",
+    "Hokej26_",
+    "vareni85",
+    "Volkswagen41",
+    "CeskeFilmy26",
+    "RudnaBike85",
+    "Andrea1985!",
+    "hokejVW41",
+    "Cyklistika26"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e58b1050-38e7-4a9e-a223-1b6b5543c474",
+  "gender": "female",
+  "age": 62,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gillian",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Roger",
+  "partner_last_name": "Ashcombe",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "travel",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Ashcombe Consulting",
+  "previous_passwords": [
+    "Gillian62",
+    "Ashcombe57000",
+    "Misty2018",
+    "Gardening123",
+    "Roger4Gill",
+    "EastHouse5",
+    "Reading!1",
+    "Ashcombe!2020",
+    "Travel_9999",
+    "Crosswords22"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1963-12-09"
+}

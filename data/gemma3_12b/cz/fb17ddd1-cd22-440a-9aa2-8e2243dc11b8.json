@@ -1,0 +1,44 @@
+{
+  "id": "fb17ddd1-cd22-440a-9aa2-8e2243dc11b8",
+  "age": 42,
+  "birth_date": "1984-09-19",
+  "marital_status": "married",
+  "region": "Ledvice",
+  "nationality": "czech",
+  "company": "Vávrová",
+  "car_brand": "Škoda",
+  "self_first_name": "Marcel",
+  "self_last_name": "Kovář",
+  "partner_first_name": "Leona",
+  "partner_last_name": "Kovářová",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Vilém"
+    },
+    {
+      "pet_type": "lizard",
+      "pet_name": "Martin"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "pivo",
+    "rybaření",
+    "čtení knih"
+  ],
+  "previous_passwords": [
+    "Messi1984!",
+    "SkodaVilém23",
+    "TuristikaLeona",
+    "LedvicePivo_84",
+    "RyrzeníMartin!",
+    "FotbalKovar19",
+    "CteniKnih2024",
+    "MessiKovar_1984",
+    "PivoSkodaVilém",
+    "Turistika84Messi"
+  ]
+}

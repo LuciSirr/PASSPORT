@@ -1,0 +1,40 @@
+{
+  "id": "b6c62dcd-8697-4f8a-8e0f-8a79be32f276",
+  "age": 38,
+  "birth_date": "1988-09-20",
+  "marital_status": "married",
+  "region": "Týnec nad Labem",
+  "nationality": "czech",
+  "company": "Fialová Sýkorová v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Štěpánka",
+  "self_last_name": "Kovářová",
+  "partner_first_name": "Vítězslav",
+  "partner_last_name": "Kovářová",
+  "children": [
+    {
+      "first_name": "Soňa",
+      "last_name": "Valentová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "vaření",
+    "cyklistika",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Sparta1988!",
+    "SkodaTour88",
+    "Kovarova2024",
+    "Vitezslav87",
+    "SonaBike20",
+    "CzechFilms88",
+    "TynecLabem1",
+    "Vareni!920",
+    "Fotbal_Skoda7",
+    "Turistika88!"
+  ]
+}

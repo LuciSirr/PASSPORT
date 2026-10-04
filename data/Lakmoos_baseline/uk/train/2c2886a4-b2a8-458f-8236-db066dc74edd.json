@@ -1,0 +1,34 @@
+{
+  "id": "2c2886a4-b2a8-458f-8236-db066dc74edd",
+  "gender": "male",
+  "age": 35,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Gareth",
+  "self_last_name": "McAllister",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "driving",
+    "cycling",
+    "football"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "MiniHatch2002",
+    "Gareth35",
+    "Scotland123",
+    "McAllister2020",
+    "Driving!21",
+    "Mini!29480",
+    "Football_99",
+    "Gareth_9000",
+    "McAllister1"
+  ],
+  "favorite_hobby": "driving",
+  "birth_date": "1991-01-01"
+}

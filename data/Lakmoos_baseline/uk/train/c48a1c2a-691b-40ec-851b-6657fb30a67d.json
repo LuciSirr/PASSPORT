@@ -1,0 +1,40 @@
+{
+  "id": "c48a1c2a-691b-40ec-851b-6657fb30a67d",
+  "gender": "female",
+  "age": 40,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Gareth",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Northwest Venture Solutions",
+  "previous_passwords": [
+    "Fiona1979",
+    "Milo123",
+    "Ashcroft2020",
+    "Travel4Life",
+    "Gardening!1",
+    "Gareth2018",
+    "MiniCabrio17",
+    "Northwest!13",
+    "MazdaCX5",
+    "Reading_88"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1985-06-05"
+}

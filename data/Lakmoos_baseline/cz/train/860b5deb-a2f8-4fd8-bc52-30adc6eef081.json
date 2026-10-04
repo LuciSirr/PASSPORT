@@ -1,0 +1,40 @@
+{
+  "id": "860b5deb-a2f8-4fd8-bc52-30adc6eef081",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselík",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "počítače",
+    "kreslení"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matysek2011",
+    "Hradec123",
+    "Fotbalek",
+    "Veselik12",
+    "Rexik2023",
+    "Kresleni321",
+    "Pocitace11",
+    "Rex!2022",
+    "F0tb4l2024",
+    "VeselikRex12"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2014-02-08"
+}

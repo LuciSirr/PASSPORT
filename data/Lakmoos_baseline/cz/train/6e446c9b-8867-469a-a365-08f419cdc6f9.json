@@ -1,0 +1,34 @@
+{
+  "id": "6e446c9b-8867-469a-a365-08f419cdc6f9",
+  "gender": "male",
+  "age": 77,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Suzuki",
+  "self_first_name": "Vladislav",
+  "self_last_name": "Kubeš",
+  "partner_first_name": "Jarmila",
+  "partner_last_name": "Kubešová",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vitara2015",
+    "Jarmila77",
+    "Lidl603",
+    "BohemiaSekt19",
+    "Penzista19",
+    "Kubeš1967",
+    "Zahrada123",
+    "Krizovky2020",
+    "SuzukiVitara!",
+    "JarmilaKubešová77"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1948-11-25"
+}

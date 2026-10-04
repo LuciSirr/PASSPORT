@@ -1,0 +1,40 @@
+{
+  "id": "9998c3c1-5288-40e9-a354-f6d796af0f29",
+  "gender": "female",
+  "age": 23,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Nikola",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Tomáš",
+  "partner_last_name": "Veselý",
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "instagram",
+    "nakupování",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Moravská služba s.r.o.",
+  "previous_passwords": [
+    "Eliška2022",
+    "Nikola123",
+    "Vesela17",
+    "TomNik2021",
+    "Globus789",
+    "Eliška!22",
+    "Nakupovani2020",
+    "Netflix_23",
+    "Morava2021",
+    "Tomášek17"
+  ],
+  "favorite_hobby": "instagram",
+  "birth_date": "2002-07-21"
+}

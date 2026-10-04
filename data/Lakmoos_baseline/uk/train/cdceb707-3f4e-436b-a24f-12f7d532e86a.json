@@ -1,0 +1,39 @@
+{
+  "id": "cdceb707-3f4e-436b-a24f-12f7d532e86a",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Gareth",
+  "self_last_name": "Penrose",
+  "partner_first_name": "Cerys",
+  "partner_last_name": "Penrose",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Penrose Consulting Ltd",
+  "previous_passwords": [
+    "Gareth1966",
+    "Baxter123",
+    "Penrose9000",
+    "Cerys4ever",
+    "Cycling2020",
+    "Gard3n!ng",
+    "Baxter66",
+    "Wales_58",
+    "Penrose!1",
+    "Cerys1966"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1968-03-18"
+}

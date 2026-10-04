@@ -1,0 +1,33 @@
+{
+  "id": "f5854482-ee3c-4067-92e9-cf230cd4be9e",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lukas",
+  "self_last_name": "Kuhn",
+  "birth_date": "2018-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "lego"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2019",
+    "pawpatrol123",
+    "KuhnLego",
+    "lego_2019",
+    "P4wP4tr0l!",
+    "Kuhn10Juni",
+    "LukasLego19",
+    "pawpatrol_Kuhn",
+    "L3g0!2019"
+  ],
+  "favorite_hobby": "paw patrol"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "db7a8929-c00e-4a23-b047-40480d738e45",
+  "gender": "female",
+  "age": 68,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Ashcombe",
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Tilly"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Marion1956",
+    "Tilly123",
+    "Ashcombe68",
+    "Geoffrey!56",
+    "Knitting2020",
+    "Garden4Life",
+    "TillyAshcombe",
+    "Crosswords7",
+    "MarionCat56"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1957-12-27"
+}

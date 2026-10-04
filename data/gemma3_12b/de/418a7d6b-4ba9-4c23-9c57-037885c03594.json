@@ -1,0 +1,45 @@
+{
+  "id": "418a7d6b-4ba9-4c23-9c57-037885c03594",
+  "age": 37,
+  "birth_date": "1989-10-01",
+  "marital_status": "married",
+  "region": "Senftenberg",
+  "nationality": "german",
+  "company": "Striebitz",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Isabel",
+  "self_last_name": "Junken",
+  "partner_first_name": "Othmar",
+  "partner_last_name": "Junken",
+  "children": [
+    {
+      "first_name": "Hanns",
+      "last_name": "Junken"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Anna-Lena"
+    }
+  ],
+  "interests": [
+    "Fotografie",
+    "Wandern",
+    "Lokaler Fußballverein",
+    "Klassische Musik",
+    "Autos"
+  ],
+  "previous_passwords": [
+    "Hanns2017Foto",
+    "AnnaLenaVW!",
+    "MessiSenftenberg",
+    "OthmarClassic89",
+    "FotografieJunken",
+    "WandernAnnaLena",
+    "VolkswagenHanns",
+    "Lokalerfussball91",
+    "KlassischeMusik2002",
+    "AutoIstGanzGut"
+  ]
+}

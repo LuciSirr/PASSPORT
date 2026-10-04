@@ -1,0 +1,36 @@
+{
+  "id": "941645f4-69ba-4f4a-a23b-eb0a938fb7c2",
+  "gender": "male",
+  "age": 24,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "auta",
+    "streamování",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "AutoServis Veselý",
+  "previous_passwords": [
+    "Radek1999",
+    "Vesely123",
+    "SkodaScala2019",
+    "CentralBohemia98",
+    "dmNakup2021",
+    "Fotbal2020",
+    "BurgerKing22",
+    "Auta!2023",
+    "Vesely!fotbal",
+    "Nakupovani321"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2001-12-25"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "870624e5-3fd1-4891-b35f-fd08c02161cb",
+  "gender": "female",
+  "age": 51,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "cestování",
+    "zahrada",
+    "vaření"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Agro Lesy Morava",
+  "previous_passwords": [
+    "Vesela2018",
+    "Tcross449",
+    "Morava72",
+    "Jaro2020",
+    "BohemiaSekt1",
+    "Micka123",
+    "Petr1972",
+    "Zahrada!22",
+    "Cestovani2021",
+    "Lidl_892"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1974-10-04"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "9e678b35-7b54-4caa-b87b-d779e61b16f9",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Annika",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Tobias",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "lesen",
+    "wandern",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "Gesundheitspflege Rhein",
+  "previous_passwords": [
+    "Annika1995",
+    "Tobias2023!",
+    "Kleinschmidt123",
+    "Wandern_2022",
+    "Gesundheit4",
+    "Sommer95",
+    "Lesen_321",
+    "Podcasts!1",
+    "NRW2023",
+    "Schatz1995"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1996-09-18"
+}

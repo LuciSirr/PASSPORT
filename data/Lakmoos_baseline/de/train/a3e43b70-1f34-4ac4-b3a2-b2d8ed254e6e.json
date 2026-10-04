@@ -1,0 +1,34 @@
+{
+  "id": "a3e43b70-1f34-4ac4-b3a2-b2d8ed254e6e",
+  "gender": "male",
+  "age": 72,
+  "marital_status": "married",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gerhard",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Ingrid",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "wandern",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gerhard1952",
+    "Ingrid123",
+    "Thüringen!72",
+    "Kleinschmidt2020",
+    "Wandern_456",
+    "BKK_4000",
+    "Audiobuch2023",
+    "Sommer!10",
+    "Berlin1952",
+    "SchatzIngrid"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1954-02-14"
+}

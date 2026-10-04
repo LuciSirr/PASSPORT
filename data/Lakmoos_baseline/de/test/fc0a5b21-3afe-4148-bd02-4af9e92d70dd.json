@@ -1,0 +1,34 @@
+{
+  "id": "fc0a5b21-3afe-4148-bd02-4af9e92d70dd",
+  "gender": "female",
+  "age": 45,
+  "marital_status": "single/in a relationship",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Katrin",
+  "self_last_name": "Krause",
+  "birth_date": "1979-06-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "tatort",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "Ostsee Businessberatung Krause",
+  "previous_passwords": [
+    "Krause1979",
+    "Tatort123",
+    "Ostsee!79",
+    "nordicwalking2020",
+    "KrauseTatort",
+    "Tat0rt!14",
+    "Krause!Business",
+    "walking_1979",
+    "KrauseOstsee",
+    "Tatort_0614"
+  ],
+  "favorite_hobby": "tatort"
+}

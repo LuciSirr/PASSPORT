@@ -1,0 +1,40 @@
+{
+  "id": "081daffb-3111-464e-b0f0-26578159c162",
+  "gender": "female",
+  "age": 18,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "Fiat",
+  "self_first_name": "Lena",
+  "self_last_name": "Krause",
+  "birth_date": "2006-07-14",
+  "partner_first_name": "Jonas",
+  "partner_last_name": "Neumann",
+  "children": [],
+  "interests": [
+    "germanys next topmodel",
+    "tiktok",
+    "stranger things"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Autohaus Sachsen-Anhalt",
+  "previous_passwords": [
+    "Lena2006",
+    "Milo123",
+    "Krause!14",
+    "GNTM2023",
+    "stranger11",
+    "T1kT0k_07",
+    "JonasLena",
+    "Milo!2006",
+    "KrauseMilo14",
+    "Topmodel_06"
+  ],
+  "favorite_hobby": "germanys next topmodel"
+}

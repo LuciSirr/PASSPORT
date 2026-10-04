@@ -1,0 +1,35 @@
+{
+  "id": "f712742f-6dee-41bd-b152-51c3fd6d43fc",
+  "age": 39,
+  "birth_date": "1987-12-13",
+  "marital_status": "married",
+  "region": "Badalzungen",
+  "nationality": "german",
+  "company": "Seidel AG & Co. KGaA",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Karola",
+  "self_last_name": "Rudolph",
+  "partner_first_name": "Aleksandr",
+  "partner_last_name": "Rudolph",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Radfahren",
+    "Heimatverein"
+  ],
+  "previous_passwords": [
+    "Fussball87!",
+    "Wandern13_",
+    "Kochen1987",
+    "Radfahren39!",
+    "Heimatverein87",
+    "VW_1987",
+    "AleksFuss13!",
+    "BadalzungWand",
+    "Bayern87Koch",
+    "Rudolph_13!"
+  ]
+}

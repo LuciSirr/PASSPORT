@@ -1,0 +1,53 @@
+{
+  "id": "b65eaa1e-c8dc-4735-8b34-82a437e86f58",
+  "age": 40,
+  "birth_date": "1986-12-23",
+  "marital_status": "married",
+  "region": "Nicolabury",
+  "nationality": "english",
+  "company": "Jenkins-Fletcher",
+  "car_brand": "MG",
+  "self_first_name": "Marilyn",
+  "self_last_name": "Jones",
+  "partner_first_name": "Norman",
+  "partner_last_name": "Jones",
+  "children": [
+    {
+      "first_name": "Stephanie",
+      "last_name": "Jones"
+    },
+    {
+      "first_name": "Emma",
+      "last_name": "Jones"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Brian"
+    },
+    {
+      "pet_type": "snake",
+      "pet_name": "Kimberley"
+    }
+  ],
+  "interests": [
+    "Gardening",
+    "Local History",
+    "Hiking",
+    "Classic Rock Music",
+    "Wildlife Photography"
+  ],
+  "previous_passwords": [
+    "BrianKimberley86",
+    "NicolaburyHike!",
+    "EmmaJonesGarden23",
+    "ClassicRockMG1986",
+    "StephanieHiking!",
+    "WildlifePhotoNJ",
+    "NormanJonesBird",
+    "LocalHistoryEmma",
+    "KimberleyMG!",
+    "GardeningJones86"
+  ]
+}

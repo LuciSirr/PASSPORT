@@ -1,0 +1,41 @@
+{
+  "id": "d6755e2a-ee43-4e52-9a43-a58f45c4a65b",
+  "gender": "female",
+  "age": 23,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Nikola",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Lukáš",
+  "partner_last_name": "Vránová",
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Vránová"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "facebook",
+    "netflix",
+    "móda"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Nikola2021",
+    "eliska123",
+    "Vrana23",
+    "kfcoblibene",
+    "moda2022",
+    "Lukas2020",
+    "Eliška!21",
+    "Nakupovani321",
+    "Vranova_1999",
+    "facebook23"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "2002-07-16"
+}

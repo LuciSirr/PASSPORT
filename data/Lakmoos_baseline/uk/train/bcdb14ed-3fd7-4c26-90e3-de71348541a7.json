@@ -1,0 +1,35 @@
+{
+  "id": "bcdb14ed-3fd7-4c26-90e3-de71348541a7",
+  "gender": "female",
+  "age": 74,
+  "marital_status": "divorced",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marjorie",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "knitting",
+    "crosswords"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Marjorie1950",
+    "Hollingsworth74",
+    "Knitting123",
+    "WestMidlands!",
+    "Gardening_50",
+    "Crosswords2020",
+    "Divorce2024",
+    "Marj!e_9000",
+    "Hollingsworth1",
+    "GardenLover74"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1952-01-29"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ffc45c57-b5df-4b38-9f9c-7c8342329599",
+  "age": 40,
+  "birth_date": "1986-02-13",
+  "marital_status": "married",
+  "region": "Ždánice",
+  "nationality": "czech",
+  "company": "Benešová",
+  "car_brand": "Hyundai",
+  "self_first_name": "Jakub",
+  "self_last_name": "Macháček",
+  "partner_first_name": "Denisa",
+  "partner_last_name": "Macháčková",
+  "children": [
+    {
+      "first_name": "Václav",
+      "last_name": "Macháček"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Olga"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "vaření",
+    "hudba Karla Gotta",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "Messi2013!",
+    "OlgaVareni86",
+    "HyundaiZdanice",
+    "VaclavGotta1986",
+    "DenisaTuristika",
+    "KarlaGottaRybar",
+    "ZdaniceFotbal!",
+    "Va_Olga2024",
+    "HyundaiMessi",
+    "Machacek_86"
+  ]
+}

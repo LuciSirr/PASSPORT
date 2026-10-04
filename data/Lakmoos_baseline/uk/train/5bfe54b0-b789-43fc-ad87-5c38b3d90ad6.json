@@ -1,0 +1,34 @@
+{
+  "id": "5bfe54b0-b789-43fc-ad87-5c38b3d90ad6",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Nathan",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "hiking",
+    "photography",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Westmoor Consulting",
+  "previous_passwords": [
+    "Imogen1989",
+    "Mazda2Hatch!",
+    "Nathan123",
+    "Hollis2022",
+    "Reading4Life",
+    "Westmoor22",
+    "Adventure_89",
+    "Volvo2019",
+    "Hiking!22"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1991-03-15"
+}

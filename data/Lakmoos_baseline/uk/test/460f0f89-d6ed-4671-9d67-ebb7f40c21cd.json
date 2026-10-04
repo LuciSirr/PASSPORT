@@ -1,0 +1,40 @@
+{
+  "id": "460f0f89-d6ed-4671-9d67-ebb7f40c21cd",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Suzuki",
+  "self_first_name": "Harriet",
+  "self_last_name": "Bramley",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Bramley",
+  "children": [],
+  "interests": [
+    "bridgerton",
+    "yoga",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "SouthEast Brokers Ltd",
+  "previous_passwords": [
+    "Harriet1989",
+    "Milo!17",
+    "BramleyYoga123",
+    "Bridgerton2022",
+    "Oliver04_17",
+    "Gardening4U",
+    "YogaMilo89",
+    "Bridg3rton!",
+    "SouthEastCat",
+    "Bramley!1989"
+  ],
+  "favorite_hobby": "bridgerton",
+  "birth_date": "1989-04-17"
+}

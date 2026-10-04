@@ -1,0 +1,53 @@
+{
+  "id": "ee4fca0a-3157-449f-9ebc-a3df9a45c66b",
+  "age": 50,
+  "birth_date": "1976-09-03",
+  "marital_status": "married",
+  "region": "Sedlec-Prčice",
+  "nationality": "czech",
+  "company": "Čermáková Králová v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Edita",
+  "self_last_name": "Bartošová",
+  "partner_first_name": "Radim",
+  "partner_last_name": "Bartoš",
+  "children": [
+    {
+      "first_name": "Vítězslav",
+      "last_name": "Bartoš"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Bartošová"
+    },
+    {
+      "first_name": "Dana",
+      "last_name": "Pavlíková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Soňa"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "čtení knih",
+    "pěstování zeleniny",
+    "folklorní tance"
+  ],
+  "previous_passwords": [
+    "SonasTurtle76",
+    "SkodaTuristika2024",
+    "RadimVitezslav!",
+    "Terezarybar!",
+    "DanaFolklorní1976",
+    "CteniKnihPrčice",
+    "Vitězslav_Turistika",
+    "Sedlec_Ribarení",
+    "SkodaZelenina23",
+    "TerezaBartosova11"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "86e22311-af24-45a3-a58c-4c65368ec849",
+  "gender": "male",
+  "age": 32,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Citroën",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "cycling",
+    "reading",
+    "travelling"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Southview Learning Trust",
+  "previous_passwords": [
+    "Gareth1989",
+    "EmilyHollings21",
+    "MiloCat!",
+    "Cycling123",
+    "Southview2022",
+    "Hollings_89",
+    "Trav3l2023",
+    "Milo4Emily",
+    "Reading_1",
+    "C3troen20358"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1994-03-01"
+}

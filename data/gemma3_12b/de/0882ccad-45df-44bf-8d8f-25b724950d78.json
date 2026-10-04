@@ -1,0 +1,35 @@
+{
+  "id": "0882ccad-45df-44bf-8d8f-25b724950d78",
+  "age": 36,
+  "birth_date": "1990-06-12",
+  "marital_status": "single",
+  "region": "Döbeln",
+  "nationality": "german",
+  "company": "Schäfer AG & Co. KG",
+  "car_brand": "Nissan",
+  "self_first_name": "Hans-Rainer",
+  "self_last_name": "Kreusel",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Wandern",
+    "Autos",
+    "Konzertbesuche",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "NissanFoto2012",
+    "MessiWandern1990",
+    "KonzerteDöbeln!",
+    "HansRainerAuto!",
+    "FotografieWanderung_90",
+    "MessiFCB2024",
+    "NissanKonzert!",
+    "LokalerFußball1986",
+    "WandernFotoHanse",
+    "KreuselNissan_23"
+  ]
+}

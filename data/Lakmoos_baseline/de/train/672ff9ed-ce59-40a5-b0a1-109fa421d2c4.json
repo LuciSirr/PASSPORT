@@ -1,0 +1,47 @@
+{
+  "id": "672ff9ed-ce59-40a5-b0a1-109fa421d2c4",
+  "gender": "female",
+  "age": 67,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Fiat",
+  "self_first_name": "Gisela",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Heinrich",
+  "partner_last_name": "Kronenberg",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kronenberg"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Kronenberg"
+    },
+    {
+      "first_name": "Jonas",
+      "last_name": "Kronenberg"
+    }
+  ],
+  "interests": [
+    "malen",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Kulturwerkstatt Rheinland",
+  "previous_passwords": [
+    "Gisela1957",
+    "Lukas2012",
+    "Marlene10",
+    "Kronenberg123",
+    "Fiat500!",
+    "Kulturwerkstatt2020",
+    "Heinrich67",
+    "Sommerurlaub09",
+    "Malen_4ever",
+    "NRW2024"
+  ],
+  "favorite_hobby": "malen",
+  "birth_date": "1958-07-08"
+}

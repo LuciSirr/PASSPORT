@@ -1,0 +1,45 @@
+{
+  "id": "c792ea05-050f-4d68-9f42-53e35ba76160",
+  "gender": "female",
+  "age": 49,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Iveta",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1975-06-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohoutová"
+    }
+  ],
+  "interests": [
+    "české filmy",
+    "vinted",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Severočeské strojírny s.r.o.",
+  "previous_passwords": [
+    "Tereza2011",
+    "Micka123",
+    "Kohoutova75",
+    "vinted2023",
+    "malovani!14",
+    "IvetaTereza",
+    "ceskefilmy_75",
+    "Micka!2019",
+    "TerezaMicka",
+    "Kohoutova!vinted"
+  ],
+  "favorite_hobby": "české filmy"
+}

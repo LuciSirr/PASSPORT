@@ -1,0 +1,49 @@
+{
+  "id": "36465060-c789-462b-a85c-a09d7e77aea3",
+  "age": 35,
+  "birth_date": "1991-05-12",
+  "marital_status": "married",
+  "region": "Mauricetown",
+  "nationality": "english",
+  "company": "McDonald PLC",
+  "car_brand": "Toyota",
+  "self_first_name": "Harriet",
+  "self_last_name": "Cook",
+  "partner_first_name": "Dale",
+  "partner_last_name": "Cook",
+  "children": [
+    {
+      "first_name": "Marian",
+      "last_name": "Cook"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Sylvia"
+    },
+    {
+      "pet_type": "turtle",
+      "pet_name": "Justin"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "cooking",
+    "hiking",
+    "football",
+    "podcasts"
+  ],
+  "previous_passwords": [
+    "DaleGaming91",
+    "Cook&Zelda12",
+    "SylviaHike5!",
+    "ToyotaFoot91",
+    "MarianCook24",
+    "CookRogan35",
+    "MauriceRun12",
+    "JustinChess7",
+    "HarrietCook91!",
+    "DaleMario1991"
+  ]
+}

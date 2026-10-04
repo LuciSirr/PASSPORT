@@ -1,0 +1,32 @@
+{
+  "id": "c857afee-4966-418d-8e8d-c6712569fd47",
+  "gender": "female",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Amelia",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "love island",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Northwest Booksellers",
+  "previous_passwords": [
+    "Amelia2007",
+    "LoveIsland123",
+    "Hollingsworth18",
+    "Reading4Life",
+    "Island!2007",
+    "Books_07",
+    "Amelia_Love",
+    "Read3r2023"
+  ],
+  "favorite_hobby": "love island",
+  "birth_date": "2007-03-18"
+}

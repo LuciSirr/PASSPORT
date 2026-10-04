@@ -1,0 +1,39 @@
+{
+  "id": "42378bef-c430-41b4-8000-5ca44bddb615",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Harriet",
+  "self_last_name": "Merriton",
+  "partner_first_name": "James",
+  "partner_last_name": "Merriton",
+  "children": [],
+  "interests": [
+    "the crown",
+    "gardening",
+    "mini cooper club"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "South Coast Brokers",
+  "previous_passwords": [
+    "Milo2019",
+    "TheCrown!85",
+    "HarrietMini14",
+    "Gardening123",
+    "Merriton2020",
+    "JamesCat85",
+    "MiniCooper!19",
+    "CrownMilo7",
+    "SouthCoast!11"
+  ],
+  "favorite_hobby": "the crown",
+  "birth_date": "1985-07-14"
+}

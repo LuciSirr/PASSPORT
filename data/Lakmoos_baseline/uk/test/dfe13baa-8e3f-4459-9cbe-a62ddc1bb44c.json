@@ -1,0 +1,35 @@
+{
+  "id": "dfe13baa-8e3f-4459-9cbe-a62ddc1bb44c",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Oliver",
+  "self_last_name": "Harrington",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Harrington",
+  "children": [],
+  "interests": [
+    "premier league",
+    "breaking bad",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "NorthWest Ventures",
+  "previous_passwords": [
+    "Oliver1994",
+    "Emily15!",
+    "HarringtonPL2020",
+    "BreakingBad88",
+    "Cycling123",
+    "PremierLeague_94",
+    "EmilyOliver2023",
+    "NorthWestVentures!",
+    "BadBreaking_15",
+    "Harr1ngt0nPL"
+  ],
+  "favorite_hobby": "premier league",
+  "birth_date": "1994-06-15"
+}

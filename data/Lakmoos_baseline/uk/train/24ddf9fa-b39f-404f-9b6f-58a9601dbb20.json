@@ -1,0 +1,35 @@
+{
+  "id": "24ddf9fa-b39f-404f-9b6f-58a9601dbb20",
+  "gender": "female",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Callum",
+  "partner_last_name": "Barker",
+  "children": [],
+  "interests": [
+    "baking",
+    "yoga",
+    "reading"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Imogen2001",
+    "Hollis23",
+    "Baking123",
+    "Callum4Eva",
+    "WestMidlands!",
+    "Yoga_2023",
+    "Imo!Barker",
+    "Reading_01",
+    "Hollis!1000",
+    "Imogen_Bake"
+  ],
+  "favorite_hobby": "baking",
+  "birth_date": "2003-03-16"
+}

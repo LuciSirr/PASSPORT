@@ -1,0 +1,35 @@
+{
+  "id": "81d04cb1-f75b-4426-8e84-cbc110137b8a",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [],
+  "company": "East Midlands Executive Solutions",
+  "previous_passwords": [
+    "Fiona1969",
+    "MazdaCX30!",
+    "Graham53",
+    "Hollingsworth2021",
+    "Gardening123",
+    "EastMidlands1",
+    "Wedding2024",
+    "Travel4Fun",
+    "Renault2019",
+    "Reading_77"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1972-09-21"
+}

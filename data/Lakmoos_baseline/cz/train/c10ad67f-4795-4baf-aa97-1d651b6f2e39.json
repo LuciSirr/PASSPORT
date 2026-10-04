@@ -1,0 +1,39 @@
+{
+  "id": "c10ad67f-4795-4baf-aa97-1d651b6f2e39",
+  "gender": "female",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Kučerová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "čtení",
+    "plavání"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Míca"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2009",
+    "Mica123",
+    "malovani2023",
+    "Kucerova13",
+    "plavani_321",
+    "Ctenarka09",
+    "CentralBoh2024",
+    "JablkoMica",
+    "Simka!2022"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2012-07-27"
+}

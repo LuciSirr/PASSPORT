@@ -1,0 +1,35 @@
+{
+  "id": "3c2b12e9-c9a4-4e7d-82d8-63d58bfeeace",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Šimon",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "lego",
+    "malování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "simon2016",
+    "brno123",
+    "legoauto",
+    "skola2024",
+    "Vesely8",
+    "Fotbal2022",
+    "malovani123",
+    "Brno!2016",
+    "lego4fun",
+    "skola_8"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2018-03-23"
+}

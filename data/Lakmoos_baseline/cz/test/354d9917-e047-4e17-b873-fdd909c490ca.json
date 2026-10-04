@@ -1,0 +1,34 @@
+{
+  "id": "354d9917-e047-4e17-b873-fdd909c490ca",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "divorced",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jaroslav",
+  "self_last_name": "Kohout",
+  "birth_date": "1958-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "šachy"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Kohout1958",
+    "JaroslavLiberec",
+    "turistika123",
+    "sachy2024",
+    "Kohout!58",
+    "Liberec_59",
+    "turistikaKohout",
+    "Jaroslav_12.6",
+    "sachyKohout",
+    "KohoutTuristika2023"
+  ],
+  "favorite_hobby": "turistika"
+}

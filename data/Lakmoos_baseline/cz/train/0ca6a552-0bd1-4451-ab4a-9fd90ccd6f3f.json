@@ -1,0 +1,49 @@
+{
+  "id": "0ca6a552-0bd1-4451-ab4a-9fd90ccd6f3f",
+  "gender": "female",
+  "age": 37,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šebestová",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Šebestová"
+    },
+    {
+      "first_name": "Jakub",
+      "last_name": "Šebestová"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Šebestová"
+    }
+  ],
+  "interests": [
+    "čtení",
+    "facebook",
+    "procházky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "AutoServis Hradec",
+  "previous_passwords": [
+    "Iveta123",
+    "Superb2000",
+    "Tereza07",
+    "Tesco905",
+    "Sebestova37",
+    "Jakub2012",
+    "Eliška77",
+    "Prochazka2024",
+    "Petr_1985",
+    "Ctení!07"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1988-11-23"
+}

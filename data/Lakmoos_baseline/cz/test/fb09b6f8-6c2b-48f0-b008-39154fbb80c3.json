@@ -1,0 +1,35 @@
+{
+  "id": "fb09b6f8-6c2b-48f0-b008-39154fbb80c3",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Šimáček",
+  "birth_date": "1964-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "detektivky",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radek1964",
+    "simacek10.6",
+    "fotbal123",
+    "detektivky2020",
+    "krizovky64",
+    "Šimáček1964!",
+    "Radek_fotbal",
+    "detektivky_Šimáček",
+    "Albert726",
+    "fotbal64!"
+  ],
+  "favorite_hobby": "fotbal"
+}

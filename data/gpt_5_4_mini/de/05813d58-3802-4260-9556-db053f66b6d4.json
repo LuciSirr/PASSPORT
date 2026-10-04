@@ -1,0 +1,40 @@
+{
+  "id": "05813d58-3802-4260-9556-db053f66b6d4",
+  "age": 35,
+  "birth_date": "1991-07-12",
+  "marital_status": "married",
+  "region": "Bogen",
+  "nationality": "german",
+  "company": "Meyer AG",
+  "car_brand": "Toyota",
+  "self_first_name": "Torsten",
+  "self_last_name": "Schleich",
+  "partner_first_name": "Georgine",
+  "partner_last_name": "Schleich",
+  "children": [
+    {
+      "first_name": "Songül",
+      "last_name": "Schleich"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fußball",
+    "Kochen",
+    "Radfahren",
+    "Bayern München"
+  ],
+  "previous_passwords": [
+    "Bayern1991!",
+    "Wandern_35",
+    "Torsten07",
+    "ToyotaBogen91",
+    "Kochen12!",
+    "Muenchen1991",
+    "Radfahren91",
+    "Georgine84!",
+    "Fussball12",
+    "BayernSongul7"
+  ]
+}

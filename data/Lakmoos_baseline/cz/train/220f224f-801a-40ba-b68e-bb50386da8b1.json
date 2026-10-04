@@ -1,0 +1,34 @@
+{
+  "id": "220f224f-801a-40ba-b68e-bb50386da8b1",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "married",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "seriály",
+    "kutilství",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "Vodovody Pardubicko",
+  "previous_passwords": [
+    "Radek1979",
+    "Petra2020",
+    "Vesely53000",
+    "Kutil123",
+    "Pardubice79",
+    "Kofola2023",
+    "Seriály!1",
+    "Netflix79",
+    "PetraRadek2020"
+  ],
+  "favorite_hobby": "seriály",
+  "birth_date": "1986-03-27"
+}

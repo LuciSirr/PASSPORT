@@ -1,0 +1,41 @@
+{
+  "id": "bbd46b2b-8557-4d58-93ee-9b4dc56c02eb",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Seat",
+  "self_first_name": "Maureen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Alan",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "crossword",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Maureen1959",
+    "Misty123",
+    "Hollingsworth59",
+    "Gardening4",
+    "Baking!2020",
+    "Alan4Maureen",
+    "London_59",
+    "Crossword3",
+    "Misty!59",
+    "Walking2022"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1963-03-08"
+}

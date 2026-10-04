@@ -1,0 +1,40 @@
+{
+  "id": "0ef0b2ab-17e7-49ef-a5f3-4649a6c0b0e4",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Gareth",
+  "self_last_name": "Rowbotham",
+  "partner_first_name": "Claire",
+  "partner_last_name": "Rowbotham",
+  "children": [],
+  "interests": [
+    "walking",
+    "travelling",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Buster"
+    }
+  ],
+  "company": "East Midlands Buildworks",
+  "previous_passwords": [
+    "Buster2001",
+    "Rowbotham48",
+    "VWpolo99",
+    "Claire123",
+    "Gardening!23",
+    "EastMidlands1",
+    "Walking2020",
+    "Buster!Rowbo",
+    "Trav3lman",
+    "Polo_71"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1977-11-23"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2b9ef767-f70b-41ff-a0fd-ccf4c43e94c9",
+  "gender": "female",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Poppy",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dolls",
+    "singing"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Poppy2021",
+    "Hollingworth3",
+    "Drawing123",
+    "D0lls2024",
+    "Poppy!21",
+    "Singing_3",
+    "PoppyDoll3",
+    "H0lly2021"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2023-01-12"
+}

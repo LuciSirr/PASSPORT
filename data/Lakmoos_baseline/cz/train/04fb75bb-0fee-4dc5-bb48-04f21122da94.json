@@ -1,0 +1,36 @@
+{
+  "id": "04fb75bb-0fee-4dc5-bb48-04f21122da94",
+  "gender": "male",
+  "age": 39,
+  "marital_status": "divorced",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "turistika",
+    "hudba",
+    "fotbal"
+  ],
+  "pets": [],
+  "company": "TransLog Ústí s.r.o.",
+  "previous_passwords": [
+    "Octavia2003",
+    "Usti72000",
+    "Kofola123",
+    "Radek39",
+    "dmLidl2024",
+    "Konecny1985",
+    "Fotbalek11",
+    "Hudba!2023",
+    "Auta_150",
+    "TransLog21"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1986-09-30"
+}

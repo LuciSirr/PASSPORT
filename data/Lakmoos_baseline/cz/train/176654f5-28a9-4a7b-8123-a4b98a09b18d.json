@@ -1,0 +1,36 @@
+{
+  "id": "176654f5-28a9-4a7b-8123-a4b98a09b18d",
+  "gender": "male",
+  "age": 86,
+  "marital_status": "widower/widow",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladislav",
+  "self_last_name": "Krampera",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "četba",
+    "divadlo",
+    "malování"
+  ],
+  "pets": [],
+  "company": "Krampera & Syn podnikání",
+  "previous_passwords": [
+    "Vladislav38",
+    "Krampera2024",
+    "Praha1938",
+    "Divadlo123",
+    "Cestovani!86",
+    "Kofola123",
+    "UniverzitaCZ",
+    "LidlOblibenec",
+    "Malovani2020",
+    "Krampera!2022"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1939-10-23"
+}

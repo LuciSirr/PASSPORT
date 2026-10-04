@@ -1,0 +1,40 @@
+{
+  "id": "8063ebe5-5abc-4b38-bd90-45b4a0c633c5",
+  "age": 58,
+  "birth_date": "1968-07-04",
+  "marital_status": "divorced",
+  "region": "Hardingbury",
+  "nationality": "english",
+  "company": "Lloyd, Shah and Taylor",
+  "car_brand": "Hyundai",
+  "self_first_name": "Declan",
+  "self_last_name": "Birch",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Josh"
+    }
+  ],
+  "interests": [
+    "Gardening",
+    "Classical Music",
+    "Local History",
+    "Walking",
+    "Cricket"
+  ],
+  "previous_passwords": [
+    "HardingburyHist1968",
+    "JoshGardens!22",
+    "HyundaiCrick3t",
+    "ClassicalWalks74",
+    "BirchGardening68",
+    "Josh_Classical1",
+    "HardingburyWalks!",
+    "CricketJosh2024",
+    "HyundaiHistory!",
+    "BirchClassical7"
+  ]
+}

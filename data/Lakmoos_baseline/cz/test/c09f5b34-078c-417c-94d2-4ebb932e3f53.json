@@ -1,0 +1,40 @@
+{
+  "id": "c09f5b34-078c-417c-94d2-4ebb932e3f53",
+  "gender": "male",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Porsche",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kohout",
+  "birth_date": "2008-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "formule 1",
+    "motorsport"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "AutoServis Kohout",
+  "previous_passwords": [
+    "Matej2008",
+    "RexKohout17",
+    "fifa123",
+    "formule1_08",
+    "AutoServis2023",
+    "motorsportKohout",
+    "Rex!2008",
+    "KohoutF1",
+    "MatejRex17",
+    "fifaKohout08"
+  ],
+  "favorite_hobby": "fifa"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "534a6e6e-cac9-4b4a-8b0c-436af4ca07e7",
+  "gender": "female",
+  "age": 10,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Hollings",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading",
+    "football"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Maisie2014",
+    "MiloCat7",
+    "Hollings123",
+    "Drawing4Fun",
+    "Football2022",
+    "LondonGirl!",
+    "Reading_10",
+    "MiloMaisie",
+    "Holl1ngs",
+    "Maisie_Milo"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2015-10-04"
+}

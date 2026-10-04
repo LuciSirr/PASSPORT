@@ -1,0 +1,40 @@
+{
+  "id": "71d7f24b-de32-4051-9320-0fe58c1f9809",
+  "gender": "female",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Suzuki",
+  "self_first_name": "Tereza",
+  "self_last_name": "Šimůnková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "facebook",
+    "seriály"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Míca"
+    }
+  ],
+  "company": "Malby Šimůnková",
+  "previous_passwords": [
+    "Mica2020",
+    "Swift2000",
+    "Rohlík123",
+    "Vinted15",
+    "Mattoni2023",
+    "Tereza59",
+    "Simunkova_2008",
+    "Malovani!23",
+    "Mica!123",
+    "Facebook_08"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2011-02-22"
+}

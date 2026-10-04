@@ -1,0 +1,40 @@
+{
+  "id": "5a1c7ba2-fbd3-4801-9bae-91384f4ae1ac",
+  "gender": "male",
+  "age": 61,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Jeep",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kleinschmidt",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kleinschmidt"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "audiobücher",
+    "urlaub"
+  ],
+  "pets": [],
+  "company": "Hotel & Gasthof Am Weserufer",
+  "previous_passwords": [
+    "Lukas2010",
+    "Sabine61",
+    "JeepCompass17",
+    "Weserufer123",
+    "Jürgen!1963",
+    "Wandern2023",
+    "Kleinschmidt77",
+    "Sommerurlaub!",
+    "SabineLukas",
+    "Hotel2024"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1964-12-05"
+}

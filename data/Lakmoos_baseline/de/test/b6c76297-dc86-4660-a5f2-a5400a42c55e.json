@@ -1,0 +1,35 @@
+{
+  "id": "b6c76297-dc86-4660-a5f2-a5400a42c55e",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "birth_date": "1996-07-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "dark",
+    "fussball",
+    "stranger things"
+  ],
+  "pets": [],
+  "company": "Krause Innovations GmbH",
+  "previous_passwords": [
+    "Krause1996",
+    "Dark2019!",
+    "StrangerThings_14",
+    "Fussball123",
+    "Lennart!96",
+    "krause_dark",
+    "Innovations2020",
+    "StrangerKrause",
+    "DarkJuly14",
+    "fussball!31000"
+  ],
+  "favorite_hobby": "dark"
+}

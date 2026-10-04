@@ -1,0 +1,35 @@
+{
+  "id": "8ba9e818-e6b2-4806-b0cc-e48be886358d",
+  "gender": "female",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Kohoutová",
+  "birth_date": "2003-07-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "vinted",
+    "k-pop",
+    "fitko"
+  ],
+  "pets": [],
+  "company": "AutoMoto Plzeň s.r.o.",
+  "previous_passwords": [
+    "Tereza2003",
+    "Kohoutova123",
+    "vinted2022",
+    "fitko_21",
+    "Kpop4ever",
+    "Plzen!03",
+    "KohoutovaVinted",
+    "Tereza!fitko",
+    "kpop_2003",
+    "VintedKohout"
+  ],
+  "favorite_hobby": "vinted"
+}

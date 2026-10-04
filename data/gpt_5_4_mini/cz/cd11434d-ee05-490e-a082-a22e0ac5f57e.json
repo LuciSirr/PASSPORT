@@ -1,0 +1,35 @@
+{
+  "id": "cd11434d-ee05-490e-a082-a22e0ac5f57e",
+  "age": 73,
+  "birth_date": "1953-02-16",
+  "marital_status": "single",
+  "region": "Milevsko",
+  "nationality": "czech",
+  "company": "Králová",
+  "car_brand": "Škoda",
+  "self_first_name": "Tadeáš",
+  "self_last_name": "Čech",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "zahrádkaření",
+    "turistika v jižních Čechách",
+    "čtení novin a knih",
+    "sledování hokeje",
+    "památky v okolí Milevska"
+  ],
+  "previous_passwords": [
+    "hokej1953!",
+    "Skoda73Mile",
+    "Turistika16",
+    "Zahradka53",
+    "Milevsko73!",
+    "NoveListy53",
+    "Pamatky16!",
+    "JihCech73",
+    "Cech1953",
+    "HokejMile13"
+  ]
+}

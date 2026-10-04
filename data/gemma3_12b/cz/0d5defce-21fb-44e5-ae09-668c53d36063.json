@@ -1,0 +1,44 @@
+{
+  "id": "0d5defce-21fb-44e5-ae09-668c53d36063",
+  "age": 64,
+  "birth_date": "1962-10-29",
+  "marital_status": "divorced",
+  "region": "Třebechovice pod Orebem",
+  "nationality": "czech",
+  "company": "Šmídová Horáček s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Hubert",
+  "self_last_name": "Kolář",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Zbyněk"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Ladislav"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "rybaření",
+    "česká lidová hudba",
+    "pěchotník"
+  ],
+  "previous_passwords": [
+    "Turistika29",
+    "SkodaZbynek1962",
+    "LadislavRybář!",
+    "CeskaHudbaHubert",
+    "Pechotnik64",
+    "ZahradniLadislav",
+    "SkodaTuristika!",
+    "BrygadaPechotnik",
+    "Zbynek2024",
+    "MessiTuristika!"
+  ]
+}

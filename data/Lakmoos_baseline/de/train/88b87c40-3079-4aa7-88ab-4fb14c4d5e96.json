@@ -1,0 +1,33 @@
+{
+  "id": "88b87c40-3079-4aa7-88ab-4fb14c4d5e96",
+  "gender": "male",
+  "age": 2,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lukas",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "bauklötze",
+    "malen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2022",
+    "Kleinschmidt123",
+    "Bauklötze22",
+    "AOK2022",
+    "Sachsen!",
+    "LukasMalen",
+    "Kita2022",
+    "Lukas_22",
+    "Spielplatz1"
+  ],
+  "favorite_hobby": "bauklötze",
+  "birth_date": "2023-10-04"
+}

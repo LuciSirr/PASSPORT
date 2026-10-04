@@ -1,0 +1,49 @@
+{
+  "id": "64eb1139-795a-46d4-940c-d79ee25e4808",
+  "age": 33,
+  "birth_date": "1993-02-17",
+  "marital_status": "married",
+  "region": "Waltonstad",
+  "nationality": "english",
+  "company": "Francis, John and Stevenson",
+  "car_brand": "BMW",
+  "self_first_name": "Nicole",
+  "self_last_name": "Graham",
+  "partner_first_name": "Shirley",
+  "partner_last_name": "Graham",
+  "children": [
+    {
+      "first_name": "Brenda",
+      "last_name": "Graham"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Gail"
+    },
+    {
+      "pet_type": "snake",
+      "pet_name": "Diane"
+    }
+  ],
+  "interests": [
+    "fitness",
+    "podcasts",
+    "travel",
+    "cooking",
+    "streaming TV series"
+  ],
+  "previous_passwords": [
+    "BMWfit93!",
+    "ShirleyCook17",
+    "GailRun93",
+    "JoeRogan93!",
+    "TravelWalton17",
+    "BrendaTV93!",
+    "Podcasts93!",
+    "NicoleGym17",
+    "GrahamCook93",
+    "DianeSnake93"
+  ]
+}

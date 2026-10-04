@@ -1,0 +1,40 @@
+{
+  "id": "33549570-a541-4ef8-9528-5eb2be100a19",
+  "age": 57,
+  "birth_date": "1969-11-26",
+  "marital_status": "married",
+  "region": "Mettmann",
+  "nationality": "german",
+  "company": "Jäkel",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Helfried",
+  "self_last_name": "Wähner",
+  "partner_first_name": "Inge",
+  "partner_last_name": "Striebitz",
+  "children": [
+    {
+      "first_name": "Ivonne",
+      "last_name": "Wähner"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fußball",
+    "Gartenarbeit",
+    "Kochen",
+    "Reisen"
+  ],
+  "previous_passwords": [
+    "Wandern1969!",
+    "BVB_Mettmann57",
+    "IngeKochen69",
+    "VW_Reisen26",
+    "Fußball1969!",
+    "Garten57_11",
+    "Mettmann!69",
+    "Kochen_Inge57",
+    "Reisen1969?",
+    "Wandern_VW57"
+  ]
+}

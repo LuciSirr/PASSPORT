@@ -1,0 +1,35 @@
+{
+  "id": "30bc7f79-7264-4245-ae3c-9a0d64d822e9",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1997-08-15",
+  "partner_first_name": "Jakub",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "netflix",
+    "vinted",
+    "kfc"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tereza1997",
+    "Kohoutova!15",
+    "netflix247",
+    "vinted_431",
+    "KFC380",
+    "Jakub2022",
+    "Albert1170",
+    "dm695",
+    "KohoutovaNetflix",
+    "Kohoutova!netflix"
+  ],
+  "favorite_hobby": "netflix"
+}

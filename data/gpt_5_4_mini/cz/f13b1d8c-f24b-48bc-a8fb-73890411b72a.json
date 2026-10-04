@@ -1,0 +1,49 @@
+{
+  "id": "f13b1d8c-f24b-48bc-a8fb-73890411b72a",
+  "age": 45,
+  "birth_date": "1981-07-11",
+  "marital_status": "married",
+  "region": "Kožlany",
+  "nationality": "czech",
+  "company": "Štěpánková",
+  "car_brand": "Škoda",
+  "self_first_name": "Luboš",
+  "self_last_name": "Holub",
+  "partner_first_name": "Andrea",
+  "partner_last_name": "Holubová",
+  "children": [
+    {
+      "first_name": "Vladimíra",
+      "last_name": "Holubová"
+    },
+    {
+      "first_name": "Ferdinand",
+      "last_name": "Holub"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Simona"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "hokej",
+    "české filmy",
+    "chalupaření"
+  ],
+  "previous_passwords": [
+    "Turistika81",
+    "Skoda1981!",
+    "HokejHolub45",
+    "CeskeFilmy11",
+    "Zahrada_81",
+    "ChalupaHolub",
+    "Andrea07!",
+    "Vladimir1981",
+    "Ferdinand45",
+    "SimonaFish81"
+  ]
+}

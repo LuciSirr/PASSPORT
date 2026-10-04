@@ -1,0 +1,44 @@
+{
+  "id": "53b997f5-8650-4c03-9885-4afd1c9c3607",
+  "age": 36,
+  "birth_date": "1990-06-02",
+  "marital_status": "divorced",
+  "region": "Frýdlant",
+  "nationality": "czech",
+  "company": "Žáková Soukup o.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Luděk",
+  "self_last_name": "Bláha",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Renata"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Linda"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "hokej",
+    "vaření",
+    "cyklistika",
+    "sledování filmů"
+  ],
+  "previous_passwords": [
+    "Hokej1990!",
+    "Turistika02",
+    "RenataCat90",
+    "VWFrdlant36",
+    "Cyklo_Linda",
+    "Vařeni1990",
+    "FilmNight62",
+    "HockeyBlaha",
+    "LindaHorse02",
+    "VařeníVW36"
+  ]
+}

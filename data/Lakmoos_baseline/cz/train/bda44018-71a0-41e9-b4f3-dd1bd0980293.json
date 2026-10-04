@@ -1,0 +1,35 @@
+{
+  "id": "bda44018-71a0-41e9-b4f3-dd1bd0980293",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Jitka",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "procházky",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "jitka1997",
+    "vranova123",
+    "maturita2024",
+    "lidlkaffee",
+    "mcburgers27",
+    "Prochazka2023",
+    "Serialy_321",
+    "Nakupovani!",
+    "Vysocina97",
+    "JitkaLidl2024"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1999-02-02"
+}

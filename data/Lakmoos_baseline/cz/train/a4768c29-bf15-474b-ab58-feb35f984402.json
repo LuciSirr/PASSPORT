@@ -1,0 +1,41 @@
+{
+  "id": "a4768c29-bf15-474b-ab58-feb35f984402",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "divorced",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Krejzová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Krejzová",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "čtení",
+    "seriály",
+    "zahrada"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "AutoServis Zlín",
+  "previous_passwords": [
+    "Micka2020",
+    "Nakupovani123",
+    "Fabia99",
+    "IvetaPetr07",
+    "Zlin1000",
+    "Seriály2022",
+    "Krejzova56",
+    "Teta607",
+    "PetrIveta!",
+    "Zahrada2021"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1969-11-03"
+}

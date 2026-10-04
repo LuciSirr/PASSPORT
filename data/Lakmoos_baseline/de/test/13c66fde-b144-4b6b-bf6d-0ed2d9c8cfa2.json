@@ -1,0 +1,35 @@
+{
+  "id": "13c66fde-b144-4b6b-bf6d-0ed2d9c8cfa2",
+  "gender": "male",
+  "age": 50,
+  "marital_status": "married",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "Dacia",
+  "self_first_name": "Jörg",
+  "self_last_name": "Krause",
+  "birth_date": "1974-06-12",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Sachsen-Anhalt Maschinenbau GmbH",
+  "previous_passwords": [
+    "Joerg1974",
+    "KrauseBundesliga74",
+    "Tatort123",
+    "Sabine1974!",
+    "Wandern_2020",
+    "Krause!12",
+    "TatortBundesliga",
+    "SachsenAnhalt74",
+    "SabineKrause_74",
+    "Tat0rt!74"
+  ],
+  "favorite_hobby": "tatort"
+}

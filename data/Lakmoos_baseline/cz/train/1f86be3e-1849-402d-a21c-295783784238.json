@@ -1,0 +1,36 @@
+{
+  "id": "1f86be3e-1849-402d-a21c-295783784238",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Ševčík",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Ševčíková",
+  "children": [],
+  "interests": [
+    "cestování",
+    "fotbal",
+    "divadlo",
+    "knihy"
+  ],
+  "pets": [],
+  "company": "Moravská podnikatelská agentura",
+  "previous_passwords": [
+    "Radek1997",
+    "Jana27!",
+    "Octavia2000",
+    "Morava27",
+    "Kofola123",
+    "Poděbradka96",
+    "Sevcik2021",
+    "Fotbal_123",
+    "Cestovani2024",
+    "Divadlo!96"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1999-03-28"
+}

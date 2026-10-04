@@ -1,0 +1,35 @@
+{
+  "id": "b9d06a49-ea57-40ee-b9a7-6abbee827034",
+  "gender": "male",
+  "age": 57,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "BMW",
+  "self_first_name": "Graham",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Helen",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "reading"
+  ],
+  "pets": [],
+  "company": "South Downs Borough Council",
+  "previous_passwords": [
+    "Graham1967",
+    "HelenMerrick1",
+    "BMWX5_2020",
+    "Gardening123",
+    "Merrick2000",
+    "SouthDowns!",
+    "Walking4Fun",
+    "Reading_67",
+    "BMW4x4",
+    "Helen!67"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1968-07-06"
+}

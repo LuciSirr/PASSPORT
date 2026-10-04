@@ -1,0 +1,39 @@
+{
+  "id": "3219e7c1-d82c-4cdb-b08f-1eeedc021542",
+  "gender": "female",
+  "age": 67,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Smart",
+  "self_first_name": "Brigitte",
+  "self_last_name": "Krause",
+  "birth_date": "1957-04-12",
+  "partner_first_name": "Wolfgang",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "gartenarbeit"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Westfalen Maschinenbau GmbH",
+  "previous_passwords": [
+    "Brigitte1957",
+    "Minka123",
+    "KrauseGarten78",
+    "Pilcher2023!",
+    "Wolfgang12",
+    "rosamunde_57",
+    "Westfalen!2000",
+    "MinkaPilcher",
+    "Gartenarbeit_04",
+    "KrauseMinka!"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

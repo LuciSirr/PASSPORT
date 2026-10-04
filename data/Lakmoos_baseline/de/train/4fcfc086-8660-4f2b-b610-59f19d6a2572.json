@@ -1,0 +1,34 @@
+{
+  "id": "4fcfc086-8660-4f2b-b610-59f19d6a2572",
+  "gender": "male",
+  "age": 82,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Toyota",
+  "self_first_name": "Heinrich",
+  "self_last_name": "Krause",
+  "partner_first_name": "Gertrud",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "spazieren",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heinrich1942",
+    "Gertrud123",
+    "Krause!82",
+    "Toyota2022",
+    "Niedersachsen1",
+    "Lesen2024",
+    "Spazieren_321",
+    "KrauseGertrud",
+    "Berlin1942",
+    "Opa!123"
+  ],
+  "favorite_hobby": "spazieren",
+  "birth_date": "1944-03-13"
+}

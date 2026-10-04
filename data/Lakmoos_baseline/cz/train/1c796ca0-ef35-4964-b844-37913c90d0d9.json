@@ -1,0 +1,45 @@
+{
+  "id": "1c796ca0-ef35-4964-b844-37913c90d0d9",
+  "gender": "female",
+  "age": 37,
+  "marital_status": "married",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Vránová",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Vránová"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Vrána"
+    }
+  ],
+  "interests": [
+    "pečení",
+    "zahrada",
+    "čtení",
+    "cestování"
+  ],
+  "pets": [],
+  "company": "Liberecké strojírny",
+  "previous_passwords": [
+    "Tereza2010",
+    "Superb23",
+    "Matysek13",
+    "Liberec2022",
+    "Vanoce123",
+    "Petr1979",
+    "Zahrada!21",
+    "Cestovani_77",
+    "Ivetka1987",
+    "MatysekTereza13"
+  ],
+  "favorite_hobby": "pečení",
+  "birth_date": "1989-02-18"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c311d28b-5893-4cd7-9e99-f26e3569a1ea",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Citroën",
+  "self_first_name": "Franziska",
+  "self_last_name": "Kuhn",
+  "birth_date": "1994-07-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "dark",
+    "tatort",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Franzi1994",
+    "KuhnDark123",
+    "Tatort!94",
+    "podcast_2020",
+    "DarkKuhn_12",
+    "FranziTatort07",
+    "Kuhn!podcasts",
+    "DarkJuly94",
+    "Tatort_1234"
+  ],
+  "favorite_hobby": "dark"
+}

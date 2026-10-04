@@ -1,0 +1,39 @@
+{
+  "id": "6129319a-568f-43f1-8608-eae77210c506",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Šimon",
+  "self_last_name": "Křivánek",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "počítače",
+    "seriály"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Simonek2009",
+    "Prague123",
+    "Křivánek12",
+    "jablko2022",
+    "fotbalCZ",
+    "Beny123",
+    "Seriály2023",
+    "Počítače09",
+    "Křivánek!2009"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2014-02-22"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "d8be4c93-c46e-4851-9f5f-69efd7b6d5e9",
+  "gender": "female",
+  "age": 2,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Leni",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malen",
+    "bauklötze",
+    "sandkasten"
+  ],
+  "pets": [
+    {
+      "pet_type": "other",
+      "pet_name": "Hasi"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Leni2022",
+    "Hasi123",
+    "Kreutzmann22",
+    "Malspaß!",
+    "Sandkasten2023",
+    "Leni_Hasi",
+    "Bauklötze22",
+    "LeniMalen",
+    "Hasi22",
+    "KitaNRW"
+  ],
+  "favorite_hobby": "malen",
+  "birth_date": "2024-01-15"
+}

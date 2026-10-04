@@ -1,0 +1,36 @@
+{
+  "id": "9fb795fc-350f-4e7d-a8cf-c7b56c9ee130",
+  "gender": "male",
+  "age": 77,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Konečný",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "zahrada",
+    "čtení",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladek1947",
+    "Marie77",
+    "Konecnysila",
+    "Brno1234",
+    "ucenisebezmaturity",
+    "Zahrada2020",
+    "krizovky77",
+    "MarieKonečna!",
+    "Brno!1947",
+    "Cteni2023"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1948-12-03"
+}

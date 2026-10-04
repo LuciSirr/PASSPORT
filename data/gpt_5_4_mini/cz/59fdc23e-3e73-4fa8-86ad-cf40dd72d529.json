@@ -1,0 +1,48 @@
+{
+  "id": "59fdc23e-3e73-4fa8-86ad-cf40dd72d529",
+  "age": 49,
+  "birth_date": "1977-01-05",
+  "marital_status": "divorced",
+  "region": "Horní Blatná",
+  "nationality": "czech",
+  "company": "Horáček k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Kristina",
+  "self_last_name": "Vávrová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Johana",
+      "last_name": "Kadlecová"
+    },
+    {
+      "first_name": "Žofie",
+      "last_name": "Štěpánková"
+    },
+    {
+      "first_name": "Samuel",
+      "last_name": "Havel"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika v Krušných horách",
+    "chalupaření",
+    "hokej",
+    "vaření",
+    "zahradničení"
+  ],
+  "previous_passwords": [
+    "Turistika77!",
+    "KrusneHory05",
+    "SkodaHokej49",
+    "Kadena25_",
+    "ZofieVasek77",
+    "Vareni_Horna77",
+    "Chalupa2025!",
+    "JohanaHory05",
+    "Zahrada49_",
+    "SamuelSki77"
+  ]
+}

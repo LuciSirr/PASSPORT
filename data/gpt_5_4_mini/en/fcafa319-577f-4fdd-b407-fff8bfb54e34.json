@@ -1,0 +1,35 @@
+{
+  "id": "fcafa319-577f-4fdd-b407-fff8bfb54e34",
+  "age": 76,
+  "birth_date": "1950-09-17",
+  "marital_status": "married",
+  "region": "Hartleyton",
+  "nationality": "english",
+  "company": "Carter PLC",
+  "car_brand": "Audi",
+  "self_first_name": "Dale",
+  "self_last_name": "Cook",
+  "partner_first_name": "Sandra",
+  "partner_last_name": "Cook",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "local history",
+    "classic films",
+    "bridge"
+  ],
+  "previous_passwords": [
+    "SandyBridge50",
+    "AudiGarden17!",
+    "HartleytonWalk76",
+    "ClassicFilm50",
+    "BridgeCook17",
+    "RoseGarden50!",
+    "CanalWalk1950",
+    "SandraHistory17",
+    "AudiClassics76",
+    "HartleytonRoses!"
+  ]
+}

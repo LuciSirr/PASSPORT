@@ -1,0 +1,35 @@
+{
+  "id": "e532a2e7-00f4-4aae-8487-4215063f4b4b",
+  "age": 70,
+  "birth_date": "1956-05-21",
+  "marital_status": "married",
+  "region": "Kostelec na Hané",
+  "nationality": "czech",
+  "company": "Kašpar Bednář o.s.",
+  "car_brand": "Kia",
+  "self_first_name": "Svatopluk",
+  "self_last_name": "Jelínek",
+  "partner_first_name": "Zuzana",
+  "partner_last_name": "Jelínková",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "zahradničení",
+    "turistika",
+    "české filmy",
+    "kutilství",
+    "čtení"
+  ],
+  "previous_passwords": [
+    "Zahrada56!",
+    "Turistika70",
+    "CteniKia56",
+    "KutilSvatopluk!",
+    "CeskeFilmy21",
+    "Jelinek56_",
+    "KostelecHobby70",
+    "ZuzanaCteni!",
+    "KiaTuristika56",
+    "Rostliny70!"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "3f1a7a5f-49c3-4902-95bb-88e46016add3",
+  "gender": "male",
+  "age": 32,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Seat",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Rebecca",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "hiking",
+    "travel",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Callum1992",
+    "Rebecca4ever",
+    "Leon2020",
+    "Golf8_2020",
+    "Hollis123",
+    "SouthWest!92",
+    "Adventure21",
+    "Travel_999",
+    "SeatFan81",
+    "Hiking2022"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1993-07-06"
+}

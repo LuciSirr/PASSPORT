@@ -1,0 +1,35 @@
+{
+  "id": "5fbdd093-3c02-4933-8cae-9e67556fafb7",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Šimková",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šimková",
+  "children": [],
+  "interests": [
+    "cestování",
+    "vaření",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Vysočina Kovovýroba s.r.o.",
+  "previous_passwords": [
+    "Ivana1974",
+    "PetrSimek80",
+    "Fabia2003",
+    "Vysočina80",
+    "Albert23",
+    "BohemiaSekt1",
+    "Cestovani123",
+    "Simkova!74",
+    "Kovovyroba2021",
+    "KFCmenu99"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1976-03-19"
+}

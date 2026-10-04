@@ -1,0 +1,40 @@
+{
+  "id": "27d746a0-b4b7-4689-a54b-019223308aea",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Ashcombe",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crossword",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Marion1963",
+    "Ashcombe61",
+    "Misty123",
+    "Geoffrey2020",
+    "Gardening4ever",
+    "Crossword!7",
+    "Baking_2021",
+    "MistyAshcombe",
+    "SouthEast61",
+    "Geoffrey_Marion"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1964-06-04"
+}

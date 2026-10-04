@@ -1,0 +1,33 @@
+{
+  "id": "f1765b9d-4642-4409-8f3a-0439d389c6ea",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Gareth",
+  "self_last_name": "Rowlands",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Rowlands",
+  "children": [],
+  "interests": [
+    "fishing",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "Cymru Build Services",
+  "previous_passwords": [
+    "Gareth1966",
+    "Elaine58",
+    "Polestar2!",
+    "Rowlands2020",
+    "Fishing123",
+    "Wales4Life",
+    "Gardening66",
+    "Cymru2023",
+    "ElaineRowlands1"
+  ],
+  "favorite_hobby": "fishing",
+  "birth_date": "1968-01-07"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "0b738348-1e6d-4f42-83bb-27e4a0bd61a9",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Oscar",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "pokemon",
+    "lego",
+    "football"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Oscar2016",
+    "Baxter123",
+    "Hollingsworth_lego",
+    "pokemon14!",
+    "football2022",
+    "legoBaxter",
+    "P0k3mon!",
+    "Oscar_football",
+    "Baxter2016",
+    "Hollingsworth_pokemon"
+  ],
+  "favorite_hobby": "pokemon",
+  "birth_date": "2016-07-14"
+}

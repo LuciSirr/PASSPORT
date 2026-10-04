@@ -1,0 +1,34 @@
+{
+  "id": "670199dc-07a7-42b7-a5b6-940bf51bb226",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "divorced",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heike",
+  "self_last_name": "Bergmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "camping",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Sozialdienst Rheinblick",
+  "previous_passwords": [
+    "Heike1963",
+    "Bergmann3000",
+    "Camping!21",
+    "Rheinblick123",
+    "SommerJuni",
+    "Sozialarbeit2020",
+    "Wandern_61",
+    "Sparkasse253",
+    "Heike!IKK",
+    "B3rgmann!"
+  ],
+  "favorite_hobby": "camping",
+  "birth_date": "1965-02-06"
+}

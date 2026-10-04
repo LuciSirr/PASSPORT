@@ -1,0 +1,33 @@
+{
+  "id": "fbf40154-b288-4d16-8315-2b5ab5e79958",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Cresswell",
+  "partner_first_name": "Alan",
+  "partner_last_name": "Cresswell",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crossword",
+    "baking"
+  ],
+  "pets": [],
+  "company": "South Downs Brokerage",
+  "previous_passwords": [
+    "Marion1955",
+    "Cresswell15",
+    "Alan4ever",
+    "SouthDowns123",
+    "BakingQueen!",
+    "Garden2020",
+    "Crossword_7",
+    "Cresswell!55"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1957-02-22"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "53f9d5db-6816-48c4-b3b6-5236fd2cc920",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Opel",
+  "self_first_name": "Iveta",
+  "self_last_name": "Štěrbová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Štěrbová"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "procházky",
+    "instagram",
+    "móda"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2015",
+    "OpelCorsa13",
+    "Praha150m2",
+    "Rossmann123",
+    "LidlOblibena",
+    "Ivetka1986",
+    "Sterbova9.4",
+    "Nakupovani321",
+    "Tereza_Štěrbová",
+    "Praha!2015"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1988-02-07"
+}

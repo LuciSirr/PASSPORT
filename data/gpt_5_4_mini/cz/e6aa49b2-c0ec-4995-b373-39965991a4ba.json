@@ -1,0 +1,53 @@
+{
+  "id": "e6aa49b2-c0ec-4995-b373-39965991a4ba",
+  "age": 54,
+  "birth_date": "1972-08-23",
+  "marital_status": "single",
+  "region": "Napajedla",
+  "nationality": "czech",
+  "company": "Pešková",
+  "car_brand": "Škoda",
+  "self_first_name": "Igor",
+  "self_last_name": "Tůma",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Drahomíra",
+      "last_name": "Tůmová"
+    },
+    {
+      "first_name": "Bohumila",
+      "last_name": "Tůmová"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Denis"
+    },
+    {
+      "pet_type": "bird",
+      "pet_name": "Dagmar"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "zahrádkaření",
+    "cestování po Česku",
+    "fotbal",
+    "domácí vaření"
+  ],
+  "previous_passwords": [
+    "Turistika72!",
+    "SkodaZahrada23",
+    "BohumilaFotbal7",
+    "CestovaniCZ72",
+    "DenisHike!54",
+    "VareniNapajedla8",
+    "DrahomiraTour72",
+    "ZlinFotbal_23",
+    "DagmarBird72!",
+    "TumaSkoda54"
+  ]
+}

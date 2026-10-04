@@ -1,0 +1,44 @@
+{
+  "id": "21418308-b3ee-487b-8cb9-d99824c38989",
+  "age": 49,
+  "birth_date": "1977-10-18",
+  "marital_status": "divorced",
+  "region": "Rudolstadt",
+  "nationality": "german",
+  "company": "Hellwig",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Gundel",
+  "self_last_name": "Schmiedt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Frederik"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Britta"
+    }
+  ],
+  "interests": [
+    "Wandern im Thüringer Wald",
+    "Fußball",
+    "Gärtnern",
+    "Kochen",
+    "Schwarzwaldkrimi"
+  ],
+  "previous_passwords": [
+    "FrederikWandern77",
+    "Schwarzwald77!",
+    "BayernKochen18",
+    "VW_Garten77",
+    "BrittaHike49",
+    "ThuringerWald!7",
+    "Messi_Fussball77",
+    "Rudolstadt77!",
+    "KochenMitBritta1",
+    "Volkswagen49!"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "631538c1-a7c7-41d6-a975-a551f816e62b",
+  "age": 48,
+  "birth_date": "1978-12-12",
+  "marital_status": "married",
+  "region": "North Rosemary",
+  "nationality": "english",
+  "company": "Price-Smith",
+  "car_brand": "Ford",
+  "self_first_name": "Caroline",
+  "self_last_name": "Dean",
+  "partner_first_name": "Nathan",
+  "partner_last_name": "Dean",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Bruce"
+    },
+    {
+      "pet_type": "snake",
+      "pet_name": "Amber"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "classic rock music",
+    "local history",
+    "cooking",
+    "birdwatching"
+  ],
+  "previous_passwords": [
+    "LedZep78!",
+    "BruceDean2023",
+    "FordRosemary!",
+    "AmberGardens78",
+    "ClassicRocks1978",
+    "NorthRoseBird!",
+    "DeanCooking92",
+    "LocalHist!Bruce",
+    "NathanDeanGarden",
+    "RosemaryFord83"
+  ]
+}

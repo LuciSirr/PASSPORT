@@ -1,0 +1,44 @@
+{
+  "id": "9b1295ad-cced-4ecf-9f4f-6b45eda3e595",
+  "age": 26,
+  "birth_date": "2000-05-18",
+  "marital_status": "married",
+  "region": "Všeruby",
+  "nationality": "czech",
+  "company": "Čech a.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Josef",
+  "self_last_name": "Bílek",
+  "partner_first_name": "Vladimíra",
+  "partner_last_name": "Bílková",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Jiří"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Vít"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "hrají hry",
+    "poslech hudby",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "Messi2000!",
+    "VserubyHike26",
+    "Vladka_Fotbal7",
+    "VolkswagenVito8",
+    "ACDC_Josef18",
+    "VitekHorse22",
+    "Gaming_Jiri2000",
+    "Turistika05!",
+    "CookBilek26",
+    "HudbaVladimira9"
+  ]
+}

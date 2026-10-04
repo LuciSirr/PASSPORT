@@ -1,0 +1,35 @@
+{
+  "id": "9bd54d65-f575-463e-8df7-018dedb88025",
+  "gender": "male",
+  "age": 86,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heinz",
+  "self_last_name": "Krause",
+  "partner_first_name": "Gertrud",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "spaziergänge",
+    "audiobücher",
+    "fernsehen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Heinz1938",
+    "Gertrud123",
+    "Krause!86",
+    "Spaziergang2020",
+    "Hessen_6000",
+    "OpaKrause",
+    "Fernsehen1",
+    "Audiobuch!3",
+    "Sparkasse253",
+    "Krause_Gertrud"
+  ],
+  "favorite_hobby": "spaziergänge",
+  "birth_date": "1939-05-21"
+}

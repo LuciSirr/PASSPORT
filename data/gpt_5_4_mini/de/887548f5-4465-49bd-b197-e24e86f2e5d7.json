@@ -1,0 +1,47 @@
+{
+  "id": "887548f5-4465-49bd-b197-e24e86f2e5d7",
+  "age": 36,
+  "birth_date": "1990-05-20",
+  "marital_status": "married",
+  "region": "Bremervörde",
+  "nationality": "german",
+  "company": "Schäfer GmbH",
+  "car_brand": "Fiat",
+  "self_first_name": "Fritz",
+  "self_last_name": "Warmer",
+  "partner_first_name": "Janine",
+  "partner_last_name": "Warmer",
+  "children": [
+    {
+      "first_name": "Evelyn",
+      "last_name": "Warmer"
+    },
+    {
+      "first_name": "Jobst",
+      "last_name": "Warmer"
+    },
+    {
+      "first_name": "Lorenz",
+      "last_name": "Warmer"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Grillen",
+    "Norddeutschland-Reisen"
+  ],
+  "previous_passwords": [
+    "Werder1990!",
+    "FiatGrill20",
+    "Radtour90_",
+    "Nordsee36!",
+    "EvelynFußball7",
+    "JanineBike05",
+    "Bremen1990#",
+    "JobstBBQ20",
+    "LorenzNord4",
+    "FritzFiat90"
+  ]
+}

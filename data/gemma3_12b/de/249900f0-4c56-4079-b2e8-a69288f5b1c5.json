@@ -1,0 +1,44 @@
+{
+  "id": "249900f0-4c56-4079-b2e8-a69288f5b1c5",
+  "age": 21,
+  "birth_date": "2005-06-11",
+  "marital_status": "married",
+  "region": "Groß-Gerau",
+  "nationality": "german",
+  "company": "auch Schlauchin Stiftung & Co. KGaA",
+  "car_brand": "Audi",
+  "self_first_name": "Dimitrios",
+  "self_last_name": "Henk",
+  "partner_first_name": "Christin",
+  "partner_last_name": "Henk",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Magrit"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Branka"
+    }
+  ],
+  "interests": [
+    "Musik Festivals",
+    "Gaming",
+    "Reisen",
+    "Fotografie",
+    "Vereinsfussball"
+  ],
+  "previous_passwords": [
+    "Messi2005!",
+    "BrankaAudi_1106",
+    "ChristinMusikFest",
+    "ReisenGrossGerau",
+    "FotografieDimitrios",
+    "GamingBranka21",
+    "Audi_Festival!",
+    "MessiHenk05",
+    "Magrit_Reisen06",
+    "Vereinsfussball2005"
+  ]
+}

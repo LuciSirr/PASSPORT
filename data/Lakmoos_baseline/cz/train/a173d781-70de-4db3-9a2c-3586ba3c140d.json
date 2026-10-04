@@ -1,0 +1,36 @@
+{
+  "id": "a173d781-70de-4db3-9a2c-3586ba3c140d",
+  "gender": "male",
+  "age": 86,
+  "marital_status": "widower/widow",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Křivánek",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "čtení",
+    "malování",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Praha1938",
+    "Univerzita86",
+    "Hornbach2020",
+    "Albert430",
+    "Kultura123",
+    "Hudba_1950",
+    "Malovani!86",
+    "Cestovani2024",
+    "Křivánek38",
+    "Vladim1r_123"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1940-01-18"
+}

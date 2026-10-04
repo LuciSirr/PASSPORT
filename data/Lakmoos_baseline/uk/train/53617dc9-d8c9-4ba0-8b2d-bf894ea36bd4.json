@@ -1,0 +1,40 @@
+{
+  "id": "53617dc9-d8c9-4ba0-8b2d-bf894ea36bd4",
+  "gender": "female",
+  "age": 58,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "travel",
+    "gardening",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Fenland Executive Consulting",
+  "previous_passwords": [
+    "Fiona1966",
+    "Milo123",
+    "Ashcroft14",
+    "Travel!2020",
+    "Gardening66",
+    "Martin2021",
+    "FenlandExec1",
+    "Reading_58",
+    "Milo!Ash",
+    "Fiona!Milo"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1968-03-05"
+}

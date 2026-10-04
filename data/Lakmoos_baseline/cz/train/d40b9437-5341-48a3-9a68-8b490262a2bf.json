@@ -1,0 +1,35 @@
+{
+  "id": "d40b9437-5341-48a3-9a68-8b490262a2bf",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "seriály",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Morava Auto Servis",
+  "previous_passwords": [
+    "Vesely22",
+    "Hyundai2008",
+    "Morava123",
+    "Kofola7",
+    "Netflix2022",
+    "Cestovani2021",
+    "Hudba_123",
+    "Seri4ly!",
+    "Ostrava98",
+    "Mat3j_7"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "2003-04-15"
+}

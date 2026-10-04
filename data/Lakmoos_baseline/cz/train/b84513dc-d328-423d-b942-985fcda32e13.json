@@ -1,0 +1,35 @@
+{
+  "id": "b84513dc-d328-423d-b942-985fcda32e13",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "turistika",
+    "křížovky",
+    "auta"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radek1958",
+    "Jitka66",
+    "Superb2011",
+    "Liberec123",
+    "Vesely22000",
+    "turistika2020",
+    "SkodaDiesel",
+    "Albert445",
+    "Krizovky77",
+    "JitkaRadek"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1960-02-07"
+}

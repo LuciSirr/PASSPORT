@@ -1,0 +1,35 @@
+{
+  "id": "a6d306bb-5c94-41b5-b529-3dffd289458e",
+  "age": 79,
+  "birth_date": "1947-01-18",
+  "marital_status": "divorced",
+  "region": "Strážov",
+  "nationality": "czech",
+  "company": "Šťastná k.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Otakar",
+  "self_last_name": "Kovář",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "folklorní písně",
+    "rybaření",
+    "historie"
+  ],
+  "previous_passwords": [
+    "StrázovTuristika1947",
+    "ToyotaRybář!",
+    "FolklorníPísněOtakar",
+    "HistoriaZahradni2024",
+    "TuristikaKovář8",
+    "RybářHistorie79",
+    "ZahradniToyota_18",
+    "StrázovFolklore!",
+    "OtakarRybářOk",
+    "ToyotaTuristika01"
+  ]
+}

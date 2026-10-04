@@ -1,0 +1,35 @@
+{
+  "id": "976db183-b87f-42a6-a8dc-0b194977c87e",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1996-06-12",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "top gear",
+    "auta",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Jihočeská výroba s.r.o.",
+  "previous_passwords": [
+    "Radek1996",
+    "Kohout123",
+    "Petra12.6",
+    "TopGear2020",
+    "auta_112",
+    "KohoutPetra96",
+    "netflix281",
+    "Hilux4x4",
+    "Pilsner2024",
+    "Kohout!76000"
+  ],
+  "favorite_hobby": "top gear"
+}

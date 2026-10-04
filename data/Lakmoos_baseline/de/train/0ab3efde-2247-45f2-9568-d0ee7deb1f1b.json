@@ -1,0 +1,35 @@
+{
+  "id": "0ab3efde-2247-45f2-9568-d0ee7deb1f1b",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "divorced",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Cupra",
+  "self_first_name": "Heike",
+  "self_last_name": "Krausmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "musik",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "Krausmann Beratung & Coaching",
+  "previous_passwords": [
+    "Heike1971",
+    "CupraAteca18",
+    "Krausmann123",
+    "Sommer2023!",
+    "Reisen_06",
+    "Musik4ever",
+    "Niedersachsen2024",
+    "Berlin_451",
+    "Coaching2020",
+    "Krausmann!71"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1972-04-26"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a1bc4c7e-106a-44c3-851b-7a0a2b4b371c",
+  "age": 34,
+  "birth_date": "1992-08-06",
+  "marital_status": "married",
+  "region": "Artern",
+  "nationality": "german",
+  "company": "Bender e.G.",
+  "car_brand": "Skoda",
+  "self_first_name": "Jennifer",
+  "self_last_name": "Klemt",
+  "partner_first_name": "Luciano",
+  "partner_last_name": "Klemt",
+  "children": [
+    {
+      "first_name": "Boris",
+      "last_name": "Klemt"
+    },
+    {
+      "first_name": "Kirstin",
+      "last_name": "Klemt"
+    },
+    {
+      "first_name": "Ingelore",
+      "last_name": "Klemt"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Lokaler Fußballverein",
+    "Autotuning",
+    "Metal Musik"
+  ],
+  "previous_passwords": [
+    "Messi2010Wanderung",
+    "Skoda_Boris1992",
+    "IngeloreMetalFan!",
+    "FotografieLuciano",
+    "ArternWandern23",
+    "BorisKlemt_Tune",
+    "Kirstin_Footbal!",
+    "MetalMusik_92",
+    "WanderlustSkoda",
+    "LucianoFoto2024"
+  ]
+}

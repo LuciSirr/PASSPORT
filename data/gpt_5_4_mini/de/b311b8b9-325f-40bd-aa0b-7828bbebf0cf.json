@@ -1,0 +1,45 @@
+{
+  "id": "b311b8b9-325f-40bd-aa0b-7828bbebf0cf",
+  "age": 26,
+  "birth_date": "2000-07-26",
+  "marital_status": "married",
+  "region": "Schrobenhausen",
+  "nationality": "german",
+  "company": "Kühnert GmbH",
+  "car_brand": "Seat",
+  "self_first_name": "Clara",
+  "self_last_name": "Oestrovsky",
+  "partner_first_name": "Sergio",
+  "partner_last_name": "Oestrovsky",
+  "children": [
+    {
+      "first_name": "Bozena",
+      "last_name": "Oestrovsky"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bela"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Wandern",
+    "Kochen",
+    "Bayern München"
+  ],
+  "previous_passwords": [
+    "Bayern2000!",
+    "SergioFuss26",
+    "BelaHike07",
+    "SeatKicks26",
+    "KochenBayern!",
+    "MiaSanMia26",
+    "GamingBozena!",
+    "Wandern26_SX",
+    "Fuetball2000",
+    "ClaraBayern07"
+  ]
+}

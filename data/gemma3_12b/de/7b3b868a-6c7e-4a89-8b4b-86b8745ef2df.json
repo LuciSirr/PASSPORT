@@ -1,0 +1,35 @@
+{
+  "id": "7b3b868a-6c7e-4a89-8b4b-86b8745ef2df",
+  "age": 24,
+  "birth_date": "2002-09-08",
+  "marital_status": "married",
+  "region": "Spremberg",
+  "nationality": "german",
+  "company": "Budig",
+  "car_brand": "Skoda",
+  "self_first_name": "Dirk",
+  "self_last_name": "Rädel",
+  "partner_first_name": "Camilla",
+  "partner_last_name": "Rädel",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Musik Festivals",
+    "Fotografie",
+    "Reisen",
+    "Videospiele",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "CamillaRael2002",
+    "SkodaFotoFest!",
+    "MessiSpremberg08",
+    "VideospieleDirk",
+    "Reisen24_Musik",
+    "JoeRogan2008!",
+    "Fußball_Dirk1998",
+    "FotografieRaedl",
+    "SkodaCamilla2002",
+    "Dirk_Festival11"
+  ]
+}

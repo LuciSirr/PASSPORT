@@ -1,0 +1,35 @@
+{
+  "id": "dddfa91c-6af2-4c2b-ae9c-7dd7a0c35433",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "cricket"
+  ],
+  "pets": [],
+  "company": "Westminster Strategic Solutions",
+  "previous_passwords": [
+    "Mazda2022",
+    "Rachel40",
+    "Hollings123",
+    "London!15",
+    "Cricket88",
+    "Gareth1979",
+    "CX60Hybrid",
+    "Gardening4U",
+    "VW2017",
+    "Rachel&Gareth"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1986-01-22"
+}

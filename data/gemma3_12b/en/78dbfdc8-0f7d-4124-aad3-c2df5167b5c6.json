@@ -1,0 +1,35 @@
+{
+  "id": "78dbfdc8-0f7d-4124-aad3-c2df5167b5c6",
+  "age": 46,
+  "birth_date": "1980-04-09",
+  "marital_status": "divorced",
+  "region": "Garethport",
+  "nationality": "english",
+  "company": "Davies, Thompson and Lee",
+  "car_brand": "Toyota",
+  "self_first_name": "Bethany",
+  "self_last_name": "Powell",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "local history",
+    "classic rock music",
+    "cycling",
+    "gardening",
+    "birdwatching"
+  ],
+  "previous_passwords": [
+    "LedZep80",
+    "GarethportBirds!",
+    "ToyotaCycle23",
+    "BethanyPowellGardens",
+    "ClassicRock46",
+    "LocalHist1980",
+    "DylanBikes!",
+    "PowellCycle2024",
+    "GarethportHistory8",
+    "BirdwatchBethany"
+  ]
+}

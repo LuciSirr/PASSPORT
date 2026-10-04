@@ -1,0 +1,35 @@
+{
+  "id": "2da819d6-9f62-4280-9655-744201aec84c",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Tesla",
+  "self_first_name": "Lennart",
+  "self_last_name": "Schröder",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "autos",
+    "reisen",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tesla2020!",
+    "CitroenC3_2004",
+    "Lennart123",
+    "Schr0eder22",
+    "Reisen_Sept",
+    "AOK2022",
+    "Vodafone!5",
+    "Fussball7",
+    "Podcast_321",
+    "Nordrhein1948"
+  ],
+  "favorite_hobby": "autos",
+  "birth_date": "2004-01-10"
+}

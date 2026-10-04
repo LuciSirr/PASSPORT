@@ -1,0 +1,34 @@
+{
+  "id": "b49fe2b7-415e-4825-babb-00011880d07d",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Oliver",
+  "self_last_name": "Pritchard",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "peppa pig",
+    "lego"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Oliver2024",
+    "PeppaPig123",
+    "Lego4Life",
+    "Pritchard_2024",
+    "PeppaPig!15",
+    "LegoMarch",
+    "PiggyOliver",
+    "OliverLego",
+    "Peppa_15",
+    "PritchardPeppa"
+  ],
+  "favorite_hobby": "peppa pig",
+  "birth_date": "2019-03-15"
+}

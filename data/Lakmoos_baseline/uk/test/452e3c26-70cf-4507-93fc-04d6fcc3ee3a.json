@@ -1,0 +1,40 @@
+{
+  "id": "452e3c26-70cf-4507-93fc-04d6fcc3ee3a",
+  "gender": "female",
+  "age": 57,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Jaguar",
+  "self_first_name": "Gillian",
+  "self_last_name": "Hawthorne",
+  "partner_first_name": "Malcolm",
+  "partner_last_name": "Hawthorne",
+  "children": [],
+  "interests": [
+    "gardening",
+    "coronation street",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Cymru Care Services",
+  "previous_passwords": [
+    "Gillian1967",
+    "Baxter!15",
+    "HawthorneGardening123",
+    "Malcolm67",
+    "CoronationStreet2020",
+    "Walking_301",
+    "BaxterStreet!",
+    "CymruCare2024",
+    "Gard3n1ng!",
+    "HawthorneMarch15"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1967-03-15"
+}

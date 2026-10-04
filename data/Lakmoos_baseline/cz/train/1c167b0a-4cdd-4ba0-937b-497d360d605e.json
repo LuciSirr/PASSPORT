@@ -1,0 +1,34 @@
+{
+  "id": "1c167b0a-4cdd-4ba0-937b-497d360d605e",
+  "gender": "male",
+  "age": 77,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vlastimil",
+  "self_last_name": "Křivánek",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "křížovky",
+    "divadlo"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vlastimil77",
+    "Křivánek1947",
+    "Fabia2012",
+    "Kofola999",
+    "Morava77",
+    "Datart2020",
+    "Divadlo123",
+    "Cteni!2024",
+    "Kaufland18"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1948-04-28"
+}

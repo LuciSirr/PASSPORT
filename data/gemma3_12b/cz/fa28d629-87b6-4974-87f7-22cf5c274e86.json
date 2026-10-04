@@ -1,0 +1,45 @@
+{
+  "id": "fa28d629-87b6-4974-87f7-22cf5c274e86",
+  "age": 47,
+  "birth_date": "1979-10-01",
+  "marital_status": "married",
+  "region": "Sobotka",
+  "nationality": "czech",
+  "company": "Horáček v.o.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Horymír",
+  "self_last_name": "Musil",
+  "partner_first_name": "Slavěna",
+  "partner_last_name": "Musilová",
+  "children": [
+    {
+      "first_name": "Gabriela",
+      "last_name": "Musilová"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Iva"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "škoda auto",
+    "pivovarnictví",
+    "návštěva hradů"
+  ],
+  "previous_passwords": [
+    "GabrielaHorymír1979",
+    "IvaTuristika2024",
+    "SlavěnaSkodaAuto!",
+    "SobotkaRybar!",
+    "VolkswagenIva78",
+    "HradUnejCast1",
+    "PivovarnictviMusil",
+    "TuristikaGabriela",
+    "SkodaMusil23",
+    "HorymirRybář2000"
+  ]
+}

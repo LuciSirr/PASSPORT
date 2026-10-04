@@ -1,0 +1,36 @@
+{
+  "id": "e6646958-800f-46f5-b267-52f87cbc9766",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "cestování",
+    "vaření",
+    "filmy",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Jihobeská Reality s.r.o.",
+  "previous_passwords": [
+    "Radek1980",
+    "PetraRadek19",
+    "Vesely2020",
+    "KofolaBezCukru",
+    "Makro123",
+    "SouthBohemia77",
+    "Cestovani2021",
+    "Varení!77",
+    "Filmy_123",
+    "Petra4Radek"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1982-08-02"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "40698540-0797-4707-8caa-7ae78b550c82",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Gareth",
+  "self_last_name": "Merriman",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Merriman",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "travelling"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "East Midlands Construction Ltd",
+  "previous_passwords": [
+    "Gareth1976",
+    "Baxter123",
+    "AudiQ8eTron!",
+    "Rachel4Ever",
+    "Merriman4000",
+    "Cycling2021",
+    "EastMidlands22",
+    "Gardening_76",
+    "Baxter!76",
+    "Travelling369"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1978-03-08"
+}

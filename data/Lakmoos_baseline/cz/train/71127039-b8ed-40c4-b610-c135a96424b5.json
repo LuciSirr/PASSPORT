@@ -1,0 +1,40 @@
+{
+  "id": "71127039-b8ed-40c4-b610-c135a96424b5",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Ivana",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "fotografie",
+    "automobilismus"
+  ],
+  "pets": [],
+  "company": "Úřad obrany Praha",
+  "previous_passwords": [
+    "Matej2010",
+    "IvanaRadek58",
+    "VeselyPraha75",
+    "Kona2021!",
+    "turistika123",
+    "Mat3j13",
+    "Ivana_2020",
+    "GlobusCZ",
+    "Hyundai1598",
+    "Radek!58"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1967-11-26"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "d675241a-6c31-40d4-9ab5-04ca38709d3c",
+  "gender": "male",
+  "age": 71,
+  "marital_status": "married",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Křivánek",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Křivánková",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "televize",
+    "hudba",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1953",
+    "MarieMujZivot",
+    "Budvar2020",
+    "LidlPenny59",
+    "Krivanek53",
+    "Krizovky123",
+    "KarlovyVary24",
+    "Hudba!2021",
+    "Televize59",
+    "Marie1953"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1954-08-09"
+}

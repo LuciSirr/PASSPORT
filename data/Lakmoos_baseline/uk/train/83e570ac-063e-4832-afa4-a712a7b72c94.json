@@ -1,0 +1,40 @@
+{
+  "id": "83e570ac-063e-4832-afa4-a712a7b72c94",
+  "gender": "male",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Honda",
+  "self_first_name": "Callum",
+  "self_last_name": "Macrae",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Macrae",
+  "children": [],
+  "interests": [
+    "cycling",
+    "reading",
+    "travelling"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bruno"
+    }
+  ],
+  "company": "Lochside Analytics",
+  "previous_passwords": [
+    "Bruno2021",
+    "Macrae123",
+    "Callum98",
+    "Emily4eva",
+    "Lochside22",
+    "Cycling321",
+    "Travelling!1",
+    "HondaHRV2022",
+    "Scotland_26",
+    "Reading4life"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1999-07-19"
+}

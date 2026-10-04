@@ -1,0 +1,36 @@
+{
+  "id": "3c0cf7ff-69e9-4fb4-87b3-4f42feac0998",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šebestová",
+  "children": [],
+  "interests": [
+    "čtení",
+    "křížovky",
+    "zahrada",
+    "kávování"
+  ],
+  "pets": [],
+  "company": "Základní škola Dolní Loučky",
+  "previous_passwords": [
+    "Iveta1984",
+    "Sebestova52000",
+    "Petr2020",
+    "Krizovky123",
+    "Zahrada!99",
+    "KavaBrno",
+    "LidlOblibena",
+    "DMzdravi",
+    "KFCobed2022",
+    "Cteni_1984"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1975-11-12"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ecfe1e74-9ff1-480a-8ee0-833a74a094ab",
+  "gender": "female",
+  "age": 42,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Jeep",
+  "self_first_name": "Sabine",
+  "self_last_name": "Köhler",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "lesen",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Sabine1982",
+    "JeepCompass17",
+    "Koehler123",
+    "CitroenC3_22",
+    "Sommer07!",
+    "Reisen2023",
+    "Lesen_1982",
+    "AOK7000",
+    "Niedersachsen!",
+    "Audiobook1"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1983-12-12"
+}

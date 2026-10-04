@@ -1,0 +1,40 @@
+{
+  "id": "db98d1fc-fcec-4480-b8b0-8b3b6ec5b98f",
+  "age": 26,
+  "birth_date": "2000-08-03",
+  "marital_status": "single",
+  "region": "Göppingen",
+  "nationality": "german",
+  "company": "Bärer AG",
+  "car_brand": "Kia",
+  "self_first_name": "Ismail",
+  "self_last_name": "Klemt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Emmerich"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Gaming",
+    "Kochen",
+    "Fitnessstudio"
+  ],
+  "previous_passwords": [
+    "Bayern2000!",
+    "Emmerich99",
+    "KiaFußball26",
+    "GoeppingenFit8",
+    "Wandern03!",
+    "GamingKlemt7",
+    "Kochen2000",
+    "Musiala_08",
+    "GymEmmerich!",
+    "KiaRide26"
+  ]
+}

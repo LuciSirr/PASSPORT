@@ -1,0 +1,35 @@
+{
+  "id": "511b8407-cc88-48c5-b712-4e0a923c84fe",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kubeš",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Kubešová",
+  "children": [],
+  "interests": [
+    "procházky",
+    "televize",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vlada1961",
+    "hradec5000",
+    "pilsner63",
+    "kofola2020",
+    "Kubeš123",
+    "Jana1965",
+    "prochazky11",
+    "Kubešovka!",
+    "Televize2022",
+    "Krizovky63"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1962-09-19"
+}

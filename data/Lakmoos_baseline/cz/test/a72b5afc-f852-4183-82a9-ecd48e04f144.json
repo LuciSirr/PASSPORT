@@ -1,0 +1,39 @@
+{
+  "id": "a72b5afc-f852-4183-82a9-ecd48e04f144",
+  "gender": "female",
+  "age": 51,
+  "marital_status": "divorced",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1973-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "módní trendy",
+    "voyo"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Moravská výroba s.r.o.",
+  "previous_passwords": [
+    "Jitka1973",
+    "Micka2020",
+    "Kohoutova123",
+    "voyo159",
+    "cestovani_49",
+    "moda2023",
+    "Micka!12",
+    "JitkaVoyo",
+    "Kohoutova!73"
+  ],
+  "favorite_hobby": "cestování"
+}

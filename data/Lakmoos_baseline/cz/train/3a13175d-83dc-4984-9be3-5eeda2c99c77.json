@@ -1,0 +1,35 @@
+{
+  "id": "3a13175d-83dc-4984-9be3-5eeda2c99c77",
+  "gender": "male",
+  "age": 57,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Šebestová",
+  "children": [],
+  "interests": [
+    "křížovky",
+    "čtení",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Severočeské doly s.r.o.",
+  "previous_passwords": [
+    "Usti1982",
+    "Sazka61000",
+    "Hornik57",
+    "AlbertDM2023",
+    "BezAuto123",
+    "Krizovky2024",
+    "JanaRadek57",
+    "Tesco_921",
+    "Cteni!1982",
+    "S3besta!61000"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1969-01-14"
+}

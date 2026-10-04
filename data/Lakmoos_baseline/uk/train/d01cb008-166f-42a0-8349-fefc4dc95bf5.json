@@ -1,0 +1,38 @@
+{
+  "id": "d01cb008-166f-42a0-8349-fefc4dc95bf5",
+  "gender": "female",
+  "age": 7,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "Little Learners Tutoring",
+  "previous_passwords": [
+    "Imogen2017",
+    "Mittens123",
+    "Hollis7",
+    "Drawing4Fun",
+    "LittleLearner!",
+    "ReadingCat7",
+    "Im0g3n!",
+    "EastGirl2024"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2019-01-15"
+}

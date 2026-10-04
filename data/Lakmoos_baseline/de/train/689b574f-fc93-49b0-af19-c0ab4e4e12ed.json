@@ -1,0 +1,40 @@
+{
+  "id": "689b574f-fc93-49b0-af19-c0ab4e4e12ed",
+  "gender": "male",
+  "age": 46,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Genesis",
+  "self_first_name": "Torsten",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "fußball",
+    "urlaub",
+    "autos"
+  ],
+  "pets": [],
+  "company": "Bauunternehmen RheinWest",
+  "previous_passwords": [
+    "Lukas2010",
+    "Torsten!46",
+    "Krause123",
+    "GenesisGV70",
+    "BauRheinWest2022",
+    "Fussball1909",
+    "Sommerurlaub21",
+    "LukasKrause14",
+    "Bmw2018",
+    "Kraus3_2000"
+  ],
+  "favorite_hobby": "fußball",
+  "birth_date": "1979-05-31"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "16fb9617-5e9e-45dd-89f9-30443cda9a00",
+  "gender": "female",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Smart",
+  "self_first_name": "Annika",
+  "self_last_name": "Schreiner",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "audiobooks",
+    "reisen",
+    "streaming"
+  ],
+  "pets": [],
+  "company": "RheinCargo Logistik GmbH",
+  "previous_passwords": [
+    "Annika1997",
+    "Smart#1_2023",
+    "TeslaY383",
+    "Schreiner123",
+    "RheinCargo2022",
+    "Reisen!Mai",
+    "Buzz152",
+    "AOK_451",
+    "FlickR2024",
+    "Sommer!17"
+  ],
+  "favorite_hobby": "audiobooks",
+  "birth_date": "1999-03-14"
+}

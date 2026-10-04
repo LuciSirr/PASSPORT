@@ -1,0 +1,40 @@
+{
+  "id": "77b74212-f071-4aab-8019-21d2e822eb77",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "televize",
+    "procházky",
+    "auta"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radomir1960",
+    "Matej11",
+    "Vesely63",
+    "auta2023",
+    "prochazky123",
+    "Superb2009",
+    "Matysek11",
+    "hradec63",
+    "billa449",
+    "TankOno2023"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1963-02-01"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "9c39f305-c916-4a48-b2f9-d116c402b8da",
+  "gender": "female",
+  "age": 46,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "null",
+  "partner_last_name": "null",
+  "children": [
+    {
+      "first_name": "Charlie",
+      "last_name": "Ashcroft"
+    },
+    {
+      "first_name": "Leo",
+      "last_name": "Ashcroft"
+    },
+    {
+      "first_name": "Harry",
+      "last_name": "Ashcroft"
+    }
+  ],
+  "interests": [
+    "travel",
+    "gardening",
+    "coronation street"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "NorthWest Venture Solutions",
+  "previous_passwords": [
+    "Fiona1978",
+    "AshcroftTravel123",
+    "Milo!2017",
+    "Gardening4Life",
+    "CoronationStreet88",
+    "NorthWestVenture2020",
+    "MiloAshcroft!",
+    "Travel_14",
+    "FionaGardening",
+    "Coronation3treet"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1978-06-14"
+}

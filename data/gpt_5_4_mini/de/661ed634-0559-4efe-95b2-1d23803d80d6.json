@@ -1,0 +1,40 @@
+{
+  "id": "661ed634-0559-4efe-95b2-1d23803d80d6",
+  "age": 25,
+  "birth_date": "2001-07-01",
+  "marital_status": "divorced",
+  "region": "Griesbach Rottal",
+  "nationality": "german",
+  "company": "Koch",
+  "car_brand": "Kia",
+  "self_first_name": "Hans-Karl",
+  "self_last_name": "Staude",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Eckart"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Gym",
+    "Techno",
+    "Bayern München"
+  ],
+  "previous_passwords": [
+    "Bayern2001!",
+    "KiaEckart25",
+    "Fussball01_",
+    "Techno2001!",
+    "Wandern25!",
+    "GymStaude01",
+    "EckartRottal",
+    "BayernMuc25",
+    "Kia2001Gries",
+    "Techno01!"
+  ]
+}

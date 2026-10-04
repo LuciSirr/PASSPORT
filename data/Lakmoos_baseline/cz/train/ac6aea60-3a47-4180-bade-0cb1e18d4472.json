@@ -1,0 +1,41 @@
+{
+  "id": "ac6aea60-3a47-4180-bade-0cb1e18d4472",
+  "gender": "male",
+  "age": 61,
+  "marital_status": "divorced",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "houbaření",
+    "rybaření",
+    "sázení",
+    "fotbal"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Lesy a pole Brno",
+  "previous_passwords": [
+    "Rex2007",
+    "FabiaBrno61",
+    "lesnik61",
+    "Vesely1983",
+    "pivo123",
+    "houbareni2020",
+    "Rex!123",
+    "Brno999",
+    "fotbalek07",
+    "RybarRex"
+  ],
+  "favorite_hobby": "houbaření",
+  "birth_date": "1964-09-10"
+}

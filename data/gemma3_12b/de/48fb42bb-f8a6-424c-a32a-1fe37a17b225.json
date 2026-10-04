@@ -1,0 +1,53 @@
+{
+  "id": "48fb42bb-f8a6-424c-a32a-1fe37a17b225",
+  "age": 66,
+  "birth_date": "1960-10-21",
+  "marital_status": "married",
+  "region": "Chemnitz",
+  "nationality": "german",
+  "company": "Benthin",
+  "car_brand": "Peugeot",
+  "self_first_name": "Ingelore",
+  "self_last_name": "Stroh",
+  "partner_first_name": "Pius",
+  "partner_last_name": "Fiebig",
+  "children": [
+    {
+      "first_name": "Dörthe",
+      "last_name": "Stroh"
+    },
+    {
+      "first_name": "Sonja",
+      "last_name": "Stroh"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Dominic"
+    },
+    {
+      "pet_type": "dog",
+      "pet_name": "Ditmar"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Volkshochschule",
+    "Deutsche Oper Chemnitz",
+    "Klassische Musik",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "DeutscheOper1960",
+    "DominicWander1!",
+    "PeugeotDorthe21",
+    "SonjaChemnitz!",
+    "MessiVolkshochsch",
+    "DitmarMusik2024",
+    "PiusWandern_66",
+    "JoeRogan1960!",
+    "ChemnitzFootball!",
+    "KlassischeDominic"
+  ]
+}

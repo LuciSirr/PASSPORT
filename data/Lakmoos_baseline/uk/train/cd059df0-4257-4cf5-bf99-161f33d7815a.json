@@ -1,0 +1,41 @@
+{
+  "id": "cd059df0-4257-4cf5-bf99-161f33d7815a",
+  "gender": "female",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Harriet",
+  "self_last_name": "Mawson",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Mawson",
+  "children": [],
+  "interests": [
+    "reading",
+    "walking",
+    "travel",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Yorkshire Learning Trust",
+  "previous_passwords": [
+    "Harriet1989",
+    "Milo123",
+    "Clio22",
+    "Reading4Life",
+    "Mawson2020",
+    "Yorkshire88",
+    "Baking!89",
+    "OliverMilo",
+    "Travel_2019",
+    "MiloMawson"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1992-10-01"
+}

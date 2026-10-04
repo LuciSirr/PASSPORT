@@ -1,0 +1,44 @@
+{
+  "id": "6839ba6c-d67c-4c60-a38c-5a016c4a0bc3",
+  "age": 33,
+  "birth_date": "1993-05-13",
+  "marital_status": "single",
+  "region": "New Gordon",
+  "nationality": "english",
+  "company": "Jones, Richards and Green",
+  "car_brand": "Hyundai",
+  "self_first_name": "Michelle",
+  "self_last_name": "Taylor",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Billy"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Jill"
+    }
+  ],
+  "interests": [
+    "Hiking",
+    "Indie Music",
+    "Photography",
+    "Local Brewery Tours",
+    "Board Games"
+  ],
+  "previous_passwords": [
+    "BillysHike93",
+    "IndieBrew_Jill",
+    "HyundaiPics22",
+    "NewGordonBoard!",
+    "MessiFan13",
+    "PhotoHikeBT",
+    "RabbitJill2024",
+    "BreweryDaysMT",
+    "HikingBilly!",
+    "IndieMusicNew"
+  ]
+}

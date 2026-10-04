@@ -1,0 +1,40 @@
+{
+  "id": "999e635d-2d37-4343-91b0-de745c0aa399",
+  "age": 35,
+  "birth_date": "1991-06-24",
+  "marital_status": "divorced",
+  "region": "New Lucy",
+  "nationality": "english",
+  "company": "Holmes and Sons",
+  "car_brand": "Honda",
+  "self_first_name": "Sylvia",
+  "self_last_name": "Henry",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Georgina"
+    }
+  ],
+  "interests": [
+    "hiking",
+    "photography",
+    "live music",
+    "craft beer",
+    "historical fiction"
+  ],
+  "previous_passwords": [
+    "HenryHiking91",
+    "GeorginaLens!",
+    "HondaSummit24",
+    "MessiCraftBrew",
+    "NewLucyReads",
+    "PhotoHike_22",
+    "LiveMusicH3nry",
+    "HistoricalG!",
+    "BreweryGeorgina",
+    "HikingHenry1991"
+  ]
+}

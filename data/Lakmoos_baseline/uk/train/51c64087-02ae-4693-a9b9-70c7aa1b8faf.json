@@ -1,0 +1,33 @@
+{
+  "id": "51c64087-02ae-4693-a9b9-70c7aa1b8faf",
+  "gender": "male",
+  "age": 2,
+  "marital_status": "single/in a relationship",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finley",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dinosaurs"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Finley2022",
+    "Ashcroft123",
+    "DinoLover!",
+    "Drawing4Fun",
+    "FinFin22",
+    "EastMidlands22",
+    "AshcroftDino",
+    "Finley_2",
+    "Dinosaurs2024"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2023-10-18"
+}

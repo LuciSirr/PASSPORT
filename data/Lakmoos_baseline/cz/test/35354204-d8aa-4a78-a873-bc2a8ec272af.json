@@ -1,0 +1,34 @@
+{
+  "id": "35354204-d8aa-4a78-a873-bc2a8ec272af",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1976-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "cyklistika"
+  ],
+  "pets": [],
+  "company": "Zlínská výroba s.r.o.",
+  "previous_passwords": [
+    "Radek1976",
+    "Kohout123",
+    "zlinsko2020",
+    "fotbal!76",
+    "cyklistika_14",
+    "RadekKohout",
+    "Kohout!fotbal",
+    "Zlin2023",
+    "f0tb4l1976",
+    "Kohout_cyklo"
+  ],
+  "favorite_hobby": "fotbal"
+}

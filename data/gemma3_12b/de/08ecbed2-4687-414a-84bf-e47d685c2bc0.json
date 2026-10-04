@@ -1,0 +1,35 @@
+{
+  "id": "08ecbed2-4687-414a-84bf-e47d685c2bc0",
+  "age": 42,
+  "birth_date": "1984-11-21",
+  "marital_status": "single",
+  "region": "Ebern",
+  "nationality": "german",
+  "company": "Möchlichen",
+  "car_brand": "Mazda",
+  "self_first_name": "Hans-Rainer",
+  "self_last_name": "Reuter",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Autos",
+    "Kochen",
+    "Geschichte"
+  ],
+  "previous_passwords": [
+    "Messi1984!",
+    "WandernEbern21",
+    "MazdaKochen88",
+    "GeschichteHans",
+    "FußballAuto!",
+    "MessiWandernH",
+    "ReuterEbern_21",
+    "MazdaKochen!",
+    "Geschichte_1984",
+    "FußballHans21"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "8715ee4e-1990-4cb3-9fa1-c467ff2be12a",
+  "gender": "male",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "technologie",
+    "seriály",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "Digitální Komunikace Praha",
+  "previous_passwords": [
+    "Superb2011",
+    "Praha33",
+    "kofola2020",
+    "vesely123",
+    "Lidl879",
+    "Turistika2021",
+    "Auta_1989",
+    "Seriály321",
+    "DigitálníKomunikace!",
+    "Kof0l4_33"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1992-06-16"
+}

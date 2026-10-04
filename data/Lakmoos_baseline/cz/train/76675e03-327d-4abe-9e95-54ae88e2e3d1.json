@@ -1,0 +1,35 @@
+{
+  "id": "76675e03-327d-4abe-9e95-54ae88e2e3d1",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "knihy",
+    "divadlo",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Ministerstvo obrany ČR",
+  "previous_passwords": [
+    "Radomir1961",
+    "Fabia2007",
+    "Praha59",
+    "Divadlo123",
+    "Lidl813",
+    "Pilsner63",
+    "Vesely2020",
+    "Knihy!2022",
+    "SkodaFabia16",
+    "Auta_999"
+  ],
+  "favorite_hobby": "knihy",
+  "birth_date": "1963-01-06"
+}

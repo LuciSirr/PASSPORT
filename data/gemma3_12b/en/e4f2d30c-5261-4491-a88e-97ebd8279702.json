@@ -1,0 +1,44 @@
+{
+  "id": "e4f2d30c-5261-4491-a88e-97ebd8279702",
+  "age": 48,
+  "birth_date": "1978-07-17",
+  "marital_status": "married",
+  "region": "Cliffordstad",
+  "nationality": "english",
+  "company": "Wilkins, Harris and Morley",
+  "car_brand": "Peugeot",
+  "self_first_name": "Harry",
+  "self_last_name": "Newman",
+  "partner_first_name": "Zoe",
+  "partner_last_name": "Newman",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Anne"
+    },
+    {
+      "pet_type": "dog",
+      "pet_name": "Shirley"
+    }
+  ],
+  "interests": [
+    "Sailing",
+    "Local History",
+    "Nordic Noir Crime Fiction",
+    "Hiking",
+    "Classic Rock Music"
+  ],
+  "previous_passwords": [
+    "NordicNoir2018",
+    "AnneNewmanSails!",
+    "PeugeotShirley78",
+    "KurtWallander19",
+    "SailingZoe23",
+    "ClassicRockCliff",
+    "HikingAnne1978",
+    "MessiNewman!",
+    "LocalHistAnne",
+    "PeugeotNordic!"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "aa090e90-eaa0-49b8-bf50-2579578aab4d",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Citroën",
+  "self_first_name": "Callum",
+  "self_last_name": "Whittaker",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Whittaker",
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Urban Mobility Solutions Ltd",
+  "previous_passwords": [
+    "Callum2001",
+    "MiloWh1ttaker!",
+    "Emily123",
+    "Football_19",
+    "London4Life",
+    "UrbanMobility2023",
+    "Whittaker_01",
+    "Cycling!23",
+    "Milo_2001",
+    "EmilyWhittaker!"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2003-02-01"
+}

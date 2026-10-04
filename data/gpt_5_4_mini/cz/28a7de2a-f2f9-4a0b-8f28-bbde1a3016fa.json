@@ -1,0 +1,40 @@
+{
+  "id": "28a7de2a-f2f9-4a0b-8f28-bbde1a3016fa",
+  "age": 69,
+  "birth_date": "1957-05-19",
+  "marital_status": "single",
+  "region": "Kunštát",
+  "nationality": "czech",
+  "company": "Marek s.r.o.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Karel",
+  "self_last_name": "Fiala",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ferdinand"
+    }
+  ],
+  "interests": [
+    "zahradničení",
+    "turistika v Moravském krasu",
+    "sledování hokeje",
+    "české filmy",
+    "tradiční česká kuchyně"
+  ],
+  "previous_passwords": [
+    "Ferdinand57!",
+    "MoravskyKras19",
+    "KralSnehuli9",
+    "VWFiala57",
+    "Kunstat57!",
+    "CeskeFilmy19",
+    "Zahradni57",
+    "TradiCzech57",
+    "HokejKarel19",
+    "Turistika57!"
+  ]
+}

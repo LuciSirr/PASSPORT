@@ -1,0 +1,35 @@
+{
+  "id": "f639a363-eafa-49db-9b2c-4d444e659491",
+  "age": 64,
+  "birth_date": "1962-12-31",
+  "marital_status": "divorced",
+  "region": "Městec Králové",
+  "nationality": "czech",
+  "company": "Vaněk",
+  "car_brand": "Toyota",
+  "self_first_name": "Zdislava",
+  "self_last_name": "Dušková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "zahrádkářství",
+    "turistika v Podkrkonoší",
+    "sledování hokeje",
+    "české filmy",
+    "čtení regionálního tisku"
+  ],
+  "previous_passwords": [
+    "Hokej62!",
+    "Turistika31",
+    "Zahradka62",
+    "Toyota1962!",
+    "MestecHokej",
+    "CeskeFilmy31",
+    "KraloveHory62",
+    "RegionalniTisk",
+    "Podkrkonosi64",
+    "DuskovaHokej"
+  ]
+}

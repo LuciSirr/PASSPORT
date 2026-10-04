@@ -1,0 +1,39 @@
+{
+  "id": "49ed9e46-d008-4b84-bd6d-1312f56bfd6c",
+  "gender": "male",
+  "age": 72,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Suzuki",
+  "self_first_name": "Jaroslav",
+  "self_last_name": "Šimáček",
+  "birth_date": "1952-06-11",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Šimáček",
+  "children": [],
+  "interests": [
+    "country hudba",
+    "chalupaření"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Jaroslav1952",
+    "Rex123",
+    "Simacek80",
+    "Marie11.6",
+    "countryhudba2020",
+    "chalupa_1952",
+    "Rex!52",
+    "MarieŠimáček2022",
+    "RexSimacek",
+    "countryRex52"
+  ],
+  "favorite_hobby": "country hudba"
+}

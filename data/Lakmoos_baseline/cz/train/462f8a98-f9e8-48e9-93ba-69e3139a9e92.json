@@ -1,0 +1,35 @@
+{
+  "id": "462f8a98-f9e8-48e9-93ba-69e3139a9e92",
+  "gender": "female",
+  "age": 62,
+  "marital_status": "married",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Vránová",
+  "children": [],
+  "interests": [
+    "procházky",
+    "čtení",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Olomoucká doprava s.r.o.",
+  "previous_passwords": [
+    "Jarmila62",
+    "Fabia2003",
+    "Olomouc77",
+    "LetniByt99",
+    "Kaufland2021",
+    "Miroslav2023",
+    "Prochazky123",
+    "Vranova77",
+    "Cteni2024",
+    "Tesco882"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1963-08-18"
+}

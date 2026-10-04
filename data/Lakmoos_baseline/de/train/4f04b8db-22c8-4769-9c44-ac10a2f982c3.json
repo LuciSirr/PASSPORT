@@ -1,0 +1,34 @@
+{
+  "id": "4f04b8db-22c8-4769-9c44-ac10a2f982c3",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Land Rover",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Birgit",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "angeln",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Wald & Feld NRW GmbH",
+  "previous_passwords": [
+    "Juergen1965",
+    "LandRover2021",
+    "Birgit123",
+    "Angeln!59",
+    "Kleinschmidt2000",
+    "NRW_1948",
+    "Defender3.0",
+    "SommerMai!",
+    "Wandern2024",
+    "BirgitJuergen"
+  ],
+  "favorite_hobby": "angeln",
+  "birth_date": "1967-01-04"
+}

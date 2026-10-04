@@ -1,0 +1,57 @@
+{
+  "id": "71d88348-508e-49f4-aa1d-8dc29bdb344a",
+  "age": 50,
+  "birth_date": "1976-09-28",
+  "marital_status": "married",
+  "region": "Štětí",
+  "nationality": "czech",
+  "company": "Dušek",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Žák",
+  "partner_first_name": "Renata",
+  "partner_last_name": "Žáková",
+  "children": [
+    {
+      "first_name": "Štefan",
+      "last_name": "Žák"
+    },
+    {
+      "first_name": "Bohuslav",
+      "last_name": "Žák"
+    },
+    {
+      "first_name": "Ignác",
+      "last_name": "Žák"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Roman"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Linda"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivo",
+    "zaměření na historii",
+    "škoda auto"
+  ],
+  "previous_passwords": [
+    "Mercedes1976",
+    "StefanLinda!",
+    "Renesanxe2024",
+    "TuristikaŠtefan",
+    "BohuslavRybar",
+    "IgnacMercedes",
+    "LindaDog78",
+    "SkodaHistorie",
+    "RenataPivo28",
+    "MessiZakLinda"
+  ]
+}

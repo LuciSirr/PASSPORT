@@ -1,0 +1,35 @@
+{
+  "id": "009b81e5-460a-4c5c-9936-05dc34a0f02b",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Fiat",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "walking"
+  ],
+  "pets": [],
+  "company": "East Midlands Executive Solutions",
+  "previous_passwords": [
+    "Fiat500_2018",
+    "Fiona53!",
+    "Graham2019",
+    "EastMidlands123",
+    "Travel4Fun",
+    "Hollingsworth999",
+    "Reading_2024",
+    "Fi0na_Adventure",
+    "Wedding2024",
+    "FiatStyle15"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1973-03-17"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1de80e8e-cdee-47fd-9d12-62d4281667bb",
+  "gender": "male",
+  "age": 1,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Albie",
+  "self_last_name": "Fenwick",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "blocks"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Albie2023",
+    "Fenwick1",
+    "Blocks123",
+    "LondonBaby!",
+    "Drawing2024",
+    "AlbieBlocks",
+    "Fenwick_23"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2025-03-25"
+}

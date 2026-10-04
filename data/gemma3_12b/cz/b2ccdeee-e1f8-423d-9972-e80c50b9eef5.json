@@ -1,0 +1,35 @@
+{
+  "id": "b2ccdeee-e1f8-423d-9972-e80c50b9eef5",
+  "age": 36,
+  "birth_date": "1990-06-20",
+  "marital_status": "married",
+  "region": "Mimoň",
+  "nationality": "czech",
+  "company": "Černá",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Libuše",
+  "self_last_name": "Hrubá",
+  "partner_first_name": "Vlasta",
+  "partner_last_name": "Hrubá",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "filmové večery",
+    "fotbal",
+    "hudba"
+  ],
+  "previous_passwords": [
+    "Messi2010!",
+    "VařeníFilmVečer",
+    "Volkswagen1990",
+    "TuristikaMimon",
+    "LibuseMessi",
+    "FotbalHudba_90",
+    "VlastaFilm",
+    "MessiLibuše!",
+    "Turistika_VH",
+    "Fotbal2024"
+  ]
+}

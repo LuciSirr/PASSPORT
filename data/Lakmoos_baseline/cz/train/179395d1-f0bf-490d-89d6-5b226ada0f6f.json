@@ -1,0 +1,35 @@
+{
+  "id": "179395d1-f0bf-490d-89d6-5b226ada0f6f",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "widower/widow",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kubešek",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "vzdělávání",
+    "facebook",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1954",
+    "Kubesek70",
+    "SkodaKaroq17",
+    "RajecVoda!",
+    "Albert912",
+    "Seriály2023",
+    "Penny123",
+    "TescoKubešek",
+    "HBOmaxCZ",
+    "Facebook70"
+  ],
+  "favorite_hobby": "vzdělávání",
+  "birth_date": "1956-03-25"
+}

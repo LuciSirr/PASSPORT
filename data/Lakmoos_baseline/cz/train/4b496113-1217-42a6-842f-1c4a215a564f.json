@@ -1,0 +1,45 @@
+{
+  "id": "4b496113-1217-42a6-842f-1c4a215a564f",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Iveta",
+  "partner_last_name": "Šebestová",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Šebesta"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Šebesta"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "historie",
+    "netflix",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "Základní škola Plzeň-Jižní Předměstí",
+  "previous_passwords": [
+    "Fabia2023",
+    "Plzen123",
+    "MatEli08",
+    "Urcell2020",
+    "Globus44",
+    "Radek1979",
+    "Iveta2022",
+    "Matěj08!",
+    "Eliška2024",
+    "Cestovani_321"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1983-01-21"
+}

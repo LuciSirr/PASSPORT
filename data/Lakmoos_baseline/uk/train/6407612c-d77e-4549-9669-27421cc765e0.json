@@ -1,0 +1,38 @@
+{
+  "id": "6407612c-d77e-4549-9669-27421cc765e0",
+  "gender": "male",
+  "age": 7,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finley",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lego",
+    "football",
+    "drawing"
+  ],
+  "pets": [
+    {
+      "pet_type": "other",
+      "pet_name": "Spike"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Finley2017",
+    "Lego123",
+    "Hollis7",
+    "Spike2021",
+    "Football7",
+    "Drawing4",
+    "Finley!7",
+    "WestMidlands21"
+  ],
+  "favorite_hobby": "lego",
+  "birth_date": "2018-11-16"
+}

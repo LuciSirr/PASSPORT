@@ -1,0 +1,44 @@
+{
+  "id": "52782371-0844-4c30-b60d-033448c40e6c",
+  "age": 35,
+  "birth_date": "1991-10-07",
+  "marital_status": "single",
+  "region": "Žulová",
+  "nationality": "czech",
+  "company": "Liška v.o.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Erika",
+  "self_last_name": "Bláhová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Norbert"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Kamila"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "hokej",
+    "vaření",
+    "cyklistika",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Turistika91!",
+    "HokejToyota7",
+    "VareniZulova91",
+    "CykloKamila21",
+    "CeskeFilmy07",
+    "NorbertHokej91",
+    "ToyotaVondrak",
+    "Blahova1991!",
+    "ZulovaTrip7",
+    "KamilaBike91"
+  ]
+}

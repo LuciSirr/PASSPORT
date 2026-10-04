@@ -1,0 +1,35 @@
+{
+  "id": "9088ee5f-f788-4611-bce8-f16be4db0e0f",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "auta"
+  ],
+  "pets": [],
+  "company": "Krajský úřad Brno",
+  "previous_passwords": [
+    "Radek1985",
+    "Petra2020",
+    "HiluxBrno11",
+    "Vesely29",
+    "Turistika123",
+    "Fotbal_7926",
+    "BrnoKofola",
+    "PetraRadek!",
+    "Toyota2011",
+    "VeselaPetra7"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1997-02-27"
+}

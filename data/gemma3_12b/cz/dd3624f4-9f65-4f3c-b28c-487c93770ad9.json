@@ -1,0 +1,35 @@
+{
+  "id": "dd3624f4-9f65-4f3c-b28c-487c93770ad9",
+  "age": 68,
+  "birth_date": "1958-02-15",
+  "marital_status": "single",
+  "region": "Desná",
+  "nationality": "czech",
+  "company": "Růžičková",
+  "car_brand": "Škoda",
+  "self_first_name": "Iva",
+  "self_last_name": "Pavlíková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "pěvání v sboru",
+    "lokalní historie",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "DesnaTuristika2018",
+    "SkodaZahradni1958",
+    "TuristikaVeverka!",
+    "RybarPevak23",
+    "LokalniHistorieIva",
+    "ZahradaSkoda!",
+    "DesnaPevani_58",
+    "TuristikaRybarnik",
+    "SkodaHistorie2024",
+    "VeverkaZahrada15"
+  ]
+}

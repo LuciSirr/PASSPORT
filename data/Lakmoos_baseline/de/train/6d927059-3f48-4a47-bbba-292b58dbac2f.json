@@ -1,0 +1,44 @@
+{
+  "id": "6d927059-3f48-4a47-bbba-292b58dbac2f",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gertrud",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Heinrich",
+  "partner_last_name": "Kreutzmann",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Kreutzmann"
+    },
+    {
+      "first_name": "Emil",
+      "last_name": "Kreutzmann"
+    }
+  ],
+  "interests": [
+    "stricken",
+    "spazieren",
+    "hörbücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gertrud1955",
+    "Lena2009",
+    "Emil2020",
+    "Berlin!123",
+    "Kreutzmann77",
+    "Oma_69",
+    "Stricken2024",
+    "Heinrich55",
+    "Sommer!15",
+    "LenaEmil04"
+  ],
+  "favorite_hobby": "stricken",
+  "birth_date": "1956-04-24"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "92568c68-a0e5-432f-9913-7693f6576ef8",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "married",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "cestování",
+    "turistika",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radek1959",
+    "Jitka2023",
+    "Vesely64",
+    "Zlin1234",
+    "KonaDiesel",
+    "Cestovani2021",
+    "Turistika!1",
+    "Billa555",
+    "Pivo64",
+    "Hyundai2021"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1961-11-11"
+}

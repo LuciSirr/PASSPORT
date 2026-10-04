@@ -1,0 +1,40 @@
+{
+  "id": "8b6bc72a-6d1d-4034-bbb2-bdf5e2231c1a",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Misty2015",
+    "Margaret63",
+    "Geoffrey1970",
+    "Hollingsworth1",
+    "Travel4Fun",
+    "Gardening123",
+    "Misty!",
+    "Reading_22",
+    "M4rg4r3t",
+    "Geoff&Marg"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1962-08-30"
+}

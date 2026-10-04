@@ -1,0 +1,48 @@
+{
+  "id": "81bc5058-6509-441c-9ebb-527564312d37",
+  "age": 30,
+  "birth_date": "1996-11-19",
+  "marital_status": "married",
+  "region": "North Angela",
+  "nationality": "english",
+  "company": "Griffin-Robinson",
+  "car_brand": "Dacia",
+  "self_first_name": "Toby",
+  "self_last_name": "Hughes",
+  "partner_first_name": "Hazel",
+  "partner_last_name": "Hughes",
+  "children": [
+    {
+      "first_name": "Richard",
+      "last_name": "Hughes"
+    },
+    {
+      "first_name": "Lawrence",
+      "last_name": "Hughes"
+    },
+    {
+      "first_name": "Jane",
+      "last_name": "Hughes"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "fitness",
+    "podcasts",
+    "travel",
+    "cooking"
+  ],
+  "previous_passwords": [
+    "HazelGaming96!",
+    "DaciaFit11",
+    "JoeRogan1996",
+    "TobyCook19",
+    "JaneTravel96",
+    "RichardPods11",
+    "HazelCook1996",
+    "NHLGaming30",
+    "NorthAngela!96",
+    "LawrenceFit96"
+  ]
+}

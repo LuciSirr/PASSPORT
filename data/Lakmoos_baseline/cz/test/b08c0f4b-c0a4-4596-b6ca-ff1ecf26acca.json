@@ -1,0 +1,43 @@
+{
+  "id": "b08c0f4b-c0a4-4596-b6ca-ff1ecf26acca",
+  "gender": "female",
+  "age": 31,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Tereza",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1993-06-15",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Nikola",
+      "last_name": "Kohoutová"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "české filmy"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tereza1993",
+    "Nikola2009",
+    "Adam2018",
+    "Kohoutova15",
+    "cestovani123",
+    "ceskefilmy2022",
+    "PetrKohout93",
+    "NikolaAdam06",
+    "Praha_999",
+    "Kohout!2023"
+  ],
+  "favorite_hobby": "cestování"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "155d7967-9cdd-4281-91ec-4fe5d798bf0a",
+  "age": 30,
+  "birth_date": "1996-03-13",
+  "marital_status": "married",
+  "region": "Liberec",
+  "nationality": "czech",
+  "company": "Stejskal",
+  "car_brand": "Toyota",
+  "self_first_name": "Marcela",
+  "self_last_name": "Sýkorová",
+  "partner_first_name": "Bohumír",
+  "partner_last_name": "Beranová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "Vaření",
+    "lokální pivo",
+    "hudba Křešatova",
+    "fotbal Slovan Liberec"
+  ],
+  "previous_passwords": [
+    "KresatovaHudba2016",
+    "SlovanLiberec1996",
+    "ToyotaLiberec!",
+    "BohumirVaření!",
+    "MarcelaSýkorováTuristika",
+    "LokálPivo23",
+    "Messi2012_!",
+    "TuristikaMarcela96",
+    "BeranováKresatova",
+    "ToyotaSlovan88"
+  ]
+}

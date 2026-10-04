@@ -1,0 +1,39 @@
+{
+  "id": "235d0350-382d-48f0-8f99-2b41ed748e87",
+  "gender": "male",
+  "age": 35,
+  "marital_status": "married",
+  "region": "north east",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Callum",
+  "self_last_name": "Fenwick",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Fenwick",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Milo2020",
+    "Fenwick35",
+    "Emily4Callum",
+    "Cycling123",
+    "Gardening!21",
+    "Polestar65306",
+    "Callum_1989",
+    "EmilyFenwick",
+    "NorthEast10k",
+    "MiloFenwick"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1991-02-21"
+}

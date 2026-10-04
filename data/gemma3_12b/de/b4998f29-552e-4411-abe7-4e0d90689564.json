@@ -1,0 +1,35 @@
+{
+  "id": "b4998f29-552e-4411-abe7-4e0d90689564",
+  "age": 61,
+  "birth_date": "1965-11-17",
+  "marital_status": "single",
+  "region": "Chemnitz",
+  "nationality": "german",
+  "company": "Wende",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Ina",
+  "self_last_name": "Gute",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Volksmusik",
+    "Schach",
+    "Gartenarbeit",
+    "Lokale Geschichte"
+  ],
+  "previous_passwords": [
+    "SchachZug65",
+    "MercedesWander1965",
+    "VolksmusikIna",
+    "GartenBlume24",
+    "ChemnitzWandern!",
+    "LokaleGeschicht3",
+    "WanderBerg22",
+    "Mercedes61!",
+    "SchachFreundIna",
+    "VolksmusikHerz88"
+  ]
+}

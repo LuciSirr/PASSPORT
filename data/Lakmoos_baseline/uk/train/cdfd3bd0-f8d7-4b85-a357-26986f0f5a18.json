@@ -1,0 +1,40 @@
+{
+  "id": "cdfd3bd0-f8d7-4b85-a357-26986f0f5a18",
+  "gender": "female",
+  "age": 56,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Nissan",
+  "self_first_name": "Gillian",
+  "self_last_name": "Pritchard",
+  "partner_first_name": "Malcolm",
+  "partner_last_name": "Pritchard",
+  "children": [],
+  "interests": [
+    "gardening",
+    "baking",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Misty2006",
+    "Gillian56",
+    "Qashqai21",
+    "Malcolm123",
+    "Wales!23",
+    "Baking4Fun",
+    "Pritchard07",
+    "Gard3n1ng",
+    "Misty!cat",
+    "Nissan1497"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1970-01-09"
+}

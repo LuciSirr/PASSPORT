@@ -1,0 +1,35 @@
+{
+  "id": "3a5dc7c0-9035-4268-b22b-a60f82ccb2e0",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Suzuki",
+  "self_first_name": "Nikola",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "hudba",
+    "nakupování",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Obchodní služby Veselá",
+  "previous_passwords": [
+    "Suzuki2000",
+    "Kaufland23",
+    "Swift1197",
+    "Nikola16",
+    "MonsterEnergy",
+    "Hudba123",
+    "Vesela2007",
+    "Nakupovani!",
+    "Seriály2023",
+    "SuzukiVesela"
+  ],
+  "favorite_hobby": "hudba",
+  "birth_date": "2010-03-08"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a532184d-e5da-4c9e-894b-ec8138220754",
+  "gender": "female",
+  "age": 20,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "shopping",
+    "driving",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Imogen2004",
+    "AudiA3_16",
+    "Hollis15",
+    "Shopping123",
+    "Netflix!20",
+    "NorthWest04",
+    "Imo!2021",
+    "AudiLover7",
+    "Hollis_1",
+    "Driving2023"
+  ],
+  "favorite_hobby": "shopping",
+  "birth_date": "2006-02-04"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "b6635c78-0e3c-4e58-b417-ec7231f168de",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Jaguar",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "travel"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "South Downs Insurance Brokers",
+  "previous_passwords": [
+    "Fiona1963",
+    "Jaguar2016",
+    "Ashcroft55",
+    "Milo123",
+    "Graham4Eva",
+    "Gardening!1",
+    "SouthDowns2020",
+    "Reading_63",
+    "Travel2022"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1965-02-09"
+}

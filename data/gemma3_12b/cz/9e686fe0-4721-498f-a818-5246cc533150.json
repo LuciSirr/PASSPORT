@@ -1,0 +1,40 @@
+{
+  "id": "9e686fe0-4721-498f-a818-5246cc533150",
+  "age": 42,
+  "birth_date": "1984-04-19",
+  "marital_status": "married",
+  "region": "Hodkovice nad Mohelkou",
+  "nationality": "czech",
+  "company": "Hrubý Matoušek a.s.",
+  "car_brand": "Mazda",
+  "self_first_name": "Ján",
+  "self_last_name": "Pokorný",
+  "partner_first_name": "Nora",
+  "partner_last_name": "Pokorná",
+  "children": [
+    {
+      "first_name": "Jaroslava",
+      "last_name": "Pokorná"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "vaření",
+    "lokální historie",
+    "pěv"
+  ],
+  "previous_passwords": [
+    "Jaroslava84Turistika",
+    "Mohelkou_Rybar",
+    "MazdaPokorna2023",
+    "Rybářství1984",
+    "TuristikaNora!",
+    "Vaření_Jaroslava",
+    "LokálniHistorie84",
+    "PěvPokorný2024",
+    "JanasMessiFish",
+    "HodkoviceMazda"
+  ]
+}

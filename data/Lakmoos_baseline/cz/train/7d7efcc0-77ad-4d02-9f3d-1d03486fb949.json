@@ -1,0 +1,37 @@
+{
+  "id": "7d7efcc0-77ad-4d02-9f3d-1d03486fb949",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "grilování",
+    "cyklistika",
+    "hbo",
+    "knihy"
+  ],
+  "pets": [],
+  "company": "Vysočina Strojírny s.r.o.",
+  "previous_passwords": [
+    "Fabia2003",
+    "Vysočina53",
+    "Shell1752",
+    "Datart4920",
+    "Pirati2021",
+    "Fotbal123",
+    "Grilovani!22",
+    "Radek_1996",
+    "Vesely999",
+    "KnihyHBO"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1998-03-26"
+}

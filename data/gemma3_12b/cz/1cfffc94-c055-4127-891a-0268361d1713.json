@@ -1,0 +1,35 @@
+{
+  "id": "1cfffc94-c055-4127-891a-0268361d1713",
+  "age": 22,
+  "birth_date": "2004-09-11",
+  "marital_status": "married",
+  "region": "Nejdek",
+  "nationality": "czech",
+  "company": "Němečková Beranová o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Nela",
+  "self_last_name": "Tůmová",
+  "partner_first_name": "Ján",
+  "partner_last_name": "Fialová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "videohry",
+    "hudba",
+    "cestování",
+    "fotbal",
+    "Netflix"
+  ],
+  "previous_passwords": [
+    "Messi2004!",
+    "NetflixNela",
+    "ŠkodaHudba11",
+    "CestovaniJan",
+    "VideohryNela22",
+    "FotbalMessi!",
+    "NetflixTravel",
+    "Nejdek2004",
+    "MessiHudba!",
+    "ŠkodaVideohry"
+  ]
+}

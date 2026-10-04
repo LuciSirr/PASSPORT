@@ -1,0 +1,35 @@
+{
+  "id": "19e5eb08-5420-48a5-becf-e5099e86393c",
+  "gender": "female",
+  "age": 51,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "procházky",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "Agro Lesy Morava",
+  "previous_passwords": [
+    "Ivana1973",
+    "Vesela35",
+    "Petr2020",
+    "Kofola123",
+    "Nakupovani77",
+    "Prochazky2021",
+    "SkodaKaroq17",
+    "Brno!59",
+    "Globus2022",
+    "DmOblibene"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1974-11-20"
+}

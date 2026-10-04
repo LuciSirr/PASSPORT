@@ -1,0 +1,35 @@
+{
+  "id": "e0ac64b9-9e10-4fde-9898-afcbf1e9a3c6",
+  "gender": "female",
+  "age": 58,
+  "marital_status": "divorced",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1966-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "vinted",
+    "netflix",
+    "nakupování oblečení"
+  ],
+  "pets": [],
+  "company": "Základní škola Moravany",
+  "previous_passwords": [
+    "Iveta1966",
+    "Kohoutova80",
+    "vinted123",
+    "netflix2023",
+    "nakupovani!66",
+    "KohoutovaVinted",
+    "Iveta!10.6.1966",
+    "vintedKohoutova",
+    "netflixIveta",
+    "Kohoutova_1966"
+  ],
+  "favorite_hobby": "vinted"
+}

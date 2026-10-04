@@ -1,0 +1,35 @@
+{
+  "id": "866a7f02-ab8b-42a1-baeb-f3827fae6a27",
+  "gender": "male",
+  "age": 53,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Jaguar",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "photography",
+    "rambling"
+  ],
+  "pets": [],
+  "company": "Eastgate Advisory Ltd",
+  "previous_passwords": [
+    "Jaguar2016",
+    "Fiona53!",
+    "Eastgate123",
+    "Travel4Life",
+    "Hollingsworth1",
+    "Rambling2020",
+    "Graham_1969",
+    "Epace!8",
+    "Photo_99",
+    "Fiona&Graham"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1972-09-18"
+}

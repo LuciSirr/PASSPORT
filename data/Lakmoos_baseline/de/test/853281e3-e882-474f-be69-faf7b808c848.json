@@ -1,0 +1,39 @@
+{
+  "id": "853281e3-e882-474f-be69-faf7b808c848",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lukas",
+  "self_last_name": "Kuhn",
+  "birth_date": "2018-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "sandkasten"
+  ],
+  "pets": [
+    {
+      "pet_type": "other",
+      "pet_name": "Hoppel"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2021",
+    "KuhnPaw123",
+    "Hoppel10",
+    "pawpatrol21",
+    "Sandkasten_06",
+    "Hoppel!2021",
+    "KuhnSand",
+    "paw4Lukas",
+    "HoppelPaw",
+    "Kuhn2021"
+  ],
+  "favorite_hobby": "paw patrol"
+}

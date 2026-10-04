@@ -1,0 +1,45 @@
+{
+  "id": "0b1ffd0e-9b65-4613-b4aa-52f3f24053b9",
+  "age": 41,
+  "birth_date": "1985-03-28",
+  "marital_status": "single",
+  "region": "Potštát",
+  "nationality": "czech",
+  "company": "Beran Šimek k.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Aneta",
+  "self_last_name": "Benešová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Oto",
+      "last_name": "Čermáková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Alois"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "pivo",
+    "rybaření",
+    "lokální historie",
+    "hudba Karla Gotta"
+  ],
+  "previous_passwords": [
+    "KarlaGotta85!",
+    "OtoCermakova1985",
+    "ToyotaPotstat!",
+    "AloisTuristika22",
+    "RybarPivo_cz",
+    "GottaHudba_Oto",
+    "PotstatHistorie1985",
+    "TuristikaAlois!",
+    "LokalniRybar85",
+    "ToyotaCermakova"
+  ]
+}

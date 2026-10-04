@@ -1,0 +1,41 @@
+{
+  "id": "9c70b43e-2903-407a-b627-a9538fb0362c",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "travel",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "SouthEast Consulting Group",
+  "previous_passwords": [
+    "Fiona1969",
+    "Milo123",
+    "Graham!69",
+    "Hollingsworth2020",
+    "Gardening4",
+    "MiniCountryman24",
+    "Travel_2023",
+    "Reading3",
+    "SouthEast50k",
+    "Milo!cat"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1972-08-06"
+}

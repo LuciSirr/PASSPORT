@@ -1,0 +1,48 @@
+{
+  "id": "f6eddd2d-04d9-4ea3-b3d3-026485991570",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "single/in a relationship",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Škoda",
+  "self_first_name": "Jens",
+  "self_last_name": "Kraus",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kraus"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Kraus"
+    },
+    {
+      "first_name": "Jonas",
+      "last_name": "Kraus"
+    }
+  ],
+  "interests": [
+    "reisen",
+    "podcasts",
+    "auto"
+  ],
+  "pets": [],
+  "company": "Rheinland Business Solutions",
+  "previous_passwords": [
+    "Lukas2009",
+    "Kraus123",
+    "Marlene07!",
+    "Skoda2018",
+    "Jonas2011",
+    "Rheinland7",
+    "Auto4Life",
+    "Sommer2022",
+    "Karoq_112",
+    "Podcast2023"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1984-10-17"
+}

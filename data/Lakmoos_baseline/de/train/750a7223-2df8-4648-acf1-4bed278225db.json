@@ -1,0 +1,40 @@
+{
+  "id": "750a7223-2df8-4648-acf1-4bed278225db",
+  "gender": "female",
+  "age": 71,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Ursula",
+  "self_last_name": "Kreutzer",
+  "partner_first_name": "Heinz",
+  "partner_last_name": "Kreutzer",
+  "children": [],
+  "interests": [
+    "lesen",
+    "gartenarbeit",
+    "volunteering"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Ursula1948",
+    "Heinz123",
+    "Minka!2020",
+    "Kreutzer_71",
+    "Lesen2024",
+    "Gartenarbeit07",
+    "Nordrhein1978",
+    "Schatz!1000",
+    "MinkaKreutzer",
+    "Fruehling03"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1954-07-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dc88f07e-08e0-47e9-b320-32b123267bf0",
+  "gender": "female",
+  "age": 41,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "travel",
+    "gardening",
+    "downton abbey"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "SouthEast Brokers & Consultants",
+  "previous_passwords": [
+    "Fiona1983",
+    "Misty!15",
+    "AshcroftTravel123",
+    "DowntonAbbey2018",
+    "Gardening4Life",
+    "Oliver07_15",
+    "MistyAshcroft",
+    "Travel2020!",
+    "Downton3Abbey",
+    "Ashcroft!1983"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1983-07-15"
+}

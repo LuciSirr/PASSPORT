@@ -1,0 +1,35 @@
+{
+  "id": "bcd2aaa8-9bb5-4836-a800-738b56da873f",
+  "age": 25,
+  "birth_date": "2001-09-29",
+  "marital_status": "divorced",
+  "region": "Prenzlau",
+  "nationality": "german",
+  "company": "Birnbaum",
+  "car_brand": "Renault",
+  "self_first_name": "Anatolij",
+  "self_last_name": "Mies",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Videospiele",
+    "Musik Festivals",
+    "Reisen",
+    "Fotografie",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Messi2001!",
+    "RenautFoto19",
+    "JoeRoganMusik!",
+    "PrenzlauVide0",
+    "AnatolijReise25",
+    "FotografieFest!",
+    "Lokalerfussball1",
+    "MessiAnatolij!",
+    "Videospiele29!",
+    "RenautMusikFest"
+  ]
+}

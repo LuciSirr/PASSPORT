@@ -1,0 +1,39 @@
+{
+  "id": "11c098f6-e4f8-4e30-beac-24f9b48e48ce",
+  "gender": "male",
+  "age": 74,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Suzuki",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Šimáček",
+  "birth_date": "1950-06-14",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Šimáček",
+  "children": [],
+  "interests": [
+    "české filmy",
+    "turistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1950",
+    "Ben1234",
+    "Simacek!50",
+    "Marie1972",
+    "ceskefilmy2020",
+    "turistika_74",
+    "BenSimacek",
+    "MarieBen!",
+    "Globus506",
+    "Ben!1950"
+  ],
+  "favorite_hobby": "české filmy"
+}

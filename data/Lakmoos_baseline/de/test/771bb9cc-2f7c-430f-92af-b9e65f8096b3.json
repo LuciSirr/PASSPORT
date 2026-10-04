@@ -1,0 +1,35 @@
+{
+  "id": "771bb9cc-2f7c-430f-92af-b9e65f8096b3",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Citroën",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "birth_date": "1979-05-17",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "angeln"
+  ],
+  "pets": [],
+  "company": "Bauunternehmen Schulte & Partner",
+  "previous_passwords": [
+    "Tatort1979",
+    "Krause!82",
+    "Sabine17Mai",
+    "Angeln123",
+    "Bundesliga_79",
+    "JensKrause1979",
+    "SabineKrause!",
+    "Tatort_82",
+    "BauSchulte2023",
+    "KrauseAngeln17"
+  ],
+  "favorite_hobby": "tatort"
+}

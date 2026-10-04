@@ -1,0 +1,44 @@
+{
+  "id": "f98c2c52-300a-4b5c-9954-d339d92a4820",
+  "age": 19,
+  "birth_date": "2007-06-06",
+  "marital_status": "married",
+  "region": "East Paul",
+  "nationality": "english",
+  "company": "Sutton, Hughes and Davies",
+  "car_brand": "Hyundai",
+  "self_first_name": "Jordan",
+  "self_last_name": "Ross",
+  "partner_first_name": "Patricia",
+  "partner_last_name": "Ross",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Diane"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Natasha"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "TikTok",
+    "music festivals",
+    "photography",
+    "local basketball league"
+  ],
+  "previous_passwords": [
+    "DianeNatasha2007",
+    "MessiEastPaul!",
+    "HyundaiTikTok_06",
+    "NatashaRossPics",
+    "JoeRoganFest23",
+    "PatriciaGaming7",
+    "BasketballJordan!",
+    "RossDianePhoto",
+    "MusicFest2006!",
+    "HyundaiDiane_06"
+  ]
+}

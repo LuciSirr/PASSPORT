@@ -1,0 +1,45 @@
+{
+  "id": "ab28a004-30b6-4cd1-8677-0c2d8412da0f",
+  "gender": "female",
+  "age": 40,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1984-06-15",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohoutová"
+    }
+  ],
+  "interests": [
+    "netflix",
+    "cestování",
+    "kofola"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "Základní škola Dolní Loučky",
+  "previous_passwords": [
+    "Iveta1984",
+    "Tereza2017",
+    "Kohoutova!15",
+    "Ben123",
+    "netflix2020",
+    "cestovani_84",
+    "Kohout_Petr84",
+    "kofola2023",
+    "BenTereza17",
+    "DolniLoucky15"
+  ],
+  "favorite_hobby": "netflix"
+}

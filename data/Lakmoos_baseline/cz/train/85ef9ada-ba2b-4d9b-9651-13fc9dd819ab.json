@@ -1,0 +1,45 @@
+{
+  "id": "85ef9ada-ba2b-4d9b-9651-13fc9dd819ab",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Konečná",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Konečný"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Konečná"
+    }
+  ],
+  "interests": [
+    "auta",
+    "kutilství",
+    "filmy",
+    "móda"
+  ],
+  "pets": [],
+  "company": "AutoServis Olomouc",
+  "previous_passwords": [
+    "Matej2022",
+    "ToyotaProace19",
+    "Petra77",
+    "Olomouc123",
+    "Konecny2018",
+    "Auta!2020",
+    "Eliška04",
+    "Kutil2021",
+    "Matysek20",
+    "Filmy_123"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1985-01-06"
+}

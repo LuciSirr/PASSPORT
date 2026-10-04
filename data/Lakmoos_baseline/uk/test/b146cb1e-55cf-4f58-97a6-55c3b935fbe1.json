@@ -1,0 +1,34 @@
+{
+  "id": "b146cb1e-55cf-4f58-97a6-55c3b935fbe1",
+  "gender": "female",
+  "age": 34,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Harriet",
+  "self_last_name": "Merrick",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "travel photography",
+    "great british bake off"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Merrick1990",
+    "LondonBakeOff!",
+    "Travel4Life",
+    "Harriet_17",
+    "Bake0ff2021",
+    "GBBO_Merrick",
+    "Photo!2022",
+    "GreatBritish123",
+    "MerrickBake",
+    "TravelBake90"
+  ],
+  "favorite_hobby": "travel photography",
+  "birth_date": "1990-04-17"
+}

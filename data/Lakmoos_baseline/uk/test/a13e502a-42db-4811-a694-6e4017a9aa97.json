@@ -1,0 +1,39 @@
+{
+  "id": "a13e502a-42db-4811-a694-6e4017a9aa97",
+  "gender": "female",
+  "age": 54,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Hyundai",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "british baking show",
+    "walking holidays"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Marmalade"
+    }
+  ],
+  "company": "South Coast Brokers Ltd",
+  "previous_passwords": [
+    "Fiona1970",
+    "Marmalade14",
+    "BakingShow2020",
+    "Hollingsworth123",
+    "Gardening!70",
+    "WalkingH0l1day",
+    "Graham1972",
+    "GreatBritishBake1",
+    "Marmalade!2021"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1970-06-14"
+}

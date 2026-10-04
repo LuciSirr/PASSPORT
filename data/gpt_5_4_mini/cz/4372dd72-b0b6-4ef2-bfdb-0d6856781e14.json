@@ -1,0 +1,40 @@
+{
+  "id": "4372dd72-b0b6-4ef2-bfdb-0d6856781e14",
+  "age": 52,
+  "birth_date": "1974-03-04",
+  "marital_status": "single",
+  "region": "Morkovice-Slížany",
+  "nationality": "czech",
+  "company": "Vítek Blažek k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Miroslava",
+  "self_last_name": "Urbanová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Ivan"
+    }
+  ],
+  "interests": [
+    "zahradničení",
+    "turistika",
+    "fotbal",
+    "chalupaření",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "Zahrada74!",
+    "Turistika03",
+    "SpartaMorkovice",
+    "Skoda1974",
+    "IvanGulig1",
+    "Vareni52!",
+    "ChalupaMiki74",
+    "Messi_fotbal52",
+    "Morkovice!74",
+    "Zahradka03"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "62fed24e-70b5-4386-a945-b10003ef8b38",
+  "gender": "female",
+  "age": 68,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crossword",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Tilly"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Marion1956",
+    "Tilly123",
+    "Hollis68",
+    "Geoffrey4Me",
+    "Gardening!1",
+    "Baking2020",
+    "Crossword_56",
+    "Tilly!56",
+    "Marion_Geoff",
+    "HollisCat1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1958-01-21"
+}

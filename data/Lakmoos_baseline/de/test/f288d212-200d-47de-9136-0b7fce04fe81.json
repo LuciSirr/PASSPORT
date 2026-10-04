@@ -1,0 +1,34 @@
+{
+  "id": "f288d212-200d-47de-9136-0b7fce04fe81",
+  "gender": "male",
+  "age": 65,
+  "marital_status": "married",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "Peugeot",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Krause",
+  "birth_date": "1959-06-14",
+  "partner_first_name": "Monika",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "nordsee reisen"
+  ],
+  "pets": [],
+  "company": "Gesundheitszentrum Kiel",
+  "previous_passwords": [
+    "Tatort1959",
+    "Krause!123",
+    "Monika1960",
+    "nordsee_14",
+    "JuergeN59",
+    "Tat0rt_Kiel",
+    "KrauseTatort2020",
+    "Monika!Krause",
+    "gesundheit2021",
+    "nordseeReise59"
+  ],
+  "favorite_hobby": "tatort"
+}

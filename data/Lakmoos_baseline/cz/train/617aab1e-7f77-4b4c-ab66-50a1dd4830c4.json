@@ -1,0 +1,35 @@
+{
+  "id": "617aab1e-7f77-4b4c-ab66-50a1dd4830c4",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Krejčí",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Krejčí",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "auta",
+    "nakupování",
+    "cyklistika"
+  ],
+  "pets": [],
+  "company": "AutoServis Pardubice",
+  "previous_passwords": [
+    "Radek1988",
+    "Petra2020",
+    "Hyundaii20",
+    "Krejci33k",
+    "McDvečeře",
+    "Pardubice29",
+    "Fotbal123",
+    "Lidl705",
+    "Auta!2023"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1997-02-06"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "7fa7e9af-5af2-45b7-aa44-f049376f715f",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Volvo",
+  "self_first_name": "Graham",
+  "self_last_name": "MacIntyre",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "MacIntyre",
+  "children": [],
+  "interests": [
+    "travel",
+    "walking",
+    "photography"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bracken"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Bracken2015",
+    "Graham47!",
+    "Fiona123",
+    "MacIntyre2024",
+    "Travel4Fun",
+    "Scotland_99",
+    "VolvoEX30",
+    "Walking2023",
+    "Bracken!",
+    "FionaMacIntyre"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1979-03-01"
+}

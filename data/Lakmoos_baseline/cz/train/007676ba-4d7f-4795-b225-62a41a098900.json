@@ -1,0 +1,36 @@
+{
+  "id": "007676ba-4d7f-4795-b225-62a41a098900",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "zahrada",
+    "křížovky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Ivana1963",
+    "Vesela79",
+    "zahrada2020",
+    "Krizovky123",
+    "ModraPyramida!",
+    "Albert846",
+    "BohemiaSekt63",
+    "Cteni2024",
+    "Lidlshop2020",
+    "MujDum79"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1964-08-01"
+}

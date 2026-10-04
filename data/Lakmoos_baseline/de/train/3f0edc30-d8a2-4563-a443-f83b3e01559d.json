@@ -1,0 +1,39 @@
+{
+  "id": "3f0edc30-d8a2-4563-a443-f83b3e01559d",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lukas",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Emilia",
+      "last_name": "Kreutzmann"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Emilia2021",
+    "Lukas123",
+    "Kreutzmann22",
+    "Niedersachsen!",
+    "Reisen2024",
+    "Xiaomi_22",
+    "Fussball4ever",
+    "Sparkasse253",
+    "Emilia!3",
+    "LukasGaming"
+  ],
+  "favorite_hobby": "gaming",
+  "birth_date": "2004-03-01"
+}

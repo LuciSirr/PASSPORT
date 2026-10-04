@@ -1,0 +1,39 @@
+{
+  "id": "f8787a3b-5844-46a3-a4a0-6145eee887cc",
+  "gender": "female",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Koutníková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "plavání",
+    "čtení"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2009",
+    "Ben123",
+    "malovani09",
+    "Koutnikova12",
+    "slunicko09",
+    "plavani2022",
+    "cteni123",
+    "Ben!2021",
+    "hradecKralove09"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2014-02-08"
+}

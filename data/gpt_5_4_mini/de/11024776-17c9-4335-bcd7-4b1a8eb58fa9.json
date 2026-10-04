@@ -1,0 +1,44 @@
+{
+  "id": "11024776-17c9-4335-bcd7-4b1a8eb58fa9",
+  "age": 27,
+  "birth_date": "1999-10-19",
+  "marital_status": "married",
+  "region": "Coburg",
+  "nationality": "german",
+  "company": "Hentschel",
+  "car_brand": "Renault",
+  "self_first_name": "Clarissa",
+  "self_last_name": "Dowerg",
+  "partner_first_name": "Alexei",
+  "partner_last_name": "Dowerg",
+  "children": [
+    {
+      "first_name": "Fatih",
+      "last_name": "Dowerg"
+    },
+    {
+      "first_name": "Meik",
+      "last_name": "Dowerg"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Fitness",
+    "Wandern",
+    "Kaffee"
+  ],
+  "previous_passwords": [
+    "Bayern99_Coburg",
+    "Messi1999!",
+    "FIFA_Fatih27",
+    "Renault19Alex",
+    "Kaffee19!",
+    "Wandern99_",
+    "Fitness27Alex",
+    "Gaming_Coburg7",
+    "Hummels99!",
+    "KaffeeMeik19"
+  ]
+}

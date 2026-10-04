@@ -1,0 +1,40 @@
+{
+  "id": "b8182a89-e8e9-4096-9f53-99d7c7ee365c",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Šimon",
+  "self_last_name": "Kubeš",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "počítače",
+    "hudba"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Simonek2009",
+    "Benek123",
+    "UstiNadLabem09",
+    "Fotbalek12",
+    "Kubesek!",
+    "Ben2009",
+    "Hudba123",
+    "Simca_09",
+    "MojeHeslo",
+    "Pocitace2021"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2013-12-02"
+}

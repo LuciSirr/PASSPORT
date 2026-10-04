@@ -1,0 +1,35 @@
+{
+  "id": "8f7ecd62-7333-409d-a125-7c9e03d7fa54",
+  "age": 37,
+  "birth_date": "1989-08-30",
+  "marital_status": "married",
+  "region": "Nýrsko",
+  "nationality": "czech",
+  "company": "Jelínková k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Jonáš",
+  "self_last_name": "Tichý",
+  "partner_first_name": "Leona",
+  "partner_last_name": "Tichá",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hokej",
+    "turistika",
+    "cyklistika",
+    "vaření",
+    "filmy"
+  ],
+  "previous_passwords": [
+    "Hokej1989!",
+    "Skoda_89",
+    "TichyLeona37",
+    "Turistika30",
+    "CykloNyrsko8",
+    "Vareni_30",
+    "Filmy1989",
+    "Leona_Hokej7",
+    "Nyrsko_Cyklo89",
+    "SkodaFilmy37"
+  ]
+}

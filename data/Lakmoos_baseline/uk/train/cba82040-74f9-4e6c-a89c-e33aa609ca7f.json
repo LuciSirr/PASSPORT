@@ -1,0 +1,35 @@
+{
+  "id": "cba82040-74f9-4e6c-a89c-e33aa609ca7f",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Honda",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "South Coast Precision Engineering",
+  "previous_passwords": [
+    "Honda2021",
+    "Malcolm63",
+    "Gardening123",
+    "Hollingsworth22",
+    "Peugeot2019",
+    "SouthCoast!3",
+    "Walking_2020",
+    "Travel4Fun",
+    "HRV1498",
+    "Divorce2024"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1962-06-22"
+}

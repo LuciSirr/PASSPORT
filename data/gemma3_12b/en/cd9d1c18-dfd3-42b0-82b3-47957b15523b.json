@@ -1,0 +1,35 @@
+{
+  "id": "cd9d1c18-dfd3-42b0-82b3-47957b15523b",
+  "age": 66,
+  "birth_date": "1960-12-03",
+  "marital_status": "divorced",
+  "region": "South Claire",
+  "nationality": "english",
+  "company": "Fitzgerald PLC",
+  "car_brand": "BMW",
+  "self_first_name": "Leanne",
+  "self_last_name": "Jennings",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Gardening",
+    "Birdwatching",
+    "Classic Rock Music",
+    "Local History",
+    "Walking"
+  ],
+  "previous_passwords": [
+    "LedZeppelin60!",
+    "BMW_SouthClaire",
+    "RobinRedbreast23",
+    "LocalHist1960",
+    "GardensOfClaire!",
+    "LeanneBirdwalk",
+    "ClassicRock66",
+    "WalkingPath2024",
+    "BMWHistory!",
+    "SouthClaireGardens"
+  ]
+}

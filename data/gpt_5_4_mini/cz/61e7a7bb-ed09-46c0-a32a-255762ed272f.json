@@ -1,0 +1,44 @@
+{
+  "id": "61e7a7bb-ed09-46c0-a32a-255762ed272f",
+  "age": 41,
+  "birth_date": "1985-06-14",
+  "marital_status": "divorced",
+  "region": "Zruč nad Sázavou",
+  "nationality": "czech",
+  "company": "Kašpar",
+  "car_brand": "Tesla",
+  "self_first_name": "Iva",
+  "self_last_name": "Kubíčková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Jaroslav",
+      "last_name": "Kubíček"
+    },
+    {
+      "first_name": "Sabina",
+      "last_name": "Kubíčková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "vaření",
+    "chalupaření",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Messi1985!",
+    "Sparta14Iva",
+    "Turistika14",
+    "TeslaZruc85",
+    "Vareni1985!",
+    "Jaroslav92",
+    "Sabina_Fotbal7",
+    "Chalupa2025!",
+    "Ceskefilmy14",
+    "IvaKubicek85"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "124d787e-7f81-4006-bf3c-e8de795c3da0",
+  "age": 42,
+  "birth_date": "1984-06-10",
+  "marital_status": "single",
+  "region": "South Olivia",
+  "nationality": "english",
+  "company": "Savage, Saunders and Ellis",
+  "car_brand": "BMW",
+  "self_first_name": "Mandy",
+  "self_last_name": "Saunders",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Raymond"
+    },
+    {
+      "pet_type": "turtle",
+      "pet_name": "Kieran"
+    }
+  ],
+  "interests": [
+    "hiking",
+    "local history",
+    "gardening",
+    "classic rock music",
+    "craft beer"
+  ],
+  "previous_passwords": [
+    "RaymondHike2010",
+    "ClassicRockBMW!",
+    "SouthOliviaGardens",
+    "KieranCraftBeer84",
+    "LedZeppHiking!",
+    "Messi2024_BMW",
+    "History_Raymond!",
+    "SaundersHike1984",
+    "LocalHistCraft!",
+    "BMW_Hiking_84"
+  ]
+}

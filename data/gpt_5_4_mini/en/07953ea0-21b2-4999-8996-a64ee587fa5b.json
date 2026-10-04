@@ -1,0 +1,57 @@
+{
+  "id": "07953ea0-21b2-4999-8996-a64ee587fa5b",
+  "age": 28,
+  "birth_date": "1998-03-23",
+  "marital_status": "married",
+  "region": "Reesbury",
+  "nationality": "english",
+  "company": "McCarthy Group",
+  "car_brand": "Dacia",
+  "self_first_name": "Dawn",
+  "self_last_name": "Holmes",
+  "partner_first_name": "Stuart",
+  "partner_last_name": "Holmes",
+  "children": [
+    {
+      "first_name": "Rhys",
+      "last_name": "Holmes"
+    },
+    {
+      "first_name": "Suzanne",
+      "last_name": "Holmes"
+    },
+    {
+      "first_name": "Albert",
+      "last_name": "Holmes"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Frederick"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Ashley"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "fitness",
+    "coffee culture",
+    "streaming TV series",
+    "travel"
+  ],
+  "previous_passwords": [
+    "DaciaRacer98",
+    "StuartTV23!",
+    "RhysGaming98",
+    "LatteCoffee23",
+    "AshleyHam8",
+    "NetflixHolmes98",
+    "TripReesbury23",
+    "SuzanneFit28",
+    "BirdFrederick98",
+    "AlbertTravel23"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "47daa0a7-097b-4616-801e-a72fc7bd7262",
+  "gender": "male",
+  "age": 72,
+  "marital_status": "married",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gerhard",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kleinschmidt",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kleinschmidt"
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Kleinschmidt"
+    }
+  ],
+  "interests": [
+    "audiobücher",
+    "fernsehen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lukas2019",
+    "Mia2022",
+    "Sabine72!",
+    "Kleinschmidt123",
+    "Thuringen_08",
+    "Opa2024",
+    "Audiobuch1",
+    "SabineLukas22",
+    "Mia!Klein",
+    "Gerhard1952"
+  ],
+  "favorite_hobby": "audiobücher",
+  "birth_date": "1954-03-04"
+}

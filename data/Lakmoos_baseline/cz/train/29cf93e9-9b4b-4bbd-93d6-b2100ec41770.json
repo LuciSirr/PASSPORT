@@ -1,0 +1,35 @@
+{
+  "id": "29cf93e9-9b4b-4bbd-93d6-b2100ec41770",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Šimon",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "hudba",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "AutoServis Veselý",
+  "previous_passwords": [
+    "Hyundai2012",
+    "Praha15000",
+    "VodaBezCukru",
+    "Bageta2023",
+    "Maturoval2024",
+    "Vesely123",
+    "Auta2020",
+    "Hudba!21",
+    "i20Hatch11",
+    "KofolaLime"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2005-01-12"
+}

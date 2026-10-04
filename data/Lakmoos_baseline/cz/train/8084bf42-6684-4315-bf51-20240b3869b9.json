@@ -1,0 +1,41 @@
+{
+  "id": "8084bf42-6684-4315-bf51-20240b3869b9",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "turistika",
+    "čtení",
+    "zahradničení",
+    "plavání"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "Pragometal s.r.o.",
+  "previous_passwords": [
+    "Beny2021",
+    "Turistika47",
+    "IvetaPetr2022",
+    "Fabia999",
+    "Praha!1974",
+    "Zahrada123",
+    "KofolaBeny",
+    "Sebestova74",
+    "Plavani2020",
+    "LidlGlobus47"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1975-10-27"
+}

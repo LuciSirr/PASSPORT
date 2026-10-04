@@ -1,0 +1,35 @@
+{
+  "id": "c5a00f50-30f0-4ee3-825a-66faafbea7e8",
+  "gender": "female",
+  "age": 72,
+  "marital_status": "divorced",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "procházky",
+    "snackování"
+  ],
+  "pets": [],
+  "company": "Brněnská doprava a skladování s.r.o.",
+  "previous_passwords": [
+    "Ivana1952",
+    "Sebestova72",
+    "Brno1972",
+    "cteni123",
+    "Prochazka2024",
+    "Lidl720",
+    "Rossmann382",
+    "Kfc1972",
+    "Novinky2024",
+    "Ivana!72"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1954-03-22"
+}

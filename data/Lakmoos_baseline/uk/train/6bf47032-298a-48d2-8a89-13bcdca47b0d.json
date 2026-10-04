@@ -1,0 +1,39 @@
+{
+  "id": "6bf47032-298a-48d2-8a89-13bcdca47b0d",
+  "gender": "female",
+  "age": 48,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Fiat",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "West Midlands Enterprise Solutions",
+  "previous_passwords": [
+    "Fiona1976",
+    "Milo123",
+    "Ashcroft14",
+    "Gardening!1",
+    "Martin2020",
+    "Travel4Life",
+    "WestMidlands22",
+    "Fiat500X!",
+    "Reading_76"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1977-05-27"
+}

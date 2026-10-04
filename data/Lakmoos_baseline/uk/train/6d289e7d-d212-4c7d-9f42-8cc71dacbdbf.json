@@ -1,0 +1,34 @@
+{
+  "id": "6d289e7d-d212-4c7d-9f42-8cc71dacbdbf",
+  "gender": "male",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Redfern",
+  "partner_first_name": "Maya",
+  "partner_last_name": "Patel",
+  "children": [],
+  "interests": [
+    "gaming",
+    "football",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "Urban Grind Cafe",
+  "previous_passwords": [
+    "Callum2007",
+    "Redfern12",
+    "MayaPatel!",
+    "UrbanGrind123",
+    "Football4Life",
+    "Cycling_17",
+    "LondonBoy07",
+    "G4mingTime",
+    "Redfern!2023"
+  ],
+  "favorite_hobby": "gaming",
+  "birth_date": "2009-01-25"
+}

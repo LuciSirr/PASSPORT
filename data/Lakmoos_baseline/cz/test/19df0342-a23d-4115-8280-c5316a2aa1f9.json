@@ -1,0 +1,40 @@
+{
+  "id": "19df0342-a23d-4115-8280-c5316a2aa1f9",
+  "gender": "male",
+  "age": 50,
+  "marital_status": "married",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1974-06-12",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "české filmy",
+    "ivysilani",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "Hotel Flora Olomouc",
+  "previous_passwords": [
+    "Radek1974",
+    "Kohout123",
+    "Matej2009",
+    "Petra12.6",
+    "FloraOlomouc2020",
+    "krizovky2023",
+    "ceskefilmy74",
+    "ivysilani_444",
+    "Kohout!2021",
+    "PetraMatej74"
+  ],
+  "favorite_hobby": "české filmy"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "7a752ae5-3ece-4dc4-8f6e-19f02a803544",
+  "gender": "female",
+  "age": 54,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "turistika",
+    "plavání",
+    "zahrada",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "Zdraví a Péče Morava",
+  "previous_passwords": [
+    "Ivana1970",
+    "PetrVesely54",
+    "Brno_1234",
+    "Turistika2020",
+    "Mattoni!",
+    "Zahrada2022",
+    "VeselaPetr2017",
+    "Kaufland54",
+    "Plavani_77"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1971-08-23"
+}

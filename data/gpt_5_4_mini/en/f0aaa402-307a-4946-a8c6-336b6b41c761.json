@@ -1,0 +1,49 @@
+{
+  "id": "f0aaa402-307a-4946-a8c6-336b6b41c761",
+  "age": 26,
+  "birth_date": "2000-10-12",
+  "marital_status": "married",
+  "region": "Bakerton",
+  "nationality": "english",
+  "company": "Brown and Sons",
+  "car_brand": "Hyundai",
+  "self_first_name": "Amy",
+  "self_last_name": "Wilkins",
+  "partner_first_name": "Dean",
+  "partner_last_name": "Daniels",
+  "children": [
+    {
+      "first_name": "Eric",
+      "last_name": "Wilkins"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Heather"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Kenneth"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "fitness",
+    "streaming TV series",
+    "coffee culture",
+    "hiking"
+  ],
+  "previous_passwords": [
+    "DeanGaming00",
+    "HeatherHike12",
+    "NetflixAmy26",
+    "CoffeeWilkins12",
+    "HyundaiTV2000",
+    "KennethFit26!",
+    "BakertonHike00",
+    "DeanCoffee12",
+    "EricGaming00",
+    "SnakeStream26"
+  ]
+}

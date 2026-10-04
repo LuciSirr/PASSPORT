@@ -1,0 +1,35 @@
+{
+  "id": "2597604b-a4e8-4115-9231-4dac72d08a2b",
+  "gender": "female",
+  "age": 66,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crossword",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Pendle Executive Consulting",
+  "previous_passwords": [
+    "Marion1958",
+    "Pendle123",
+    "Geoffrey66",
+    "Hollingsworth2020",
+    "Gardening4!",
+    "Baking_58",
+    "Crossword7",
+    "Marion!15",
+    "PendleExec",
+    "Geoffrey_1958"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1960-03-26"
+}

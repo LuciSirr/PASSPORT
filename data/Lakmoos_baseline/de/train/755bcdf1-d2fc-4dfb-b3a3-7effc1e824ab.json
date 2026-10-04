@@ -1,0 +1,35 @@
+{
+  "id": "755bcdf1-d2fc-4dfb-b3a3-7effc1e824ab",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Ford",
+  "self_first_name": "Annika",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lesen",
+    "reisen",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Annika1995",
+    "Kreutzmann123",
+    "FordFocus18",
+    "Sommer!2023",
+    "Reisen999",
+    "Lesen_95",
+    "Hessen2024",
+    "F0rd!Escort",
+    "Buchlieb3r",
+    "Annika!July"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1996-11-26"
+}

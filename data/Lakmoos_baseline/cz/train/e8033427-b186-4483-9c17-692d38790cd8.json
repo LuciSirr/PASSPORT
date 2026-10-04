@@ -1,0 +1,35 @@
+{
+  "id": "e8033427-b186-4483-9c17-692d38790cd8",
+  "gender": "female",
+  "age": 36,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "móda",
+    "seriály",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Pražská pohoda s.r.o.",
+  "previous_passwords": [
+    "Barca1988",
+    "Veselka99",
+    "Praha41000",
+    "Lidl2022",
+    "Kofola123",
+    "NetflixBarca",
+    "Mcdonalds99",
+    "Cestovani88",
+    "Moda!2023"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1989-09-05"
+}

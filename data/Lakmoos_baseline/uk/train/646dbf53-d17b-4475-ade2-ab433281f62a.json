@@ -1,0 +1,34 @@
+{
+  "id": "646dbf53-d17b-4475-ade2-ab433281f62a",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Gareth",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "walking"
+  ],
+  "pets": [],
+  "company": "South Coast Brokers",
+  "previous_passwords": [
+    "Fiona1986",
+    "Gareth123",
+    "Hollings2020",
+    "Travel4Fun",
+    "Reading!88",
+    "SouthCoast11",
+    "FionaGareth",
+    "Walking_22",
+    "Hollings!1"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1988-03-23"
+}

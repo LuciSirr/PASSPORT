@@ -1,0 +1,34 @@
+{
+  "id": "07a502f8-5eb0-4627-a9ee-4a4db532ce29",
+  "gender": "male",
+  "age": 38,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1986-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "český film",
+    "ikea hacky"
+  ],
+  "pets": [],
+  "company": "Základní škola Prosek",
+  "previous_passwords": [
+    "Radek1986",
+    "KohoutPraha",
+    "cestovani123",
+    "film2020",
+    "IkeaHacky86",
+    "Radek!14",
+    "Prosek2021",
+    "Kohout!cestovani",
+    "ceskyfilm_86"
+  ],
+  "favorite_hobby": "cestování"
+}

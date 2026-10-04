@@ -1,0 +1,44 @@
+{
+  "id": "183fc056-0b5a-45f7-ba41-3819e861c475",
+  "age": 45,
+  "birth_date": "1981-10-13",
+  "marital_status": "married",
+  "region": "Úsov",
+  "nationality": "czech",
+  "company": "Krejčová k.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Oto",
+  "self_last_name": "Dvořák",
+  "partner_first_name": "Romana",
+  "partner_last_name": "Dvořáková",
+  "children": [
+    {
+      "first_name": "Miluše",
+      "last_name": "Dvořáková"
+    },
+    {
+      "first_name": "Michaela",
+      "last_name": "Dvořáková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "čtení knih",
+    "regionální folklór",
+    "pivovarské značky"
+  ],
+  "previous_passwords": [
+    "Miluse1981",
+    "ToyotaRybar",
+    "TuristikaRomana",
+    "FolkloreÚsov!",
+    "PivovarskeZnaky23",
+    "MessiMiluše",
+    "MichaelaBook",
+    "RomanasFish!",
+    "Toyota81Tour",
+    "ReadingMilu"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "4962b772-30e2-4c03-a721-58b7b4dd11c3",
+  "age": 66,
+  "birth_date": "1960-11-18",
+  "marital_status": "married",
+  "region": "Osterode am Harz",
+  "nationality": "german",
+  "company": "Rogner Birnbaum KG",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Sarah",
+  "self_last_name": "Mentzel",
+  "partner_first_name": "Anatol",
+  "partner_last_name": "Mentzel",
+  "children": [
+    {
+      "first_name": "Kenneth",
+      "last_name": "Mentzel"
+    },
+    {
+      "first_name": "Birgitt",
+      "last_name": "Mentzel"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Volksmusik",
+    "Lesen",
+    "Lokale Geschichte",
+    "Handball"
+  ],
+  "previous_passwords": [
+    "Kenneth2008",
+    "HarzWanderung1960",
+    "MercedesBirgitt!",
+    "AnatolHandball77",
+    "VolksmusikOsterode",
+    "LesenKenneth_18",
+    "KennethWalks22",
+    "HandballBirgitt90",
+    "LokaleGeschichte!",
+    "Mercedes_Harz66"
+  ]
+}

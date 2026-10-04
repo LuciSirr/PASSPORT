@@ -1,0 +1,35 @@
+{
+  "id": "6a57388f-86ed-4dca-8f9f-4d090a71dc61",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "televize",
+    "auta",
+    "grilování"
+  ],
+  "pets": [],
+  "company": "Stavby Ustecko s.r.o.",
+  "previous_passwords": [
+    "Radek1982",
+    "PetraRadek19",
+    "VeselyDum42",
+    "Kofola2020",
+    "Usti1234",
+    "Grilovani42",
+    "KFCsnack1",
+    "Auta1982",
+    "VeselyPetra!",
+    "Televize1982"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1984-01-04"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "4ff38069-586e-4999-b0a4-c71b252e9e0f",
+  "age": 34,
+  "birth_date": "1992-06-08",
+  "marital_status": "divorced",
+  "region": "Angermünde",
+  "nationality": "german",
+  "company": "Grein Groth",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Veli",
+  "self_last_name": "Reichmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Katharine"
+    }
+  ],
+  "interests": [
+    "Fotografie",
+    "Wandern",
+    "Technik",
+    "Metal Musik",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Katharine2012!",
+    "MessiAngermuende",
+    "MercedesFoto88",
+    "WanderlustVeli",
+    "MetallicaTech92",
+    "JoeRogan_Metal",
+    "FotografieKath",
+    "AngermuendeMB!",
+    "KatharineWalk",
+    "Technik2012Messi"
+  ]
+}

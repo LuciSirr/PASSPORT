@@ -1,0 +1,35 @@
+{
+  "id": "c852451b-3950-4cfd-8ebb-17879ad717a3",
+  "age": 18,
+  "birth_date": "2008-10-26",
+  "marital_status": "single",
+  "region": "Nýrsko",
+  "nationality": "czech",
+  "company": "Slavíková s.r.o.",
+  "car_brand": "Seat",
+  "self_first_name": "Elena",
+  "self_last_name": "Malá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "videohry",
+    "hudba (pop)",
+    "cestování",
+    "TikTok",
+    "škola"
+  ],
+  "previous_passwords": [
+    "Fortnite2008",
+    "TaylorSwift_Nyrsko",
+    "MessiSeat18",
+    "TikTokElena!",
+    "SchoolGamePlay",
+    "PopHudba26",
+    "Cestovani2023",
+    "SeatVidea_18",
+    "ElenaTikTok!",
+    "FortniteMusic"
+  ]
+}

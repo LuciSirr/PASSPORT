@@ -1,0 +1,39 @@
+{
+  "id": "e787eab1-53ed-4491-924d-ab59650e0232",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "widower/widow",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Dacia",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Šimáček",
+  "birth_date": "1960-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "ceske filmy"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1960",
+    "Rex123",
+    "turistika2020",
+    "SimaTurista59",
+    "ceskefilmy_15",
+    "Rex!1960",
+    "Simacek59",
+    "RexTurista",
+    "turistika_Šimáček",
+    "Rex1960!"
+  ],
+  "favorite_hobby": "turistika"
+}

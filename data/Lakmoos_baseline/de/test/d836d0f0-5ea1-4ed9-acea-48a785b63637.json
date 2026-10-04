@@ -1,0 +1,36 @@
+{
+  "id": "d836d0f0-5ea1-4ed9-acea-48a785b63637",
+  "gender": "female",
+  "age": 47,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Ford",
+  "self_first_name": "Katrin",
+  "self_last_name": "Schulte",
+  "birth_date": "1977-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "tatort",
+    "nordic walking",
+    "krimis",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Schulte1977",
+    "Tatort123",
+    "Krimi!77",
+    "NordicWalking2022",
+    "Reisen_0815",
+    "Katrin14Mai",
+    "Tat0rt!2020",
+    "SchulteTatort77",
+    "KrimiSchulte1",
+    "Reisen!Schulte"
+  ],
+  "favorite_hobby": "tatort"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "9eb54529-af05-40ae-a893-ec4016fcd290",
+  "age": 30,
+  "birth_date": "1996-02-20",
+  "marital_status": "married",
+  "region": "Ravensburg",
+  "nationality": "german",
+  "company": "Henk",
+  "car_brand": "Peugeot",
+  "self_first_name": "Willfried",
+  "self_last_name": "Bachmann",
+  "partner_first_name": "Gabi",
+  "partner_last_name": "Bachmann",
+  "children": [
+    {
+      "first_name": "Birgitt",
+      "last_name": "Bachmann"
+    },
+    {
+      "first_name": "Harry",
+      "last_name": "Bachmann"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern im Allgäu",
+    "Kaffee und Café-Besuche",
+    "Radfahren",
+    "Bodensee-Ausflüge"
+  ],
+  "previous_passwords": [
+    "Fussball96!",
+    "Allgaeu_20",
+    "CafeBodensee7",
+    "Peugeot96",
+    "Ravensburg!30",
+    "Bodensee96",
+    "Wandern20!",
+    "GabiCafe96",
+    "HarryRad77",
+    "Willfried!26"
+  ]
+}

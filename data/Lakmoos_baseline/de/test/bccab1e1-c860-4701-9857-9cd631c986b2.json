@@ -1,0 +1,35 @@
+{
+  "id": "bccab1e1-c860-4701-9857-9cd631c986b2",
+  "gender": "female",
+  "age": 28,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Audi",
+  "self_first_name": "Annika",
+  "self_last_name": "Krause",
+  "birth_date": "1996-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "dark",
+    "germany's next topmodel",
+    "audi a5"
+  ],
+  "pets": [],
+  "company": "Autohaus Schulte & Partner",
+  "previous_passwords": [
+    "Annika1996",
+    "KrauseA5",
+    "Dark_2017",
+    "GNTM!2020",
+    "AudiKrause14",
+    "NextTopmodel96",
+    "Autohaus253",
+    "DarkKrause!",
+    "A5quattro",
+    "Annika!Dark"
+  ],
+  "favorite_hobby": "dark"
+}

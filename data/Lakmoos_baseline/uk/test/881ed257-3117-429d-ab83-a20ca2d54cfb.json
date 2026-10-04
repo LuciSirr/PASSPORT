@@ -1,0 +1,39 @@
+{
+  "id": "881ed257-3117-429d-ab83-a20ca2d54cfb",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Oscar",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "lego"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Biscuit"
+    }
+  ],
+  "company": "Willowbrook Nursery",
+  "previous_passwords": [
+    "Oscar2019",
+    "Biscuit123",
+    "PawPatrol!19",
+    "LegoLover5",
+    "HollisPaw4",
+    "BiscuitLego2022",
+    "OscarLego!",
+    "Willowbrook19",
+    "P4wP4tr0l",
+    "Biscuit!2019"
+  ],
+  "favorite_hobby": "paw patrol",
+  "birth_date": "2018-06-15"
+}

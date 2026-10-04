@@ -1,0 +1,48 @@
+{
+  "id": "a5614bd4-e021-448e-9aaa-ec5e8d12af88",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "single/in a relationship",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Novotný",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Novotná",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Novotný"
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Novotná"
+    },
+    {
+      "first_name": "Šimon",
+      "last_name": "Novotný"
+    }
+  ],
+  "interests": [
+    "houbaření",
+    "nakupování",
+    "televize"
+  ],
+  "pets": [],
+  "company": "Lesní a zemědělská služba Jihočech",
+  "previous_passwords": [
+    "Matej2019",
+    "Tereza07",
+    "Novotny1982",
+    "Houbareni123",
+    "Petra22",
+    "Simonek2022",
+    "Globus123",
+    "BurgerKing22",
+    "Televize2020",
+    "Radek_4.2"
+  ],
+  "favorite_hobby": "houbaření",
+  "birth_date": "1983-10-28"
+}

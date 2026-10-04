@@ -1,0 +1,35 @@
+{
+  "id": "bc12ca94-5365-40b1-8a22-5ac4d787a20e",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Nikola",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "hudba",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "Liberecké občerstvení",
+  "previous_passwords": [
+    "Nikola2008",
+    "Vesela16",
+    "malovani123",
+    "Kofola2022",
+    "hudba_07",
+    "Liberec08",
+    "Vinted123",
+    "lidlka98",
+    "BurgerKing16",
+    "prochazky2023"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2009-07-26"
+}

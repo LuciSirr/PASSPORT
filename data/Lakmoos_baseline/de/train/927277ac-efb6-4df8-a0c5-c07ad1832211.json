@@ -1,0 +1,35 @@
+{
+  "id": "927277ac-efb6-4df8-a0c5-c07ad1832211",
+  "gender": "female",
+  "age": 41,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Cupra",
+  "self_first_name": "Katrin",
+  "self_last_name": "Schreiner",
+  "partner_first_name": "Markus",
+  "partner_last_name": "Schreiner",
+  "children": [],
+  "interests": [
+    "lesen",
+    "reisen",
+    "yoga"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Katrin1979",
+    "CupraLeon2019",
+    "Schreiner123",
+    "Markus!2020",
+    "Sommerurlaub21",
+    "Reisen4ever",
+    "BKK2022",
+    "Yoga_2023",
+    "Mainz!07",
+    "Lesen!88"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1985-02-27"
+}

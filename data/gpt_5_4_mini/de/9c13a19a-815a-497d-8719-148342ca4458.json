@@ -1,0 +1,35 @@
+{
+  "id": "9c13a19a-815a-497d-8719-148342ca4458",
+  "age": 34,
+  "birth_date": "1992-12-28",
+  "marital_status": "divorced",
+  "region": "Diepholz",
+  "nationality": "german",
+  "company": "Jäntsch",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Horst",
+  "self_last_name": "Hentschel",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Radfahren",
+    "Kochen",
+    "Heimathistorie"
+  ],
+  "previous_passwords": [
+    "Fussball92!",
+    "Wandern28",
+    "Mercedes34",
+    "KochenDiepholz7",
+    "Radfahren92",
+    "Heimathistorie12",
+    "HorstFuss12",
+    "DiepholzRad84",
+    "KochenHentschel!",
+    "Wander34_Mer"
+  ]
+}

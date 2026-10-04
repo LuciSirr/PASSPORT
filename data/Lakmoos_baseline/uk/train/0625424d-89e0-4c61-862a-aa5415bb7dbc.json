@@ -1,0 +1,35 @@
+{
+  "id": "0625424d-89e0-4c61-862a-aa5415bb7dbc",
+  "gender": "male",
+  "age": 61,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Land Rover",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "West Midlands Engineering Solutions",
+  "previous_passwords": [
+    "Graham1963",
+    "LandRover15",
+    "Margaret61",
+    "DiscoverySport2020",
+    "WestMidlands1",
+    "Hollis2022",
+    "Travel123",
+    "Gardening!",
+    "Mercedes200d",
+    "Hollis!63"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1965-03-12"
+}

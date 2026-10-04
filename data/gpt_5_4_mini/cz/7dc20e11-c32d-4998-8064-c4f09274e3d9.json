@@ -1,0 +1,49 @@
+{
+  "id": "7dc20e11-c32d-4998-8064-c4f09274e3d9",
+  "age": 49,
+  "birth_date": "1977-02-04",
+  "marital_status": "married",
+  "region": "Hrob",
+  "nationality": "czech",
+  "company": "Jandová Dostál v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Leona",
+  "self_last_name": "Bartošová",
+  "partner_first_name": "Samuel",
+  "partner_last_name": "Bartošová",
+  "children": [
+    {
+      "first_name": "Helena",
+      "last_name": "Bartošová"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Anežka"
+    },
+    {
+      "pet_type": "ferret",
+      "pet_name": "Erik"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "zahradničení",
+    "fotbal",
+    "chalupaření"
+  ],
+  "previous_passwords": [
+    "Turistika49!",
+    "SkodaHrob77",
+    "HelenaBike77",
+    "Zahradni2027",
+    "Fotbal_Sam77",
+    "ChalupaErik!",
+    "AnezkaTrail49",
+    "Bartosova77",
+    "CykloHrob49",
+    "SamuelSkoda!"
+  ]
+}

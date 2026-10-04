@@ -1,0 +1,53 @@
+{
+  "id": "af916276-a3db-4802-b749-36b3cc413554",
+  "age": 31,
+  "birth_date": "1995-08-04",
+  "marital_status": "married",
+  "region": "Frankbury",
+  "nationality": "english",
+  "company": "Reynolds LLC",
+  "car_brand": "Audi",
+  "self_first_name": "Trevor",
+  "self_last_name": "Duncan",
+  "partner_first_name": "Anna",
+  "partner_last_name": "Duncan",
+  "children": [
+    {
+      "first_name": "Adam",
+      "last_name": "Duncan"
+    },
+    {
+      "first_name": "Billy",
+      "last_name": "Duncan"
+    },
+    {
+      "first_name": "Marc",
+      "last_name": "Duncan"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Janet"
+    }
+  ],
+  "interests": [
+    "Hiking",
+    "Indie Music",
+    "Photography",
+    "Board Games",
+    "Local Brewery Tours"
+  ],
+  "previous_passwords": [
+    "MarcAdam95!",
+    "IndieHikeAnna",
+    "JanetAudi23",
+    "BillyBoardGame1995",
+    "AdamPhotoFrankbury",
+    "MessiHike!",
+    "BreweryMarc_84",
+    "AnnaJanet2024",
+    "FrankburyHikeBilly",
+    "AudiMarc95"
+  ]
+}

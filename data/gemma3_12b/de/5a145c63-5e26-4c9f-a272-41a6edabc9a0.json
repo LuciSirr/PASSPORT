@@ -1,0 +1,57 @@
+{
+  "id": "5a145c63-5e26-4c9f-a272-41a6edabc9a0",
+  "age": 57,
+  "birth_date": "1969-06-29",
+  "marital_status": "married",
+  "region": "Ebern",
+  "nationality": "german",
+  "company": "Caspar Kade AG & Co. OHG",
+  "car_brand": "Dacia",
+  "self_first_name": "Evelyne",
+  "self_last_name": "Hörle",
+  "partner_first_name": "Götz",
+  "partner_last_name": "Hörle",
+  "children": [
+    {
+      "first_name": "Theodora",
+      "last_name": "Hörle"
+    },
+    {
+      "first_name": "Renato",
+      "last_name": "Hörle"
+    },
+    {
+      "first_name": "Mira",
+      "last_name": "Hörle"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Wojciech"
+    },
+    {
+      "pet_type": "snake",
+      "pet_name": "Türkan"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Lesen",
+    "Schlossbesichtigungen",
+    "Fotografie",
+    "Deutsche Oper"
+  ],
+  "previous_passwords": [
+    "TheodoraMiraWandern29",
+    "DeutscheOperGottz2023",
+    "WojciechFotografie!",
+    "TurkanLesen69",
+    "DaciaSchlossbesichtigungen1",
+    "RenatoOperWandern!",
+    "MiraWandern_70",
+    "SchlossbesichtigungenEbern",
+    "FotografieTheodora88",
+    "WandernGottz_1969"
+  ]
+}

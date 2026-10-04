@@ -1,0 +1,48 @@
+{
+  "id": "3b70f817-1d21-4351-8525-4742799d7077",
+  "age": 27,
+  "birth_date": "1999-05-18",
+  "marital_status": "married",
+  "region": "Mittweida",
+  "nationality": "german",
+  "company": "Kostolzin",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Hans-Peter",
+  "self_last_name": "Hellwig",
+  "partner_first_name": "Jutta",
+  "partner_last_name": "Hübel",
+  "children": [
+    {
+      "first_name": "Anatolij",
+      "last_name": "Hellwig"
+    },
+    {
+      "first_name": "Toralf",
+      "last_name": "Hellwig"
+    },
+    {
+      "first_name": "Elfie",
+      "last_name": "Hellwig"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Reisen",
+    "Musik Festivals",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "Messi1999!",
+    "FotografieTor!",
+    "VolkswagenElf",
+    "ReisenJutta27",
+    "GamingAnatolij",
+    "FußballMittweida",
+    "MusikFestivals!",
+    "HansPeter99_HD",
+    "JoeRoganTravel",
+    "TorfaljPhoto07"
+  ]
+}

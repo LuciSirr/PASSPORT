@@ -1,0 +1,39 @@
+{
+  "id": "441a15c7-b8d5-46c2-9d27-5128e7acbc99",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Katrin",
+  "self_last_name": "Behrendt",
+  "partner_first_name": "Jörg",
+  "partner_last_name": "Behrendt",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Behrendt"
+    }
+  ],
+  "interests": [
+    "reisen",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lena2010",
+    "Katrin53!",
+    "Behrendt123",
+    "JörgLena13",
+    "Sachsen2024",
+    "Reisen!11",
+    "Sparkasse_09",
+    "LenaReise",
+    "K4tr1n2023",
+    "FamilieBehrendt"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1973-01-18"
+}

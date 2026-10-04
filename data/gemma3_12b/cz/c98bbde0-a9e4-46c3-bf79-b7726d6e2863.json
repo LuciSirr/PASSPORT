@@ -1,0 +1,35 @@
+{
+  "id": "c98bbde0-a9e4-46c3-bf79-b7726d6e2863",
+  "age": 56,
+  "birth_date": "1970-06-13",
+  "marital_status": "single",
+  "region": "Velké Hamry",
+  "nationality": "czech",
+  "company": "Žáková Bártová k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kadlec",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěstitví zeleniny",
+    "historie",
+    "regionální folklór"
+  ],
+  "previous_passwords": [
+    "VelHamryTuristika2023",
+    "SkodaOctaviaRyrna",
+    "KadlecHistoria70!",
+    "RadekRybář1970",
+    "FolklórHamry!",
+    "ZeleninaVelke23",
+    "MessiRadek70",
+    "TuristikaSkoda!",
+    "KadlecHistorieRyr",
+    "VelkeHamryRybar"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "638b9aa9-5945-44d3-8c18-f7d3c1c843f4",
+  "gender": "female",
+  "age": 33,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Harriet",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Simon",
+  "partner_last_name": "Merrick",
+  "children": [],
+  "interests": [
+    "reading",
+    "gardening",
+    "travel",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "East Midlands Strategy Group",
+  "previous_passwords": [
+    "Harriet1989",
+    "Milo123",
+    "Simon4ever",
+    "Merrick2020",
+    "Reading!88",
+    "Baking_33",
+    "Gardening19",
+    "Milo!2023",
+    "Travel4Life"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1993-02-22"
+}

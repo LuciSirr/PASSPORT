@@ -1,0 +1,40 @@
+{
+  "id": "c19725bd-5185-47f3-aeac-47364d083ad7",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Callum",
+  "self_last_name": "Whittaker",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Whittaker",
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "SouthEast Property Solutions",
+  "previous_passwords": [
+    "Callum1999",
+    "Whittaker20MY",
+    "Baxter123",
+    "Emily4Ever",
+    "Football_23",
+    "Polestar65306",
+    "SouthEast2022",
+    "Cycling!99",
+    "BMW2years",
+    "BaxterWhittaker"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2002-11-03"
+}

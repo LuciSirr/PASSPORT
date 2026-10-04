@@ -1,0 +1,48 @@
+{
+  "id": "ef467ef2-bb5c-4626-b88a-f9b945ce7809",
+  "age": 44,
+  "birth_date": "1982-11-18",
+  "marital_status": "married",
+  "region": "Eggenfelden",
+  "nationality": "german",
+  "company": "Fechner",
+  "car_brand": "Hyundai",
+  "self_first_name": "Torsten",
+  "self_last_name": "Krebs",
+  "partner_first_name": "Pia",
+  "partner_last_name": "Krebs",
+  "children": [
+    {
+      "first_name": "Isabell",
+      "last_name": "Krebs"
+    },
+    {
+      "first_name": "Vlado",
+      "last_name": "Krebs"
+    },
+    {
+      "first_name": "Margaretha",
+      "last_name": "Krebs"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Autos",
+    "Fotografie",
+    "Lokaler Fußballverein",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "HyundaiWandern1982",
+    "MessiEggenfelden!",
+    "IsabellFoto22",
+    "VladoHyundai_2024",
+    "MargarethaKlasMusik",
+    "PiaWandern!",
+    "HyundaiFotografie!",
+    "IsabellKlasMusik82",
+    "VladoMessi1999",
+    "MargarethaHyundai!"
+  ]
+}

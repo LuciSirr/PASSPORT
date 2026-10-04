@@ -1,0 +1,34 @@
+{
+  "id": "80344a6a-4f5d-46fe-849d-f34e04d00091",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Ivana",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "Úřad města Krnov",
+  "previous_passwords": [
+    "Radek1975",
+    "Ivana80",
+    "Octavia1998",
+    "Kofola41000",
+    "MoravskySlezsky80",
+    "Lidl784",
+    "Turistika123",
+    "Krnov2020",
+    "Fotbal!75"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1967-02-07"
+}

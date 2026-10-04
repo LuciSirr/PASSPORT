@@ -1,0 +1,35 @@
+{
+  "id": "bf89808d-fef2-416a-b8ac-3e38e99afb42",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Libuše",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "zahrada",
+    "vaření",
+    "facebook"
+  ],
+  "pets": [],
+  "company": "Agro Lesy Černý Most",
+  "previous_passwords": [
+    "Libuse1959",
+    "Vranova35",
+    "Zahrada2020",
+    "Kodiaq2016",
+    "Kaufland123",
+    "Rossmann!",
+    "CentralniBohemia63",
+    "Vaření2021",
+    "SkodaPetrol",
+    "Libuse!59"
+  ],
+  "favorite_hobby": "zahrada",
+  "birth_date": "1962-11-14"
+}

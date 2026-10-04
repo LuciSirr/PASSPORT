@@ -1,0 +1,35 @@
+{
+  "id": "61e1ccc1-feca-4290-a1be-b61bcb8d55ba",
+  "gender": "male",
+  "age": 65,
+  "marital_status": "widower/widow",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radomír",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "křížovky",
+    "zahrada",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Morava1959",
+    "pivoPilsner1",
+    "KonečnýDům60",
+    "Kaufland18",
+    "ucenise65",
+    "Zahrada2023",
+    "krizovky123",
+    "Radomir59",
+    "Penny908",
+    "BenuCZ474"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1961-01-30"
+}

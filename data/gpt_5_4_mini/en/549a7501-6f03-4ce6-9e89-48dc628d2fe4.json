@@ -1,0 +1,35 @@
+{
+  "id": "549a7501-6f03-4ce6-9e89-48dc628d2fe4",
+  "age": 55,
+  "birth_date": "1971-12-07",
+  "marital_status": "single",
+  "region": "Duffyland",
+  "nationality": "english",
+  "company": "Mills-Taylor",
+  "car_brand": "MINI",
+  "self_first_name": "Lucy",
+  "self_last_name": "Patterson",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "cooking",
+    "classic rock",
+    "local sports clubs"
+  ],
+  "previous_passwords": [
+    "RosesLucy71!",
+    "HostaDuffy12",
+    "MiniRock71",
+    "KewGardening55",
+    "WalksDuffy71",
+    "BasilCook7",
+    "UnitedLucy12",
+    "LucyRock_71",
+    "DuffyMini55!",
+    "RoseWalk71"
+  ]
+}

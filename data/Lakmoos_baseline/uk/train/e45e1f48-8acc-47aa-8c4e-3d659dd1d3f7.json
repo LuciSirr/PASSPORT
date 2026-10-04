@@ -1,0 +1,35 @@
+{
+  "id": "e45e1f48-8acc-47aa-8c4e-3d659dd1d3f7",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gareth1982",
+    "Rachel42",
+    "Polestar2!",
+    "Yorkshire123",
+    "Travel2020",
+    "Hollingsworth21",
+    "KiaSportage",
+    "Gardening4Life",
+    "LeedsUtd!",
+    "Rachel&Gareth"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1983-10-29"
+}

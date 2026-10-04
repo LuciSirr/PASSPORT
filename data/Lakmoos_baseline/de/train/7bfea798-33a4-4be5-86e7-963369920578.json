@@ -1,0 +1,40 @@
+{
+  "id": "7bfea798-33a4-4be5-86e7-963369920578",
+  "gender": "female",
+  "age": 5,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Leni",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malen",
+    "puzzeln",
+    "sandkasten"
+  ],
+  "pets": [
+    {
+      "pet_type": "katze",
+      "pet_name": "Mimi"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Leni2018",
+    "Mimi123",
+    "Krause5",
+    "Sandkasten19",
+    "Malen!2022",
+    "Puzzeln_321",
+    "MimiKrause",
+    "LeniMimi",
+    "K4tz3Mimi",
+    "KrauseMimi19"
+  ],
+  "favorite_hobby": "malen",
+  "birth_date": "2020-11-01"
+}

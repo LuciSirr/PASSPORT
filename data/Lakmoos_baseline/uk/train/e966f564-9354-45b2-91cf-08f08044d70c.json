@@ -1,0 +1,35 @@
+{
+  "id": "e966f564-9354-45b2-91cf-08f08044d70c",
+  "gender": "male",
+  "age": 76,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Ashcombe",
+  "children": [],
+  "interests": [
+    "gardening",
+    "cricket",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Westmoor Holdings",
+  "previous_passwords": [
+    "Malcolm1948",
+    "Elaine76",
+    "Ashcombe123",
+    "Mercedes2013",
+    "Westmoor15",
+    "Cricket4Life",
+    "Gardening!1",
+    "Elaine_Malcolm",
+    "Ashcombe!76",
+    "Reading2024"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1949-12-12"
+}

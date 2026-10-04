@@ -1,0 +1,39 @@
+{
+  "id": "d93339ff-1e38-4202-a85a-08d93fef7efc",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Ashcombe",
+  "children": [],
+  "interests": [
+    "gardening",
+    "baking",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Molly"
+    }
+  ],
+  "company": "Westmoor Consulting",
+  "previous_passwords": [
+    "Molly2015",
+    "Ashcombe69",
+    "Geoffrey123",
+    "Westmoor2020",
+    "Gardening4Life",
+    "Marion!11",
+    "Baking_77",
+    "MollyAshcombe",
+    "Walking2022"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1956-11-22"
+}

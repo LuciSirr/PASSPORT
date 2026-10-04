@@ -1,0 +1,35 @@
+{
+  "id": "d6c42d0a-e536-4ba6-983c-d5d3339fa2ae",
+  "age": 35,
+  "birth_date": "1991-05-14",
+  "marital_status": "divorced",
+  "region": "Mühlhausen",
+  "nationality": "german",
+  "company": "Eckbauer",
+  "car_brand": "Audi",
+  "self_first_name": "Klaus-Dieter",
+  "self_last_name": "Schüler",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern im Harz",
+    "Kochen",
+    "Krafttraining",
+    "Tatort"
+  ],
+  "previous_passwords": [
+    "Tatort1991!",
+    "Audi_MuHa91",
+    "HsvKlaus35",
+    "HarzWandern14",
+    "Kochen1991",
+    "Muehlhausen91",
+    "KraftKlaus91",
+    "Tatort_14!",
+    "AudiFit35",
+    "Hsv2026!"
+  ]
+}

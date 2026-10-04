@@ -1,0 +1,53 @@
+{
+  "id": "7c69b904-92b3-4e83-9044-2b689518b47c",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Jeep",
+  "self_first_name": "Tobias",
+  "self_last_name": "Krause",
+  "partner_first_name": "Sandra",
+  "partner_last_name": "Krause",
+  "children": [
+    {
+      "first_name": "Leon",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "streaming",
+    "reisen",
+    "musik"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bruno"
+    }
+  ],
+  "company": "Hessen Management GmbH",
+  "previous_passwords": [
+    "Leon2009",
+    "Bruno123",
+    "Krause!41",
+    "Mia2010",
+    "Paul_2012",
+    "Sommer2022",
+    "Sandra4Tobi",
+    "Hessen1978",
+    "Reisen!06",
+    "Musik_15"
+  ],
+  "favorite_hobby": "streaming",
+  "birth_date": "1984-07-08"
+}

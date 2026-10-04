@@ -1,0 +1,40 @@
+{
+  "id": "cb94f0de-21db-4b23-a16f-fc24b33a6bf3",
+  "age": 43,
+  "birth_date": "1983-03-26",
+  "marital_status": "single",
+  "region": "Hersbruck",
+  "nationality": "german",
+  "company": "Höfig AG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Miroslaw",
+  "self_last_name": "Briemer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Detlef",
+      "last_name": "Briemer"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern in der Fränkischen Schweiz",
+    "Fußball",
+    "Radfahren",
+    "Kochen",
+    "Gartenarbeit"
+  ],
+  "previous_passwords": [
+    "Wandern83!",
+    "FranKoepfe26",
+    "Volkswagen43",
+    "BayernDetlef7",
+    "Radfahren83_",
+    "Kochen1983!",
+    "Hersbruck26!",
+    "GartenMiros1",
+    "FuBall83Hike",
+    "Schweinsteiger43"
+  ]
+}

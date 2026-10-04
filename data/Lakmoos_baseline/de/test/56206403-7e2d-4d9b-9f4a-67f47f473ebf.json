@@ -1,0 +1,38 @@
+{
+  "id": "56206403-7e2d-4d9b-9f4a-67f47f473ebf",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Kuhn",
+  "birth_date": "2018-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "paw patrol",
+    "malen"
+  ],
+  "pets": [
+    {
+      "pet_type": "other",
+      "pet_name": "Hasi"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Lina2021",
+    "pawpatrol123",
+    "KuhnHasi",
+    "Hasi2022",
+    "malen_21",
+    "pawpatrol_Hasi",
+    "LinaMalen",
+    "Kuhn2021",
+    "Hasi!21"
+  ],
+  "favorite_hobby": "paw patrol"
+}

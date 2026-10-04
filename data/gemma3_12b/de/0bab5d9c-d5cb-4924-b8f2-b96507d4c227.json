@@ -1,0 +1,44 @@
+{
+  "id": "0bab5d9c-d5cb-4924-b8f2-b96507d4c227",
+  "age": 26,
+  "birth_date": "2000-11-06",
+  "marital_status": "married",
+  "region": "Schwerin",
+  "nationality": "german",
+  "company": "Losekann",
+  "car_brand": "Opel",
+  "self_first_name": "Theresia",
+  "self_last_name": "Pieper",
+  "partner_first_name": "Diedrich",
+  "partner_last_name": "Pieper",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Edwin"
+    },
+    {
+      "pet_type": "dog",
+      "pet_name": "Gerlinde"
+    }
+  ],
+  "interests": [
+    "Musik Festivals",
+    "Fotografie",
+    "Wandern",
+    "Videospiele",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Edwin2000!",
+    "MessiSchwerin",
+    "OpelWandern26",
+    "VideospieleGerlinde",
+    "FotografiePieper",
+    "MusikFestivalsDiedrich",
+    "JoeRogan2023",
+    "LokalerFußballVerein!",
+    "GerlindeFoto2000",
+    "TheresiaOpel!"
+  ]
+}

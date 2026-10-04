@@ -1,0 +1,35 @@
+{
+  "id": "0385142e-422e-4b96-9172-21ee19d01e9e",
+  "age": 26,
+  "birth_date": "2000-09-02",
+  "marital_status": "married",
+  "region": "Hammelburg",
+  "nationality": "german",
+  "company": "Pechel Lorch GbR",
+  "car_brand": "Kia",
+  "self_first_name": "Hans-Dietrich",
+  "self_last_name": "Dietz",
+  "partner_first_name": "Rosalia",
+  "partner_last_name": "Dietz",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Fitnessstudio",
+    "Kochen",
+    "Wandern"
+  ],
+  "previous_passwords": [
+    "Bayern2000!",
+    "KiaHamm26",
+    "FIFA2000_",
+    "KaneDietz02",
+    "GymHammel26!",
+    "Wandern2000",
+    "RosaliaFit26",
+    "KochenKia02",
+    "RealMadrid26!",
+    "GamingDietz00"
+  ]
+}

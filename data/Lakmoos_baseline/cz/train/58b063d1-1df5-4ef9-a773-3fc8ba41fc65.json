@@ -1,0 +1,35 @@
+{
+  "id": "58b063d1-1df5-4ef9-a773-3fc8ba41fc65",
+  "gender": "male",
+  "age": 82,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Křivánek",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Křivánková",
+  "children": [],
+  "interests": [
+    "procházky",
+    "televize",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1942",
+    "Marie2023",
+    "Superb2008",
+    "Mattoni79",
+    "Pilsner82",
+    "Krizovky123",
+    "HradecKralove!",
+    "Prochazka2022",
+    "Lidl2022",
+    "Televize11"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1943-12-22"
+}

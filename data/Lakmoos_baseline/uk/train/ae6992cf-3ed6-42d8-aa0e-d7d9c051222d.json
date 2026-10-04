@@ -1,0 +1,36 @@
+{
+  "id": "ae6992cf-3ed6-42d8-aa0e-d7d9c051222d",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "divorced",
+  "region": "northern ireland",
+  "nationality": "british",
+  "car_brand": "Opel",
+  "self_first_name": "Fiona",
+  "self_last_name": "Kerrigan",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "travel",
+    "baking"
+  ],
+  "pets": [],
+  "company": "North Coast Management Ltd",
+  "previous_passwords": [
+    "Fiona1971",
+    "OpelCorsa23",
+    "Kerrigan12",
+    "Reading!123",
+    "Baking2020",
+    "Nova_999",
+    "Travel4Fun",
+    "NorthCoast1",
+    "Fiona!Kerrigan",
+    "Gardening71"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1972-06-14"
+}

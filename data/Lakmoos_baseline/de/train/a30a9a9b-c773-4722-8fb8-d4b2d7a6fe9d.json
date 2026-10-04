@@ -1,0 +1,39 @@
+{
+  "id": "a30a9a9b-c773-4722-8fb8-d4b2d7a6fe9d",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Renault",
+  "self_first_name": "Rüdiger",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "wandern",
+    "gartenarbeit"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bruno"
+    }
+  ],
+  "company": "Waldhof NRW GmbH",
+  "previous_passwords": [
+    "Bruno1998",
+    "Sabine123",
+    "Kleinschmidt52",
+    "WaldhofNRW!",
+    "Ruediger_2000",
+    "Gartenarbeit4",
+    "Bruno_Sabine",
+    "Sommer07",
+    "NRW2020",
+    "W4nd3rn!"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1973-11-10"
+}

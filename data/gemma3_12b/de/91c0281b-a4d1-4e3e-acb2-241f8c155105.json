@@ -1,0 +1,35 @@
+{
+  "id": "91c0281b-a4d1-4e3e-acb2-241f8c155105",
+  "age": 41,
+  "birth_date": "1985-10-25",
+  "marital_status": "single",
+  "region": "Stendal",
+  "nationality": "german",
+  "company": "Wesack",
+  "car_brand": "Audi",
+  "self_first_name": "Fanny",
+  "self_last_name": "Nerger",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fotografie",
+    "Wandern",
+    "Lokaler Fußballverein",
+    "Deutsche Küche",
+    "Autos"
+  ],
+  "previous_passwords": [
+    "Messi2024!",
+    "AudiStendal85",
+    "Wanderlust1990",
+    "FotografieFanny",
+    "LokalerFC1985",
+    "DeutscheKucheA",
+    "AutoBild23",
+    "FannyHiking24",
+    "StendalAudi!",
+    "Fotografie85ss"
+  ]
+}

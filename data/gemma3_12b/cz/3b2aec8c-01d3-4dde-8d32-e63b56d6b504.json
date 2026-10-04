@@ -1,0 +1,45 @@
+{
+  "id": "3b2aec8c-01d3-4dde-8d32-e63b56d6b504",
+  "age": 26,
+  "birth_date": "2000-07-17",
+  "marital_status": "married",
+  "region": "Moravský Krumlov",
+  "nationality": "czech",
+  "company": "Stejskal s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Blanka",
+  "self_last_name": "Müllerová",
+  "partner_first_name": "Felix",
+  "partner_last_name": "Müllerová",
+  "children": [
+    {
+      "first_name": "Klement",
+      "last_name": "Růžičková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Šimon"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "hudba - Kapela Slza",
+    "vaření",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "Slza2000!",
+    "Klement_Turistika26",
+    "SkodaMoravsky!",
+    "FelixMullerova17",
+    "SimonsTurtleRock",
+    "MessiFan2000",
+    "VařeníSlza!",
+    "TuristikaBlanka93",
+    "HudbaKapelaRock",
+    "CestovaniSkoda26"
+  ]
+}

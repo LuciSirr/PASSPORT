@@ -1,0 +1,40 @@
+{
+  "id": "186851d3-4236-478b-864e-9f3946ecc6f4",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "Toyota",
+  "self_first_name": "Gisela",
+  "self_last_name": "Krause",
+  "birth_date": "1955-03-14",
+  "partner_first_name": "Heinz",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking",
+    "gartenarbeit"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Krause Beratung & Handel",
+  "previous_passwords": [
+    "Gisela1955",
+    "Minka123",
+    "Krause!Berlin",
+    "Pilcher2001",
+    "NordicW4lking",
+    "Heinz1950",
+    "Gartenarbeit55",
+    "Minka!Pilcher",
+    "Krause2020",
+    "Rosamunde_14"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

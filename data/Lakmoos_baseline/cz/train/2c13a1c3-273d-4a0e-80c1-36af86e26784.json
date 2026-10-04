@@ -1,0 +1,36 @@
+{
+  "id": "2c13a1c3-273d-4a0e-80c1-36af86e26784",
+  "gender": "female",
+  "age": 51,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "vzdělávání",
+    "procházky",
+    "streamování",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Pražská Logistika s.r.o.",
+  "previous_passwords": [
+    "Praha1992",
+    "Tesco618",
+    "Raiffeisenbank51",
+    "Netflix253",
+    "BezAut2024",
+    "Iveta80",
+    "Prochazka123",
+    "Sebestova_51",
+    "Mallcz1065",
+    "Vzd3l4v4n1!"
+  ],
+  "favorite_hobby": "vzdělávání",
+  "birth_date": "1975-02-17"
+}

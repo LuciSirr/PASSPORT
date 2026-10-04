@@ -1,0 +1,40 @@
+{
+  "id": "4764a469-268c-4eb0-86c7-283436743f95",
+  "age": 34,
+  "birth_date": "1992-01-17",
+  "marital_status": "single",
+  "region": "Eutin",
+  "nationality": "german",
+  "company": "Scholl Henk AG",
+  "car_brand": "Opel",
+  "self_first_name": "Alwine",
+  "self_last_name": "Henk",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "lizard",
+      "pet_name": "Joana"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Lokaler Fußballverein (Eutin07)",
+    "Deutsche Küche",
+    "Klassische Musik"
+  ],
+  "previous_passwords": [
+    "JoanaWandern92",
+    "Eutin07Messi!",
+    "OpelFoto2017",
+    "DeutscheKuecheAlwine",
+    "KlassischeMusik_Jo",
+    "WandernHenk23",
+    "FotografieOpel!",
+    "Eutin_Joana1992",
+    "MessiWandern!",
+    "AlwineFotoEutin"
+  ]
+}

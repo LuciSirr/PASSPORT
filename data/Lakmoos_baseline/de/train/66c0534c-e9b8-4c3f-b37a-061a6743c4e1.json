@@ -1,0 +1,35 @@
+{
+  "id": "66c0534c-e9b8-4c3f-b37a-061a6743c4e1",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Klaus",
+  "self_last_name": "Bergmann",
+  "partner_first_name": "Ingrid",
+  "partner_last_name": "Bergmann",
+  "children": [],
+  "interests": [
+    "wandern",
+    "audiobücher",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Klaus1958",
+    "Ingrid123",
+    "Bergmann!66",
+    "Sommer07",
+    "Wandern2020",
+    "Sachsen-Anhalt58",
+    "Gartenarbeit_1",
+    "Audiobuch2022",
+    "Postbank451",
+    "SchatzIngrid"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1960-02-22"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "81bb7d4c-0177-41c2-8103-bfadcab5e60e",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gisela",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Heinz",
+  "partner_last_name": "Kronenberg",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kronenberg"
+    }
+  ],
+  "interests": [
+    "gartenarbeit",
+    "hörbücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Gisela1955",
+    "Lukas2013",
+    "Berlin123",
+    "Heinz!55",
+    "Kronenberg2020",
+    "OmaLukas11",
+    "Gartenarbeit_1",
+    "Sommer!55",
+    "LukasHeinz",
+    "H0lzPellets"
+  ],
+  "favorite_hobby": "gartenarbeit",
+  "birth_date": "1956-10-27"
+}

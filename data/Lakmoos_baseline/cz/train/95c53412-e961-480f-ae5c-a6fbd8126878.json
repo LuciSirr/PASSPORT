@@ -1,0 +1,33 @@
+{
+  "id": "95c53412-e961-480f-ae5c-a6fbd8126878",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "procházky",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Jarmila63",
+    "Fabia2005",
+    "Vesela1970",
+    "Prochazky123",
+    "Lidl1234",
+    "dmRossmann",
+    "CentralBohemia",
+    "Kofola2020",
+    "Vaření!2022"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1962-11-02"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2a1afaea-6147-4c0d-b467-b71596dfe033",
+  "age": 52,
+  "birth_date": "1974-03-10",
+  "marital_status": "single",
+  "region": "Stříbro",
+  "nationality": "czech",
+  "company": "Doležal",
+  "car_brand": "Škoda",
+  "self_first_name": "Blahoslav",
+  "self_last_name": "Stejskal",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Václav",
+      "last_name": "Stejskal"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Stejskal"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěstitelsví",
+    "folklorní tance",
+    "historie Stříbra"
+  ],
+  "previous_passwords": [
+    "VaclavMatěj2024",
+    "SkodaHistorie74",
+    "TuristikaStribro!",
+    "RybářstvíVaclav",
+    "FolklorníVáclav",
+    "Pěstitelství2002",
+    "MessiStribro1974",
+    "StribroRybář!",
+    "HistorieŠkoda",
+    "MatějTuristika_"
+  ]
+}

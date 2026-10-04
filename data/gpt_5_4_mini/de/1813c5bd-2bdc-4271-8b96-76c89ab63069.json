@@ -1,0 +1,48 @@
+{
+  "id": "1813c5bd-2bdc-4271-8b96-76c89ab63069",
+  "age": 70,
+  "birth_date": "1956-12-30",
+  "marital_status": "married",
+  "region": "Eberswalde",
+  "nationality": "german",
+  "company": "Weinhage Wulff KGaA",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Friedrich",
+  "self_last_name": "Lübs",
+  "partner_first_name": "Therese",
+  "partner_last_name": "Lübs",
+  "children": [
+    {
+      "first_name": "Silvester",
+      "last_name": "Lübs"
+    },
+    {
+      "first_name": "Gunda",
+      "last_name": "Lübs"
+    },
+    {
+      "first_name": "Ullrich",
+      "last_name": "Lübs"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Gartenarbeit",
+    "Wandern in Brandenburg",
+    "Schach",
+    "Klassische Musik",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Garten1956!",
+    "SchachLuebs70",
+    "Wandern56_BB",
+    "Mercedes56!",
+    "BFC1956",
+    "BachTherese70",
+    "Klassik56#",
+    "Eberswalde56",
+    "GundaSchach56",
+    "Brandenburg70!"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "caa7f736-8dc1-416a-80b6-08300449c50b",
+  "age": 54,
+  "birth_date": "1972-05-09",
+  "marital_status": "married",
+  "region": "Nigelmouth",
+  "nationality": "english",
+  "company": "White, Murray and Macdonald",
+  "car_brand": "BMW",
+  "self_first_name": "Dorothy",
+  "self_last_name": "Jones",
+  "partner_first_name": "Jeremy",
+  "partner_last_name": "King",
+  "children": [
+    {
+      "first_name": "Stanley",
+      "last_name": "Jones"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Simon"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Connor"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "walking",
+    "local football",
+    "DIY home improvement",
+    "classic rock"
+  ],
+  "previous_passwords": [
+    "Rose1969!",
+    "BMWgarden72",
+    "SimonWalk9",
+    "StanleyDIY72",
+    "KingRovers54",
+    "Nigelmouth89",
+    "RocknRoll72",
+    "ConnorHorse9",
+    "DaisyGarden72",
+    "JonesWalk05"
+  ]
+}

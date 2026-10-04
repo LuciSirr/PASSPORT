@@ -1,0 +1,35 @@
+{
+  "id": "6f8c999a-95d0-4980-b77b-882eca3a40e2",
+  "gender": "male",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Genesis",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "camping"
+  ],
+  "pets": [],
+  "company": "Westfield Construction Services",
+  "previous_passwords": [
+    "Genesis2021",
+    "LandRover6",
+    "Callum123",
+    "W3stMidlands!",
+    "Football21",
+    "Hollis3000",
+    "GV70diesel",
+    "Camping2022",
+    "Gaming_99",
+    "Hollis!21"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2005-01-21"
+}

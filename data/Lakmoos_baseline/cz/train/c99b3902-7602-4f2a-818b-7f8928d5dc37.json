@@ -1,0 +1,34 @@
+{
+  "id": "c99b3902-7602-4f2a-818b-7f8928d5dc37",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "single/in a relationship",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Iveta",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "cestování",
+    "nakupování",
+    "čtení"
+  ],
+  "pets": [],
+  "company": "Základní škola Pardubice",
+  "previous_passwords": [
+    "Iveta1985",
+    "VeselaPardubice",
+    "Petr1234",
+    "Cestovani2020",
+    "Hyundaii30!",
+    "Nakupovani39",
+    "Pardubice!62",
+    "VeselaPetra",
+    "Cteni2024"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1987-01-18"
+}

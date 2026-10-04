@@ -1,0 +1,40 @@
+{
+  "id": "92567106-1b12-4d7d-be68-e1518620f9df",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "Toyota",
+  "self_first_name": "Annika",
+  "self_last_name": "Krause",
+  "birth_date": "1994-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Luca",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "dark",
+    "tiktok",
+    "deutsche popmusik"
+  ],
+  "pets": [],
+  "company": "Krause & Partner Unternehmensberatung",
+  "previous_passwords": [
+    "Luca2011",
+    "KrauseDark94",
+    "Annika!123",
+    "tiktok_2022",
+    "DarkKrause12",
+    "PopmusikLuca",
+    "AnnikaLuca94",
+    "Dark!2019",
+    "KrauseTikTok",
+    "Luca_Dark"
+  ],
+  "favorite_hobby": "dark"
+}

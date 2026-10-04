@@ -1,0 +1,48 @@
+{
+  "id": "1b567fa2-8be7-4d80-ac8b-db476ec8d115",
+  "age": 34,
+  "birth_date": "1992-09-30",
+  "marital_status": "married",
+  "region": "West Kim",
+  "nationality": "english",
+  "company": "Baker-Young",
+  "car_brand": "Volvo",
+  "self_first_name": "Clive",
+  "self_last_name": "Hartley",
+  "partner_first_name": "Anna",
+  "partner_last_name": "Jones",
+  "children": [
+    {
+      "first_name": "Jeremy",
+      "last_name": "Hartley"
+    },
+    {
+      "first_name": "Sophie",
+      "last_name": "Hartley"
+    },
+    {
+      "first_name": "Shaun",
+      "last_name": "Hartley"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "fitness",
+    "cooking",
+    "podcasts",
+    "travel"
+  ],
+  "previous_passwords": [
+    "Anna1982!",
+    "VolvoGym92",
+    "FifaJeremy30",
+    "JoeRogan34",
+    "CookSophie92",
+    "FitWest30!",
+    "CliveTravel92",
+    "MarioGaming34",
+    "JonesPod30!",
+    "SophieFit92"
+  ]
+}

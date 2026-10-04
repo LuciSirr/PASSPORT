@@ -1,0 +1,34 @@
+{
+  "id": "9a4259bf-6e13-437b-b83c-64b90528e662",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "single/in a relationship",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "Renault",
+  "self_first_name": "Tobias",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "podcasts",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Thüringer Service GmbH",
+  "previous_passwords": [
+    "Tobi1994",
+    "Kreutzmann123",
+    "Renault2019",
+    "Sommer!2022",
+    "Thuringen_94",
+    "Podcasts2020",
+    "Berlin4ever",
+    "Captur_1333",
+    "Allianz2021",
+    "Fussball!94"
+  ],
+  "favorite_hobby": "podcasts",
+  "birth_date": "1996-03-12"
+}

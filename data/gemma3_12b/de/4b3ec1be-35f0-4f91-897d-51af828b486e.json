@@ -1,0 +1,40 @@
+{
+  "id": "4b3ec1be-35f0-4f91-897d-51af828b486e",
+  "age": 49,
+  "birth_date": "1977-09-10",
+  "marital_status": "married",
+  "region": "Sternberg",
+  "nationality": "german",
+  "company": "Ehlert Hänel OHG mbH",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Sieglinde",
+  "self_last_name": "Rosenow",
+  "partner_first_name": "Ada",
+  "partner_last_name": "Rosenow",
+  "children": [
+    {
+      "first_name": "Niko",
+      "last_name": "Rosenow"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Oldtimer",
+    "Deutsche Küche",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Volkswagen1977",
+    "NikoAdaWanderung",
+    "SternbergFoto!",
+    "OldtimerJoeRogan",
+    "Messi2024",
+    "DeutscheKucheAda",
+    "RosenowWandern77",
+    "FotografieNiko!",
+    "Volkswagenfussball",
+    "AdaRosenow1990"
+  ]
+}

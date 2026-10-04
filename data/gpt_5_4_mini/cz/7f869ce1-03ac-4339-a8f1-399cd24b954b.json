@@ -1,0 +1,48 @@
+{
+  "id": "7f869ce1-03ac-4339-a8f1-399cd24b954b",
+  "age": 36,
+  "birth_date": "1990-09-16",
+  "marital_status": "divorced",
+  "region": "Úsov",
+  "nationality": "czech",
+  "company": "Kašpar",
+  "car_brand": "Hyundai",
+  "self_first_name": "Nora",
+  "self_last_name": "Poláková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Ilona",
+      "last_name": "Janečková"
+    },
+    {
+      "first_name": "Erika",
+      "last_name": "Křížová"
+    },
+    {
+      "first_name": "Judita",
+      "last_name": "Bártová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "fotbal",
+    "grilování",
+    "pěstování na zahradě"
+  ],
+  "previous_passwords": [
+    "Turistika90!",
+    "CykloUsov16",
+    "FotbalHyundai7",
+    "Grilovani90",
+    "Zahrada_16",
+    "IlonaBike90",
+    "ErikaFoot16",
+    "JuditaHike90",
+    "Hyundai_1990",
+    "UsovTrail16"
+  ]
+}

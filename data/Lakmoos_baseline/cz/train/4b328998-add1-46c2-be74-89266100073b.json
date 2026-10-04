@@ -1,0 +1,35 @@
+{
+  "id": "4b328998-add1-46c2-be74-89266100073b",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "autíčka",
+    "pohádky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Matej2018",
+    "auticka123",
+    "ZlinKoala",
+    "legohrac",
+    "maminka2023",
+    "Vesely06",
+    "malovani2020",
+    "Pohadky!",
+    "Matejkoala",
+    "auticka06"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2020-03-18"
+}

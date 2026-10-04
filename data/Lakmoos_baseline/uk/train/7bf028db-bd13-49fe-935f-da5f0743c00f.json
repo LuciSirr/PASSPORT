@@ -1,0 +1,34 @@
+{
+  "id": "7bf028db-bd13-49fe-935f-da5f0743c00f",
+  "gender": "male",
+  "age": 44,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Jaguar",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "travelling"
+  ],
+  "pets": [],
+  "company": "Dales Financial Solutions",
+  "previous_passwords": [
+    "Jaguar2019",
+    "Fiona44",
+    "Hollings123",
+    "Dales!5000",
+    "Cycling2020",
+    "Yorkshire19",
+    "GarethXF",
+    "Travel4Fun",
+    "Wedding2024"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1981-07-23"
+}

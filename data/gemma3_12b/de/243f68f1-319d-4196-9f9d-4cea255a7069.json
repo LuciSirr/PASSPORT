@@ -1,0 +1,40 @@
+{
+  "id": "243f68f1-319d-4196-9f9d-4cea255a7069",
+  "age": 43,
+  "birth_date": "1983-03-09",
+  "marital_status": "single",
+  "region": "Cottbus",
+  "nationality": "german",
+  "company": "Lübs Rogge GmbH",
+  "car_brand": "Skoda",
+  "self_first_name": "Hans-Bernd",
+  "self_last_name": "Täsche",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Recep"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Klassische Musik",
+    "Lokaler Fußballverein",
+    "Reisen"
+  ],
+  "previous_passwords": [
+    "Messi2023!",
+    "RecepWander1983",
+    "SkodaFotoCottbus",
+    "ClassicalMusik83",
+    "HansBerndFoto!",
+    "CottbusWanderer",
+    "FotografieHBT",
+    "MessiBergwandern",
+    "Recep_Skoda2012",
+    "Classical1983"
+  ]
+}

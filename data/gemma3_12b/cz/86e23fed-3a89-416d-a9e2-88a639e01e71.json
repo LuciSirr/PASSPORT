@@ -1,0 +1,44 @@
+{
+  "id": "86e23fed-3a89-416d-a9e2-88a639e01e71",
+  "age": 30,
+  "birth_date": "1996-04-22",
+  "marital_status": "single",
+  "region": "Ždánice",
+  "nationality": "czech",
+  "company": "Brožová v.o.s.",
+  "car_brand": "Audi",
+  "self_first_name": "Linda",
+  "self_last_name": "Vacková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Žaneta"
+    },
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Tomáš"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "vaření",
+    "hudba",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "Messi96Tom",
+    "AudiŽdánice!",
+    "TuristikaLinda22",
+    "VařeníŽaneta",
+    "FotbalTomáš",
+    "ŽdániceMusic!",
+    "MessiLinda",
+    "CestovaniAudi",
+    "HudbaTom96",
+    "TuristikaAudi22"
+  ]
+}

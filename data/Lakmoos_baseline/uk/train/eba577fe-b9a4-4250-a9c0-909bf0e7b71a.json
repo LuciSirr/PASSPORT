@@ -1,0 +1,40 @@
+{
+  "id": "eba577fe-b9a4-4250-a9c0-909bf0e7b71a",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "divorced",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollings",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Eastside Ventures",
+  "previous_passwords": [
+    "Margaret1960",
+    "MistyCat1",
+    "Hollings123",
+    "Eastside2022",
+    "Travel4Fun!",
+    "Gardening_64",
+    "Reading3",
+    "Misty!2020",
+    "Hollings_8000",
+    "Margaret_Misty"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1962-01-06"
+}

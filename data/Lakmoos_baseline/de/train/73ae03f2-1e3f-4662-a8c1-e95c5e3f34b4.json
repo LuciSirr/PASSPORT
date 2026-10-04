@@ -1,0 +1,34 @@
+{
+  "id": "73ae03f2-1e3f-4662-a8c1-e95c5e3f34b4",
+  "gender": "male",
+  "age": 2,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Emil",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "bauklötze",
+    "malen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Emil2022",
+    "Krause123",
+    "Bauklotz4",
+    "Mal3n2023",
+    "Sachsen!",
+    "Emil_22",
+    "Kraus3_2022",
+    "Spiel123",
+    "EmilBauklotz",
+    "Krause2022!"
+  ],
+  "favorite_hobby": "bauklötze",
+  "birth_date": "2023-03-30"
+}

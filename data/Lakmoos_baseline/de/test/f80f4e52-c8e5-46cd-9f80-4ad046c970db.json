@@ -1,0 +1,35 @@
+{
+  "id": "f80f4e52-c8e5-46cd-9f80-4ad046c970db",
+  "gender": "male",
+  "age": 61,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Honda",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Krause",
+  "birth_date": "1963-07-14",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "wandern",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Krause Beratung & Handel",
+  "previous_passwords": [
+    "Tatort1963",
+    "Krause!2020",
+    "Wandern123",
+    "Juergen14_07",
+    "TatortKrause",
+    "Sabine1963",
+    "Audiobook_63",
+    "KrauseTat0rt!",
+    "W4ndern2022",
+    "Tatort!Sabine"
+  ],
+  "favorite_hobby": "tatort"
+}

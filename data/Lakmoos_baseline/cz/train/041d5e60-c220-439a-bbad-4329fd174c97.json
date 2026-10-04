@@ -1,0 +1,35 @@
+{
+  "id": "041d5e60-c220-439a-bbad-4329fd174c97",
+  "gender": "female",
+  "age": 55,
+  "marital_status": "divorced",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "čtení",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Reality Liberecko",
+  "previous_passwords": [
+    "liberec2020",
+    "tescoLidl24",
+    "kofola55",
+    "modraPyramida1",
+    "Ivana1988",
+    "Vranova123",
+    "cestovani2024",
+    "Nakupovani!",
+    "KnihyBlanik55",
+    "LidlKaufland2023"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1970-05-17"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "e5c3d314-0bd5-4125-8fd5-c8ac8c89e7a7",
+  "age": 45,
+  "birth_date": "1981-01-02",
+  "marital_status": "married",
+  "region": "Neustadt am Rübenberge",
+  "nationality": "german",
+  "company": "Mülichen AG",
+  "car_brand": "Audi",
+  "self_first_name": "Metin",
+  "self_last_name": "Salz",
+  "partner_first_name": "Kunigunde",
+  "partner_last_name": "Salz",
+  "children": [
+    {
+      "first_name": "Gudrun",
+      "last_name": "Salz"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Autos",
+    "Lokaler Fußballverein",
+    "Deutsche Küche"
+  ],
+  "previous_passwords": [
+    "AudiWander1981",
+    "GudrunFoto24",
+    "MessiNeustadt!",
+    "KunigundeBerg!",
+    "DeutscheKueche77",
+    "RübenbergeAuto",
+    "Fotografie2002",
+    "WandernSalz89",
+    "FußballGudrun",
+    "AudiSalzheim"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "d9800d0f-da50-4d27-8233-53395f57a234",
+  "age": 41,
+  "birth_date": "1985-01-20",
+  "marital_status": "divorced",
+  "region": "Schwandorf",
+  "nationality": "german",
+  "company": "Schleich",
+  "car_brand": "Mazda",
+  "self_first_name": "Oda",
+  "self_last_name": "Dietz",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Horst-Günter",
+      "last_name": "Dietz"
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Dietz"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Hans-Herbert"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Benno"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Autos",
+    "Lesen",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "HorstGuenter85!",
+    "MazdaWanderung20",
+    "MessiFotografie!",
+    "HansHerbert79",
+    "Thomas_FotoAuto",
+    "BennoWandern23",
+    "Schwandorf_Lesen",
+    "LokalerFV85HG",
+    "OdaFotoMessi1985",
+    "WanderungMazda!"
+  ]
+}

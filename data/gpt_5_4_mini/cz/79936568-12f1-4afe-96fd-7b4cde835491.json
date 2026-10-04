@@ -1,0 +1,45 @@
+{
+  "id": "79936568-12f1-4afe-96fd-7b4cde835491",
+  "age": 27,
+  "birth_date": "1999-04-04",
+  "marital_status": "married",
+  "region": "Lom",
+  "nationality": "czech",
+  "company": "Němeček Sedlák s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Štěpánka",
+  "self_last_name": "Pokorná",
+  "partner_first_name": "Luděk",
+  "partner_last_name": "Pokorný",
+  "children": [
+    {
+      "first_name": "Elena",
+      "last_name": "Fišerová"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Bořivoj"
+    }
+  ],
+  "interests": [
+    "hokej",
+    "turistika",
+    "vaření",
+    "poslech hudby",
+    "hraní her"
+  ],
+  "previous_passwords": [
+    "hokej1999!",
+    "SkodaLom27",
+    "turistika04",
+    "vareniludek",
+    "BozenaHockey99",
+    "elena_music04",
+    "LomHike_27",
+    "Bozivoj!99",
+    "Hudba1999",
+    "PokornaHokej04"
+  ]
+}

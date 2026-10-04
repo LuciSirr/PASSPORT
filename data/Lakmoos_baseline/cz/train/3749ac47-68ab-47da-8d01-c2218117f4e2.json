@@ -1,0 +1,34 @@
+{
+  "id": "3749ac47-68ab-47da-8d01-c2218117f4e2",
+  "gender": "female",
+  "age": 65,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Libuše",
+  "self_last_name": "Konečná",
+  "partner_first_name": "Václav",
+  "partner_last_name": "Konečný",
+  "children": [],
+  "interests": [
+    "čtení",
+    "zahrada",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Libuse1959",
+    "Fabia2012",
+    "Venca65",
+    "Zahrada123",
+    "Konecna2020",
+    "RelaxVoda",
+    "Hornbach1100",
+    "Krizovky!",
+    "Penny618"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1961-01-19"
+}

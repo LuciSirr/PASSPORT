@@ -1,0 +1,40 @@
+{
+  "id": "71c5ab70-ddb7-4324-bcb6-3585119576b6",
+  "age": 30,
+  "birth_date": "1996-03-22",
+  "marital_status": "divorced",
+  "region": "Hanušovice",
+  "nationality": "czech",
+  "company": "Vítková",
+  "car_brand": "Citroën",
+  "self_first_name": "Alexander",
+  "self_last_name": "Stejskal",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Rostislav"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "hokej",
+    "turistika v Jeseníkách",
+    "cyklistika",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "Messi22!",
+    "HanuSovice96",
+    "Citroen!96",
+    "Rostislav7",
+    "Jeseniky24",
+    "VaReni_22",
+    "SkiTour96!",
+    "Hokej96!",
+    "Cyklo22",
+    "Stejskal03"
+  ]
+}

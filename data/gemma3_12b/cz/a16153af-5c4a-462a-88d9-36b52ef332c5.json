@@ -1,0 +1,35 @@
+{
+  "id": "a16153af-5c4a-462a-88d9-36b52ef332c5",
+  "age": 29,
+  "birth_date": "1997-07-07",
+  "marital_status": "single",
+  "region": "Jílové",
+  "nationality": "czech",
+  "company": "Veselá",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Jolana",
+  "self_last_name": "Sedláčková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "hudba (Kapela Slza)",
+    "fotbal (FK Jílové)",
+    "vaření",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "Slza2008!",
+    "JolanaTuristika1997",
+    "VolkswagenMessi!",
+    "KapelaSlzaJilove",
+    "Varovani29",
+    "CestovaniSlza_",
+    "FKJiloveJolana",
+    "SlzaHudba123",
+    "JolanaFotbal97",
+    "VolkswagenTuristika"
+  ]
+}

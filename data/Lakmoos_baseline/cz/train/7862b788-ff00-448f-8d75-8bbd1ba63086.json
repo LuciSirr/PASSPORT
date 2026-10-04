@@ -1,0 +1,34 @@
+{
+  "id": "7862b788-ff00-448f-8d75-8bbd1ba63086",
+  "gender": "female",
+  "age": 72,
+  "marital_status": "divorced",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Libuše",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "móda",
+    "čtení",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Libuse72",
+    "vrana8000",
+    "mujdum2020",
+    "lidl815",
+    "kofolaBezCukru",
+    "Prochazky2022",
+    "Cteni!1972",
+    "Vranova_123",
+    "Brno!72"
+  ],
+  "favorite_hobby": "móda",
+  "birth_date": "1953-07-30"
+}

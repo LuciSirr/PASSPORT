@@ -1,0 +1,35 @@
+{
+  "id": "251f7188-e5ce-4c6b-b190-867ac8c00f89",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "single/in a relationship",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "Citroën",
+  "self_first_name": "Ralf",
+  "self_last_name": "Kuhn",
+  "birth_date": "1972-08-15",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Autohaus Berlin Mitte",
+  "previous_passwords": [
+    "Ralf1972",
+    "KuhnBerlin123",
+    "Tatort2020!",
+    "Sabine0815",
+    "AutohausMitte72",
+    "bundesliga_2006",
+    "reisenKuhn!",
+    "Tat0rt_15",
+    "SabineKuhn2022",
+    "Kuhn!Tatort"
+  ],
+  "favorite_hobby": "tatort"
+}

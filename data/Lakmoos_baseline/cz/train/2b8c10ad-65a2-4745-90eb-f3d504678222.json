@@ -1,0 +1,36 @@
+{
+  "id": "2b8c10ad-65a2-4745-90eb-f3d504678222",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "malování",
+    "čtení",
+    "jóga"
+  ],
+  "pets": [],
+  "company": "Veselá Consulting s.r.o.",
+  "previous_passwords": [
+    "BarcaPraha2020",
+    "Malovani123",
+    "Vesela58000",
+    "Cestovani!29",
+    "NetflixBarca",
+    "IkeaBydleni",
+    "Kultura29",
+    "Yoga2024",
+    "Albert716",
+    "Alza1475"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1997-01-15"
+}

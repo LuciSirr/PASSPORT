@@ -1,0 +1,40 @@
+{
+  "id": "ab471d94-f45d-4f44-bfe7-eca322e471f7",
+  "age": 43,
+  "birth_date": "1983-05-25",
+  "marital_status": "married",
+  "region": "Eisleben",
+  "nationality": "german",
+  "company": "Döhn Ritter e.G.",
+  "car_brand": "BMW",
+  "self_first_name": "Reinhilde",
+  "self_last_name": "Hesse",
+  "partner_first_name": "Hans-Uwe",
+  "partner_last_name": "Hesse",
+  "children": [
+    {
+      "first_name": "Harold",
+      "last_name": "Hesse"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Autoreisen",
+    "Lokaler Fußballverein",
+    "Deutsche Küche"
+  ],
+  "previous_passwords": [
+    "HaroldWandern83",
+    "BMWFotografie25",
+    "EislebenMessi!",
+    "HansUweWandern!",
+    "Autoreisen83Hesse",
+    "LokalerFußball2005",
+    "DeutscheKuecheH",
+    "HaroldBMW2023",
+    "ReinhildeWanderlust!",
+    "FotografieHesse83"
+  ]
+}

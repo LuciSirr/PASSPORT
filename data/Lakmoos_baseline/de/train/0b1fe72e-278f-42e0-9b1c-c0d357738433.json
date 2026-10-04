@@ -1,0 +1,39 @@
+{
+  "id": "0b1fe72e-278f-42e0-9b1c-c0d357738433",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gabriele",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kreutzmann",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Kreutzmann"
+    }
+  ],
+  "interests": [
+    "spazieren",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "Sozialdienst Rheinpark",
+  "previous_passwords": [
+    "Lena2015",
+    "Gabriele61",
+    "Kreutzmann123",
+    "Jürgen1970",
+    "Spazieren!21",
+    "BKK_3000",
+    "Rheinpark2020",
+    "SommerSept",
+    "LenaJürgen",
+    "Gabriele!9"
+  ],
+  "favorite_hobby": "spazieren",
+  "birth_date": "1964-10-20"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "c143120d-73d5-41b3-883b-0e5ca9f59547",
+  "age": 37,
+  "birth_date": "1989-10-05",
+  "marital_status": "divorced",
+  "region": "Deštná",
+  "nationality": "czech",
+  "company": "Horváthová Tůmová v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Ctibor",
+  "self_last_name": "Staněk",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Jana",
+      "last_name": "Štaňková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "hudba (Kapela Lucie)",
+    "fotbal (FK Deštná)",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "Lucie2019!",
+    "JanickaTuristika89",
+    "SkodaDezna1989",
+    "MessiFan1005",
+    "VareniJana!",
+    "LucieRocks1989",
+    "DesnaFotbal!",
+    "JanaStanekHiking",
+    "SkodaOctavia23",
+    "MessiLucie89"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2b4133f8-b02a-4c9a-afd5-dc0f004030db",
+  "gender": "male",
+  "age": 67,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Citroën",
+  "self_first_name": "Geoffrey",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "classic cars",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Buster"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Buster1957",
+    "HollisJaguar7",
+    "ClassicCars!14",
+    "Margaret57",
+    "Gardening_123",
+    "Citroen2017",
+    "Buster!Gardens",
+    "Geoff1957",
+    "SouthWest67",
+    "JaguarFpace!"
+  ],
+  "favorite_hobby": "classic cars",
+  "birth_date": "1957-06-14"
+}

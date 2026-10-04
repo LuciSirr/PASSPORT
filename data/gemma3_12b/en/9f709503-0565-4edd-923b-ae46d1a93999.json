@@ -1,0 +1,35 @@
+{
+  "id": "9f709503-0565-4edd-923b-ae46d1a93999",
+  "age": 29,
+  "birth_date": "1997-12-26",
+  "marital_status": "married",
+  "region": "Burnsmouth",
+  "nationality": "english",
+  "company": "West-Walker",
+  "car_brand": "Renault",
+  "self_first_name": "Simon",
+  "self_last_name": "Giles",
+  "partner_first_name": "Josephine",
+  "partner_last_name": "Pearson",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Hiking",
+    "Indie Music",
+    "Photography",
+    "Board Games",
+    "Local Rugby Team"
+  ],
+  "previous_passwords": [
+    "HikingPeak97",
+    "IndieSoundsJ0e",
+    "RugbyBurnmouth!",
+    "RenaultPixl8",
+    "JosephineHike26",
+    "BoardGameStrat!",
+    "Messi29Burn",
+    "PhotographySimon",
+    "BurnmouthIndie!",
+    "HikingPeak26!"
+  ]
+}

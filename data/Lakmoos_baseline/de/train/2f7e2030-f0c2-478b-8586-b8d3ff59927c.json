@@ -1,0 +1,39 @@
+{
+  "id": "2f7e2030-f0c2-478b-8586-b8d3ff59927c",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Klaus",
+  "self_last_name": "Bergmann",
+  "partner_first_name": "Ute",
+  "partner_last_name": "Bergmann",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Bergmann"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "schach"
+  ],
+  "pets": [],
+  "company": "Mitteldeutsche Management GmbH",
+  "previous_passwords": [
+    "Klaus1958",
+    "UteLukas123",
+    "Bergmann2020",
+    "Lukas11!",
+    "Wandern58",
+    "Schachmeister1",
+    "SachsenAnhalt_66",
+    "Sparkasse253",
+    "LukasUte2023",
+    "B3rgmann!"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1960-02-04"
+}

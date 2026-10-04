@@ -1,0 +1,39 @@
+{
+  "id": "49de5d14-5de7-48ea-a44e-f5805aee95e7",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "northern ireland",
+  "nationality": "british",
+  "car_brand": "Jaguar",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "classic cars",
+    "fawlty towers"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Ulster Mutual Finance",
+  "previous_passwords": [
+    "Baxter2018",
+    "JaguarXF!73",
+    "FawltyTowers123",
+    "Hollis1973",
+    "UlsterFinance1",
+    "ClassicCars!5",
+    "Fiona14",
+    "Baxter!Hollis",
+    "Fawlty!1973",
+    "JaguarBaxter73"
+  ],
+  "favorite_hobby": "classic cars",
+  "birth_date": "1973-05-14"
+}

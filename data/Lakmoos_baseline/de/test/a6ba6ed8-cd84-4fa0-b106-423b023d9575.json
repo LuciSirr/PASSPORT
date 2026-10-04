@@ -1,0 +1,35 @@
+{
+  "id": "a6ba6ed8-cd84-4fa0-b106-423b023d9575",
+  "gender": "male",
+  "age": 48,
+  "marital_status": "married",
+  "region": "hamburg",
+  "nationality": "german",
+  "car_brand": "Seat",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "birth_date": "1976-05-18",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "wohnmobilreisen",
+    "bundesliga",
+    "krimiserien"
+  ],
+  "pets": [],
+  "company": "Krause Handelsagentur Hamburg",
+  "previous_passwords": [
+    "Krause1976",
+    "Sabine18",
+    "Wohnmobil123",
+    "Bundesliga76",
+    "Hamburg!76",
+    "Krimi2020",
+    "KrauseWohnmobil",
+    "SabineKrause!",
+    "Krause!123",
+    "Wohnmobilreisen76"
+  ],
+  "favorite_hobby": "wohnmobilreisen"
+}

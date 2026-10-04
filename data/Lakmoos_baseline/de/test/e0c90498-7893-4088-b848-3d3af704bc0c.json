@@ -1,0 +1,44 @@
+{
+  "id": "e0c90498-7893-4088-b848-3d3af704bc0c",
+  "gender": "male",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Jaguar",
+  "self_first_name": "Tobias",
+  "self_last_name": "Krause",
+  "birth_date": "1991-06-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "fussball",
+    "forza horizon",
+    "tatort"
+  ],
+  "pets": [],
+  "company": "Westfalen Maschinenbau GmbH",
+  "previous_passwords": [
+    "Lukas2019",
+    "Marlene2021",
+    "Krause!91",
+    "fussball123",
+    "ForzaHorizon2020",
+    "tatort_14",
+    "Westfalen2022",
+    "TobiKrause",
+    "MarleneLukas21",
+    "krause_fussball"
+  ],
+  "favorite_hobby": "fussball"
+}

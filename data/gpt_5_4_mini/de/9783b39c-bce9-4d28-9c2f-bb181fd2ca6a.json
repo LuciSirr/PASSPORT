@@ -1,0 +1,35 @@
+{
+  "id": "9783b39c-bce9-4d28-9c2f-bb181fd2ca6a",
+  "age": 27,
+  "birth_date": "1999-01-07",
+  "marital_status": "married",
+  "region": "Sankt Goar",
+  "nationality": "german",
+  "company": "Trüb GmbH & Co. KGaA",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Johannes",
+  "self_last_name": "Sorgatz",
+  "partner_first_name": "Karla",
+  "partner_last_name": "Hettner",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern im Mittelrheintal",
+    "Fußball",
+    "Gaming",
+    "Kochen",
+    "Musikfestivals"
+  ],
+  "previous_passwords": [
+    "Mittelrheintal99!",
+    "Karla1999_FcB",
+    "Mercedes27!",
+    "RheinWandern7",
+    "FifaSorgatz99",
+    "Rammstein99!",
+    "KochenSanktGoar",
+    "Musikfest2027!",
+    "BayernKarla27",
+    "GamingRhein99"
+  ]
+}

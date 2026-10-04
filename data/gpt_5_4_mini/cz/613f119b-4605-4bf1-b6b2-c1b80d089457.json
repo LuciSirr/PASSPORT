@@ -1,0 +1,35 @@
+{
+  "id": "613f119b-4605-4bf1-b6b2-c1b80d089457",
+  "age": 26,
+  "birth_date": "2000-04-15",
+  "marital_status": "single",
+  "region": "Velké Hamry",
+  "nationality": "czech",
+  "company": "Petrová a.s.",
+  "car_brand": "Kia",
+  "self_first_name": "Anděla",
+  "self_last_name": "Hrušková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika v Jizerských horách",
+    "hokej",
+    "fotbal",
+    "vaření",
+    "hraní her"
+  ],
+  "previous_passwords": [
+    "Jizerska26!",
+    "KiaHokej15",
+    "BartosHra7",
+    "Hruskova2000",
+    "LiberecFotbal99",
+    "Turistika04",
+    "VařeníGamer8",
+    "AndelaK2",
+    "BilaTygri26",
+    "JizerskeHory!"
+  ]
+}

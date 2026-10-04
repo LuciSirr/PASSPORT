@@ -1,0 +1,35 @@
+{
+  "id": "0d355b43-6637-4f77-9503-812c1d4a4a59",
+  "gender": "male",
+  "age": 77,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kubeš",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Kubešová",
+  "children": [],
+  "interests": [
+    "auta",
+    "nakupování",
+    "investice"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladek77",
+    "Marie2020",
+    "Superb2008",
+    "Makro2292",
+    "Unikni123",
+    "Penny618",
+    "Auta1966",
+    "KubesDiesel5.9",
+    "Investice2024",
+    "Nakupovani!"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1949-03-10"
+}

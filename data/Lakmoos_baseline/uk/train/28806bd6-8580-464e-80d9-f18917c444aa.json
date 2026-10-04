@@ -1,0 +1,34 @@
+{
+  "id": "28806bd6-8580-464e-80d9-f18917c444aa",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Citroën",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Gareth",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "reading",
+    "walking",
+    "baking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Fiona1989",
+    "Gareth123",
+    "CitroenC3!",
+    "Reading4Life",
+    "Hollingsworth2020",
+    "Baking_89",
+    "SouthWest22",
+    "Fiona!12",
+    "Walking2021"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1990-05-03"
+}

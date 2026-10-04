@@ -1,0 +1,40 @@
+{
+  "id": "5e1be515-39e7-4e83-b2bf-eb968cae5822",
+  "age": 19,
+  "birth_date": "2007-10-28",
+  "marital_status": "married",
+  "region": "Libochovice",
+  "nationality": "czech",
+  "company": "Horáková o.s.",
+  "car_brand": "Ford",
+  "self_first_name": "Vilém",
+  "self_last_name": "Tesař",
+  "partner_first_name": "Dominika",
+  "partner_last_name": "Tesařová",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Jaromír"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "hraní her",
+    "poslech rapu",
+    "fitness",
+    "sledování hokeje"
+  ],
+  "previous_passwords": [
+    "Messi2007!",
+    "Dominika07",
+    "FordLibo19",
+    "HokejJaromir",
+    "RapuVilem28",
+    "Fitness07!",
+    "Slavia07_tes",
+    "GamingTesař19",
+    "Tesarova_28",
+    "Libochovice7"
+  ]
+}

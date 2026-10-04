@@ -1,0 +1,40 @@
+{
+  "id": "c6f0f6b2-95ac-4fd4-8434-60508da2c814",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "BMW",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "british baking show",
+    "walking holidays"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Molly"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Molly2019",
+    "Hollingsworth74",
+    "Gardening123",
+    "BakeOff!2020",
+    "FionaWalking1",
+    "Molly!Show",
+    "BakingQueen74",
+    "WalkingMolly15",
+    "GreatBritish2020",
+    "Fiona!Dog"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1974-06-15"
+}

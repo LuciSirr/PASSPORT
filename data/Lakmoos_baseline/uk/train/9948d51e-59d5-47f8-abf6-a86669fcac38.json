@@ -1,0 +1,40 @@
+{
+  "id": "9948d51e-59d5-47f8-abf6-a86669fcac38",
+  "gender": "female",
+  "age": 52,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Dacia",
+  "self_first_name": "Fiona",
+  "self_last_name": "Redfern",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Redfern",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Fiona1969",
+    "Misty123",
+    "Redfern08",
+    "Graham4Fiona",
+    "Gardening!21",
+    "Walking2007",
+    "Misty!cat",
+    "Reading_69",
+    "FionaRedfern",
+    "NorthWest22"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1973-11-11"
+}

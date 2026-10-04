@@ -1,0 +1,35 @@
+{
+  "id": "315d3ac6-c128-44a2-9098-d64bc55f264f",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "divadlo",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vesely1959",
+    "Praha150m2",
+    "KFCobliba",
+    "Divadlo2022",
+    "Radek63",
+    "Kaufland123",
+    "Cteni2020",
+    "Krizovky!",
+    "Pilsner2020",
+    "Vesely_63"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1963-03-18"
+}

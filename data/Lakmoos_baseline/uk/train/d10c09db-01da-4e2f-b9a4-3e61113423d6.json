@@ -1,0 +1,40 @@
+{
+  "id": "d10c09db-01da-4e2f-b9a4-3e61113423d6",
+  "gender": "female",
+  "age": 68,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Peter",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "SouthEast Executive Solutions",
+  "previous_passwords": [
+    "Margaret1956",
+    "Hollings12",
+    "Misty_123",
+    "Peter4Me!",
+    "Gardening2020",
+    "Reading4Life",
+    "SouthEastExec1",
+    "Walking_68",
+    "MistyCat!",
+    "Hollings_1956"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1957-12-19"
+}

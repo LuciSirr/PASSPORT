@@ -1,0 +1,39 @@
+{
+  "id": "9c3bc9c7-9900-4aee-9da1-d7b7bc358e10",
+  "gender": "female",
+  "age": 15,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Radcliffe",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Hawthorne",
+  "children": [],
+  "interests": [
+    "reading",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Eastside Books",
+  "previous_passwords": [
+    "Imogen2009",
+    "Milo123",
+    "Radcliffe15",
+    "Oliver4Eva",
+    "Reading4Life",
+    "Eastside2023",
+    "Cycling_09",
+    "Milo!2009",
+    "Radcl1ffe",
+    "Bookworm15"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2010-11-02"
+}

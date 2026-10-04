@@ -1,0 +1,35 @@
+{
+  "id": "fa8d7946-4893-40b5-89cf-0a9a677bdebd",
+  "age": 42,
+  "birth_date": "1984-10-12",
+  "marital_status": "divorced",
+  "region": "Chemnitz",
+  "nationality": "german",
+  "company": "Ladeck Häring KG",
+  "car_brand": "Toyota",
+  "self_first_name": "Sara",
+  "self_last_name": "Schinke",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Gartenarbeit",
+    "Dynamo Dresden"
+  ],
+  "previous_passwords": [
+    "Dynamo84!",
+    "Wandern42_",
+    "ToyoChem84",
+    "Kochen12!",
+    "Garten84#",
+    "Dresden10!",
+    "Fußball84!",
+    "Sara1984!",
+    "Wandern+Chemnitz",
+    "Cook84Dynamo"
+  ]
+}

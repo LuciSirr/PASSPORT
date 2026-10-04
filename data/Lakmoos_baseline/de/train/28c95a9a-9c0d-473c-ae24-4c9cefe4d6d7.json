@@ -1,0 +1,40 @@
+{
+  "id": "28c95a9a-9c0d-473c-ae24-4c9cefe4d6d7",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Jaguar",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Kleinschmidt",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Kleinschmidt"
+    }
+  ],
+  "interests": [
+    "wandern",
+    "autos",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "Westfalia Logistik GmbH",
+  "previous_passwords": [
+    "Lukas2022",
+    "JaguarFpace7",
+    "Sabine123",
+    "Kleinschmidt52",
+    "Wandern!19",
+    "Jürgen1972",
+    "Westfalia2024",
+    "Lukas_Sabine",
+    "Sommerurlaub06",
+    "Diesel7L"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1974-03-28"
+}

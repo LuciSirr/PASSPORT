@@ -1,0 +1,35 @@
+{
+  "id": "7eac78ab-fdff-4f5e-a07a-de8efa73dcda",
+  "gender": "male",
+  "age": 45,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Tesla",
+  "self_first_name": "Markus",
+  "self_last_name": "Köhler",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Köhler",
+  "children": [],
+  "interests": [
+    "reisen",
+    "autos",
+    "musik"
+  ],
+  "pets": [],
+  "company": "Nordrhein Business Solutions",
+  "previous_passwords": [
+    "Markus1979",
+    "TeslaY2021",
+    "Sabine123",
+    "Koehler!4000",
+    "Nordrhein78",
+    "ReisenMai!",
+    "Audi2015",
+    "Musik_1988",
+    "FussballNRW",
+    "Sommer4ever"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1981-03-14"
+}

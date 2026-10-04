@@ -1,0 +1,48 @@
+{
+  "id": "0aaea76c-f224-40cb-a264-055938212023",
+  "age": 44,
+  "birth_date": "1982-12-01",
+  "marital_status": "married",
+  "region": "Starý Plzenec",
+  "nationality": "czech",
+  "company": "Vávra",
+  "car_brand": "Škoda",
+  "self_first_name": "Libor",
+  "self_last_name": "Kučera",
+  "partner_first_name": "Vladimíra",
+  "partner_last_name": "Kučerová",
+  "children": [
+    {
+      "first_name": "Martin",
+      "last_name": "Kučera"
+    },
+    {
+      "first_name": "Klára",
+      "last_name": "Kučerová"
+    },
+    {
+      "first_name": "Michaela",
+      "last_name": "Kučerová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pivovarnictví",
+    "historie",
+    "hudba Karla Gotta"
+  ],
+  "previous_passwords": [
+    "KarelGotta82!",
+    "Martin_Turistika23",
+    "SkodaStarýPlzenec",
+    "VladimiraRybar12",
+    "MichaelaHistorie01",
+    "KlaraPivovarnictvi!",
+    "Messi2007_Plzenec",
+    "KučeraTuristika1982",
+    "Historie_Oldřich!",
+    "Rybaření_Klára"
+  ]
+}

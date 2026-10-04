@@ -1,0 +1,35 @@
+{
+  "id": "c25ce4ee-bd73-4506-af96-4fbd68359bd7",
+  "gender": "male",
+  "age": 77,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "turistika",
+    "křížovky",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1947",
+    "Marie2023",
+    "Konecnymar",
+    "Bytovka100",
+    "Morava77",
+    "Turistika123",
+    "Brno!1947",
+    "Krizovky77",
+    "Budvar2022",
+    "Globus77"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1948-11-25"
+}

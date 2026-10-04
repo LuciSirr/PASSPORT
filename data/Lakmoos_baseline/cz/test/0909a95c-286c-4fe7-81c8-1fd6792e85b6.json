@@ -1,0 +1,40 @@
+{
+  "id": "0909a95c-286c-4fe7-81c8-1fd6792e85b6",
+  "gender": "female",
+  "age": 65,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1959-06-15",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "české seriály",
+    "móda",
+    "křížovky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Jitka1959",
+    "Micka2020",
+    "Kohoutová!59",
+    "moda123",
+    "krizovky2024",
+    "Miroslav15",
+    "ceskeserialy_59",
+    "MickaKohout",
+    "KohoutovaMicka",
+    "M0da!2023"
+  ],
+  "favorite_hobby": "české seriály"
+}

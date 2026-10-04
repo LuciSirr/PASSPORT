@@ -1,0 +1,39 @@
+{
+  "id": "66385d8c-f2e2-478e-8100-75cbf686d9e7",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "lego",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matysek2016",
+    "Plzen123",
+    "Jablko2xdenne",
+    "Skola2024",
+    "Sebesta8",
+    "Benpes07",
+    "Lego123",
+    "Fotbal!2023",
+    "Malovani_08"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2017-04-16"
+}

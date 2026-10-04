@@ -1,0 +1,43 @@
+{
+  "id": "462178ad-179d-4bb1-a705-48793ff0ffc3",
+  "gender": "female",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "nakupování",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "Plzeňská služba s.r.o.",
+  "previous_passwords": [
+    "Eliška2019",
+    "Matěj2024",
+    "Fabia12",
+    "Plzen123",
+    "Vesela21",
+    "Cestovani2020",
+    "Nakupovani!",
+    "EliMat2020",
+    "Globus321"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "2005-02-28"
+}

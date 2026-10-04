@@ -1,0 +1,40 @@
+{
+  "id": "c3eebc0a-36c6-490a-90c5-3c124906edfb",
+  "gender": "female",
+  "age": 60,
+  "marital_status": "divorced",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gillian",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Meadowgate Learning Services",
+  "previous_passwords": [
+    "Gillian1964",
+    "Misty123",
+    "Hollis!60",
+    "Travel2020",
+    "Gardening4Life",
+    "EastMidlands1",
+    "Reading_64",
+    "Misty!cat",
+    "Divorce2024"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1966-03-16"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "65f955df-b8b1-4568-8f4a-233ddff1a157",
+  "age": 32,
+  "birth_date": "1994-11-04",
+  "marital_status": "single",
+  "region": "Valašské Klobouky",
+  "nationality": "czech",
+  "company": "Staněk o.s.",
+  "car_brand": "Ford",
+  "self_first_name": "Vlasta",
+  "self_last_name": "Sedláček",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Nela",
+      "last_name": "Čechová Sedláčková"
+    },
+    {
+      "first_name": "Slavomír",
+      "last_name": "Žák Sedláček"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Alexandr"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "lokální pivo",
+    "čtení knih",
+    "hudba – Kapela Lucie",
+    "fotbal – FC Valašské Klobouky"
+  ],
+  "previous_passwords": [
+    "Lucie2010",
+    "NelaSlavoFord",
+    "ValaskyKlobouky23",
+    "AlexandrTuristika!",
+    "Messi1994",
+    "KapelaLucieNela",
+    "TuristikaSedlacka",
+    "FCValasky2007",
+    "FordKnihy1104",
+    "PivoMessi2024"
+  ]
+}

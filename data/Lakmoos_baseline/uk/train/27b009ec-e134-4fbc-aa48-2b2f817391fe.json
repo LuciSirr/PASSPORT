@@ -1,0 +1,35 @@
+{
+  "id": "27b009ec-e134-4fbc-aa48-2b2f817391fe",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "divorced",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Fenland Ventures",
+  "previous_passwords": [
+    "Marion1959",
+    "Fenland123",
+    "Travel4Fun",
+    "Hollingsworth64",
+    "Gardening!1",
+    "Reading2020",
+    "EastAnglia22",
+    "Walking_59",
+    "Marion!Fenland"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1962-03-06"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "10bdeb75-427d-45eb-97a1-7e49448fa20c",
+  "gender": "male",
+  "age": 53,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "cycling",
+    "gardening",
+    "travel"
+  ],
+  "pets": [],
+  "company": "Eastgate Business Solutions",
+  "previous_passwords": [
+    "Polestar2020",
+    "Graham53!",
+    "Eastgate123",
+    "Fiona4ever",
+    "Hollingsworth12",
+    "Travel2021",
+    "VW2Polestar",
+    "Gardening_1",
+    "Business2022",
+    "Fiona!53"
+  ],
+  "favorite_hobby": "cycling",
+  "birth_date": "1973-03-18"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bafbe46f-9daa-474f-b2ef-4652b3e238af",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Suzuki",
+  "self_first_name": "Gareth",
+  "self_last_name": "Woolley",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Woolley",
+  "children": [],
+  "interests": [
+    "formula 1",
+    "the apprentice",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "Woolley Business Solutions",
+  "previous_passwords": [
+    "Gareth1983",
+    "Rachel07!",
+    "WoolleyF1",
+    "Cycling123",
+    "Apprentice2021",
+    "Formula1Woolley",
+    "Rachel1983",
+    "WoolleyBusiness14",
+    "F1Racing!",
+    "CyclingWoolley"
+  ],
+  "favorite_hobby": "formula 1",
+  "birth_date": "1983-07-14"
+}

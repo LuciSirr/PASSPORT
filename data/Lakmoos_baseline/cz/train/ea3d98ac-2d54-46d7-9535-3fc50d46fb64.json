@@ -1,0 +1,41 @@
+{
+  "id": "ea3d98ac-2d54-46d7-9535-3fc50d46fb64",
+  "gender": "female",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Nikola",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Tomáš",
+  "partner_last_name": "Vrána",
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Vránová"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "seriály",
+    "selfie",
+    "streamování"
+  ],
+  "pets": [],
+  "company": "Zdraví a Péče Ústecko",
+  "previous_passwords": [
+    "Eliska2019",
+    "KfcM1l4c3k86",
+    "Albert123",
+    "Vranova2023",
+    "Netflixka21",
+    "Nakupovani_123",
+    "Tomasek2018",
+    "Seriály2020",
+    "Eliška4ever",
+    "Vranova!19"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "2004-10-02"
+}

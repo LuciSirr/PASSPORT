@@ -1,0 +1,40 @@
+{
+  "id": "556e5e02-dd60-41cd-9e91-19bbc0bfa194",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Jakub",
+  "self_last_name": "Šimáček",
+  "birth_date": "2001-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Šimáček"
+    }
+  ],
+  "interests": [
+    "hbo max",
+    "fotbal",
+    "kfc menu"
+  ],
+  "pets": [],
+  "company": "Lesní a rybářské služby Vysočina",
+  "previous_passwords": [
+    "Matej2011",
+    "Simacek123",
+    "KFCmenu2023",
+    "Fotbal_15",
+    "Jakub2001",
+    "HBOmax!",
+    "VysoCina81",
+    "Mat3j_Šimáček",
+    "LesniRybari2024",
+    "KFC_Fotbal"
+  ],
+  "favorite_hobby": "hbo max"
+}

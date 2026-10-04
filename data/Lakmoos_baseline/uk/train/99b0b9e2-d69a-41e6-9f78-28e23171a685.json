@@ -1,0 +1,35 @@
+{
+  "id": "99b0b9e2-d69a-41e6-9f78-28e23171a685",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Nissan",
+  "self_first_name": "Gareth",
+  "self_last_name": "Penrose",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Penrose",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "Cwm Valley Holdings",
+  "previous_passwords": [
+    "Gareth1966",
+    "Penrose16",
+    "Elaine58",
+    "Qashqai2010",
+    "Wales!123",
+    "Travel4Fun",
+    "Gardening21",
+    "Nissan_37280",
+    "Penrose!1",
+    "Walking2022"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1967-06-12"
+}

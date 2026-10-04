@@ -1,0 +1,35 @@
+{
+  "id": "821bf774-e36e-44d8-b16c-7539c576fa4b",
+  "gender": "male",
+  "age": 69,
+  "marital_status": "married",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Kubeš",
+  "partner_first_name": "Jarmila",
+  "partner_last_name": "Kubešová",
+  "children": [],
+  "interests": [
+    "turistika",
+    "křížovky",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "Stavby Plzeň",
+  "previous_passwords": [
+    "Radomir1955",
+    "Jarmila58",
+    "Plzenak1965",
+    "Superb2012",
+    "RajecVoda",
+    "Kubes58",
+    "turistika123",
+    "zahrada2020",
+    "Krizovky!",
+    "JarmilaKubesova"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1956-11-30"
+}

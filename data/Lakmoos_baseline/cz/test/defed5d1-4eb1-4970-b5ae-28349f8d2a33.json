@@ -1,0 +1,35 @@
+{
+  "id": "defed5d1-4eb1-4970-b5ae-28349f8d2a33",
+  "gender": "male",
+  "age": 60,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1964-06-12",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "voyo.cz",
+    "radio blanik"
+  ],
+  "pets": [],
+  "company": "AutoServis Střední Čechy",
+  "previous_passwords": [
+    "Kohout1964",
+    "fotbal123",
+    "Voyo2022",
+    "Blanik60",
+    "AutoServis2020",
+    "Kohout!64",
+    "voyo.cz_159",
+    "RadekFotbal",
+    "StredniCechy21",
+    "Blanik2023"
+  ],
+  "favorite_hobby": "fotbal"
+}

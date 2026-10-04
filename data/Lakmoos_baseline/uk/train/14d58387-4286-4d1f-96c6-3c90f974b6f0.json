@@ -1,0 +1,40 @@
+{
+  "id": "14d58387-4286-4d1f-96c6-3c90f974b6f0",
+  "gender": "male",
+  "age": 70,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Jaguar",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Pritchard",
+  "partner_first_name": "Gwen",
+  "partner_last_name": "Pritchard",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "antiques"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Malcolm1954",
+    "Jaguar61150",
+    "Baxter123",
+    "Gwen4ever",
+    "Pritchard2024",
+    "Gardening!54",
+    "Wales_1954",
+    "Baxter!54",
+    "Gwen1954",
+    "Antiques_1"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1956-01-17"
+}

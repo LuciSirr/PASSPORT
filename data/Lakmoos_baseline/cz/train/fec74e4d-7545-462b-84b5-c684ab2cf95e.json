@@ -1,0 +1,35 @@
+{
+  "id": "fec74e4d-7545-462b-84b5-c684ab2cf95e",
+  "gender": "female",
+  "age": 16,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "seriály",
+    "nakupování",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Občerstvení Veselá",
+  "previous_passwords": [
+    "Tereza2008",
+    "burgerking16",
+    "disneyplus123",
+    "zalando2023",
+    "kfcoblibene",
+    "Vesela16",
+    "seriály2024",
+    "Nakupovani!",
+    "Hudba_123",
+    "McDonalds08"
+  ],
+  "favorite_hobby": "seriály",
+  "birth_date": "2010-02-20"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "57556f8f-b211-4762-ae94-244dcce639f8",
+  "age": 46,
+  "birth_date": "1980-11-01",
+  "marital_status": "divorced",
+  "region": "Nové Strašecí",
+  "nationality": "czech",
+  "company": "Pospíšil Havel v.o.s.",
+  "car_brand": "Dacia",
+  "self_first_name": "Tadeáš",
+  "self_last_name": "Tesař",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěvání v sboru",
+    "škoda auto",
+    "čtení knih"
+  ],
+  "previous_passwords": [
+    "Strazec2000",
+    "TuristikaSkoda!",
+    "TadeasRybarnik80",
+    "DaciaNova11",
+    "MessiFanTesař",
+    "SborovyZpetek!",
+    "SkodaSuperb23",
+    "KnihyTadeas8",
+    "NovaStrasci1980",
+    "RybářstvíTadeáš"
+  ]
+}

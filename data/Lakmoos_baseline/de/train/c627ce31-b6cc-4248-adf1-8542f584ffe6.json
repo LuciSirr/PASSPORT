@@ -1,0 +1,35 @@
+{
+  "id": "c627ce31-b6cc-4248-adf1-8542f584ffe6",
+  "gender": "male",
+  "age": 55,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Fiat",
+  "self_first_name": "Ralf",
+  "self_last_name": "Kraemer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobücher",
+    "technik"
+  ],
+  "pets": [],
+  "company": "Westfalen IT Solutions",
+  "previous_passwords": [
+    "Ralf1969",
+    "Fiat500!",
+    "Westfalen123",
+    "Kraemer2020",
+    "Reisen_2022",
+    "Audiobuch1",
+    "Huawei88",
+    "Kohle1970",
+    "Kraemer!4",
+    "Technik2023"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1971-01-15"
+}

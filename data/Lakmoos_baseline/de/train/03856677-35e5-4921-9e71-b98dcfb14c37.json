@@ -1,0 +1,40 @@
+{
+  "id": "03856677-35e5-4921-9e71-b98dcfb14c37",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "single/in a relationship",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "Mazda",
+  "self_first_name": "Klaus",
+  "self_last_name": "Bergmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Bergmann"
+    }
+  ],
+  "interests": [
+    "spazieren",
+    "autos",
+    "hörbücher"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Klaus1958",
+    "Lukas2009",
+    "MazdaCX60!",
+    "Berlin123",
+    "Bergmann66",
+    "Spazieren2024",
+    "Allianz_451",
+    "Diesel5.5",
+    "AOK_Berlin",
+    "Lukas!15"
+  ],
+  "favorite_hobby": "spazieren",
+  "birth_date": "1960-03-24"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4690d953-f5c5-4b1e-a675-c0c40a3e347b",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Mitsubishi",
+  "self_first_name": "Gabriele",
+  "self_last_name": "Schwanitz",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "wandern",
+    "lesen",
+    "backen"
+  ],
+  "pets": [],
+  "company": "Gesundheit & Soziales NRW",
+  "previous_passwords": [
+    "Gabriele1961",
+    "Schwanitz123",
+    "Wandern2020",
+    "Backen!77",
+    "NRW2024",
+    "Mitsubishi33392",
+    "Bmw!i4",
+    "Gesundheit_2000",
+    "Sommer!61",
+    "Lesen_1"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1963-01-27"
+}

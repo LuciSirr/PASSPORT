@@ -1,0 +1,48 @@
+{
+  "id": "16131b83-5267-46e6-ac0c-36dd447605f3",
+  "age": 38,
+  "birth_date": "1988-10-21",
+  "marital_status": "single",
+  "region": "Zdice",
+  "nationality": "czech",
+  "company": "Prokop Němec a.s.",
+  "car_brand": "Kia",
+  "self_first_name": "Břetislav",
+  "self_last_name": "Doležal",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Květoslava",
+      "last_name": "Doležalová"
+    },
+    {
+      "first_name": "Nela",
+      "last_name": "Doležalová"
+    },
+    {
+      "first_name": "Petr",
+      "last_name": "Doležal"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "vaření piva",
+    "fotbal",
+    "čtení",
+    "hudba (Jan Koller)"
+  ],
+  "previous_passwords": [
+    "JanKoller21",
+    "KiaTuristika88",
+    "KvetoslavaFCZ",
+    "NelaPiva2024",
+    "PetrFotbal1988",
+    "TuristikaKia!",
+    "MessiZdice_12",
+    "VareniPivaKc",
+    "JanKollerRead",
+    "DolezalovaBook"
+  ]
+}

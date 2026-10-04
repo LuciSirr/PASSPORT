@@ -1,0 +1,35 @@
+{
+  "id": "16e2fa58-c5ed-4b5a-85b4-fc6ca8ae4239",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Křivánek",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Křivánková",
+  "children": [],
+  "interests": [
+    "turistika",
+    "čtení",
+    "vaření"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Radek1966",
+    "JanaKřivánková123",
+    "Superb2010",
+    "Liberec66",
+    "Turistika2022",
+    "PilsnerUrquell!",
+    "Kultura2011",
+    "Vaření_321",
+    "Lidl625",
+    "RadekJana2023"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1960-03-14"
+}

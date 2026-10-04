@@ -1,0 +1,44 @@
+{
+  "id": "166ee4b0-3917-4f36-ae09-3efb708659ab",
+  "age": 46,
+  "birth_date": "1980-10-01",
+  "marital_status": "married",
+  "region": "Belzig",
+  "nationality": "german",
+  "company": "Niemeier",
+  "car_brand": "BMW",
+  "self_first_name": "Dimitrios",
+  "self_last_name": "Mende",
+  "partner_first_name": "Marta",
+  "partner_last_name": "Hertrampf",
+  "children": [
+    {
+      "first_name": "Lorenzo",
+      "last_name": "Mende"
+    },
+    {
+      "first_name": "Sophie",
+      "last_name": "Mende"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern in Brandenburg",
+    "Fußball",
+    "Gärtnern",
+    "Kochen",
+    "Deutsche Krimis"
+  ],
+  "previous_passwords": [
+    "Wandern80!",
+    "MartaKocht24",
+    "BMW_Belzig46",
+    "Hertha1980!",
+    "TatortMende1",
+    "LorenzoFC24",
+    "SophieFuß10",
+    "Brandenburg7!",
+    "Krimi1980_",
+    "GaertnMende46"
+  ]
+}

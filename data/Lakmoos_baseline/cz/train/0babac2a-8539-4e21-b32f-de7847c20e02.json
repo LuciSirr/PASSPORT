@@ -1,0 +1,41 @@
+{
+  "id": "0babac2a-8539-4e21-b32f-de7847c20e02",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "knihy",
+    "malování",
+    "turistika",
+    "kávárna"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "AutoServis Central",
+  "previous_passwords": [
+    "Iveta1986",
+    "Micka123",
+    "Malovani2024",
+    "Sebestova59",
+    "Knihy!2022",
+    "CentralBohemia50",
+    "Hyundai120000",
+    "Turistika321",
+    "Kavarna!38",
+    "PilsnerUrquell38"
+  ],
+  "favorite_hobby": "knihy",
+  "birth_date": "1987-09-30"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2da59270-2654-44d4-bc8d-17aa23f5a903",
+  "gender": "female",
+  "age": 35,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Lenka",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "seriály",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vesela2020",
+    "Tereza14Matej11",
+    "Fabia2004",
+    "Kaufland25",
+    "LenkaPetr123",
+    "Prochazky2022",
+    "Matysek2009",
+    "Seriály!11",
+    "Usti789",
+    "TerezaMatěj2023"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1991-03-27"
+}

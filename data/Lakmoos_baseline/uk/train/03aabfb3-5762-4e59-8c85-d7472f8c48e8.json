@@ -1,0 +1,33 @@
+{
+  "id": "03aabfb3-5762-4e59-8c85-d7472f8c48e8",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "Volvo",
+  "self_first_name": "Gareth",
+  "self_last_name": "Penrose",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Penrose",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [],
+  "company": "Celtic Support Services",
+  "previous_passwords": [
+    "Gareth1966",
+    "Penrose2020",
+    "VolvoEX30!",
+    "Elaine58",
+    "Wales4ever",
+    "Gardening123",
+    "Travel2022",
+    "Celtic!66"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1967-07-19"
+}

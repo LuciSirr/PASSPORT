@@ -1,0 +1,39 @@
+{
+  "id": "105c61bd-2428-414e-88da-02a2a3d48ea5",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "married",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Janet",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "gardening",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "West Midlands Freight Solutions",
+  "previous_passwords": [
+    "Malcolm1955",
+    "Baxter123",
+    "Janet4ever",
+    "Hollings2000",
+    "Gardening!1",
+    "WestMidlands99",
+    "Cycling_59",
+    "Baxter!2020",
+    "JanetHollings",
+    "Freight4U"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1966-12-10"
+}

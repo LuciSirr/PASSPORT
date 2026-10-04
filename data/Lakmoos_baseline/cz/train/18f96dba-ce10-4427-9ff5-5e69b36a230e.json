@@ -1,0 +1,35 @@
+{
+  "id": "18f96dba-ce10-4427-9ff5-5e69b36a230e",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Konečná",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Konečný",
+  "children": [],
+  "interests": [
+    "procházky",
+    "křížovky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Sociální služby Vysočina",
+  "previous_passwords": [
+    "Fabia2003",
+    "Kofola123",
+    "Vysočina80",
+    "Bonprix2020",
+    "Teta429",
+    "Petr1972",
+    "Ivana!50",
+    "Prochazky2024",
+    "Konecna987",
+    "Křížovky321"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1975-09-18"
+}

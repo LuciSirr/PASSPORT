@@ -1,0 +1,44 @@
+{
+  "id": "5f3edd4b-62c2-4ac8-9cb0-977c3fff822b",
+  "gender": "female",
+  "age": 58,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "KIA",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "čtení",
+    "procházky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Městský úřad Vrbno",
+  "previous_passwords": [
+    "Tereza2008",
+    "Matysek08",
+    "KiaCeeD1598",
+    "Morava58",
+    "Vesela123",
+    "Petr1970",
+    "Cteni2020",
+    "Prochazka7",
+    "Globus58",
+    "TerezaMatysek08"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1967-07-22"
+}

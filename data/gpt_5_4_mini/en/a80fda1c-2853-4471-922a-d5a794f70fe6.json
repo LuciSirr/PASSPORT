@@ -1,0 +1,35 @@
+{
+  "id": "a80fda1c-2853-4471-922a-d5a794f70fe6",
+  "age": 28,
+  "birth_date": "1998-05-09",
+  "marital_status": "divorced",
+  "region": "North Gavinside",
+  "nationality": "english",
+  "company": "Hammond, West and Cox",
+  "car_brand": "Nissan",
+  "self_first_name": "Ronald",
+  "self_last_name": "Waters",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "fitness",
+    "coffee culture",
+    "live music",
+    "hiking"
+  ],
+  "previous_passwords": [
+    "Nissan98!",
+    "Waters0509",
+    "HaloNissan28",
+    "Coffee98!",
+    "Ninja_28",
+    "RockLive98",
+    "Hike98!",
+    "RonGaming28",
+    "BeanToCup98",
+    "NissanLive28"
+  ]
+}

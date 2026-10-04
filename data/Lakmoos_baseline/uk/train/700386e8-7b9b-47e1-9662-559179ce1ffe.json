@@ -1,0 +1,35 @@
+{
+  "id": "700386e8-7b9b-47e1-9662-559179ce1ffe",
+  "gender": "female",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Pritchard",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "hiking",
+    "baking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Imogen1999",
+    "Wales123",
+    "Pritchard21",
+    "Baking4Life",
+    "Reading!2022",
+    "Hiking_25",
+    "Imo_13000",
+    "Novelty2020",
+    "Pritchard!",
+    "WalesGirl99"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2000-04-05"
+}

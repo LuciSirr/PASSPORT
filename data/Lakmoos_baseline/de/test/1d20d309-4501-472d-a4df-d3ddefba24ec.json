@@ -1,0 +1,33 @@
+{
+  "id": "1d20d309-4501-472d-a4df-d3ddefba24ec",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "Škoda",
+  "self_first_name": "Brigitte",
+  "self_last_name": "Kuhn",
+  "birth_date": "1959-05-14",
+  "partner_first_name": "Wolfgang",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "Kuhn Handelsagentur",
+  "previous_passwords": [
+    "Brigitte1959",
+    "Kuhn2021!",
+    "Wolfgang14Mai",
+    "Pilcher123",
+    "Gartenarbeit59",
+    "Rosamunde!59",
+    "KuhnPilcher2020",
+    "Mai1959!",
+    "Handelsagentur_59"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

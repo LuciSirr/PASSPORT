@@ -1,0 +1,49 @@
+{
+  "id": "3dc362d1-a289-443e-9b77-9db9849b0d76",
+  "age": 40,
+  "birth_date": "1986-03-24",
+  "marital_status": "married",
+  "region": "Stadtsteinach",
+  "nationality": "german",
+  "company": "Mohaupt Zobel AG",
+  "car_brand": "Skoda",
+  "self_first_name": "Janett",
+  "self_last_name": "Hübel",
+  "partner_first_name": "Hans-Friedrich",
+  "partner_last_name": "Hübel",
+  "children": [
+    {
+      "first_name": "Josefine",
+      "last_name": "Hübel"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Arnd"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Rosa-Maria"
+    }
+  ],
+  "interests": [
+    "Wandern in der Fränkischen Schweiz",
+    "FC Bayern München",
+    "Deutsche Fernsehserie 'Babylon Berlin'",
+    "Klassische Musik",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "JosefineArnd24",
+    "BabylonBerlin86!",
+    "RosaMariaFCB_1986",
+    "SkodaWanderlust",
+    "BayernFoto2024",
+    "HansFriedrich_FCB",
+    "ArndMusik1986",
+    "Josefine_Babylon",
+    "Stadtsteinach_86",
+    "RosaMariaWandern!"
+  ]
+}

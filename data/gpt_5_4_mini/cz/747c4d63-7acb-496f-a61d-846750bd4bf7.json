@@ -1,0 +1,35 @@
+{
+  "id": "747c4d63-7acb-496f-a61d-846750bd4bf7",
+  "age": 48,
+  "birth_date": "1978-12-18",
+  "marital_status": "divorced",
+  "region": "Skalná",
+  "nationality": "czech",
+  "company": "Čermák o.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Otýlie",
+  "self_last_name": "Vítková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika v Krušných horách",
+    "hokej",
+    "zahrádkaření",
+    "vaření",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "KrusneHory78!",
+    "ToyotaHokej78",
+    "SkalnaZahrada18",
+    "CeskeFilmy78",
+    "VitkovaTuristika12",
+    "KrusneVikend18",
+    "HokejToyota78",
+    "VareniSkalna78!",
+    "Turistika_12K",
+    "FilmyVitkova18"
+  ]
+}

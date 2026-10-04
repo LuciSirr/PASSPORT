@@ -1,0 +1,35 @@
+{
+  "id": "8ee29c1e-2331-4f77-abfb-4dfa9d54a3ee",
+  "age": 23,
+  "birth_date": "2003-10-21",
+  "marital_status": "single",
+  "region": "Thompsonmouth",
+  "nationality": "english",
+  "company": "Harris-Thomas",
+  "car_brand": "Skoda",
+  "self_first_name": "William",
+  "self_last_name": "Shaw",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Photography",
+    "Indie Music",
+    "Hiking",
+    "Video Games",
+    "Local Craft Beer"
+  ],
+  "previous_passwords": [
+    "Kodak_2023!",
+    "IndieBloom77",
+    "MessiHike21",
+    "SkodaPhotoShaw",
+    "ThompsonmouthBrew",
+    "JoeRogan03",
+    "VlcsWalks!",
+    "KodakShaw23",
+    "indie_hike!",
+    "CraftBeer2003"
+  ]
+}

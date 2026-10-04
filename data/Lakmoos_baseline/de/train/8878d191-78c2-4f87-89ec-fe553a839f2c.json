@@ -1,0 +1,34 @@
+{
+  "id": "8878d191-78c2-4f87-89ec-fe553a839f2c",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "married",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Mercedes",
+  "self_first_name": "Gabriele",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": "Heinz",
+  "partner_last_name": "Kreutzmann",
+  "children": [],
+  "interests": [
+    "reisen",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "Kreutzmann Handelsagentur",
+  "previous_passwords": [
+    "Gabriele1961",
+    "Heinz123",
+    "MercedesEQE22",
+    "Niedersachsen!63",
+    "Sommerurlaub2023",
+    "Kreutzmann2020",
+    "Lesen_321",
+    "Reisen!2022",
+    "Xiaomi2021",
+    "HotelSeptember"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1963-01-31"
+}

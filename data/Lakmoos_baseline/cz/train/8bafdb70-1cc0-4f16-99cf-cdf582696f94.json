@@ -1,0 +1,36 @@
+{
+  "id": "8bafdb70-1cc0-4f16-99cf-cdf582696f94",
+  "gender": "male",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Cupra",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "streamování",
+    "móda",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "Digitální Komunikace Praha",
+  "previous_passwords": [
+    "Radek1989",
+    "Formentor123",
+    "CupraPraha",
+    "auta2020",
+    "Vesely47k",
+    "Prague!33",
+    "bata2022",
+    "Streamovani88",
+    "KFCsnack1",
+    "M0da2021"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1993-01-30"
+}

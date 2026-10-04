@@ -1,0 +1,35 @@
+{
+  "id": "850203b2-e1bf-462c-8baf-12fb7584b5fd",
+  "gender": "female",
+  "age": 69,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crosswords",
+    "walking"
+  ],
+  "pets": [],
+  "company": "Westmoor Consulting Ltd",
+  "previous_passwords": [
+    "Marion1955",
+    "Geoffrey123",
+    "Hollingsworth67",
+    "Westmoor2020",
+    "Gardening4Life",
+    "Crosswords!1",
+    "MarionG55",
+    "Walking_22",
+    "H0llingsw0rth",
+    "Geoffrey!55"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1956-10-27"
+}

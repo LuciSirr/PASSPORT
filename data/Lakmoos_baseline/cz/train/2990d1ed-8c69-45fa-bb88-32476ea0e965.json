@@ -1,0 +1,40 @@
+{
+  "id": "2990d1ed-8c69-45fa-bb88-32476ea0e965",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "cyklistika",
+    "fotbal",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "Pragometal s.r.o.",
+  "previous_passwords": [
+    "Matysek13",
+    "Jana2024",
+    "Vesely58",
+    "Hyundai2021",
+    "Cyklistika77",
+    "Prague58",
+    "Hornbach2020",
+    "Matysek_2011",
+    "Tesco77",
+    "Radek!1976"
+  ],
+  "favorite_hobby": "cyklistika",
+  "birth_date": "1967-12-12"
+}

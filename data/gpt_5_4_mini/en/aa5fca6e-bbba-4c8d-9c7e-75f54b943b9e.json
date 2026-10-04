@@ -1,0 +1,44 @@
+{
+  "id": "aa5fca6e-bbba-4c8d-9c7e-75f54b943b9e",
+  "age": 27,
+  "birth_date": "1999-03-22",
+  "marital_status": "single",
+  "region": "West Craighaven",
+  "nationality": "english",
+  "company": "Shepherd LLC",
+  "car_brand": "Volvo",
+  "self_first_name": "Hazel",
+  "self_last_name": "Lee",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Joel"
+    },
+    {
+      "pet_type": "dog",
+      "pet_name": "Damien"
+    }
+  ],
+  "interests": [
+    "football",
+    "gaming",
+    "podcasts",
+    "gym training",
+    "indie music"
+  ],
+  "previous_passwords": [
+    "Messi27!",
+    "JoelVolvo99",
+    "Arsenal0322",
+    "DamienGym7",
+    "NirvanaHazel9",
+    "LeePod22!",
+    "FIFA_Hazel27",
+    "Kerrang99Lee",
+    "WestCraig99!",
+    "Hazel_Gym22"
+  ]
+}

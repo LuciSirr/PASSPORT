@@ -1,0 +1,35 @@
+{
+  "id": "728548cf-de7c-418d-9923-e145b05f92c6",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "mecklenburg-vorpommern",
+  "nationality": "german",
+  "car_brand": "Mercedes",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "birth_date": "1983-03-17",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "nordsee urlaub"
+  ],
+  "pets": [],
+  "company": "Krause & Partner Unternehmensberatung",
+  "previous_passwords": [
+    "Tatort2017",
+    "Krause83",
+    "Bundesliga_123",
+    "Sabine1703",
+    "Nordsee!2022",
+    "Tatort_Krause",
+    "Jens1983",
+    "Krause!Tatort",
+    "SabineKrause17",
+    "nordsee_urlaub83"
+  ],
+  "favorite_hobby": "tatort"
+}

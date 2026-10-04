@@ -1,0 +1,35 @@
+{
+  "id": "ac363b42-7d4a-4327-9663-21c4baadbd81",
+  "gender": "female",
+  "age": 63,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Ivana",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "procházky",
+    "vaření",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Ivana1961",
+    "Sebestova68",
+    "Kodiaq2017",
+    "Kaufland123",
+    "Pringles2020",
+    "Rohlikcz17",
+    "PenzijniBezpeci",
+    "Prochazky2024",
+    "Tesco831",
+    "Datart3560"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1963-01-23"
+}

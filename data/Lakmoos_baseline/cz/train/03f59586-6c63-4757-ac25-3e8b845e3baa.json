@@ -1,0 +1,35 @@
+{
+  "id": "03f59586-6c63-4757-ac25-3e8b845e3baa",
+  "gender": "male",
+  "age": 74,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Marie",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "turistika",
+    "automobily",
+    "křížovky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1950",
+    "MarieKonecna74",
+    "Superb2008",
+    "UstiLabem74",
+    "Konecny123",
+    "TescoGlobus20",
+    "IkeaMountfield",
+    "Turistika2020",
+    "Krizovky!74",
+    "Diesel5.9"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1952-01-12"
+}

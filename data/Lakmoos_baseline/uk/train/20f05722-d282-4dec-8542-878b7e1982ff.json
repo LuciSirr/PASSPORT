@@ -1,0 +1,35 @@
+{
+  "id": "20f05722-d282-4dec-8542-878b7e1982ff",
+  "gender": "female",
+  "age": 58,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Mini",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "gardening",
+    "crossword",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Fenland Admin Solutions",
+  "previous_passwords": [
+    "Fiona1966",
+    "MiniHatch2024",
+    "Ashcroft123",
+    "Graham!58",
+    "Gardening4U",
+    "Baking_2020",
+    "Fenland2023",
+    "Crossword66",
+    "Fiona!Ashcroft",
+    "MiniElectric!"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1968-01-08"
+}

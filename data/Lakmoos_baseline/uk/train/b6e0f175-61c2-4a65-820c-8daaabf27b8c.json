@@ -1,0 +1,40 @@
+{
+  "id": "b6e0f175-61c2-4a65-820c-8daaabf27b8c",
+  "gender": "male",
+  "age": 76,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Smart",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": "Gillian",
+  "partner_last_name": "Hatherleigh",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "antiques"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Westmoor Innovations Ltd",
+  "previous_passwords": [
+    "Malcolm1948",
+    "Baxter23!",
+    "Gillian123",
+    "Westmoor75000",
+    "Hatherleigh76",
+    "Gardening4",
+    "SmartCar50204",
+    "Antiques_1",
+    "Baxter1948",
+    "Walking1000"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1949-12-14"
+}

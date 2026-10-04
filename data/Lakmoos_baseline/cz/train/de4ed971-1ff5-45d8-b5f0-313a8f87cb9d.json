@@ -1,0 +1,35 @@
+{
+  "id": "de4ed971-1ff5-45d8-b5f0-313a8f87cb9d",
+  "gender": "male",
+  "age": 11,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "počítače",
+    "kreslení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "matej2012",
+    "ostrava123",
+    "banikfan",
+    "skola2023",
+    "konecny11",
+    "fotbal2024",
+    "ban1k!",
+    "kresleni_123",
+    "mat3jbanik",
+    "ostrava_2012"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2014-12-11"
+}

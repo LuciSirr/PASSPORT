@@ -1,0 +1,31 @@
+{
+  "id": "dfb2bdc3-6361-4c9d-9048-a23d8b2e92ea",
+  "gender": "male",
+  "age": 2,
+  "marital_status": "single/in a relationship",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "bauklötze",
+    "malen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lennart2022",
+    "Kleinschmidt123",
+    "Bauklötze22",
+    "Sachsen2022",
+    "Lenny!22",
+    "Malen_123",
+    "Oma7.4"
+  ],
+  "favorite_hobby": "bauklötze",
+  "birth_date": "2024-01-17"
+}

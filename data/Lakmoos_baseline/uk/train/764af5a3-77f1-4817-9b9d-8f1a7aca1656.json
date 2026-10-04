@@ -1,0 +1,34 @@
+{
+  "id": "764af5a3-77f1-4817-9b9d-8f1a7aca1656",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "football",
+    "travelling",
+    "reading"
+  ],
+  "pets": [],
+  "company": "NorthWest Strategy Solutions",
+  "previous_passwords": [
+    "Callum1999",
+    "Emily123",
+    "AudiQ2!",
+    "Hollingsworth2020",
+    "Football4",
+    "NorthWest_13",
+    "Travelling99",
+    "Reading_1",
+    "Emily!99"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2000-10-12"
+}

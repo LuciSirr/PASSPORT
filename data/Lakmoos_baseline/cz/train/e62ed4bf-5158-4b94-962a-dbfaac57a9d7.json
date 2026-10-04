@@ -1,0 +1,36 @@
+{
+  "id": "e62ed4bf-5158-4b94-962a-dbfaac57a9d7",
+  "gender": "female",
+  "age": 65,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jarmila",
+  "self_last_name": "Vránová",
+  "partner_first_name": "Miroslav",
+  "partner_last_name": "Vrána",
+  "children": [],
+  "interests": [
+    "čtení",
+    "procházky",
+    "malování",
+    "zahrada"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Jarmila1959",
+    "Fabia2002",
+    "Miroslav65",
+    "Budvar2020",
+    "malovani123",
+    "Vranova!65",
+    "Zahrada2024",
+    "Prochazka11",
+    "Makro123",
+    "Cteni2020"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1961-02-04"
+}

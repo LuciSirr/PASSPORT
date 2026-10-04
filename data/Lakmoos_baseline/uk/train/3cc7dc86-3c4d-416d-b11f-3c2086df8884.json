@@ -1,0 +1,40 @@
+{
+  "id": "3cc7dc86-3c4d-416d-b11f-3c2086df8884",
+  "gender": "female",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "McIntyre",
+  "partner_first_name": "Callum",
+  "partner_last_name": "MacLeod",
+  "children": [],
+  "interests": [
+    "reading",
+    "cycling",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Willow"
+    }
+  ],
+  "company": "Lochside Café",
+  "previous_passwords": [
+    "Maisie2005",
+    "WillowCat1",
+    "McIntyre123",
+    "LochsideCafe!",
+    "Baking4Life",
+    "Callum2023",
+    "Cycling_07",
+    "Reading3",
+    "Will0w!",
+    "Scotland_19"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2006-09-09"
+}

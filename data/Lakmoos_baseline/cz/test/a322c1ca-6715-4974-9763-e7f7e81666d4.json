@@ -1,0 +1,45 @@
+{
+  "id": "a322c1ca-6715-4974-9763-e7f7e81666d4",
+  "gender": "female",
+  "age": 44,
+  "marital_status": "married",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1980-06-11",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Kohoutová"
+    }
+  ],
+  "interests": [
+    "ordinace v růžové zahradě",
+    "pečení",
+    "móda"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Liberecké sociální služby s.r.o.",
+  "previous_passwords": [
+    "Tereza2019",
+    "Micka11",
+    "Kohoutova80",
+    "PetrJitka2020",
+    "peceni123",
+    "moda2022",
+    "Ordinace_80",
+    "MickaTereza19",
+    "Kohout!2023",
+    "ruzovazahrada11"
+  ],
+  "favorite_hobby": "ordinace v růžové zahradě"
+}

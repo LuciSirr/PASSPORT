@@ -1,0 +1,35 @@
+{
+  "id": "bb9a8738-3488-4af4-95cb-a1c9cea91867",
+  "gender": "male",
+  "age": 50,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Renault",
+  "self_first_name": "Jürgen",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "wandern",
+    "autos",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Bauunternehmen RheinRuhr",
+  "previous_passwords": [
+    "Krause1974",
+    "Renault123",
+    "BVB1909!",
+    "JuergeN_4000",
+    "Austral2022",
+    "Wandern!22",
+    "Ruhrgebiet74",
+    "Bauarbeit3r",
+    "OktoberReise",
+    "AOK_451"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1976-01-24"
+}

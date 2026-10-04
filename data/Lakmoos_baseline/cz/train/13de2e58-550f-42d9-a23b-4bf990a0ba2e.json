@@ -1,0 +1,35 @@
+{
+  "id": "13de2e58-550f-42d9-a23b-4bf990a0ba2e",
+  "gender": "male",
+  "age": 52,
+  "marital_status": "divorced",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "kultura",
+    "filmy",
+    "vzdělávání"
+  ],
+  "pets": [],
+  "company": "Středobohemští podnikatelé s.r.o.",
+  "previous_passwords": [
+    "Radek1972",
+    "Veselak52",
+    "Kultura2022",
+    "Filmy123",
+    "StredniBohemia!",
+    "Podnikatel987",
+    "Tesco2023",
+    "NetflixCZ",
+    "Vesely_98000",
+    "Unicredit111"
+  ],
+  "favorite_hobby": "kultura",
+  "birth_date": "1973-12-18"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5ec152b5-e13a-4f9a-885f-62a452b0edc0",
+  "gender": "male",
+  "age": 22,
+  "marital_status": "single/in a relationship",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "auta",
+    "hudba",
+    "kino"
+  ],
+  "pets": [],
+  "company": "Liberecké strojírny",
+  "previous_passwords": [
+    "Hyundai2020",
+    "Kofola123",
+    "Liberec98",
+    "Fabia2007",
+    "Alza2022",
+    "Radek!22",
+    "Hudba_321",
+    "Vesely1998",
+    "McDonalds4life",
+    "Auta!2021"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2003-05-11"
+}

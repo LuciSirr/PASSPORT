@@ -1,0 +1,40 @@
+{
+  "id": "ad36a4f5-4dee-4ad6-95e1-62c83c50317a",
+  "age": 39,
+  "birth_date": "1987-07-22",
+  "marital_status": "married",
+  "region": "Perleberg",
+  "nationality": "german",
+  "company": "Stiebitz Otto GmbH & Co. KGaA",
+  "car_brand": "Ford",
+  "self_first_name": "Severin",
+  "self_last_name": "Gunpf",
+  "partner_first_name": "Evelin",
+  "partner_last_name": "Bloch",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Rosl"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Radfahren",
+    "Gartenarbeit"
+  ],
+  "previous_passwords": [
+    "Fussball87!",
+    "Wandern22_",
+    "KochenPerle89",
+    "RadelnFord7",
+    "GartenRosl24",
+    "EvelinFuss22",
+    "Perleberg39!",
+    "KochenEvi87",
+    "RoslFord22!",
+    "Wandern77!"
+  ]
+}

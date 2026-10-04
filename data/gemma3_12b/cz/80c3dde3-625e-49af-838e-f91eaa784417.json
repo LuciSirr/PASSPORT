@@ -1,0 +1,44 @@
+{
+  "id": "80c3dde3-625e-49af-838e-f91eaa784417",
+  "age": 30,
+  "birth_date": "1996-12-24",
+  "marital_status": "married",
+  "region": "Podivín",
+  "nationality": "czech",
+  "company": "Urban s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Ladislava",
+  "self_last_name": "Křížová",
+  "partner_first_name": "Samuel",
+  "partner_last_name": "Kříž",
+  "children": [
+    {
+      "first_name": "Jaroslav",
+      "last_name": "Kříž"
+    },
+    {
+      "first_name": "Matouš",
+      "last_name": "Kříž"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivo",
+    "hudba (Kapela Lucie)",
+    "cyklistika",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "LucieRocks96",
+    "SkodaPodivin24",
+    "Jaroslav_Pivo!",
+    "MatousTuristika1996",
+    "SamuelBike12",
+    "VařeníKapelaLucie",
+    "TouristaSkoda!",
+    "PivoJaroslav1",
+    "HudbaMatous_24",
+    "CyklikaLadislava"
+  ]
+}

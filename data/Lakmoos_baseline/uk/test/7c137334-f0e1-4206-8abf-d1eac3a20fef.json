@@ -1,0 +1,32 @@
+{
+  "id": "7c137334-f0e1-4206-8abf-d1eac3a20fef",
+  "gender": "male",
+  "age": 50,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "coronation street",
+    "fishing"
+  ],
+  "pets": [],
+  "company": "Pennine Guest House",
+  "previous_passwords": [
+    "Graham1974",
+    "Elaine15",
+    "Corrie123",
+    "Hollis!74",
+    "Fishing2020",
+    "PennineGuest1",
+    "CorrieElaine",
+    "HollisCorrie74"
+  ],
+  "favorite_hobby": "coronation street",
+  "birth_date": "1974-06-15"
+}

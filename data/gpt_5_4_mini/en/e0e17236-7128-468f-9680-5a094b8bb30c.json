@@ -1,0 +1,44 @@
+{
+  "id": "e0e17236-7128-468f-9680-5a094b8bb30c",
+  "age": 24,
+  "birth_date": "2002-11-19",
+  "marital_status": "divorced",
+  "region": "East Lesley",
+  "nationality": "english",
+  "company": "Hardy Ltd",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Marie",
+  "self_last_name": "Hughes",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Leah"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Justin"
+    }
+  ],
+  "interests": [
+    "gaming",
+    "fitness",
+    "coffee culture",
+    "travel",
+    "indie music"
+  ],
+  "previous_passwords": [
+    "LeahZelda02!",
+    "MikaCoffee19",
+    "VWSkyrim24",
+    "JustinNirvana7",
+    "EastLesleyF1",
+    "Muse2002!",
+    "GymAsics11",
+    "LordeTurtle22",
+    "AeroPressMarie",
+    "TravelJett11"
+  ]
+}

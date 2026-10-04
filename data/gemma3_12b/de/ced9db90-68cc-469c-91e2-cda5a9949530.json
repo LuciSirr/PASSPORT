@@ -1,0 +1,49 @@
+{
+  "id": "ced9db90-68cc-469c-91e2-cda5a9949530",
+  "age": 45,
+  "birth_date": "1981-12-13",
+  "marital_status": "married",
+  "region": "Wolfratshausen",
+  "nationality": "german",
+  "company": "Mühle Höfig OHG mbH",
+  "car_brand": "Toyota",
+  "self_first_name": "Bernadette",
+  "self_last_name": "Thies",
+  "partner_first_name": "Rudolph",
+  "partner_last_name": "Thies",
+  "children": [
+    {
+      "first_name": "Cornelius",
+      "last_name": "Thies"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Reinhard"
+    },
+    {
+      "pet_type": "bird",
+      "pet_name": "Nikolai"
+    }
+  ],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Deutsche Küche",
+    "FC Bayern München",
+    "Lesen"
+  ],
+  "previous_passwords": [
+    "Reinhard1981",
+    "BayernFoto23",
+    "CorneliusWandern!",
+    "ToyotaNikolai89",
+    "RudolphKueche81",
+    "MessiBayernFan",
+    "FotografieCornelius",
+    "WolfratshausenFCB",
+    "LesenReinhard2024",
+    "BayernWandern!"
+  ]
+}

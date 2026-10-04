@@ -1,0 +1,35 @@
+{
+  "id": "8e09bc00-b610-45fb-b861-2e3c8437b627",
+  "age": 18,
+  "birth_date": "2008-08-04",
+  "marital_status": "married",
+  "region": "Hammelburg",
+  "nationality": "german",
+  "company": "Kroker",
+  "car_brand": "Opel",
+  "self_first_name": "Muharrem",
+  "self_last_name": "Kade",
+  "partner_first_name": "Julie",
+  "partner_last_name": "Schaaf",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Fitnessstudio",
+    "Deutschrap",
+    "Netflix-Serien"
+  ],
+  "previous_passwords": [
+    "BVB2008!",
+    "Opel08_Fifa",
+    "Netflix08!",
+    "GymKade18",
+    "S04Julie88",
+    "KadeRap08",
+    "Hammel24!",
+    "Julie_Fitness8",
+    "Gaming08Opel",
+    "Deutschrap18!"
+  ]
+}

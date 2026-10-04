@@ -1,0 +1,33 @@
+{
+  "id": "bba63e90-d517-4cb8-bd00-067ec7655cbc",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fifa",
+    "peaky blinders"
+  ],
+  "pets": [],
+  "company": "Northwest Brokers Group",
+  "previous_passwords": [
+    "Callum2001",
+    "Fifa21!",
+    "Hollingsworth17",
+    "PeakyBlinders123",
+    "FifaPeaky2021",
+    "Northwest!21",
+    "Blinders_2001",
+    "CallumFifa7",
+    "Shelby!17"
+  ],
+  "favorite_hobby": "fifa",
+  "birth_date": "2001-03-17"
+}

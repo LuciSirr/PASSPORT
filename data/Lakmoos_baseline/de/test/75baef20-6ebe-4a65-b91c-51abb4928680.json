@@ -1,0 +1,40 @@
+{
+  "id": "75baef20-6ebe-4a65-b91c-51abb4928680",
+  "gender": "female",
+  "age": 65,
+  "marital_status": "married",
+  "region": "sachsen-anhalt",
+  "nationality": "german",
+  "car_brand": "Toyota",
+  "self_first_name": "Heike",
+  "self_last_name": "Krause",
+  "birth_date": "1959-06-12",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking",
+    "gartenarbeit"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Minka"
+    }
+  ],
+  "company": "Krause Unternehmensberatung Sachsen-Anhalt",
+  "previous_passwords": [
+    "Heike1959",
+    "Minka123",
+    "Krause!59",
+    "Pilcher2020",
+    "Jürgen12",
+    "rosamunde_1959",
+    "Gartenarbeit2022",
+    "NordicWalking59",
+    "Minka!Pilcher",
+    "KrauseMinka2021"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

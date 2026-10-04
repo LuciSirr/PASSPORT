@@ -1,0 +1,48 @@
+{
+  "id": "76019f26-94c4-4c3a-bad4-695a94213c8e",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "single/in a relationship",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Lucie",
+  "partner_last_name": "Šebestová",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Šebesta"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Šebestová"
+    },
+    {
+      "first_name": "Jakub",
+      "last_name": "Šebesta"
+    }
+  ],
+  "interests": [
+    "filmy",
+    "vaření",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Hotel U Zeleného stromu",
+  "previous_passwords": [
+    "Matěj2019",
+    "Hornbach123",
+    "Kofola2022",
+    "Lidl876",
+    "Radek42",
+    "Eliška2021",
+    "Jakub07",
+    "Vaření!2023",
+    "Šebesta123",
+    "Lucie4.2"
+  ],
+  "favorite_hobby": "filmy",
+  "birth_date": "1984-02-08"
+}

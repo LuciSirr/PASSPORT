@@ -1,0 +1,35 @@
+{
+  "id": "1d419882-dec1-44a1-884a-74c974cdeb44",
+  "gender": "male",
+  "age": 77,
+  "marital_status": "single/in a relationship",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": "Jarmila",
+  "partner_last_name": "Konečná",
+  "children": [],
+  "interests": [
+    "čtení",
+    "křížovky",
+    "divadlo"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Jarmila60",
+    "Superb2018",
+    "Morava77",
+    "Kofola123",
+    "Lidl2020",
+    "Divadlo77",
+    "Konečný1947",
+    "Cteni2024",
+    "Krizovky!",
+    "VladimírJarmila77"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1949-01-08"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "34722215-ea3c-4f68-9b45-39bc0ed20738",
+  "gender": "male",
+  "age": 81,
+  "marital_status": "divorced",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Lexus",
+  "self_first_name": "Geoffrey",
+  "self_last_name": "Hollins",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "motoring",
+    "crossword",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Geoffrey1943",
+    "Baxter21!",
+    "Hollins2000",
+    "Gardening123",
+    "LexusNX_2021",
+    "Motoring4Life",
+    "Walking49",
+    "Crossword3",
+    "Baxter_1943",
+    "NissanQashqai18"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1945-02-21"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "10bfcd72-0cd5-45d8-8690-1bba7ae72328",
+  "gender": "female",
+  "age": 64,
+  "marital_status": "divorced",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Judith",
+  "self_last_name": "Hollings",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "the crown",
+    "antiques roadshow"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Marmalade"
+    }
+  ],
+  "company": "Mayfair Motor Supplies",
+  "previous_passwords": [
+    "Marmalade18",
+    "Hollings1960",
+    "Gardening4Life",
+    "TheCrown2020",
+    "Antiques123",
+    "Marmalade!60",
+    "JudithCat2022",
+    "CrownQueen_18",
+    "Hollings!Gardener",
+    "Roadshow60"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1960-06-18"
+}

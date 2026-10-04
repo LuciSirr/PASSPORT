@@ -1,0 +1,34 @@
+{
+  "id": "609a09d2-98ab-4a5e-b80c-49f4089ace6e",
+  "gender": "male",
+  "age": 43,
+  "marital_status": "single/in a relationship",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cyklistika",
+    "filmy",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "Olomoucká Logistika s.r.o.",
+  "previous_passwords": [
+    "Radek1979",
+    "Vesely56000",
+    "Cyklistika123",
+    "Olomouc2023",
+    "KofolaBezCukru",
+    "Budvar2020",
+    "Hornbach59",
+    "Filmy!2022",
+    "Turistika_77"
+  ],
+  "favorite_hobby": "cyklistika",
+  "birth_date": "1983-01-21"
+}

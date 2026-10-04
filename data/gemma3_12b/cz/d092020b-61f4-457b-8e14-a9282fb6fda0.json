@@ -1,0 +1,35 @@
+{
+  "id": "d092020b-61f4-457b-8e14-a9282fb6fda0",
+  "age": 71,
+  "birth_date": "1955-06-10",
+  "marital_status": "single",
+  "region": "Chotěboř",
+  "nationality": "czech",
+  "company": "Vítek",
+  "car_brand": "Toyota",
+  "self_first_name": "Dita",
+  "self_last_name": "Tomanová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "zahradničení",
+    "turistika",
+    "pěvání v sboru",
+    "návštěva divadel",
+    "historie"
+  ],
+  "previous_passwords": [
+    "ToyotaZahrada1955",
+    "DivadloChotebor!",
+    "TuristikaDita22",
+    "ZahradniPevani71",
+    "HistorieTomanova",
+    "SborovyZahradkar",
+    "ToyotaDivadlo!",
+    "ChoteborTurista",
+    "ZahradaDita10",
+    "MessiZpeva2024"
+  ]
+}

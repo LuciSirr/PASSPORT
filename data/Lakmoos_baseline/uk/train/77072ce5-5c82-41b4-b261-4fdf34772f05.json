@@ -1,0 +1,34 @@
+{
+  "id": "77072ce5-5c82-41b4-b261-4fdf34772f05",
+  "gender": "female",
+  "age": 13,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Redfern",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "netball",
+    "baking"
+  ],
+  "pets": [],
+  "company": "NorthWest Student Services",
+  "previous_passwords": [
+    "Imogen2010",
+    "Redfern13",
+    "Netball123",
+    "Baking4Life",
+    "Drawing_07",
+    "Immy!2023",
+    "Redf3rn!",
+    "NorthWestGirl",
+    "BakeBake13"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2012-05-19"
+}

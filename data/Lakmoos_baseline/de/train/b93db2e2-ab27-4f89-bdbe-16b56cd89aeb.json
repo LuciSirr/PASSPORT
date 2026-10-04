@@ -1,0 +1,35 @@
+{
+  "id": "b93db2e2-ab27-4f89-bdbe-16b56cd89aeb",
+  "gender": "female",
+  "age": 87,
+  "marital_status": "widower/widow",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Opel",
+  "self_first_name": "Hildegard",
+  "self_last_name": "Kronauer",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lesen",
+    "audiobücher",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Ingenieurbüro Kronauer",
+  "previous_passwords": [
+    "Hilde1947",
+    "Opel2017",
+    "Kronauer123",
+    "Lesen!2020",
+    "Reisen11",
+    "Xiaomi_87",
+    "SignalIduna!",
+    "Hessen2019",
+    "Audiobook7",
+    "November!4"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1939-03-24"
+}

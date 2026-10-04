@@ -1,0 +1,39 @@
+{
+  "id": "bcd425d9-f0e6-41bf-8914-ab4cf3e3c81f",
+  "gender": "female",
+  "age": 5,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "London Study Support",
+  "previous_passwords": [
+    "Maisie2019",
+    "Mittens123",
+    "Hollingworth5",
+    "Drawing4Fun",
+    "LondonCat!",
+    "Reading_2023",
+    "M4is13",
+    "StudySupport19",
+    "MittensMaisie",
+    "Hollingworth_19"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2021-02-25"
+}

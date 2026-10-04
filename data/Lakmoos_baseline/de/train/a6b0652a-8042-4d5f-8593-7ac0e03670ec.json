@@ -1,0 +1,35 @@
+{
+  "id": "a6b0652a-8042-4d5f-8593-7ac0e03670ec",
+  "gender": "female",
+  "age": 73,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Jeep",
+  "self_first_name": "Hildegard",
+  "self_last_name": "Krauss",
+  "partner_first_name": "Werner",
+  "partner_last_name": "Krauss",
+  "children": [],
+  "interests": [
+    "lesen",
+    "spaziergang",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Hilde73",
+    "Krauss1948",
+    "Werner123",
+    "JeepRenegade15",
+    "Lesen2024!",
+    "Spaziergang_12",
+    "Oma_1000EUR",
+    "Hessen!73",
+    "Audiobook3",
+    "KraussWerner"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1952-04-19"
+}

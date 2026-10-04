@@ -1,0 +1,35 @@
+{
+  "id": "c094d844-a7c3-47f4-8aa3-a671907616c9",
+  "age": 22,
+  "birth_date": "2004-09-01",
+  "marital_status": "divorced",
+  "region": "Paulinestad",
+  "nationality": "english",
+  "company": "Steele LLC",
+  "car_brand": "Kia",
+  "self_first_name": "Lydia",
+  "self_last_name": "Foster",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "football",
+    "streaming series",
+    "fitness",
+    "music festivals"
+  ],
+  "previous_passwords": [
+    "LydiaKia04!",
+    "FIFA2004_LF",
+    "TaylorSw1ft22",
+    "KiaGaming24!",
+    "Messi0901!",
+    "NetflixLyd22",
+    "GymRats04!",
+    "Paulinestad7",
+    "Eminem04_Kia",
+    "FortniteL!24"
+  ]
+}

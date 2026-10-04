@@ -1,0 +1,35 @@
+{
+  "id": "d45dee66-f624-4936-9a0a-c519b9c915c9",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "single/in a relationship",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Hyundai",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "procházky",
+    "jóga",
+    "nakupování",
+    "facebook"
+  ],
+  "pets": [],
+  "company": "AutoServis Poděbrady",
+  "previous_passwords": [
+    "Barca32",
+    "Hyundai2008",
+    "Lidl1234",
+    "Poděbradka!",
+    "Rohlik2024",
+    "Vesela1989",
+    "Prochazky123",
+    "Yoga!2023",
+    "Kofola_89"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1994-03-24"
+}

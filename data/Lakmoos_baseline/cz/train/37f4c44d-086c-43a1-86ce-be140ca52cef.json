@@ -1,0 +1,40 @@
+{
+  "id": "37f4c44d-086c-43a1-86ce-be140ca52cef",
+  "gender": "female",
+  "age": 30,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Veselý",
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "seriály",
+    "nakupování",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Eliška2023",
+    "Barbora30",
+    "Martin2015",
+    "Veselá123",
+    "Kofola2022",
+    "Prague30",
+    "BarcaMimi",
+    "Nakupovani!",
+    "EliškaM4rtin",
+    "Seriály321"
+  ],
+  "favorite_hobby": "seriály",
+  "birth_date": "1995-07-06"
+}

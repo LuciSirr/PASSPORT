@@ -1,0 +1,48 @@
+{
+  "id": "eea6fcb6-9017-44b5-b150-f0c8103bedca",
+  "age": 30,
+  "birth_date": "1996-09-30",
+  "marital_status": "married",
+  "region": "Forst",
+  "nationality": "german",
+  "company": "Scholl Kramer AG",
+  "car_brand": "Audi",
+  "self_first_name": "Dietmar",
+  "self_last_name": "Ruppert",
+  "partner_first_name": "Jo",
+  "partner_last_name": "Rohleder",
+  "children": [
+    {
+      "first_name": "Ruthild",
+      "last_name": "Ruppert"
+    },
+    {
+      "first_name": "Nikola",
+      "last_name": "Ruppert"
+    },
+    {
+      "first_name": "Dagobert",
+      "last_name": "Ruppert"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Kochen",
+    "Gaming",
+    "Krafttraining"
+  ],
+  "previous_passwords": [
+    "Bayern96!",
+    "AudiRoth23",
+    "Kochen1996",
+    "RamboFit30",
+    "Wandern96_",
+    "GamingRup!",
+    "Kraft96Fit",
+    "JoRohleder1",
+    "Fu00Fuß?",
+    "ForstKoch96"
+  ]
+}

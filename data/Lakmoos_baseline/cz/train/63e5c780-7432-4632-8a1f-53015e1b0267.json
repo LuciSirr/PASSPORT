@@ -1,0 +1,36 @@
+{
+  "id": "63e5c780-7432-4632-8a1f-53015e1b0267",
+  "gender": "male",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "móda",
+    "auta",
+    "seriály",
+    "hudba"
+  ],
+  "pets": [],
+  "company": "Pražský hotelový servis",
+  "previous_passwords": [
+    "Radek1989",
+    "Veselak88",
+    "Superb2011",
+    "Praha39k",
+    "Kofola2020",
+    "Vivantis99",
+    "BurgerKing88",
+    "Hudba123",
+    "auta2010",
+    "moda_2022"
+  ],
+  "favorite_hobby": "móda",
+  "birth_date": "1992-08-04"
+}

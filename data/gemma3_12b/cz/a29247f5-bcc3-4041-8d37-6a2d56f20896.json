@@ -1,0 +1,44 @@
+{
+  "id": "a29247f5-bcc3-4041-8d37-6a2d56f20896",
+  "age": 41,
+  "birth_date": "1985-09-25",
+  "marital_status": "married",
+  "region": "Český Brod",
+  "nationality": "czech",
+  "company": "Urban k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Elena",
+  "self_last_name": "Lišková",
+  "partner_first_name": "Patrik",
+  "partner_last_name": "Lišková",
+  "children": [
+    {
+      "first_name": "Miroslava",
+      "last_name": "Lišková"
+    },
+    {
+      "first_name": "Denisa",
+      "last_name": "Lišková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "historie",
+    "vaření",
+    "hudba",
+    "rybaření"
+  ],
+  "previous_passwords": [
+    "Miroslava2023!",
+    "DenisaHiking85",
+    "SkodaPatrik19",
+    "CeskyBrodTour",
+    "MessiCooking!",
+    "HistorieLisky",
+    "Turistika85DL",
+    "RybářůvPoutník",
+    "HudbaLišková25",
+    "VařeníPatrik!"
+  ]
+}

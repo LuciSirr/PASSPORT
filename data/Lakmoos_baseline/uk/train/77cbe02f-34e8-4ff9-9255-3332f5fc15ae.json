@@ -1,0 +1,34 @@
+{
+  "id": "77cbe02f-34e8-4ff9-9255-3332f5fc15ae",
+  "gender": "male",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Toyota",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "photography"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Callum1991",
+    "Toyota40658",
+    "VolvoEX30!",
+    "Sophie123",
+    "Hollis2024",
+    "Travel4Life",
+    "Mini2022",
+    "C-HR_1798",
+    "Cycling88"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1992-05-19"
+}

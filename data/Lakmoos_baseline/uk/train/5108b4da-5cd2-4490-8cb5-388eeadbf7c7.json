@@ -1,0 +1,34 @@
+{
+  "id": "5108b4da-5cd2-4490-8cb5-388eeadbf7c7",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Porsche",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "driving",
+    "gardening",
+    "cricket"
+  ],
+  "pets": [],
+  "company": "Westcountry Classic Motors",
+  "previous_passwords": [
+    "Malcolm911",
+    "Porsche2006",
+    "Elaine63",
+    "Westcountry123",
+    "Cricket!19",
+    "Hollingsworth2020",
+    "Gardening4U",
+    "ClassicCar!",
+    "Malc_2981"
+  ],
+  "favorite_hobby": "driving",
+  "birth_date": "1962-05-23"
+}

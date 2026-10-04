@@ -1,0 +1,35 @@
+{
+  "id": "a306ad2d-1258-483b-b5b4-fcb2d40eca68",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "married",
+  "region": "vysocina region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "pletení",
+    "procházky",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Vysočina Kovovýroba s.r.o.",
+  "previous_passwords": [
+    "Ivana1974",
+    "PetrVesely50",
+    "Vysočina123",
+    "Pletení2024",
+    "Seriály!74",
+    "Veselá_1974",
+    "Lidl678",
+    "Netflix2022",
+    "PetrIvana74",
+    "Procházky123"
+  ],
+  "favorite_hobby": "pletení",
+  "birth_date": "1976-03-05"
+}

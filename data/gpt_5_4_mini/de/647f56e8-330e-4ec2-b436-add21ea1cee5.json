@@ -1,0 +1,44 @@
+{
+  "id": "647f56e8-330e-4ec2-b436-add21ea1cee5",
+  "age": 34,
+  "birth_date": "1992-04-03",
+  "marital_status": "divorced",
+  "region": "Grevesmühlen",
+  "nationality": "german",
+  "company": "Hartmann KG",
+  "car_brand": "Opel",
+  "self_first_name": "Stjepan",
+  "self_last_name": "Juncken",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Madlen"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Sieghard"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Kochen",
+    "Wandern",
+    "Ostseeküste"
+  ],
+  "previous_passwords": [
+    "Fußball92!",
+    "Grevesmuehlen24",
+    "OpelRider92",
+    "Madlen_92",
+    "Sieghard2026",
+    "OstseeBike03",
+    "KochLiebe92",
+    "Wandern!34",
+    "HSV_0403",
+    "Radfahren92!"
+  ]
+}

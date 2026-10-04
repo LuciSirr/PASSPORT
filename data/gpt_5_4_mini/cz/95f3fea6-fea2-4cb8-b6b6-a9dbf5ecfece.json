@@ -1,0 +1,35 @@
+{
+  "id": "95f3fea6-fea2-4cb8-b6b6-a9dbf5ecfece",
+  "age": 36,
+  "birth_date": "1990-03-02",
+  "marital_status": "married",
+  "region": "Březová nad Svitavou",
+  "nationality": "czech",
+  "company": "Kopecký Havlíček s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Radoslav",
+  "self_last_name": "Sýkora",
+  "partner_first_name": "Emilie",
+  "partner_last_name": "Sýkorová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "vaření",
+    "cyklistika",
+    "poslech české hudby"
+  ],
+  "previous_passwords": [
+    "Skoda1990!",
+    "Turistika02",
+    "Sykora36_",
+    "Brezova90",
+    "Sparta90!",
+    "Cyklo1990",
+    "Emilie02!",
+    "Vareni36",
+    "CeskaHudba90",
+    "FotbalSykora"
+  ]
+}

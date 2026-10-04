@@ -1,0 +1,40 @@
+{
+  "id": "aa17dc89-a52f-4baa-ac9c-80a778932cce",
+  "gender": "female",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Nia",
+  "self_last_name": "Pritchard",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "drawing",
+    "netball"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Nia2009",
+    "Milo123",
+    "Pritchard14",
+    "reading4life",
+    "Netball2023",
+    "Milo!09",
+    "Draw1ng_",
+    "Wales_2009",
+    "NiaMilo",
+    "Pritch4rd"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2011-10-20"
+}

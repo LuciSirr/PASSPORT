@@ -1,0 +1,30 @@
+{
+  "id": "c65c2f7d-96c1-402c-8305-d12dcf9c1061",
+  "gender": "male",
+  "age": 0,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finley",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Finley2024",
+    "Ashcombe1",
+    "Drawing123",
+    "FinFin_24",
+    "Ashcombe!",
+    "Finley_doodle",
+    "Ashcombe2024"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2025-09-03"
+}

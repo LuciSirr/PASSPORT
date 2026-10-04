@@ -1,0 +1,40 @@
+{
+  "id": "a4780686-6f48-47af-ab70-b8d521ffc8df",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hatherleigh",
+  "partner_first_name": "Janet",
+  "partner_last_name": "Hatherleigh",
+  "children": [],
+  "interests": [
+    "walking",
+    "travel",
+    "gardening"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Westmoor Advisory",
+  "previous_passwords": [
+    "Malcolm1959",
+    "Baxter14",
+    "Janet123",
+    "Hatherleigh999",
+    "Westmoor2020",
+    "Travel4Fun!",
+    "Gardening_59",
+    "AudiA1_2009",
+    "Baxter!59",
+    "Walking2023"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1963-03-21"
+}

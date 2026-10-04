@@ -1,0 +1,45 @@
+{
+  "id": "4ce805f4-4afb-4c56-a130-b952d57167fb",
+  "age": 32,
+  "birth_date": "1994-01-26",
+  "marital_status": "married",
+  "region": "Senftenberg",
+  "nationality": "german",
+  "company": "Pärtzelt",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Eggert",
+  "self_last_name": "Eberhardt",
+  "partner_first_name": "Helene",
+  "partner_last_name": "Eberhardt",
+  "children": [
+    {
+      "first_name": "Robby",
+      "last_name": "Eberhardt"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Irmi"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Wandern",
+    "Radfahren",
+    "Kochen",
+    "Gaming"
+  ],
+  "previous_passwords": [
+    "BVB1994!",
+    "HeleneRide26",
+    "IrmiHorse94",
+    "MercedesKochen1",
+    "Wandern_94",
+    "RobbyGaming26",
+    "Senftenberg21",
+    "FussballEberhardt",
+    "Radfahren94!",
+    "KochenRobby7"
+  ]
+}

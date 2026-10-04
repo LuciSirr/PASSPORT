@@ -1,0 +1,53 @@
+{
+  "id": "7455c2b9-f28d-453e-9be4-32931e5f7726",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heike",
+  "self_last_name": "Kronenberg",
+  "partner_first_name": "Jörg",
+  "partner_last_name": "Kronenberg",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Kronenberg"
+    },
+    {
+      "first_name": "Max",
+      "last_name": "Kronenberg"
+    },
+    {
+      "first_name": "Sophie",
+      "last_name": "Kronenberg"
+    }
+  ],
+  "interests": [
+    "reisen",
+    "musik",
+    "lesen"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Bella"
+    }
+  ],
+  "company": "Kronenberg Beratung & Service",
+  "previous_passwords": [
+    "Heike1963",
+    "Lena07!",
+    "Max2008",
+    "Bella123",
+    "Kronenberg_15",
+    "Sommerurlaub2022",
+    "Jörg1960",
+    "Musik4ever",
+    "Sophie15!",
+    "Reisen_07"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1964-10-08"
+}

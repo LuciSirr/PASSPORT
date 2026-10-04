@@ -1,0 +1,44 @@
+{
+  "id": "08e422fd-524a-4d22-a66e-1ebf71d701a8",
+  "gender": "male",
+  "age": 59,
+  "marital_status": "divorced",
+  "region": "karlovy vary region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Vach",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Vach"
+    },
+    {
+      "first_name": "Eliška",
+      "last_name": "Vachová"
+    }
+  ],
+  "interests": [
+    "auta",
+    "nakupování",
+    "televize"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Fabia2007",
+    "Matysek10",
+    "Globus123",
+    "Vach59",
+    "EliVoda06",
+    "Auta2024",
+    "MatejEliska06",
+    "Televize123",
+    "RadekKarlovy",
+    "Vachova!10"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "1966-05-01"
+}

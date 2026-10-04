@@ -1,0 +1,39 @@
+{
+  "id": "1fde2c5d-52a5-4d73-a95d-f1439b985b41",
+  "gender": "male",
+  "age": 35,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "top gear",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Redbridge Construction Ltd",
+  "previous_passwords": [
+    "Baxter2019",
+    "TopGear!89",
+    "Hollings123",
+    "Cycling_17",
+    "Sophie4ever",
+    "Mazda3_2021",
+    "London!4000",
+    "Redbridge88",
+    "BaxterGear",
+    "Sophie!17"
+  ],
+  "favorite_hobby": "top gear",
+  "birth_date": "1989-04-17"
+}

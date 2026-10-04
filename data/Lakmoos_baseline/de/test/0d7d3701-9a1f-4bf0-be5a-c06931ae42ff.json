@@ -1,0 +1,34 @@
+{
+  "id": "0d7d3701-9a1f-4bf0-be5a-c06931ae42ff",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "bremen",
+  "nationality": "german",
+  "car_brand": "Cupra",
+  "self_first_name": "Heike",
+  "self_last_name": "Krause",
+  "birth_date": "1963-06-15",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Krause",
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "nordsee reisen"
+  ],
+  "pets": [],
+  "company": "Bremen Service GmbH",
+  "previous_passwords": [
+    "Heike1963",
+    "KrauseBremen",
+    "Jürgen15.06",
+    "Pilcher123",
+    "Nordsee2020",
+    "rosamunde!63",
+    "KrausePilcher1",
+    "Bremen_5000",
+    "JürgenHeike",
+    "nordsee_15"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

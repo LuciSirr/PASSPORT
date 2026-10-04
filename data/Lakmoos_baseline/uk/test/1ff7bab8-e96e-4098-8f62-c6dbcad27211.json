@@ -1,0 +1,40 @@
+{
+  "id": "1ff7bab8-e96e-4098-8f62-c6dbcad27211",
+  "gender": "female",
+  "age": 81,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Margaret",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "midsomer murders",
+    "crossword puzzles"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Tilly"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Tilly1943",
+    "Margaret!15",
+    "Hollingsworth123",
+    "Gardening_2020",
+    "Midsomer88",
+    "CrosswordCat7",
+    "London43",
+    "Tilly!puzzle",
+    "MidsomerMurders7",
+    "H0llingsw0rth!"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1943-07-15"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6c4ddc21-d14d-469a-bd93-5221d164072f",
+  "gender": "female",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "wales",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Nia",
+  "self_last_name": "Penrhyn",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "netball",
+    "baking"
+  ],
+  "pets": [],
+  "company": "Cymru Student Services",
+  "previous_passwords": [
+    "Nia2009",
+    "Penrhyn123",
+    "Netball4Life",
+    "Baking_14",
+    "Wales!2023",
+    "CymruGirl09",
+    "ReadingRocks1",
+    "Nia!Penrhyn",
+    "PenrhynNetball",
+    "NiaBakes09"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "2012-03-25"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "27587494-c6d0-4863-a6d1-6374babf4be5",
+  "gender": "male",
+  "age": 69,
+  "marital_status": "divorced",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radomír",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "televize",
+    "procházky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Olomoucká sociální péče s.r.o.",
+  "previous_passwords": [
+    "Radomir1955",
+    "Fabia2007",
+    "Olomouc74",
+    "VodaChips1",
+    "Byt1234",
+    "Vitana2020",
+    "Prochazka11",
+    "Vesely999",
+    "Televize2022"
+  ],
+  "favorite_hobby": "televize",
+  "birth_date": "1957-02-03"
+}

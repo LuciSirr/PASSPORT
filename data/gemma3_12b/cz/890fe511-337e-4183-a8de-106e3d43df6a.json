@@ -1,0 +1,45 @@
+{
+  "id": "890fe511-337e-4183-a8de-106e3d43df6a",
+  "age": 68,
+  "birth_date": "1958-06-29",
+  "marital_status": "married",
+  "region": "Jistebnice",
+  "nationality": "czech",
+  "company": "Pospíšilová",
+  "car_brand": "Škoda",
+  "self_first_name": "David",
+  "self_last_name": "Šmíd",
+  "partner_first_name": "Magdaléna",
+  "partner_last_name": "Šmídová",
+  "children": [
+    {
+      "first_name": "Anděla",
+      "last_name": "Šmídová"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "snake",
+      "pet_name": "Peter"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "zahradníctví",
+    "rybaření",
+    "česká hudba",
+    "folklórní tance"
+  ],
+  "previous_passwords": [
+    "PeterSnake2024",
+    "AndelaTuristika1958",
+    "SkodaJistebnice!",
+    "MagdalenaRybářství",
+    "FolklórníTanec85",
+    "ZahrádkaŠmíd",
+    "TuristikaDavid!",
+    "ČeskáHudba29",
+    "ŠmídovaAnděla1",
+    "MessiDavid68"
+  ]
+}

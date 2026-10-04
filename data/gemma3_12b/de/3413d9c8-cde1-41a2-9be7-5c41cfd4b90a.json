@@ -1,0 +1,44 @@
+{
+  "id": "3413d9c8-cde1-41a2-9be7-5c41cfd4b90a",
+  "age": 29,
+  "birth_date": "1997-06-28",
+  "marital_status": "single",
+  "region": "Mayen",
+  "nationality": "german",
+  "company": "Rust",
+  "car_brand": "Ford",
+  "self_first_name": "H.-Dieter",
+  "self_last_name": "Hermighausen",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Tomasz"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Eckhart"
+    }
+  ],
+  "interests": [
+    "Fotografie",
+    "Musik Festivals",
+    "Wandern",
+    "Eishockey",
+    "Videospiele"
+  ],
+  "previous_passwords": [
+    "FordWander1997",
+    "EishockeyTomasz!",
+    "MessiMayenFest",
+    "FotografieH.-Dieter",
+    "VideospieleEckhart97",
+    "WandernJoeRogan",
+    "MusikFestivalsHD",
+    "Ford1997_Messi",
+    "TomaszFoto2024",
+    "H.-DieterWandern!"
+  ]
+}

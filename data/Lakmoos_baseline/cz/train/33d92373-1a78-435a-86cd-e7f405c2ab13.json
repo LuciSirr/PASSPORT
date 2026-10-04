@@ -1,0 +1,41 @@
+{
+  "id": "33d92373-1a78-435a-86cd-e7f405c2ab13",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Vránová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Vránová"
+    }
+  ],
+  "interests": [
+    "procházky",
+    "čtení",
+    "nakupování",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "Finanční služby Praha",
+  "previous_passwords": [
+    "Tereza2014",
+    "Fabia2002",
+    "Praha49k",
+    "Kofola123",
+    "Vranova80",
+    "Prochazky2020",
+    "Cteni!2022",
+    "JitkaTereza14",
+    "Nakupovani77",
+    "Serialy2021"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1988-02-08"
+}

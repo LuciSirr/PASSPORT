@@ -1,0 +1,40 @@
+{
+  "id": "3c5ad6c4-b9f3-4dff-b011-8e34e2ef75dc",
+  "gender": "male",
+  "age": 30,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Suzuki",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "top gear",
+    "premier league",
+    "fifa"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Baxter2018",
+    "TopGear94!",
+    "Sophie_1506",
+    "HollingsworthPL2020",
+    "FifaBaxter7",
+    "PremierL3ague",
+    "CallumSophie21",
+    "Baxter!PL",
+    "TopGear_123",
+    "Fifa_1994"
+  ],
+  "favorite_hobby": "top gear",
+  "birth_date": "1994-06-15"
+}

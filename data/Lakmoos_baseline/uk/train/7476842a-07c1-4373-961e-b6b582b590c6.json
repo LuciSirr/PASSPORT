@@ -1,0 +1,40 @@
+{
+  "id": "7476842a-07c1-4373-961e-b6b582b590c6",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Emily",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "photography"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Eastgate Ventures",
+  "previous_passwords": [
+    "Gareth1983",
+    "EmilyWedding2024",
+    "Baxter123",
+    "Eastgate!10",
+    "Travel4Life",
+    "Hollingsworth2020",
+    "Cycling_88",
+    "Baxter!3",
+    "Emily4Gareth",
+    "Photo2022"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1984-03-30"
+}

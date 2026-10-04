@@ -1,0 +1,35 @@
+{
+  "id": "a8e706fe-5e5f-455c-8fef-fd87828348c4",
+  "age": 22,
+  "birth_date": "2004-01-03",
+  "marital_status": "married",
+  "region": "Ericville",
+  "nationality": "english",
+  "company": "Harvey-Akhtar",
+  "car_brand": "Ford",
+  "self_first_name": "Sally",
+  "self_last_name": "Ward",
+  "partner_first_name": "Jason",
+  "partner_last_name": "Thomas",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "fitness",
+    "streaming",
+    "streetwear",
+    "music festivals"
+  ],
+  "previous_passwords": [
+    "ValoSally04!",
+    "F1tnessJan03",
+    "JasonStream22",
+    "FordGaming03",
+    "SallyFest24",
+    "RiotFit0403",
+    "WardMusic22!",
+    "EricvilleGym03",
+    "JasonFifa03",
+    "SallyNike24"
+  ]
+}

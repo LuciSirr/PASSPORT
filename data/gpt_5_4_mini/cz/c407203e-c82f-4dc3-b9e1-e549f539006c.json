@@ -1,0 +1,35 @@
+{
+  "id": "c407203e-c82f-4dc3-b9e1-e549f539006c",
+  "age": 50,
+  "birth_date": "1976-07-20",
+  "marital_status": "single",
+  "region": "Libáň",
+  "nationality": "czech",
+  "company": "Konečná",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Pavel",
+  "self_last_name": "Toman",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "zahrádkaření",
+    "turistika v Českém ráji",
+    "české filmy",
+    "pivo a pivovary",
+    "fotbal"
+  ],
+  "previous_passwords": [
+    "PivoLiban76",
+    "TomanKral16",
+    "Berani76!",
+    "Zahradka20",
+    "CeskyRaj76",
+    "Volkswagen7",
+    "Pilsner_76",
+    "FotbalLiban",
+    "Bohemia76!",
+    "Turistika20"
+  ]
+}

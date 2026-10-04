@@ -1,0 +1,35 @@
+{
+  "id": "e73ab436-0dd6-4336-bb5b-119395f95579",
+  "age": 64,
+  "birth_date": "1962-05-04",
+  "marital_status": "divorced",
+  "region": "Staffelstein",
+  "nationality": "german",
+  "company": "Pergande Pölitz GbR",
+  "car_brand": "Audi",
+  "self_first_name": "Adelgunde",
+  "self_last_name": "Gertz",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Lesen",
+    "Volkshochschule",
+    "Gemütliches Beisammensein",
+    "Lokaler Schützenverein"
+  ],
+  "previous_passwords": [
+    "AudiStaffelstein62",
+    "WandernVolkshochschule!",
+    "LesenSchuetzenverein23",
+    "GemuetlichBeisammenseinAdelgunde",
+    "StaffelsteinAudi2024",
+    "VolkshochschuleWander1962",
+    "AdelgundeLesenBerg",
+    "SchuetzenvereinGemuetlich!",
+    "AudiWanderlust77",
+    "LesenGemuetlich62"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "18635107-ac0c-4959-b9bb-942a21499587",
+  "age": 50,
+  "birth_date": "1976-03-28",
+  "marital_status": "married",
+  "region": "Plzeň",
+  "nationality": "czech",
+  "company": "Jaroš Veselý a.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Veronika",
+  "self_last_name": "Strnadová",
+  "partner_first_name": "Miloslav",
+  "partner_last_name": "Strnadová",
+  "children": [
+    {
+      "first_name": "Libor",
+      "last_name": "Macháček"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "Kolář"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "hokej",
+    "turistika",
+    "vaření",
+    "zahradničení",
+    "fotbal"
+  ],
+  "previous_passwords": [
+    "Hokej1976!",
+    "Turistika28",
+    "Vareni_Plzen7",
+    "Zahrada76!",
+    "Sparta50",
+    "Toyota1976",
+    "MiloslavHokej",
+    "Fotbal_28!",
+    "LiborTuristika",
+    "PlzenVareni76"
+  ]
+}

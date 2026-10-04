@@ -1,0 +1,40 @@
+{
+  "id": "3b1d6e57-a95c-4668-99f9-274253896539",
+  "gender": "female",
+  "age": 66,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Marion",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Geoffrey",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "baking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Tilly"
+    }
+  ],
+  "company": "Pendle Business Solutions",
+  "previous_passwords": [
+    "Marion1958",
+    "TillyCat1",
+    "Pendle123",
+    "Geoffrey58",
+    "Hollingsworth2020",
+    "Gardening4",
+    "Baking!58",
+    "Tilly!2021",
+    "Reading_66",
+    "MarionG58"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1959-10-21"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4374efe6-2805-42e4-8728-3ed7b3bf5ab4",
+  "age": 25,
+  "birth_date": "2001-11-17",
+  "marital_status": "married",
+  "region": "Güstrow",
+  "nationality": "german",
+  "company": "Stey Röhrdanz e.V.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Albertine",
+  "self_last_name": "Sölzer",
+  "partner_first_name": "Gabor",
+  "partner_last_name": "Sölzer",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Musik Festivals",
+    "Fotografie",
+    "Wandern",
+    "Videospiele",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "Messi2001!",
+    "VW_Wanderlust25",
+    "FotoFestivals_Albertine",
+    "GaborSölzerMusik",
+    "VideospieleAlbertine",
+    "LokalerFV_Güsten",
+    "Albertine_Wandern93",
+    "PhotographyVW!",
+    "Messi_Albertine2001",
+    "FestivalsGüstrow!"
+  ]
+}

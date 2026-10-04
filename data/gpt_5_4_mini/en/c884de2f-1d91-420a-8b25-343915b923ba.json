@@ -1,0 +1,35 @@
+{
+  "id": "c884de2f-1d91-420a-8b25-343915b923ba",
+  "age": 65,
+  "birth_date": "1961-04-10",
+  "marital_status": "married",
+  "region": "Lake Terencebury",
+  "nationality": "english",
+  "company": "Gibbs, Potter and Foster",
+  "car_brand": "Kia",
+  "self_first_name": "Karen",
+  "self_last_name": "Power",
+  "partner_first_name": "Lewis",
+  "partner_last_name": "Power",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gardening",
+    "birdwatching",
+    "classical music",
+    "local history",
+    "walking"
+  ],
+  "previous_passwords": [
+    "Roses1961!",
+    "KiaGarden61",
+    "RobinWalk10",
+    "LewisPond65",
+    "History10!",
+    "ChopinLake61",
+    "Tulips_04",
+    "SwiftBird65",
+    "DawnKia10!",
+    "HollyWalk61"
+  ]
+}

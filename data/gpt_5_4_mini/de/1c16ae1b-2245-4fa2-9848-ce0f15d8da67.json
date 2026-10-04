@@ -1,0 +1,40 @@
+{
+  "id": "1c16ae1b-2245-4fa2-9848-ce0f15d8da67",
+  "age": 41,
+  "birth_date": "1985-10-19",
+  "marital_status": "divorced",
+  "region": "Darmstadt",
+  "nationality": "german",
+  "company": "Faust",
+  "car_brand": "Nissan",
+  "self_first_name": "Ehrhard",
+  "self_last_name": "Stolze",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Uli",
+      "last_name": "Stolze"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Wandern im Odenwald",
+    "Kaffee und Espresso",
+    "Kochen",
+    "Eintracht Frankfurt"
+  ],
+  "previous_passwords": [
+    "Eintracht85!",
+    "Nissan1985",
+    "UliWandern19",
+    "EspressoDarm1",
+    "Kochen85_",
+    "FussballUli7",
+    "Odenwald41!",
+    "KaffeeNissan3",
+    "Frankfurt19!",
+    "WandernUli85"
+  ]
+}

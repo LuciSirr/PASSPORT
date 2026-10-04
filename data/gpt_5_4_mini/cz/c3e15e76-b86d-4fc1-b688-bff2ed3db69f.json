@@ -1,0 +1,35 @@
+{
+  "id": "c3e15e76-b86d-4fc1-b688-bff2ed3db69f",
+  "age": 40,
+  "birth_date": "1986-05-29",
+  "marital_status": "divorced",
+  "region": "Nýřany",
+  "nationality": "czech",
+  "company": "Krejčová Müller v.o.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Richard",
+  "self_last_name": "Bednář",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "turistika v Českém lese",
+    "vaření",
+    "hokej",
+    "pivní kultura"
+  ],
+  "previous_passwords": [
+    "Sparta86!",
+    "Skoda29Hokej",
+    "Sumava1986",
+    "Pilsner40!",
+    "Turistika29",
+    "BeerFest86",
+    "VitkovaLhota40",
+    "FCVP86!",
+    "Gulas1986",
+    "CeskyLes29!"
+  ]
+}

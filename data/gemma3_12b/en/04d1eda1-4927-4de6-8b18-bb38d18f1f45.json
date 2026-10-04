@@ -1,0 +1,35 @@
+{
+  "id": "04d1eda1-4927-4de6-8b18-bb38d18f1f45",
+  "age": 18,
+  "birth_date": "2008-08-15",
+  "marital_status": "single",
+  "region": "Ellieview",
+  "nationality": "english",
+  "company": "Barber-Adams",
+  "car_brand": "Ford",
+  "self_first_name": "Charles",
+  "self_last_name": "Shaw",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "social media",
+    "music streaming",
+    "fashion",
+    "online video creation"
+  ],
+  "previous_passwords": [
+    "FortniteLover2008",
+    "Messi15Ellieview",
+    "SnapchatShaw!",
+    "Valorant_CS_0815",
+    "TaylorSwiftMusic!",
+    "FordExplorer23",
+    "RageGamingShaw",
+    "TikTokStyle08",
+    "AdobePremiereCS",
+    "EllieviewVlogs!"
+  ]
+}

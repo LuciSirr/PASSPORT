@@ -1,0 +1,40 @@
+{
+  "id": "86f77c03-24da-49a9-8d16-b8001b43d7fe",
+  "age": 54,
+  "birth_date": "1972-09-23",
+  "marital_status": "married",
+  "region": "Kunštát",
+  "nationality": "czech",
+  "company": "Švecová a.s.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Kateřina",
+  "self_last_name": "Němečková",
+  "partner_first_name": "Ladislav",
+  "partner_last_name": "Němečková",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "fish",
+      "pet_name": "Oldřich"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "historie",
+    "folklor",
+    "pěvání v sboru"
+  ],
+  "previous_passwords": [
+    "OldřichTuristika72",
+    "HyundaiHistorie23",
+    "LadislavRybarovna",
+    "KunstatPevaniSboru!",
+    "TuristikaKate71",
+    "FolkloreOldrich9",
+    "MessiTuristika1972",
+    "KateřinaHistorieSboru",
+    "HyundaiPevani88",
+    "RybarovnaKateřina"
+  ]
+}

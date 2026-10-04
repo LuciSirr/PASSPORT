@@ -1,0 +1,39 @@
+{
+  "id": "a15d72ea-89e2-4cf0-9a81-f848255136df",
+  "gender": "male",
+  "age": 12,
+  "marital_status": "single/in a relationship",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "počítače",
+    "cyklistika"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matysek2011",
+    "Rex123",
+    "Vesely12",
+    "fotbalek2023",
+    "Olomouc11",
+    "cyklistika321",
+    "Rex!2023",
+    "matysek_vesely",
+    "pocitace12"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2014-01-01"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "8ed7fc4e-972a-4884-93ac-09ba5854436a",
+  "gender": "female",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Callum",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Imogen1995",
+    "Milo123",
+    "Travel4Life",
+    "Hollingsworth2020",
+    "Reading!95",
+    "Callum95",
+    "WestMidlands1",
+    "MazdaCX30",
+    "Adventure_29",
+    "Milo!2023"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1997-02-17"
+}

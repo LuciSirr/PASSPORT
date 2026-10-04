@@ -1,0 +1,35 @@
+{
+  "id": "e641693b-768a-42d2-9e0a-12dc85339ca9",
+  "gender": "male",
+  "age": 53,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Škoda",
+  "self_first_name": "Ralf",
+  "self_last_name": "Kühn",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "autos",
+    "podcasts"
+  ],
+  "pets": [],
+  "company": "Kühn Unternehmerberatung",
+  "previous_passwords": [
+    "Ralf1969",
+    "Kuehn4000",
+    "Skoda23!",
+    "Nordrhein123",
+    "Reisen09",
+    "AOK_1969",
+    "Citroen19",
+    "Sparkasse253",
+    "Podcasts2023",
+    "Unternehmer4"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1973-02-17"
+}

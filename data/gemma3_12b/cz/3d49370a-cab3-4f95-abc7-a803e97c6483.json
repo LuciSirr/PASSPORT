@@ -1,0 +1,40 @@
+{
+  "id": "3d49370a-cab3-4f95-abc7-a803e97c6483",
+  "age": 36,
+  "birth_date": "1990-04-05",
+  "marital_status": "divorced",
+  "region": "Broumov",
+  "nationality": "czech",
+  "company": "Slavíková s.r.o.",
+  "car_brand": "Škoda",
+  "self_first_name": "Dominika",
+  "self_last_name": "Němcová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Blažena",
+      "last_name": "Němcová"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "pivní lázně",
+    "folklór",
+    "historie Broumovu",
+    "vaření piva"
+  ],
+  "previous_passwords": [
+    "BroumovHistorie2005",
+    "TuristikaBlažena!",
+    "SkodaFolklore1990",
+    "PivniLazneDominika",
+    "Blažena_Hiking23",
+    "BroumovHistory_77",
+    "SkodaPivo2012",
+    "DominikaFolklore!",
+    "TuristikaBla1988",
+    "PivniLazneSkoda"
+  ]
+}

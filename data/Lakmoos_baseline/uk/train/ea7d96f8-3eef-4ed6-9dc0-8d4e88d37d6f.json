@@ -1,0 +1,31 @@
+{
+  "id": "ea7d96f8-3eef-4ed6-9dc0-8d4e88d37d6f",
+  "gender": "male",
+  "age": 1,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finley",
+  "self_last_name": "Ashdown",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "blocks",
+    "drawing"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Finley2023",
+    "Ashdown1",
+    "Blocks123",
+    "LondonBaby!",
+    "Drawing2024",
+    "FinAsh23",
+    "Toys_321"
+  ],
+  "favorite_hobby": "blocks",
+  "birth_date": "2024-06-10"
+}

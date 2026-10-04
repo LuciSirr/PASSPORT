@@ -1,0 +1,48 @@
+{
+  "id": "eeec2c3b-8261-4b4f-8bdc-58f385d36a0b",
+  "age": 49,
+  "birth_date": "1977-07-03",
+  "marital_status": "married",
+  "region": "Flöha",
+  "nationality": "german",
+  "company": "Winkler Hering AG",
+  "car_brand": "Volvo",
+  "self_first_name": "Undine",
+  "self_last_name": "Tschentscher",
+  "partner_first_name": "Salih",
+  "partner_last_name": "Tschentscher",
+  "children": [
+    {
+      "first_name": "Rocco",
+      "last_name": "Tschentscher"
+    },
+    {
+      "first_name": "Elisa",
+      "last_name": "Tschentscher"
+    },
+    {
+      "first_name": "Milka",
+      "last_name": "Tschentscher"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern im Erzgebirge",
+    "Fußball",
+    "Gartenarbeit",
+    "Heimatgeschichte Sachsen",
+    "Radfahren"
+  ],
+  "previous_passwords": [
+    "Erzgebirge77!",
+    "VolvoRocco77",
+    "Sachsen1977",
+    "Radtour_Fl2",
+    "MDRHeimat03",
+    "FCBayern49!",
+    "Garten77undSonne",
+    "WanderRocco3",
+    "ElisaRad77",
+    "SalihVolvo7"
+  ]
+}

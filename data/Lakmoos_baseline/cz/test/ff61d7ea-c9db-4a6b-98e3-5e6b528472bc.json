@@ -1,0 +1,35 @@
+{
+  "id": "ff61d7ea-c9db-4a6b-98e3-5e6b528472bc",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1999-06-12",
+  "partner_first_name": "Tereza",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "f1",
+    "netflix",
+    "mountain biking"
+  ],
+  "pets": [],
+  "company": "Strojírny Benešov s.r.o.",
+  "previous_passwords": [
+    "Radek1999",
+    "KohoutF1",
+    "Tereza12",
+    "f1netflix2022",
+    "Benešov123",
+    "mountainbiking99",
+    "Kohout!2021",
+    "TerezaRadek",
+    "netflix_287",
+    "F1Kohout12"
+  ],
+  "favorite_hobby": "f1"
+}

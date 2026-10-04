@@ -1,0 +1,40 @@
+{
+  "id": "f78e2562-7547-4846-ba53-a775def27906",
+  "age": 42,
+  "birth_date": "1984-10-01",
+  "marital_status": "married",
+  "region": "Forchheim",
+  "nationality": "german",
+  "company": "Davids Säuberlich KG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Carolina",
+  "self_last_name": "Speer",
+  "partner_first_name": "Hans-Christian",
+  "partner_last_name": "Speer",
+  "children": [
+    {
+      "first_name": "Brit",
+      "last_name": "Speer"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Wandern",
+    "Fotografie",
+    "Autos",
+    "Biergarten",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "BritWandern84",
+    "VolkswagenFotografie23",
+    "HansChristianBiergarten!",
+    "MessiForchheim2024",
+    "ForchheimAuto81",
+    "BritSpeerWandern!",
+    "FotografieVW2001",
+    "CarolinaWandern1984",
+    "HansBiergartenSpeer",
+    "VolkswagenBrit84!"
+  ]
+}

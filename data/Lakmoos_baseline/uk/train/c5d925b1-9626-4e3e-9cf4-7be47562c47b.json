@@ -1,0 +1,38 @@
+{
+  "id": "c5d925b1-9626-4e3e-9cf4-7be47562c47b",
+  "gender": "female",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "McAllister",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dolls"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Whiskers"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Maisie2021",
+    "Whiskers1",
+    "Drawing123",
+    "McAllister21",
+    "Dolls4Me",
+    "MaisieCat!",
+    "Scotland2021",
+    "Wh1sk3rs",
+    "D0lls2024"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2023-01-18"
+}

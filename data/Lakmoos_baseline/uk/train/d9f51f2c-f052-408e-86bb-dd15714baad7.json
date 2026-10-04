@@ -1,0 +1,34 @@
+{
+  "id": "d9f51f2c-f052-408e-86bb-dd15714baad7",
+  "gender": "female",
+  "age": 53,
+  "marital_status": "married",
+  "region": "east midlands",
+  "nationality": "british",
+  "car_brand": "BMW",
+  "self_first_name": "Fiona",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Ashcroft",
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Midlands Health Support",
+  "previous_passwords": [
+    "Fiona1969",
+    "Ashcroft123",
+    "Graham!53",
+    "BMW8er2024",
+    "Gardening4Life",
+    "Reading_2022",
+    "Midlands!1",
+    "FionaGraham19",
+    "HealthWork2020"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1972-07-22"
+}

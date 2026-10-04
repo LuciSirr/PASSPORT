@@ -1,0 +1,47 @@
+{
+  "id": "56b013f0-8eb3-457d-b885-95eaf3bbcca0",
+  "gender": "male",
+  "age": 49,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "Audi",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krause",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Emil",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "reisen",
+    "audiobücher"
+  ],
+  "pets": [],
+  "company": "Berliner Bildungszentrum",
+  "previous_passwords": [
+    "Lukas2019",
+    "Mia2023",
+    "Krause123",
+    "AudiQ3!18",
+    "Berlin4000",
+    "Sabine74",
+    "Emil2023",
+    "Reisen!2022",
+    "IKK_49",
+    "SommerAugust"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1976-08-13"
+}

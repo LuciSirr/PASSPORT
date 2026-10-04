@@ -1,0 +1,34 @@
+{
+  "id": "d07fb855-3fca-4c4c-ab49-efaa0829fc8a",
+  "gender": "female",
+  "age": 57,
+  "marital_status": "married",
+  "region": "rheinland-pfalz",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heike",
+  "self_last_name": "Kronberger",
+  "partner_first_name": "Jürgen",
+  "partner_last_name": "Kronberger",
+  "children": [],
+  "interests": [
+    "reisen",
+    "lesen"
+  ],
+  "pets": [],
+  "company": "Rheinland Business Service",
+  "previous_passwords": [
+    "Heike1967",
+    "Jürgen1970",
+    "Kronberger123",
+    "Reisen2023!",
+    "Sommerurlaub_09",
+    "AOK_106200",
+    "Rheinland57",
+    "Lesen3",
+    "ING253",
+    "Kronberger!5"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1968-07-02"
+}

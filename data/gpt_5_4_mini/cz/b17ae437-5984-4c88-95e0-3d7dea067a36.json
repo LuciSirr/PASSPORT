@@ -1,0 +1,49 @@
+{
+  "id": "b17ae437-5984-4c88-95e0-3d7dea067a36",
+  "age": 44,
+  "birth_date": "1982-06-18",
+  "marital_status": "married",
+  "region": "Budišov nad Budišovkou",
+  "nationality": "czech",
+  "company": "Horáček Beránek k.s.",
+  "car_brand": "Škoda",
+  "self_first_name": "Vlasta",
+  "self_last_name": "Švecová",
+  "partner_first_name": "Lubomír",
+  "partner_last_name": "Švecová",
+  "children": [
+    {
+      "first_name": "Vasyl",
+      "last_name": "Fišerová"
+    },
+    {
+      "first_name": "Robin",
+      "last_name": "Stejskalová"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Ferdinand"
+    }
+  ],
+  "interests": [
+    "hokej",
+    "turistika",
+    "zahradničení",
+    "vaření",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Hokej82!",
+    "Skoda44_hokej",
+    "Turistika18",
+    "ZahradaVlasta82",
+    "Vareni1982!",
+    "CeskeFilmy44",
+    "Ferdinand!82",
+    "BudisovHokej",
+    "Lubomir44_skoda",
+    "RobinTuristika7"
+  ]
+}

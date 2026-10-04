@@ -1,0 +1,35 @@
+{
+  "id": "fe6ff187-7150-45ef-b073-6a4e6eedc310",
+  "gender": "female",
+  "age": 26,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "KIA",
+  "self_first_name": "Annika",
+  "self_last_name": "Kuhn",
+  "birth_date": "1997-10-14",
+  "partner_first_name": "Lukas",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "dark",
+    "podcasts",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "Hessen Managementberatung GmbH",
+  "previous_passwords": [
+    "Annika2017",
+    "KuhnDark123",
+    "Lukas_1410",
+    "podcast2020",
+    "Dark!97",
+    "Audiobook_998",
+    "HessenKuhn21",
+    "AnnikaLukas23",
+    "D4rkKuhn",
+    "Kuhn!1410"
+  ],
+  "favorite_hobby": "dark"
+}

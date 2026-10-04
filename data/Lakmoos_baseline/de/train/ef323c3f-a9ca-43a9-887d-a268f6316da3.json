@@ -1,0 +1,35 @@
+{
+  "id": "ef323c3f-a9ca-43a9-887d-a268f6316da3",
+  "gender": "male",
+  "age": 49,
+  "marital_status": "single/in a relationship",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Renault",
+  "self_first_name": "Torsten",
+  "self_last_name": "Barkhoff",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "autos",
+    "musik"
+  ],
+  "pets": [],
+  "company": "NordConsult Maklerdienste",
+  "previous_passwords": [
+    "Torsten1965",
+    "Barkhoff123",
+    "Renault2016",
+    "Niedersachsen!",
+    "Musik_77",
+    "Reisen2023",
+    "Allianz_321",
+    "Kadjar8",
+    "Vivo2022",
+    "NordConsult!"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1976-06-13"
+}

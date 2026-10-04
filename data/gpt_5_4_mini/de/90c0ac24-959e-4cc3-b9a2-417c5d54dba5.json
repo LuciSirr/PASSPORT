@@ -1,0 +1,53 @@
+{
+  "id": "90c0ac24-959e-4cc3-b9a2-417c5d54dba5",
+  "age": 35,
+  "birth_date": "1991-04-22",
+  "marital_status": "married",
+  "region": "Zeulenroda",
+  "nationality": "german",
+  "company": "Scheibe AG",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Bernward",
+  "self_last_name": "Lange",
+  "partner_first_name": "Herma",
+  "partner_last_name": "Wende",
+  "children": [
+    {
+      "first_name": "Sieglinde",
+      "last_name": "Lange"
+    },
+    {
+      "first_name": "Corinna",
+      "last_name": "Lange"
+    },
+    {
+      "first_name": "Felicia",
+      "last_name": "Lange"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Adem"
+    }
+  ],
+  "interests": [
+    "Wandern im Thüringer Vogtland",
+    "Fußball",
+    "Kochen",
+    "Radfahren",
+    "Regionale Handwerkskunst"
+  ],
+  "previous_passwords": [
+    "Wandern1991!",
+    "Vogtland22_Bern",
+    "AdemBike91",
+    "KochenLange7",
+    "HSV_Zeulenroda91",
+    "VW_Felicia22",
+    "RadelnHerma91!",
+    "ThuringenWende7",
+    "FuBall1991Bern",
+    "HandwerkAdem24"
+  ]
+}

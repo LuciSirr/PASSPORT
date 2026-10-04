@@ -1,0 +1,40 @@
+{
+  "id": "bd38c82e-ee88-497a-9027-b015fe63251e",
+  "gender": "male",
+  "age": 41,
+  "marital_status": "married",
+  "region": "sachsen",
+  "nationality": "german",
+  "car_brand": "Mercedes",
+  "self_first_name": "Jens",
+  "self_last_name": "Krause",
+  "birth_date": "1983-02-17",
+  "partner_first_name": "Anja",
+  "partner_last_name": "Krause",
+  "children": [
+    {
+      "first_name": "Lukas",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "wohnmobilreisen"
+  ],
+  "pets": [],
+  "company": "Bauunternehmen Sachsenhof",
+  "previous_passwords": [
+    "Lukas2017",
+    "Tatort!83",
+    "KrauseBau123",
+    "Anja_1702",
+    "Wohnmobil2020",
+    "Bund3sliga!",
+    "JensKrause83",
+    "TatortLukas7",
+    "Sachsenhof17",
+    "AnjaLukas17"
+  ],
+  "favorite_hobby": "tatort"
+}

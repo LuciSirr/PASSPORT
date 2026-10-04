@@ -1,0 +1,38 @@
+{
+  "id": "1d748d8a-9f41-4c6b-9489-23a7026cdcf0",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Eliška",
+  "self_last_name": "Kohoutová",
+  "birth_date": "2018-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "krteček",
+    "malování"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Eliška2020",
+    "Kohoutová14",
+    "Micka123",
+    "krtecek2024",
+    "malovani_20",
+    "MickaKrtek",
+    "Eli_krtecek",
+    "KohoutovaMicka",
+    "Krtecek!14"
+  ],
+  "favorite_hobby": "krteček"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "56a27dfd-0208-4600-bb52-b764edb71d04",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Audi",
+  "self_first_name": "Bernd",
+  "self_last_name": "Kuhn",
+  "birth_date": "1960-06-15",
+  "partner_first_name": "Gisela",
+  "partner_last_name": "Kuhn",
+  "children": [],
+  "interests": [
+    "tatort",
+    "bundesliga",
+    "wandern"
+  ],
+  "pets": [],
+  "company": "Hessen Forstbetrieb Kuhn",
+  "previous_passwords": [
+    "Bernd1960",
+    "Gisela15",
+    "Kuhn1960!",
+    "tatort123",
+    "bundesliga2020",
+    "Wandern_60",
+    "KuhnTatort!",
+    "Gisela1960",
+    "TatortKuhn15",
+    "BundesligaKuhn"
+  ],
+  "favorite_hobby": "tatort"
+}

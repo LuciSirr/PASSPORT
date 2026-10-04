@@ -1,0 +1,34 @@
+{
+  "id": "d767b4fa-fdc4-446b-9f74-20e768729bec",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "single/in a relationship",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Kohout",
+  "birth_date": "1999-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "cestování",
+    "fotbal",
+    "kfc menu"
+  ],
+  "pets": [],
+  "company": "Hradecká výroba s.r.o.",
+  "previous_passwords": [
+    "Matej1999",
+    "Kohout120",
+    "cestovani2022",
+    "fotbal123",
+    "KFCmenu!99",
+    "hradec2020",
+    "Kohout!17",
+    "cestovaniKohout",
+    "f0tb4l2021"
+  ],
+  "favorite_hobby": "cestování"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a66459d8-321c-4e9d-9201-9a70732b75b8",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Polestar",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "photography"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "NorthWest Support Solutions",
+  "previous_passwords": [
+    "Baxter2020",
+    "Callum34!",
+    "Hollingsworth123",
+    "Travel4Life",
+    "Polestar2_2024",
+    "CyclingNW",
+    "Baxter!1",
+    "PhotoAdventure",
+    "NorthWest2022"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1991-04-21"
+}

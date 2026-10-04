@@ -1,0 +1,37 @@
+{
+  "id": "305e8693-6754-4213-bf8d-1b0301fa7394",
+  "gender": "female",
+  "age": 52,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Renault",
+  "self_first_name": "Iveta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Šebesta",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "čtení",
+    "móda",
+    "vinted",
+    "malování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Iveta52",
+    "Kangoo2003",
+    "Móda2024",
+    "Kaufland801",
+    "RenaultVan",
+    "Petr2020",
+    "Vinted123",
+    "Malovani!22",
+    "Sebestova1972",
+    "Tesco_691"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1974-02-03"
+}

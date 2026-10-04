@@ -1,0 +1,35 @@
+{
+  "id": "7d1d81bb-fa4a-4474-81a0-4ccad1edced3",
+  "age": 29,
+  "birth_date": "1997-08-27",
+  "marital_status": "single",
+  "region": "Český Dub",
+  "nationality": "czech",
+  "company": "Kučerová v.o.s.",
+  "car_brand": "Citroën",
+  "self_first_name": "Drahoslava",
+  "self_last_name": "Čechová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "turistika",
+    "deskové hry",
+    "hudba - indie",
+    "cestování"
+  ],
+  "previous_passwords": [
+    "Messi2019Turistika",
+    "CitroenDeskovka1997",
+    "IndieHudbaDrahoslava",
+    "CeskyDubFotbal!",
+    "TuristikaMessi_97",
+    "MessiCestovani29",
+    "IndieHudbaCitroen",
+    "FotbalDrahoslava",
+    "DeskovkaCitroen20",
+    "MessiTuristika!"
+  ]
+}

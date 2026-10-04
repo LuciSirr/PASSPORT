@@ -1,0 +1,35 @@
+{
+  "id": "60501c78-5cd6-4b57-b1bc-39e2771deb4e",
+  "gender": "male",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "bremen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krahl",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gaming",
+    "fussball",
+    "musik"
+  ],
+  "pets": [],
+  "company": "Krahl Jugendberatung Bremen",
+  "previous_passwords": [
+    "Lennart2007",
+    "Krahl123",
+    "Bremen17!",
+    "Fussball_04",
+    "Musik4Life",
+    "Gaming2021",
+    "Krahl!Bremen",
+    "Lenni_3000",
+    "Jugendberatung17",
+    "Sommer2022"
+  ],
+  "favorite_hobby": "gaming",
+  "birth_date": "2008-06-01"
+}

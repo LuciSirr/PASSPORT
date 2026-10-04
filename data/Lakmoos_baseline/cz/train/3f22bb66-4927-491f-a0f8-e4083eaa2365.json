@@ -1,0 +1,36 @@
+{
+  "id": "3f22bb66-4927-491f-a0f8-e4083eaa2365",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "Ford",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": "Lucie",
+  "partner_last_name": "Šebestová",
+  "children": [],
+  "interests": [
+    "auta",
+    "hudba",
+    "turistika",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "AutoServis Zlín",
+  "previous_passwords": [
+    "Radek1999",
+    "Lucie2020",
+    "FordFocus18",
+    "Zlin9000",
+    "Kofola123",
+    "Turistika2022",
+    "Hudba!99",
+    "Auta_321",
+    "Mattoni2020",
+    "AirbankCZ"
+  ],
+  "favorite_hobby": "auta",
+  "birth_date": "2002-10-14"
+}

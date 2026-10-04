@@ -1,0 +1,35 @@
+{
+  "id": "140458cc-f1b5-41a5-88b6-a795dc7aed0b",
+  "age": 25,
+  "birth_date": "2001-04-12",
+  "marital_status": "divorced",
+  "region": "Kouřim",
+  "nationality": "czech",
+  "company": "Veselý Konečná k.s.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Františka",
+  "self_last_name": "Kadlecová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hudba (Kapela: Bohemian Rhapsody)",
+    "cestování",
+    "turistika",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "BohemianRhapsody2001",
+    "MessiKourimHiking",
+    "HyundaiTuristika25",
+    "KadlecovaBohemian!",
+    "HudbaTuristika_2012",
+    "MessiFotbalFrantiska",
+    "BohemianRhapsody_12",
+    "HyundaiCestovani!",
+    "KadlecovaTuristika",
+    "BohemianRhapsody23"
+  ]
+}

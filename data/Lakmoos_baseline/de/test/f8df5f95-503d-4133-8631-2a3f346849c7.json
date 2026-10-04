@@ -1,0 +1,47 @@
+{
+  "id": "f8df5f95-503d-4133-8631-2a3f346849c7",
+  "gender": "female",
+  "age": 44,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Peugeot",
+  "self_first_name": "Katrin",
+  "self_last_name": "Schulte",
+  "birth_date": "1980-06-14",
+  "partner_first_name": "Markus",
+  "partner_last_name": "Schulte",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Schulte"
+    },
+    {
+      "first_name": "Jonas",
+      "last_name": "Schulte"
+    },
+    {
+      "first_name": "Marlene",
+      "last_name": "Schulte"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "audiobooks"
+  ],
+  "pets": [],
+  "company": "NRW Gründerberatung Schulte",
+  "previous_passwords": [
+    "Lena2012",
+    "Tatort!44",
+    "SchulteNRW123",
+    "Jonas_2017",
+    "Marlene14",
+    "audiobooks2023",
+    "KatrinMarkus80",
+    "Schulte!NRW",
+    "Tatort_1980",
+    "LenaJonas12"
+  ],
+  "favorite_hobby": "tatort"
+}

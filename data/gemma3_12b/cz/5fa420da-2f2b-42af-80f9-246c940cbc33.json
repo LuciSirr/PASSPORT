@@ -1,0 +1,48 @@
+{
+  "id": "5fa420da-2f2b-42af-80f9-246c940cbc33",
+  "age": 52,
+  "birth_date": "1974-01-22",
+  "marital_status": "divorced",
+  "region": "Oloví",
+  "nationality": "czech",
+  "company": "Staněk o.s.",
+  "car_brand": "Hyundai",
+  "self_first_name": "Naděžda",
+  "self_last_name": "Bláhová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "David",
+      "last_name": "Bláha"
+    },
+    {
+      "first_name": "Miloslav",
+      "last_name": "Bláha"
+    },
+    {
+      "first_name": "Šimon",
+      "last_name": "Bláha"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "folklorní tance",
+    "pivo",
+    "lokální historie"
+  ],
+  "previous_passwords": [
+    "DavidSimona1974",
+    "HyundaiTuristika22",
+    "FolklorníTanceMil",
+    "RybarSima_Expedition",
+    "BlahaDavidPivo1990",
+    "OloviHistoryFish!",
+    "ŠimonTuristika!",
+    "HyundaiDavid74",
+    "Miloslav_Folklore",
+    "BlahaDavidRybar"
+  ]
+}

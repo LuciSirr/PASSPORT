@@ -1,0 +1,40 @@
+{
+  "id": "c98e308c-38f7-495b-a353-447074fbb615",
+  "age": 51,
+  "birth_date": "1975-12-02",
+  "marital_status": "divorced",
+  "region": "Berchtesgaden",
+  "nationality": "german",
+  "company": "Butte",
+  "car_brand": "Mercedes-Benz",
+  "self_first_name": "Dennis",
+  "self_last_name": "Lorch",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "hamster",
+      "pet_name": "Henni"
+    }
+  ],
+  "interests": [
+    "Wandern in den Alpen",
+    "Bergsteigen",
+    "Skifahren",
+    "Bayerische Küche",
+    "FC Bayern München"
+  ],
+  "previous_passwords": [
+    "Watzmann75!",
+    "Alpen2025",
+    "Ski2026_Dennis",
+    "Bayern75!",
+    "Mercedeshamster1",
+    "Berchtesgaden02",
+    "Kaiserschmarrn51",
+    "HikeWatzmann2",
+    "Henni_1975",
+    "FCBayern51!"
+  ]
+}

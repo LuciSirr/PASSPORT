@@ -1,0 +1,32 @@
+{
+  "id": "6c4651cf-55af-48ca-a788-d9b8c0387181",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "married",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gareth",
+  "self_last_name": "Mawson",
+  "partner_first_name": "Leanne",
+  "partner_last_name": "Mawson",
+  "children": [],
+  "interests": [
+    "football",
+    "fishing"
+  ],
+  "pets": [],
+  "company": "Humber Auto Spares",
+  "previous_passwords": [
+    "Gareth1995",
+    "Leanne21",
+    "Mawson3000",
+    "Fishing123",
+    "HullCity!",
+    "Football_95",
+    "LeanneGareth",
+    "Mawson!21"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "1996-12-17"
+}

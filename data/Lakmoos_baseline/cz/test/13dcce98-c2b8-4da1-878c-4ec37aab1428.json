@@ -1,0 +1,39 @@
+{
+  "id": "13dcce98-c2b8-4da1-878c-4ec37aab1428",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1977-05-14",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Kohoutová",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Kohout"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "star wars"
+  ],
+  "pets": [],
+  "company": "Pražská technická kancelář s.r.o.",
+  "previous_passwords": [
+    "Radek1977",
+    "Mat3j2023",
+    "KohoutStarWars",
+    "Petra14.5",
+    "Praha123",
+    "cestovani2020",
+    "StarWars77",
+    "Matěj!23",
+    "KohoutPetra77",
+    "StarW4rs1977"
+  ],
+  "favorite_hobby": "cestování"
+}

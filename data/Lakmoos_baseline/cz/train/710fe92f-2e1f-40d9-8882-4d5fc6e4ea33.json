@@ -1,0 +1,36 @@
+{
+  "id": "710fe92f-2e1f-40d9-8882-4d5fc6e4ea33",
+  "gender": "female",
+  "age": 57,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Ivana",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "interests": [
+    "cestování",
+    "četba",
+    "nakupování",
+    "vzdělávání"
+  ],
+  "pets": [],
+  "company": "Základní škola Brno",
+  "previous_passwords": [
+    "Vesela1967",
+    "lidlka53",
+    "ucitelkaBrno",
+    "kofolabez2022",
+    "zasilkovna1",
+    "Petr1965",
+    "Brno!2023",
+    "Cestovani123",
+    "Knihy2020",
+    "VeselaPetr67"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "1968-04-20"
+}

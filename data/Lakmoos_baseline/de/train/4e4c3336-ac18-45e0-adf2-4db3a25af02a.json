@@ -1,0 +1,35 @@
+{
+  "id": "4e4c3336-ac18-45e0-adf2-4db3a25af02a",
+  "gender": "female",
+  "age": 52,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Katrin",
+  "self_last_name": "Schreiner",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "wandern",
+    "fotografie",
+    "reisen"
+  ],
+  "pets": [],
+  "company": "Rheinland Businessberatung",
+  "previous_passwords": [
+    "Katrin1972",
+    "Schreiner123",
+    "Rheinland!2020",
+    "Wandern2022",
+    "Fotografie_77",
+    "Sommer!NRW",
+    "K4tr1n!",
+    "ReisenSept",
+    "Business2021",
+    "Schreiner!77"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1974-02-14"
+}

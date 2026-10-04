@@ -1,0 +1,34 @@
+{
+  "id": "b4816372-189e-4157-914e-bac27ea75862",
+  "gender": "female",
+  "age": 26,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Barbora",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "procházky",
+    "plavání",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Barca1998",
+    "Vesela26",
+    "Kofola123",
+    "Morava2020",
+    "dmOblibena",
+    "Kaufland2022",
+    "Plavani321",
+    "Prochazka98",
+    "Serialy!26"
+  ],
+  "favorite_hobby": "procházky",
+  "birth_date": "1999-05-01"
+}

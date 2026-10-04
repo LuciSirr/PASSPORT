@@ -1,0 +1,33 @@
+{
+  "id": "f6ce8e6e-3267-43c6-9db1-a8bb5523c2b2",
+  "gender": "male",
+  "age": 14,
+  "marital_status": "single/in a relationship",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Elliot",
+  "self_last_name": "Hollings",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "arsenal fc",
+    "stranger things"
+  ],
+  "pets": [],
+  "company": "Urban Youth Services",
+  "previous_passwords": [
+    "Hollings2009",
+    "Arsenal123",
+    "StrangerThings17",
+    "Elliot_04",
+    "Gunners!09",
+    "Hollings!fc",
+    "Demogorgon7",
+    "London_Arsenal",
+    "ElliotST2023"
+  ],
+  "favorite_hobby": "arsenal fc",
+  "birth_date": "2009-04-17"
+}

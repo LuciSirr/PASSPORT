@@ -1,0 +1,40 @@
+{
+  "id": "7597ce67-c6bd-45f3-926d-f78c413a27c1",
+  "gender": "female",
+  "age": 43,
+  "marital_status": "widower/widow",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "Cupra",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reading",
+    "gardening",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Imogen1981",
+    "MiloCat21",
+    "Hollingsworth123",
+    "Reading4Life",
+    "Yorkshire2022",
+    "Gardening!88",
+    "CupraBorn3",
+    "Milo_81",
+    "Walking123",
+    "Im0g3n!"
+  ],
+  "favorite_hobby": "reading",
+  "birth_date": "1982-09-09"
+}

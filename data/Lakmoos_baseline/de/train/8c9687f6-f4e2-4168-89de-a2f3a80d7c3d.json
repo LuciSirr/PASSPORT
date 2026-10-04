@@ -1,0 +1,35 @@
+{
+  "id": "8c9687f6-f4e2-4168-89de-a2f3a80d7c3d",
+  "gender": "male",
+  "age": 49,
+  "marital_status": "married",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Honda",
+  "self_first_name": "Jörg",
+  "self_last_name": "Krausmann",
+  "partner_first_name": "Sabine",
+  "partner_last_name": "Krausmann",
+  "children": [],
+  "interests": [
+    "wandern",
+    "krimis",
+    "autos"
+  ],
+  "pets": [],
+  "company": "ImmoService Rhein-Ruhr",
+  "previous_passwords": [
+    "Joerg1975",
+    "Sabine123",
+    "Krausmann!4",
+    "Honda2024",
+    "ImmoRhein88",
+    "Wandern2020",
+    "KrimiFan77",
+    "SabineJörg",
+    "Ruhrgebiet1",
+    "Sommer!75"
+  ],
+  "favorite_hobby": "wandern",
+  "birth_date": "1977-01-16"
+}

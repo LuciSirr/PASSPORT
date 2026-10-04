@@ -1,0 +1,34 @@
+{
+  "id": "afe661a7-5b57-49d5-9856-71d4a6d1e602",
+  "gender": "male",
+  "age": 19,
+  "marital_status": "single/in a relationship",
+  "region": "west midlands",
+  "nationality": "british",
+  "car_brand": "Renault",
+  "self_first_name": "Callum",
+  "self_last_name": "Ashcroft",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "fifa",
+    "top gear"
+  ],
+  "pets": [],
+  "company": "West Midlands Student Services",
+  "previous_passwords": [
+    "Callum2005",
+    "AshcroftFIFA21",
+    "TopGear17!",
+    "Sophie123",
+    "Fifa!2022",
+    "WestMidlands05",
+    "SophieFifa05",
+    "Ashcroft!17",
+    "TopGear_2005",
+    "FifaSophie21"
+  ],
+  "favorite_hobby": "fifa",
+  "birth_date": "2005-03-17"
+}

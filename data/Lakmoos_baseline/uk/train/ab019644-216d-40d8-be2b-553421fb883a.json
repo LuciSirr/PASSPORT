@@ -1,0 +1,39 @@
+{
+  "id": "ab019644-216d-40d8-be2b-553421fb883a",
+  "gender": "male",
+  "age": 76,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Subaru",
+  "self_first_name": "Geoffrey",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Margaret",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "gardening",
+    "walking",
+    "crosswords"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Buster"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Geoffrey1948",
+    "Margaret76",
+    "Buster123",
+    "Hollis2014",
+    "Gardening!1",
+    "Crosswords22",
+    "Forester2019",
+    "Walking_48",
+    "SouthWest10"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1949-09-18"
+}

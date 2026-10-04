@@ -1,0 +1,35 @@
+{
+  "id": "ba03bb81-c76c-42b4-aa1b-653fca0338db",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "married",
+  "region": "scotland",
+  "nationality": "british",
+  "car_brand": "Peugeot",
+  "self_first_name": "Fiona",
+  "self_last_name": "Macallister",
+  "partner_first_name": "Alistair",
+  "partner_last_name": "Macallister",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "hiking"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Fiona1989",
+    "Macallister65",
+    "Alistair2023",
+    "Travel123",
+    "Reading4Life",
+    "Peugeot208!",
+    "Scotland_89",
+    "Hiking2022",
+    "Fiona&Alistair",
+    "Wedding2023"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1993-11-09"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "9beded15-db64-45b9-a4b6-e362d0394257",
+  "age": 24,
+  "birth_date": "2002-06-17",
+  "marital_status": "married",
+  "region": "Vechta",
+  "nationality": "german",
+  "company": "Zimmer",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Heide",
+  "self_last_name": "Jähn",
+  "partner_first_name": "Hans-Hermann",
+  "partner_last_name": "Staude",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "bird",
+      "pet_name": "Eva-Maria"
+    }
+  ],
+  "interests": [
+    "Fußball",
+    "Fitnessstudio",
+    "Gaming",
+    "Elektro-Musik",
+    "Reisen"
+  ],
+  "previous_passwords": [
+    "Bayern2002!",
+    "VfLVechta24",
+    "HansiStaude17",
+    "Volkswagen02",
+    "EvaMariaBird7",
+    "MessiFitness02",
+    "GamingHeide24",
+    "EDM_Vechta02",
+    "ReiseWolf24!",
+    "Hannover96Heide"
+  ]
+}

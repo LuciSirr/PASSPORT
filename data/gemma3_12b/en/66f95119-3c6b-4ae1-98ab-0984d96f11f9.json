@@ -1,0 +1,44 @@
+{
+  "id": "66f95119-3c6b-4ae1-98ab-0984d96f11f9",
+  "age": 23,
+  "birth_date": "2003-06-29",
+  "marital_status": "married",
+  "region": "Katymouth",
+  "nationality": "english",
+  "company": "Clarke LLC",
+  "car_brand": "MG",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Harrison",
+  "partner_first_name": "Deborah",
+  "partner_last_name": "Harrison",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Christine"
+    },
+    {
+      "pet_type": "cat",
+      "pet_name": "Roy"
+    }
+  ],
+  "interests": [
+    "Video Games",
+    "Hiking",
+    "Indie Music",
+    "Photography",
+    "Local Brewery Scene"
+  ],
+  "previous_passwords": [
+    "RoyChristine23!",
+    "MGHiking2003",
+    "IndieBreweryMH",
+    "MessiKatymouth!",
+    "Phot0graphyDH",
+    "VintageGaming06",
+    "DeborahRoy!",
+    "KatymouthPhoto29",
+    "R0yMG!",
+    "IndieTrails2003"
+  ]
+}

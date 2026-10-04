@@ -1,0 +1,40 @@
+{
+  "id": "3dfbe001-29e2-41da-8358-3942733ed4a1",
+  "age": 45,
+  "birth_date": "1981-03-24",
+  "marital_status": "single",
+  "region": "Forchheim",
+  "nationality": "german",
+  "company": "Gorlitz",
+  "car_brand": "Peugeot",
+  "self_first_name": "Andrej",
+  "self_last_name": "Stolze",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Liselotte"
+    }
+  ],
+  "interests": [
+    "Wandern in der Fränkischen Schweiz",
+    "Biergärten",
+    "Fußball",
+    "Gärtnern",
+    "Kochen"
+  ],
+  "previous_passwords": [
+    "Wandern24!",
+    "Liselotte81",
+    "FrankenBier87",
+    "PeugeotForchheim",
+    "FCBayern24",
+    "LiselotteGarten1",
+    "Kochen1981!",
+    "FranenkSchweiz45",
+    "Biergarten_24",
+    "FussballPeugeot7"
+  ]
+}

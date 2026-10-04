@@ -1,0 +1,40 @@
+{
+  "id": "6cb54c67-05e2-4c61-80bd-babf706aa709",
+  "gender": "male",
+  "age": 53,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Audi",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollingworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "walking",
+    "photography"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Eastgate Advisory Ltd",
+  "previous_passwords": [
+    "Graham1969",
+    "Baxter17",
+    "Eastgate123",
+    "Travel4Fun!",
+    "Fiona2020",
+    "Hollingworth!",
+    "AudiA3_45",
+    "Walking2022",
+    "Baxter_69",
+    "Phot0graphy!"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1972-10-26"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "741d95a5-181f-47a3-86a0-7d6497d62302",
+  "gender": "female",
+  "age": 73,
+  "marital_status": "married",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Honda",
+  "self_first_name": "Hannelore",
+  "self_last_name": "Kleinschmidt",
+  "partner_first_name": "Gerhard",
+  "partner_last_name": "Kleinschmidt",
+  "children": [],
+  "interests": [
+    "aquarellmalerei",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Hannelore1951",
+    "Gerhard123",
+    "Honda2023",
+    "Kleinschmidt07",
+    "Gartenliebe!",
+    "Sommer51",
+    "Aquarell2020",
+    "O2Internet",
+    "BKK_2000",
+    "Hessen!73"
+  ],
+  "favorite_hobby": "aquarellmalerei",
+  "birth_date": "1952-06-13"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "c2374007-25d4-4e3a-9d2d-bacc3f1891d7",
+  "age": 59,
+  "birth_date": "1967-03-12",
+  "marital_status": "single",
+  "region": "Luhačovice",
+  "nationality": "czech",
+  "company": "Fialová a.s.",
+  "car_brand": "Peugeot",
+  "self_first_name": "Olga",
+  "self_last_name": "Pokorná",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Dagmar"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Gabriela"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěstitelství",
+    "moravské víno",
+    "regionální historie"
+  ],
+  "previous_passwords": [
+    "MoravskyVin_1967",
+    "DagmarPeugeot2023",
+    "TuristikaLuhačovice",
+    "GabrielaRybářství",
+    "PěstitelstvíOlga",
+    "RegionHist_67",
+    "Peugeot_Morava",
+    "RybarstvíDagmars",
+    "Turistika_1967",
+    "MoravskyVin_GP"
+  ]
+}

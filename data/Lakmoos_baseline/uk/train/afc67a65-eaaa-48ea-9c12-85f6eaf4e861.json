@@ -1,0 +1,39 @@
+{
+  "id": "afc67a65-eaaa-48ea-9c12-85f6eaf4e861",
+  "gender": "female",
+  "age": 9,
+  "marital_status": "single/in a relationship",
+  "region": "yorkshire and the humbers",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Whittaker",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "reading",
+    "football"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "Yorkshire Study Buddies",
+  "previous_passwords": [
+    "Imogen2015",
+    "Mittens123",
+    "Wh1ttaker9",
+    "Drawing4Fun",
+    "LeedsUtd07",
+    "ReadingRocks!",
+    "Mittens2018",
+    "ImoCat22",
+    "StudyBuddy9"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2017-01-08"
+}

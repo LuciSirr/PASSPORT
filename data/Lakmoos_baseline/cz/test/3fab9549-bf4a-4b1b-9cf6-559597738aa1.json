@@ -1,0 +1,35 @@
+{
+  "id": "3fab9549-bf4a-4b1b-9cf6-559597738aa1",
+  "gender": "male",
+  "age": 25,
+  "marital_status": "married",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1999-06-15",
+  "partner_first_name": "Tereza",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "f1",
+    "netflix",
+    "ikea"
+  ],
+  "pets": [],
+  "company": "Strojírny Beroun s.r.o.",
+  "previous_passwords": [
+    "Radek1999",
+    "KohoutF1",
+    "Tereza15",
+    "f1netflix2023",
+    "Ikea_123",
+    "Kohout!99",
+    "TerezaKohout2024",
+    "f1Kohout",
+    "RadekIkea",
+    "netflix2022"
+  ],
+  "favorite_hobby": "f1"
+}

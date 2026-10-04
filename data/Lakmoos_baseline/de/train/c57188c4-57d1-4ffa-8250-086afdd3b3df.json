@@ -1,0 +1,34 @@
+{
+  "id": "c57188c4-57d1-4ffa-8250-086afdd3b3df",
+  "gender": "female",
+  "age": 17,
+  "marital_status": "single/in a relationship",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Kreutzmann",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "zeichnen",
+    "lesen",
+    "joggen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lina2007",
+    "Berlin17",
+    "Kreutzmann123",
+    "Zeichnen_07",
+    "Vodafone!",
+    "Joggen2024",
+    "Lesen4ever",
+    "Lina_Berlin",
+    "Kreutzmann07"
+  ],
+  "favorite_hobby": "zeichnen",
+  "birth_date": "2009-01-31"
+}

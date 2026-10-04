@@ -1,0 +1,40 @@
+{
+  "id": "0f942302-9a41-40da-aabb-4631dcf10e5b",
+  "gender": "female",
+  "age": 48,
+  "marital_status": "divorced",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Gillian",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "walking",
+    "gardening",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "Northwest Care Solutions",
+  "previous_passwords": [
+    "Misty2015",
+    "Gillian48",
+    "Hollingworth123",
+    "Gardening4Life",
+    "Reading!22",
+    "Northwest2020",
+    "MistyCat!",
+    "Walking_99",
+    "G1llian2024",
+    "Misty_Holling"
+  ],
+  "favorite_hobby": "walking",
+  "birth_date": "1977-09-19"
+}

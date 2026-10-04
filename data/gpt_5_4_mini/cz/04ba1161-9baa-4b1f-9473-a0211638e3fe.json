@@ -1,0 +1,48 @@
+{
+  "id": "04ba1161-9baa-4b1f-9473-a0211638e3fe",
+  "age": 48,
+  "birth_date": "1978-04-16",
+  "marital_status": "married",
+  "region": "Blatná",
+  "nationality": "czech",
+  "company": "Vlček Tichý s.r.o.",
+  "car_brand": "Toyota",
+  "self_first_name": "Roman",
+  "self_last_name": "Kolář",
+  "partner_first_name": "Magdaléna",
+  "partner_last_name": "Kolářová",
+  "children": [
+    {
+      "first_name": "Vilém",
+      "last_name": "Kolář"
+    },
+    {
+      "first_name": "Vít",
+      "last_name": "Kolář"
+    },
+    {
+      "first_name": "Viktor",
+      "last_name": "Kolář"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "chalupaření",
+    "kutilství",
+    "pivní kultura"
+  ],
+  "previous_passwords": [
+    "Turistika78!",
+    "Chalupa2024",
+    "Zahrada16_",
+    "Kutilstvi48",
+    "PivoBlatna78",
+    "ToyotaVilem78",
+    "MagdaHike16",
+    "BlatnaHome48",
+    "BeerGarden78!",
+    "ViktorDIY24"
+  ]
+}

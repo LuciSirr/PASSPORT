@@ -1,0 +1,35 @@
+{
+  "id": "556b82dd-a6d9-4567-9af5-d147c33a281e",
+  "age": 41,
+  "birth_date": "1985-12-27",
+  "marital_status": "divorced",
+  "region": "Bautzen",
+  "nationality": "german",
+  "company": "Tlustek",
+  "car_brand": "BMW",
+  "self_first_name": "Nelli",
+  "self_last_name": "Henck",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern in der Oberlausitz",
+    "Fußball",
+    "Kochen",
+    "Gartenarbeit",
+    "Sächsische Schweiz"
+  ],
+  "previous_passwords": [
+    "Wander2025!",
+    "Bautzen85!",
+    "BMW_1985",
+    "Messi27_OL",
+    "Kochen41!",
+    "Schweiz_12",
+    "Hertha85!",
+    "Garten27#",
+    "Oberlausitz7",
+    "Nelli_BMW41"
+  ]
+}

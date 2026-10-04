@@ -1,0 +1,40 @@
+{
+  "id": "0174d3f1-3c1f-4bf6-932e-4588d156d65b",
+  "gender": "male",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "malování",
+    "lego",
+    "pohádky"
+  ],
+  "pets": [
+    {
+      "pet_type": "other",
+      "pet_name": "Králík"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej2018",
+    "auticka123",
+    "zlinkralik",
+    "skolka2024",
+    "Kralik2020",
+    "lego123",
+    "Vesely6",
+    "malovani2022",
+    "Pohadky!",
+    "Matej_králík"
+  ],
+  "favorite_hobby": "malování",
+  "birth_date": "2020-03-16"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "82ccab5f-25d0-489a-872e-78866ea8c3f5",
+  "gender": "male",
+  "age": 66,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Land Rover",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "cricket",
+    "travelling"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Northwest Venture Solutions",
+  "previous_passwords": [
+    "Graham1958",
+    "Elaine66",
+    "Baxter123",
+    "Defender2020",
+    "Hollingsworth1",
+    "Cricket4Life",
+    "Northwest2023",
+    "Gardening!",
+    "Fiat500_15",
+    "Baxter!58"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1959-08-27"
+}

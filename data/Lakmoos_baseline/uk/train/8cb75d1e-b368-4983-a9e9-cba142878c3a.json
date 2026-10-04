@@ -1,0 +1,35 @@
+{
+  "id": "8cb75d1e-b368-4983-a9e9-cba142878c3a",
+  "gender": "male",
+  "age": 37,
+  "marital_status": "married",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Volvo",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollingworth",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollingworth",
+  "children": [],
+  "interests": [
+    "hiking",
+    "photography",
+    "travelling"
+  ],
+  "pets": [],
+  "company": "South Downs Engineering Consultants",
+  "previous_passwords": [
+    "Volvo2011",
+    "Rachel37!",
+    "Hollingworth16",
+    "XC60Hybrid",
+    "SouthDowns123",
+    "Gareth_1987",
+    "Adventure4Life",
+    "Wedding2024",
+    "TrunkSpace!",
+    "Hiking_304"
+  ],
+  "favorite_hobby": "hiking",
+  "birth_date": "1989-02-19"
+}

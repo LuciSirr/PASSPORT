@@ -1,0 +1,38 @@
+{
+  "id": "741fbab8-7d62-4d5e-9253-1ecffeb51f9e",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "hamburg",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Kuhn",
+  "birth_date": "2018-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "bibi und tina",
+    "paw patrol"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mimi"
+    }
+  ],
+  "company": "KinderCampus Hamburg",
+  "previous_passwords": [
+    "Lina2018",
+    "Mimi123",
+    "BibiTina2023",
+    "KuhnMimi!",
+    "pawpatrol_18",
+    "HamburgKuhn",
+    "MimiBibi10",
+    "bibiundtina_06",
+    "LinaMimi2022"
+  ],
+  "favorite_hobby": "bibi und tina"
+}

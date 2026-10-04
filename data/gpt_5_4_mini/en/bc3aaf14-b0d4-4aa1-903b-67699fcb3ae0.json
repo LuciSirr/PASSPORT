@@ -1,0 +1,35 @@
+{
+  "id": "bc3aaf14-b0d4-4aa1-903b-67699fcb3ae0",
+  "age": 28,
+  "birth_date": "1998-04-05",
+  "marital_status": "single",
+  "region": "North Phillip",
+  "nationality": "english",
+  "company": "Frost PLC",
+  "car_brand": "BMW",
+  "self_first_name": "Sally",
+  "self_last_name": "Savage",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "gaming",
+    "fitness",
+    "streaming TV series",
+    "coffee culture",
+    "travel"
+  ],
+  "previous_passwords": [
+    "SallyBMW98!",
+    "ApexSally05",
+    "Coffee98_Sally",
+    "NetflixSavage5",
+    "BMW_Travel28",
+    "ValorantSavage98",
+    "SallyFit05!",
+    "NordicBMW98",
+    "StreamSally05",
+    "Latte98Savage"
+  ]
+}

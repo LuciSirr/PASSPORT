@@ -1,0 +1,44 @@
+{
+  "id": "b8222e2c-de40-49cf-baba-c7a320d685e1",
+  "age": 49,
+  "birth_date": "1977-11-04",
+  "marital_status": "married",
+  "region": "Králův Dvůr",
+  "nationality": "czech",
+  "company": "Staněk",
+  "car_brand": "Škoda",
+  "self_first_name": "Vanda",
+  "self_last_name": "Stejskalová",
+  "partner_first_name": "Felix",
+  "partner_last_name": "Stejskalová",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Otýlie"
+    },
+    {
+      "pet_type": "ferret",
+      "pet_name": "Bohuslav"
+    }
+  ],
+  "interests": [
+    "hokej",
+    "turistika",
+    "zahradničení",
+    "vaření",
+    "české filmy"
+  ],
+  "previous_passwords": [
+    "Hokej1977!",
+    "Turistika11",
+    "Zahrada4Vanda",
+    "Vareni_77",
+    "Ceskefilmy49",
+    "SkodaOtylie7",
+    "FelixHokej!",
+    "Bohuslav77",
+    "KraluvDvur24",
+    "Stejskalova11"
+  ]
+}

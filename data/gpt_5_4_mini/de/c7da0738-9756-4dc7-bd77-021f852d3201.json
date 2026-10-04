@@ -1,0 +1,35 @@
+{
+  "id": "c7da0738-9756-4dc7-bd77-021f852d3201",
+  "age": 58,
+  "birth_date": "1968-09-25",
+  "marital_status": "married",
+  "region": "Eisleben",
+  "nationality": "german",
+  "company": "Kranz",
+  "car_brand": "Audi",
+  "self_first_name": "Hannes",
+  "self_last_name": "Wende",
+  "partner_first_name": "Anette",
+  "partner_last_name": "Klingelhöfer",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Wandern im Harz",
+    "Gartenarbeit",
+    "Fußball",
+    "Klassische Musik",
+    "Regionalgeschichte Sachsen-Anhalt"
+  ],
+  "previous_passwords": [
+    "HarzWandern68",
+    "AudiEisleben25",
+    "Klingel11Harz",
+    "Fußball1968!",
+    "AnetteGarten58",
+    "MansfeldHarz68",
+    "BachClassic58",
+    "SachsenAnhalt25",
+    "Wende_Audi68",
+    "Garten!25Hannes"
+  ]
+}

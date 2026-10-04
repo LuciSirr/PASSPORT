@@ -1,0 +1,35 @@
+{
+  "id": "750a74d4-01ce-43aa-8e57-2bd8be4785dd",
+  "age": 73,
+  "birth_date": "1953-07-13",
+  "marital_status": "single",
+  "region": "Podivín",
+  "nationality": "czech",
+  "company": "Fišer",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Horymír",
+  "self_last_name": "Tichý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "zahradničení",
+    "rybaření",
+    "moravská vína",
+    "historie Podivína"
+  ],
+  "previous_passwords": [
+    "MoravaHistorie1953",
+    "VolkswagenRybar73",
+    "TuristikaPodivin!",
+    "ZahradniVinice2024",
+    "HorymirVW_13",
+    "RybarskyKlub7",
+    "MoravskaVinaHorym",
+    "PodivinHist_73",
+    "Turistika1953!",
+    "Zahrada_Rybar"
+  ]
+}

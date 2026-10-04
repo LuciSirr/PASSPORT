@@ -1,0 +1,35 @@
+{
+  "id": "242d1592-f8b5-4d23-89b0-82e44d093067",
+  "gender": "male",
+  "age": 32,
+  "marital_status": "single/in a relationship",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1992-06-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "stranger things",
+    "turistika"
+  ],
+  "pets": [],
+  "company": "Moravská Strojírna s.r.o.",
+  "previous_passwords": [
+    "Radek1992",
+    "Kohout123",
+    "stranger11",
+    "fotbal2020",
+    "turistika_92",
+    "Kohout!fotbal",
+    "Radek!14",
+    "strangerthings92",
+    "Morava2023",
+    "KohoutFotbal11"
+  ],
+  "favorite_hobby": "fotbal"
+}

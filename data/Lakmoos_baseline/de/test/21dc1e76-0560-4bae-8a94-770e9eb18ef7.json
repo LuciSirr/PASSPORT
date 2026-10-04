@@ -1,0 +1,43 @@
+{
+  "id": "21dc1e76-0560-4bae-8a94-770e9eb18ef7",
+  "gender": "female",
+  "age": 54,
+  "marital_status": "married",
+  "region": "berlin",
+  "nationality": "german",
+  "car_brand": "Fiat",
+  "self_first_name": "Katrin",
+  "self_last_name": "Kuhn",
+  "birth_date": "1970-06-15",
+  "partner_first_name": "Thomas",
+  "partner_last_name": "Kuhn",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Kuhn"
+    },
+    {
+      "first_name": "Jonas",
+      "last_name": "Kuhn"
+    }
+  ],
+  "interests": [
+    "tatort",
+    "nordic walking"
+  ],
+  "pets": [],
+  "company": "Berliner Kreativberatung Kuhn",
+  "previous_passwords": [
+    "Lena2011",
+    "Jonas2018",
+    "TatortKuhn!",
+    "Berlin_1970",
+    "Nordic123",
+    "KuhnLena15",
+    "Kreativ2020",
+    "ThomasKuhn06",
+    "Tat0rt!2022",
+    "LenaJonas06"
+  ],
+  "favorite_hobby": "tatort"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "62400992-26e0-4504-9e32-75818e27fe20",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "single/in a relationship",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Harriet",
+  "self_last_name": "Merrick",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Bennett",
+  "children": [],
+  "interests": [
+    "great british bake off",
+    "travel blogging",
+    "yoga"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Westway Ventures",
+  "previous_passwords": [
+    "Milo2018",
+    "BakeOff!92",
+    "HarrietYoga123",
+    "Westway2020",
+    "TravelCat14",
+    "MerrickBake0ff",
+    "GBBO_Milo",
+    "YogaOliver92",
+    "Bennett!123"
+  ],
+  "favorite_hobby": "great british bake off",
+  "birth_date": "1992-07-14"
+}

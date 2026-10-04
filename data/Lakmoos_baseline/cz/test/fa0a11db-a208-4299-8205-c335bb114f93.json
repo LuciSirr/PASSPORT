@@ -1,0 +1,34 @@
+{
+  "id": "fa0a11db-a208-4299-8205-c335bb114f93",
+  "gender": "male",
+  "age": 67,
+  "marital_status": "married",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Kohout",
+  "birth_date": "1957-06-12",
+  "partner_first_name": "Jana",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "cestování",
+    "český film"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1957",
+    "Kohout123",
+    "Jana1957",
+    "cestovani2020",
+    "ceskyfilm_67",
+    "KohoutJana12",
+    "Brno1975",
+    "filmKohout57",
+    "Kohout!2024",
+    "cestovaniKohout"
+  ],
+  "favorite_hobby": "cestování"
+}

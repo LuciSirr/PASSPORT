@@ -1,0 +1,35 @@
+{
+  "id": "20cc389a-fb2a-4e19-b90f-ab4eaa8ea7a5",
+  "age": 37,
+  "birth_date": "1989-05-04",
+  "marital_status": "married",
+  "region": "Calau",
+  "nationality": "german",
+  "company": "Freudenberger Gerlach AG",
+  "car_brand": "Skoda",
+  "self_first_name": "Sarah",
+  "self_last_name": "Dobes",
+  "partner_first_name": "Rafael",
+  "partner_last_name": "Dobes",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Gärtnern",
+    "Kochen",
+    "Wandern"
+  ],
+  "previous_passwords": [
+    "Messi1989!",
+    "SkodaRadtour7",
+    "Rafael_89",
+    "Kochen4You",
+    "WandernCalau8",
+    "Bayern89!",
+    "Garten24!",
+    "Fahrrad_Sarah7",
+    "Hiking89R",
+    "FußballDobes4"
+  ]
+}

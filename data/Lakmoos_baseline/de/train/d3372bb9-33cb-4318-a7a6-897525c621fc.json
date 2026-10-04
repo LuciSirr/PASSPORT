@@ -1,0 +1,44 @@
+{
+  "id": "d3372bb9-33cb-4318-a7a6-897525c621fc",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Heike",
+  "self_last_name": "Krause",
+  "partner_first_name": "Jörg",
+  "partner_last_name": "Krause",
+  "children": [
+    {
+      "first_name": "Lena",
+      "last_name": "Krause"
+    },
+    {
+      "first_name": "Max",
+      "last_name": "Krause"
+    }
+  ],
+  "interests": [
+    "lesen",
+    "wandern",
+    "kochen"
+  ],
+  "pets": [],
+  "company": "Nordlicht Management GmbH",
+  "previous_passwords": [
+    "Heike1963",
+    "Lena2011",
+    "Max2015",
+    "Krause123",
+    "Jörg!63",
+    "Sommerurlaub2023",
+    "Nordlicht_3000",
+    "Wandern4ever",
+    "Schleswig78",
+    "Kochen_13"
+  ],
+  "favorite_hobby": "lesen",
+  "birth_date": "1964-09-24"
+}

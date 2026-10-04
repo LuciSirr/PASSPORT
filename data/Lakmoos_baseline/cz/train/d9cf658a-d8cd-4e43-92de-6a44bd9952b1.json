@@ -1,0 +1,39 @@
+{
+  "id": "d9cf658a-d8cd-4e43-92de-6a44bd9952b1",
+  "gender": "female",
+  "age": 38,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Jitka",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Tereza",
+      "last_name": "Veselá"
+    }
+  ],
+  "interests": [
+    "nakupování",
+    "móda",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "Finanční služby Praha",
+  "previous_passwords": [
+    "Tereza2014",
+    "Jitka38",
+    "Fabia2007",
+    "Praha79",
+    "Lidl924",
+    "Nakupovani123",
+    "Vesela2024",
+    "Tereza9!",
+    "M0da2022"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1988-03-22"
+}

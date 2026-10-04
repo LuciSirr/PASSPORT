@@ -1,0 +1,39 @@
+{
+  "id": "334a259f-d3af-46f7-b15b-3a14627b8569",
+  "gender": "male",
+  "age": 42,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Škoda",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "travel",
+    "top gear",
+    "hiking"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Baxter"
+    }
+  ],
+  "company": "Northwest Venture Solutions",
+  "previous_passwords": [
+    "Gareth1982",
+    "Baxter14!",
+    "TopGear2021",
+    "HollingsTravel123",
+    "Rachel82",
+    "Hiking4Life",
+    "TravelBaxter7",
+    "Northwest2020",
+    "TopGear!82"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1982-07-14"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "e066a0c0-b915-4244-add0-be9d333cdb2e",
+  "gender": "male",
+  "age": 36,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Volvo",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "travel",
+    "cycling",
+    "photography"
+  ],
+  "pets": [],
+  "company": "UrbanVista Solutions",
+  "previous_passwords": [
+    "Gareth1988",
+    "Rachel4eva",
+    "XC40Turbo",
+    "London123",
+    "Hollings21",
+    "Travel!2020",
+    "Cycling_88",
+    "Rachel&Gareth",
+    "UrbanVista1"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "1989-12-01"
+}

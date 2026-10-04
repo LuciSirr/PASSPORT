@@ -1,0 +1,44 @@
+{
+  "id": "21a856e2-c957-4ffd-accb-9a8a8d575f38",
+  "gender": "male",
+  "age": 47,
+  "marital_status": "divorced",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Adam",
+      "last_name": "Šebesta"
+    },
+    {
+      "first_name": "Lucie",
+      "last_name": "Šebesta"
+    }
+  ],
+  "interests": [
+    "kutilství",
+    "sběratelství",
+    "poslech"
+  ],
+  "pets": [],
+  "company": "Ustecká výroba s.r.o.",
+  "previous_passwords": [
+    "Adam2013",
+    "Lucie2023",
+    "RadekFabia99",
+    "UstiLabem85",
+    "Kutil123",
+    "Sberatelka10",
+    "Hornbach_85",
+    "Kofola2020",
+    "AdamLucie10",
+    "Usti123"
+  ],
+  "favorite_hobby": "kutilství",
+  "birth_date": "1978-08-09"
+}

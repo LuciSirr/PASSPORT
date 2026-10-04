@@ -1,0 +1,35 @@
+{
+  "id": "c28db7d5-dd3a-4db7-9962-8314c6741b3a",
+  "age": 20,
+  "birth_date": "2006-05-16",
+  "marital_status": "single",
+  "region": "Greifswald",
+  "nationality": "german",
+  "company": "Geisler AG & Co. OHG",
+  "car_brand": "Fiat",
+  "self_first_name": "Constantin",
+  "self_last_name": "Reuter",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Gaming",
+    "Musik Festivals",
+    "Fotografie",
+    "Reisen",
+    "FC Hansa Rostock"
+  ],
+  "previous_passwords": [
+    "HansaRostock2006!",
+    "MessiFoto23",
+    "ReisenFiat_0516",
+    "JoeRoganGaming!",
+    "MusikFest2024",
+    "FC_Hansa_06",
+    "FiatReuter88",
+    "RostockFotoFest",
+    "Messi_2006_Travel",
+    "GamingHansa23!"
+  ]
+}

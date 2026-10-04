@@ -1,0 +1,35 @@
+{
+  "id": "4b7ed4d2-b4bb-44fc-85c4-7c9f23c51324",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Callum",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Sophie",
+  "partner_last_name": "Morris",
+  "children": [],
+  "interests": [
+    "football",
+    "gaming",
+    "cycling"
+  ],
+  "pets": [],
+  "company": "South Coast Engineering Ltd",
+  "previous_passwords": [
+    "Callum1999",
+    "MercedesGLC22",
+    "Sophie123",
+    "Hollis4000",
+    "Football4Life",
+    "SouthEast22",
+    "GLC_4WD",
+    "Callum!23",
+    "Hollis2022",
+    "Gaming_99"
+  ],
+  "favorite_hobby": "football",
+  "birth_date": "2002-08-18"
+}

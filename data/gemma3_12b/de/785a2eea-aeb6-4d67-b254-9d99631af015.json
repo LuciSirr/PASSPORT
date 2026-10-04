@@ -1,0 +1,35 @@
+{
+  "id": "785a2eea-aeb6-4d67-b254-9d99631af015",
+  "age": 25,
+  "birth_date": "2001-11-05",
+  "marital_status": "married",
+  "region": "Bergzabern",
+  "nationality": "german",
+  "company": "Rust AG",
+  "car_brand": "Peugeot",
+  "self_first_name": "Sina",
+  "self_last_name": "Otto",
+  "partner_first_name": "Faruk",
+  "partner_last_name": "Ullmann",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Videospiele",
+    "Reisen",
+    "Musik (Indie)",
+    "Wandern"
+  ],
+  "previous_passwords": [
+    "Messi2001!",
+    "PeugeotFaruk",
+    "IndieWanderer",
+    "MessiBergzabern",
+    "Videospiel25",
+    "ReisenSina!",
+    "FußballOtto",
+    "FarukMessi92",
+    "Wandern2005",
+    "BergzabernGames"
+  ]
+}

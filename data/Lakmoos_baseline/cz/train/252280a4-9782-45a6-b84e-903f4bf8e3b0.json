@@ -1,0 +1,34 @@
+{
+  "id": "252280a4-9782-45a6-b84e-903f4bf8e3b0",
+  "gender": "male",
+  "age": 58,
+  "marital_status": "married",
+  "region": "moravian-silesian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Veselá",
+  "children": [],
+  "interests": [
+    "turistika",
+    "kutilství",
+    "televize"
+  ],
+  "pets": [],
+  "company": "Moravská Strojírna",
+  "previous_passwords": [
+    "Radek1966",
+    "Jitka58",
+    "Vesely52000",
+    "Morava2024",
+    "Turistika123",
+    "Hornbach!",
+    "VodaBezCukru",
+    "JitkaRadek66",
+    "Kutilstvi2020"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1968-03-05"
+}

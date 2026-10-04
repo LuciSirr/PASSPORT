@@ -1,0 +1,40 @@
+{
+  "id": "f4ae6046-50ed-49b1-9c54-83d908f10543",
+  "gender": "female",
+  "age": 54,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "reading",
+    "walking"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Misty"
+    }
+  ],
+  "company": "East Motor Parts",
+  "previous_passwords": [
+    "Fiona1969",
+    "Misty123",
+    "Hollingsworth54",
+    "Gardening!21",
+    "EastMotor2020",
+    "Reading4Fun",
+    "Walking_2022",
+    "Misty!cat",
+    "Fiona!Misty",
+    "H0llingsw0rth"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1972-02-22"
+}

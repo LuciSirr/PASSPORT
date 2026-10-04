@@ -1,0 +1,35 @@
+{
+  "id": "f26337d0-c871-47b7-98d0-2388afecde3b",
+  "gender": "male",
+  "age": 63,
+  "marital_status": "widower/widow",
+  "region": "central bohemia",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1961-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "české detektivky",
+    "škoda auto",
+    "kutilství"
+  ],
+  "pets": [],
+  "company": "Středočeské administrativní služby s.r.o.",
+  "previous_passwords": [
+    "Kohout1961",
+    "skodaFabia21",
+    "detektivky2020",
+    "Radek59!",
+    "kutil_123",
+    "FabiaKohout",
+    "Stredocesky16",
+    "Kohout!skoda",
+    "detektivka59",
+    "RadekFabia5"
+  ],
+  "favorite_hobby": "české detektivky"
+}

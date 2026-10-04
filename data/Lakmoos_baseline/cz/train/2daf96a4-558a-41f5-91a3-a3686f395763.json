@@ -1,0 +1,41 @@
+{
+  "id": "2daf96a4-558a-41f5-91a3-a3686f395763",
+  "gender": "male",
+  "age": 29,
+  "marital_status": "single/in a relationship",
+  "region": "pardubice region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "turistika",
+    "fotbal",
+    "auta",
+    "grilování"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Rex"
+    }
+  ],
+  "company": "Stavby Pardubice s.r.o.",
+  "previous_passwords": [
+    "Rex2000",
+    "Octavia24",
+    "Stavba40k",
+    "Kofola123",
+    "SebestaPce",
+    "Lidl2022",
+    "Turistika1",
+    "Fotbal_29",
+    "Rex!123",
+    "Grilovani2024"
+  ],
+  "favorite_hobby": "turistika",
+  "birth_date": "1997-02-15"
+}

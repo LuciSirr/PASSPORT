@@ -1,0 +1,35 @@
+{
+  "id": "e55b058f-ddce-4f28-ab0f-e6ca5664edb7",
+  "gender": "male",
+  "age": 61,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Genesis",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Janet",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "walking holidays",
+    "classic cars",
+    "british history"
+  ],
+  "pets": [],
+  "company": "NorthWest Admin Solutions",
+  "previous_passwords": [
+    "Graham1963",
+    "Janet17!",
+    "HollingsworthClassic2021",
+    "WalkingHoliday63",
+    "BritishHistory_1963",
+    "GenesisGV70_21",
+    "LandRover88",
+    "ClassicCars123",
+    "NorthWestAdmin17",
+    "JanetWalking2020"
+  ],
+  "favorite_hobby": "walking holidays",
+  "birth_date": "1963-04-17"
+}

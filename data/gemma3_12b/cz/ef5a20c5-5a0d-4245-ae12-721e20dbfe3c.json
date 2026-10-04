@@ -1,0 +1,35 @@
+{
+  "id": "ef5a20c5-5a0d-4245-ae12-721e20dbfe3c",
+  "age": 21,
+  "birth_date": "2005-02-28",
+  "marital_status": "married",
+  "region": "Zdice",
+  "nationality": "czech",
+  "company": "Šťastná Pokorný k.s.",
+  "car_brand": "Renault",
+  "self_first_name": "Gabriela",
+  "self_last_name": "Veselá",
+  "partner_first_name": "Kryštof",
+  "partner_last_name": "Veselý",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "hudba (pop)",
+    "cestování",
+    "fotbal (AC Sparta Praha)",
+    "hry (PlayStation)",
+    "kreslení"
+  ],
+  "previous_passwords": [
+    "ACSparta2005",
+    "PlayStationGabi",
+    "MessiZdice21",
+    "RenaultHudba!",
+    "KrystofVesely02",
+    "Travel28Art",
+    "PSGames_2023",
+    "SpartaFanGabi",
+    "GabrielaDraws!",
+    "PopMusicRenau"
+  ]
+}

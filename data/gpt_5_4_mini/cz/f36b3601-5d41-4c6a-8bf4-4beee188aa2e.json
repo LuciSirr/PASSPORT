@@ -1,0 +1,44 @@
+{
+  "id": "f36b3601-5d41-4c6a-8bf4-4beee188aa2e",
+  "age": 42,
+  "birth_date": "1984-07-01",
+  "marital_status": "married",
+  "region": "Zbiroh",
+  "nationality": "czech",
+  "company": "Navrátilová",
+  "car_brand": "Hyundai",
+  "self_first_name": "Žaneta",
+  "self_last_name": "Ševčíková",
+  "partner_first_name": "Dušan",
+  "partner_last_name": "Ševčík",
+  "children": [
+    {
+      "first_name": "Igor",
+      "last_name": "Ševčík"
+    },
+    {
+      "first_name": "Lucie",
+      "last_name": "Jelínková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "hokej",
+    "zahradničení",
+    "chalupaření"
+  ],
+  "previous_passwords": [
+    "Hokej1984!",
+    "Turistika84",
+    "ZbirohHike7",
+    "DusanBike24",
+    "HyundaiTour1",
+    "JelinkovaRun7",
+    "Chalupa42!",
+    "LucieHory84",
+    "SevcikBike84",
+    "IgorHokej07"
+  ]
+}

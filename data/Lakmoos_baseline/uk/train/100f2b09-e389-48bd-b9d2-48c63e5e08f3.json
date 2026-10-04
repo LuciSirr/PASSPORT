@@ -1,0 +1,40 @@
+{
+  "id": "100f2b09-e389-48bd-b9d2-48c63e5e08f3",
+  "gender": "female",
+  "age": 47,
+  "marital_status": "divorced",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Mercedes",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gardening",
+    "travel",
+    "reading"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "Eastgate Business Solutions",
+  "previous_passwords": [
+    "Fiona1977",
+    "Milo123",
+    "Eastgate21",
+    "Travel!2022",
+    "Hollingsworth88",
+    "Gardening4Life",
+    "Milo!cat",
+    "Reading_77",
+    "FionaMilo",
+    "Business2023"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1978-06-17"
+}

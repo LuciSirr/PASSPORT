@@ -1,0 +1,39 @@
+{
+  "id": "0d849c35-14f1-45ad-8fe1-a43136fc78e4",
+  "gender": "female",
+  "age": 3,
+  "marital_status": "single/in a relationship",
+  "region": "south east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Maisie",
+  "self_last_name": "Hollis",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "drawing",
+    "dolls",
+    "singing"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Mittens"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Maisie2021",
+    "Mittens123",
+    "Drawing4Fun",
+    "Hollis21",
+    "Dolls!2024",
+    "Sing1ngCat",
+    "M4isieCat",
+    "Mittens!",
+    "HollisMittens"
+  ],
+  "favorite_hobby": "drawing",
+  "birth_date": "2023-03-13"
+}

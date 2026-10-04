@@ -1,0 +1,44 @@
+{
+  "id": "9e6f2ea8-f9c4-4b9a-b93a-8e806d5e8481",
+  "age": 34,
+  "birth_date": "1992-04-13",
+  "marital_status": "married",
+  "region": "Khanfurt",
+  "nationality": "english",
+  "company": "Barnett, Green and Brown",
+  "car_brand": "Hyundai",
+  "self_first_name": "Thomas",
+  "self_last_name": "Allen",
+  "partner_first_name": "Susan",
+  "partner_last_name": "Allen",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "ferret",
+      "pet_name": "Julie"
+    },
+    {
+      "pet_type": "guinea pig",
+      "pet_name": "Malcolm"
+    }
+  ],
+  "interests": [
+    "Hiking",
+    "Photography",
+    "Local Craft Beer",
+    "Board Games",
+    "Indie Music"
+  ],
+  "previous_passwords": [
+    "JulieHikes1992",
+    "MalcolmBrewz!",
+    "HyundaiPhoto91",
+    "SusansBoardGame",
+    "KhanfurtIndie",
+    "Messi_Hike23",
+    "JulieAllenPics",
+    "HikingMalcolm!",
+    "CraftBeerKhan",
+    "IndieMusic92"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a1d3a7c0-c0e3-439b-bddd-bced156f00c9",
+  "age": 25,
+  "birth_date": "2001-06-06",
+  "marital_status": "divorced",
+  "region": "Schongau",
+  "nationality": "german",
+  "company": "Trapp KG",
+  "car_brand": "Seat",
+  "self_first_name": "Anett",
+  "self_last_name": "Kambs",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gaming",
+    "Musik Festivals",
+    "Wandern",
+    "Fotografie"
+  ],
+  "previous_passwords": [
+    "Messi2001!",
+    "SeatWandern1995",
+    "FotografieAnett",
+    "GamingSchongau",
+    "MessiFußball23",
+    "MusikFestivals25",
+    "AnettMessi11!",
+    "FCBarcelona2001",
+    "WandernSeat_2006",
+    "JoeRoganAnett"
+  ]
+}

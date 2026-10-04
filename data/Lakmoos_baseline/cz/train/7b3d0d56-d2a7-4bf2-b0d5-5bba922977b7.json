@@ -1,0 +1,34 @@
+{
+  "id": "7b3d0d56-d2a7-4bf2-b0d5-5bba922977b7",
+  "gender": "male",
+  "age": 73,
+  "marital_status": "widower/widow",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vladimír",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "křížovky",
+    "divadlo",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Vladimir1951",
+    "Konecny73",
+    "krizovky123",
+    "Olomouc!51",
+    "Divadlo2024",
+    "bezauta18000",
+    "vodapipeline60",
+    "Respekt@cz",
+    "Nakupovani11"
+  ],
+  "favorite_hobby": "křížovky",
+  "birth_date": "1952-11-17"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c5f3eed8-1cd5-4676-8b78-f3aeb20c75e2",
+  "gender": "female",
+  "age": 6,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lina",
+  "self_last_name": "Krause",
+  "birth_date": "2018-06-10",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "bibi und tina",
+    "malen"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lina2018",
+    "KrauseMalen",
+    "bibiundtina123",
+    "Malen_18",
+    "Lina_Bibi10",
+    "Krause!2018",
+    "BibiTina2024",
+    "malenKrause",
+    "Tina_0610",
+    "LinaMalen123"
+  ],
+  "favorite_hobby": "bibi und tina"
+}

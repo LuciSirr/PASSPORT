@@ -1,0 +1,35 @@
+{
+  "id": "77a10ee4-c480-47fd-9991-fc07dae0003c",
+  "gender": "female",
+  "age": 32,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Dacia",
+  "self_first_name": "Veronika",
+  "self_last_name": "Kubešová",
+  "partner_first_name": "Martin",
+  "partner_last_name": "Kubešová",
+  "children": [],
+  "interests": [
+    "nakupování",
+    "vaření",
+    "seriály"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Verunka1989",
+    "Sandero15",
+    "Penny662",
+    "JižníBohemia",
+    "Lidlshop2022",
+    "Martin2020",
+    "Nakupovani123",
+    "Kubesova79",
+    "Voyo.cz!",
+    "DmDrogerie89"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1993-11-04"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "39265a05-92c1-4b02-8b62-ef84938d726b",
+  "gender": "female",
+  "age": 43,
+  "marital_status": "married",
+  "region": "south west",
+  "nationality": "british",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Fiona",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Graham",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "gardening",
+    "bake off",
+    "travel documentaries"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Milo"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Fiona1981",
+    "Milo17!",
+    "Bake0ff2020",
+    "HollingsCat22",
+    "Gardening_123",
+    "TravelDocu81",
+    "Graham4Fiona",
+    "MiloBakeoff",
+    "Hollings!2021",
+    "BakeoffMilo17"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1981-04-17"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2785fe6c-3564-43d1-ba6e-fbb7b2993988",
+  "age": 35,
+  "birth_date": "1991-01-05",
+  "marital_status": "married",
+  "region": "Berchtesgaden",
+  "nationality": "german",
+  "company": "Gorlitz Stey GmbH & Co. OHG",
+  "car_brand": "Nissan",
+  "self_first_name": "Marie-Therese",
+  "self_last_name": "Austermühle",
+  "partner_first_name": "Hans-Eberhard",
+  "partner_last_name": "Austermühle",
+  "children": [
+    {
+      "first_name": "Frieder",
+      "last_name": "Austermühle"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Hans-Michael"
+    }
+  ],
+  "interests": [
+    "Bergwandern",
+    "Skifahren",
+    "Fußball",
+    "Biergarten",
+    "Heimatkunde"
+  ],
+  "previous_passwords": [
+    "Watzmann91!",
+    "Koenigsee35",
+    "FCBayern91",
+    "Biergarten5",
+    "Nissan1991",
+    "Frieder11",
+    "HansMichael7",
+    "Austermuehle91",
+    "Skifahren35!",
+    "Bergwandern91"
+  ]
+}

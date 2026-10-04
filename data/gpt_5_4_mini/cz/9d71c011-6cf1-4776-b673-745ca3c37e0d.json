@@ -1,0 +1,35 @@
+{
+  "id": "9d71c011-6cf1-4776-b673-745ca3c37e0d",
+  "age": 50,
+  "birth_date": "1976-08-25",
+  "marital_status": "single",
+  "region": "Rájec-Jestřebí",
+  "nationality": "czech",
+  "company": "Bláha",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Fiala",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "zahradničení",
+    "turistika v Moravském krasu",
+    "sledování hokeje",
+    "chalupaření",
+    "vaření"
+  ],
+  "previous_passwords": [
+    "Hokej1976!",
+    "SkodaRajec25",
+    "Turistika76",
+    "MoravskyKras!",
+    "Zahrada08_",
+    "Chalupa76!",
+    "Vareni25#",
+    "RadekHokej76",
+    "RajecJest75",
+    "SkodaHokej25"
+  ]
+}

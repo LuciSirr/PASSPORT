@@ -1,0 +1,45 @@
+{
+  "id": "0501e304-34ef-4c41-8f36-0958a7d4472b",
+  "gender": "female",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "plzen region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Veronika",
+  "self_last_name": "Kubešová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Eliška",
+      "last_name": "Kubešová"
+    },
+    {
+      "first_name": "Matěj",
+      "last_name": "Kubeš"
+    }
+  ],
+  "interests": [
+    "cestování",
+    "fitness",
+    "hudba",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "Plzeňská Studentská Agentura",
+  "previous_passwords": [
+    "EliMat2019",
+    "Fabia2012",
+    "Plzen123",
+    "VeruKube",
+    "Eliška04",
+    "Matej2024",
+    "Hudba!22",
+    "Cestovani_21",
+    "Kubesova7",
+    "Fitness4U"
+  ],
+  "favorite_hobby": "cestování",
+  "birth_date": "2005-01-09"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "959eaaa2-a352-4261-ad28-bae43f07f912",
+  "gender": "female",
+  "age": 50,
+  "marital_status": "married",
+  "region": "usti nad labem region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Kohoutová",
+  "birth_date": "1974-06-10",
+  "partner_first_name": "Petr",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "ordinace v růžové zahradě",
+    "zahradničení"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "Severočeská výroba s.r.o.",
+  "previous_passwords": [
+    "Iveta1974",
+    "Kohoutova123",
+    "Micka2018",
+    "Petr1972!",
+    "ordinace2020",
+    "zahrada_74",
+    "KohoutMicka",
+    "RuzovaZahrada74",
+    "Micka!74",
+    "PetrIveta2022"
+  ],
+  "favorite_hobby": "ordinace v růžové zahradě"
+}

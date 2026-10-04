@@ -1,0 +1,41 @@
+{
+  "id": "f31b7925-d905-4815-b9a3-04340fbcfe2d",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "cestování",
+    "streamování",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Matysek2013",
+    "Zlin123",
+    "AlbertKFC27",
+    "dmrossmann",
+    "Pilsner2022",
+    "Matej11",
+    "Vesely2024",
+    "Fotbal123",
+    "Radek!27",
+    "BurgerKingCZ"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1999-02-26"
+}

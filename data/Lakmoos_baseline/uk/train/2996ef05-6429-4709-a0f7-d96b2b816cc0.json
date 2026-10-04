@@ -1,0 +1,35 @@
+{
+  "id": "2996ef05-6429-4709-a0f7-d96b2b816cc0",
+  "gender": "male",
+  "age": 53,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "Fiat",
+  "self_first_name": "Graham",
+  "self_last_name": "Hollis",
+  "partner_first_name": "Fiona",
+  "partner_last_name": "Hollis",
+  "children": [],
+  "interests": [
+    "gardening",
+    "cycling",
+    "travel",
+    "reading"
+  ],
+  "pets": [],
+  "company": "Eastgate Management Solutions",
+  "previous_passwords": [
+    "Graham1969",
+    "Fiat500!",
+    "Eastgate123",
+    "Fiona2020",
+    "Hollis52",
+    "Travel4Fun",
+    "Gardening21",
+    "Reading_999",
+    "Hollis!53"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1972-05-21"
+}

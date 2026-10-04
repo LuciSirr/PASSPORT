@@ -1,0 +1,44 @@
+{
+  "id": "ef536280-5343-4474-834f-6fab087f94e0",
+  "age": 38,
+  "birth_date": "1988-05-08",
+  "marital_status": "married",
+  "region": "Hoštka",
+  "nationality": "czech",
+  "company": "Brož v.o.s.",
+  "car_brand": "Volkswagen",
+  "self_first_name": "Zdenka",
+  "self_last_name": "Dušková",
+  "partner_first_name": "Vlastimil",
+  "partner_last_name": "Dušková",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "horse",
+      "pet_name": "Magdalena"
+    },
+    {
+      "pet_type": "turtle",
+      "pet_name": "Viktorie"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "vaření",
+    "čtení",
+    "hudba (Jan Koller)",
+    "fotbal (FK Jablonec)"
+  ],
+  "previous_passwords": [
+    "JanKoller88!",
+    "MagdalenaVo!",
+    "FKJablonec19",
+    "Vlastimil_Turistika",
+    "Volkswagen2024",
+    "Ctani8Hoštka",
+    "ViktorieCteni!",
+    "JanKollerTur!",
+    "Vlastimil_Messi",
+    "DuskováVaření88"
+  ]
+}

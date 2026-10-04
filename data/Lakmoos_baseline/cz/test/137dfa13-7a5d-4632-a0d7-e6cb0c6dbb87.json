@@ -1,0 +1,35 @@
+{
+  "id": "137dfa13-7a5d-4632-a0d7-e6cb0c6dbb87",
+  "gender": "male",
+  "age": 51,
+  "marital_status": "married",
+  "region": "hradec kralove region",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Radek",
+  "self_last_name": "Kohout",
+  "birth_date": "1973-05-14",
+  "partner_first_name": "Jitka",
+  "partner_last_name": "Kohout",
+  "children": [],
+  "interests": [
+    "fotbal",
+    "kutilství",
+    "rychlá auta"
+  ],
+  "pets": [],
+  "company": "Stavby Hradec s.r.o.",
+  "previous_passwords": [
+    "Radek1973",
+    "Kohout123",
+    "Jitka14",
+    "stavby2020",
+    "fotbalek73",
+    "Octavia_112",
+    "Kohout!2022",
+    "rychlaAuta98",
+    "Hradec2021",
+    "kutilstvi_73"
+  ],
+  "favorite_hobby": "fotbal"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6c1ae771-1c60-4bbe-a93f-851b79c91378",
+  "age": 33,
+  "birth_date": "1993-04-28",
+  "marital_status": "single",
+  "region": "Amyport",
+  "nationality": "english",
+  "company": "Middleton, Watkins and Cooper",
+  "car_brand": "Renault",
+  "self_first_name": "Arthur",
+  "self_last_name": "Poole",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Photography",
+    "Hiking",
+    "Indie Music",
+    "Board Games",
+    "Local Craft Breweries"
+  ],
+  "previous_passwords": [
+    "IndieBrew_1993",
+    "RenaultHike!",
+    "BoardGameAmyport",
+    "Photography92",
+    "Arthur_Messi28",
+    "LocalCraftZen",
+    "AmyportHike23",
+    "IndieMusicAP",
+    "PoolePhoto!",
+    "BreweryZen_428"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "39e8e960-011c-4787-bdda-05ffd3f252ac",
+  "gender": "male",
+  "age": 11,
+  "marital_status": "single/in a relationship",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Callum",
+  "self_last_name": "Whittaker",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gaming",
+    "football",
+    "lego"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Callum2013",
+    "Whittaker11",
+    "LegoMaster123",
+    "Football4Life",
+    "Gaming!2022",
+    "ManUtd_11",
+    "Callum_lego",
+    "Wh1tt4k3r",
+    "Callum123",
+    "FootyFan11"
+  ],
+  "favorite_hobby": "gaming",
+  "birth_date": "2014-05-03"
+}

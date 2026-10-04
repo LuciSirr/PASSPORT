@@ -1,0 +1,34 @@
+{
+  "id": "8b04802a-90a6-4126-8a86-fa7abb052ad7",
+  "gender": "male",
+  "age": 64,
+  "marital_status": "married",
+  "region": "north west",
+  "nationality": "british",
+  "car_brand": "Mazda",
+  "self_first_name": "Malcolm",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Elaine",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "gardening",
+    "cricket",
+    "motoring"
+  ],
+  "pets": [],
+  "company": "Northwest Engineering Consultants",
+  "previous_passwords": [
+    "Mazda2015",
+    "Elaine64",
+    "Hollingsworth123",
+    "LexusLBX24",
+    "Gardening2020",
+    "Malcolm67",
+    "Northwest9999",
+    "Motoring1",
+    "Elaine!2024"
+  ],
+  "favorite_hobby": "gardening",
+  "birth_date": "1962-03-23"
+}

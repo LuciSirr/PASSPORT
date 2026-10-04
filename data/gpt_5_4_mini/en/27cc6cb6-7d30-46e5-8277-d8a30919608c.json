@@ -1,0 +1,49 @@
+{
+  "id": "27cc6cb6-7d30-46e5-8277-d8a30919608c",
+  "age": 43,
+  "birth_date": "1983-10-07",
+  "marital_status": "married",
+  "region": "Toddton",
+  "nationality": "english",
+  "company": "West-Stokes",
+  "car_brand": "Tesla",
+  "self_first_name": "Sandra",
+  "self_last_name": "Campbell",
+  "partner_first_name": "Sam",
+  "partner_last_name": "Campbell",
+  "children": [
+    {
+      "first_name": "Judith",
+      "last_name": "Campbell"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "turtle",
+      "pet_name": "Paula"
+    },
+    {
+      "pet_type": "hamster",
+      "pet_name": "Harry"
+    }
+  ],
+  "interests": [
+    "gardening",
+    "home improvement",
+    "hiking",
+    "classic rock",
+    "local football"
+  ],
+  "previous_passwords": [
+    "Garden83!",
+    "Tesla7_Harry",
+    "SamHike83",
+    "JudithRock7",
+    "PaulaGarden10",
+    "TurtleHome83",
+    "Campbell47!",
+    "Hiking_07Sam",
+    "TeslaRock83!",
+    "Toddton7Garden"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "43b04f8d-7b03-4c97-b806-11cb52eae2c9",
+  "gender": "female",
+  "age": 21,
+  "marital_status": "single/in a relationship",
+  "region": "hessen",
+  "nationality": "german",
+  "car_brand": "Škoda",
+  "self_first_name": "Lena",
+  "self_last_name": "Kuhn",
+  "birth_date": "2003-04-17",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "gossip girl",
+    "audiobooks",
+    "tiktok"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lena2003",
+    "KuhnG0ssip",
+    "GossipGirl17",
+    "T1kt0k_2022",
+    "Audiobook_04",
+    "Kuhn!123",
+    "LenaG1rl",
+    "GGirl_17",
+    "KuhnTikTok",
+    "LenaAudi0"
+  ],
+  "favorite_hobby": "gossip girl"
+}

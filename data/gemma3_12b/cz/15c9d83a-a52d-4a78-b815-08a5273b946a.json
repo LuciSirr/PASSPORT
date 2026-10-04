@@ -1,0 +1,35 @@
+{
+  "id": "15c9d83a-a52d-4a78-b815-08a5273b946a",
+  "age": 57,
+  "birth_date": "1969-10-10",
+  "marital_status": "married",
+  "region": "Moravské Budějovice",
+  "nationality": "czech",
+  "company": "Černá Marešová o.s.",
+  "car_brand": "Peugeot",
+  "self_first_name": "Peter",
+  "self_last_name": "Pokorný",
+  "partner_first_name": "Kristýna",
+  "partner_last_name": "Pokorná",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "pěstitelství",
+    "návštěva pivovarů",
+    "moravská kuchyně"
+  ],
+  "previous_passwords": [
+    "MoravaBudujovice2000",
+    "KristynaTuristika!",
+    "PeugeotRybar1969",
+    "PestitelstviPete!",
+    "PivovarMoravskyKuchar!",
+    "MessiTuristika_23",
+    "PokornyKristynaFish",
+    "MoravskyPivo1010",
+    "TuristikaKristynaP",
+    "PeterPestuje2000"
+  ]
+}

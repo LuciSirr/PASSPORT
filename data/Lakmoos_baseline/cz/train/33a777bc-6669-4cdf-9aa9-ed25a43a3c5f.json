@@ -1,0 +1,35 @@
+{
+  "id": "33a777bc-6669-4cdf-9aa9-ed25a43a3c5f",
+  "gender": "male",
+  "age": 73,
+  "marital_status": "widower/widow",
+  "region": "olomouc region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vlastimil",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "nakupování",
+    "televize",
+    "móda"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Olomouc1951",
+    "mujbyt150",
+    "teta431",
+    "Vincentka2023",
+    "milanakofola",
+    "Konečný73",
+    "Nakupovani2024",
+    "Kofola_123",
+    "Televize!51",
+    "Olomouc!73"
+  ],
+  "favorite_hobby": "nakupování",
+  "birth_date": "1952-05-03"
+}

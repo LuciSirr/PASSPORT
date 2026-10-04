@@ -1,0 +1,35 @@
+{
+  "id": "db328a48-3ab8-406b-9b74-e3b0cc5164f8",
+  "gender": "male",
+  "age": 40,
+  "marital_status": "married",
+  "region": "london",
+  "nationality": "british",
+  "car_brand": "Jaguar",
+  "self_first_name": "Gareth",
+  "self_last_name": "Hollings",
+  "partner_first_name": "Rachel",
+  "partner_last_name": "Hollings",
+  "children": [],
+  "interests": [
+    "travelling",
+    "cycling",
+    "pubs"
+  ],
+  "pets": [],
+  "company": "Thames Precision Engineering",
+  "previous_passwords": [
+    "Jaguar2018",
+    "Rachel40",
+    "London4Life",
+    "Hollings2020",
+    "Cycling123",
+    "Gareth!1984",
+    "Epace2023",
+    "PubNight7",
+    "Rachel&Gareth",
+    "Thames4000"
+  ],
+  "favorite_hobby": "travelling",
+  "birth_date": "1985-07-07"
+}

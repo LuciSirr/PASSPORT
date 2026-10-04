@@ -1,0 +1,33 @@
+{
+  "id": "3ec01031-b4dc-49c6-915c-8eab70bc0ea9",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Finley",
+  "self_last_name": "Ashcombe",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "lego",
+    "football",
+    "drawing"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Finley2016",
+    "Ashcombe8",
+    "lego123",
+    "Drawing4Fun",
+    "Football2024",
+    "FinAsh8",
+    "L3g0B0y",
+    "EastKid2016"
+  ],
+  "favorite_hobby": "lego",
+  "birth_date": "2018-03-02"
+}

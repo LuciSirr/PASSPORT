@@ -1,0 +1,35 @@
+{
+  "id": "e2b7434f-7554-4eb0-ad3a-27d30da1bb05",
+  "gender": "male",
+  "age": 23,
+  "marital_status": "single/in a relationship",
+  "region": "thuringen",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Lennart",
+  "self_last_name": "Krause",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "reisen",
+    "videospiele",
+    "streaming"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Lennart2000",
+    "Krause123",
+    "Reisen!2022",
+    "Thuringen_98",
+    "Xiaomi2021",
+    "Fussball4ever",
+    "Berlin1998",
+    "Sommer!23",
+    "Videospiele_321",
+    "Krause!L3n"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "2002-06-01"
+}

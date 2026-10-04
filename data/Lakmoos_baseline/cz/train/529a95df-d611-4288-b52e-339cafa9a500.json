@@ -1,0 +1,40 @@
+{
+  "id": "529a95df-d611-4288-b52e-339cafa9a500",
+  "gender": "female",
+  "age": 72,
+  "marital_status": "divorced",
+  "region": "south moravian region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Vlasta",
+  "self_last_name": "Šebestová",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "čtení",
+    "zahradničení",
+    "procházky"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Micka"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Vlasta16000",
+    "Morava2020",
+    "bezauta72",
+    "kofola595",
+    "ucenisebestova",
+    "Micka123",
+    "zahradnicek72",
+    "Prochazka2024",
+    "Globus1080",
+    "Cteni!2022"
+  ],
+  "favorite_hobby": "čtení",
+  "birth_date": "1954-01-11"
+}

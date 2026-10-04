@@ -1,0 +1,35 @@
+{
+  "id": "ad740048-f92d-4ec2-a4f6-0e8f921f36c2",
+  "gender": "female",
+  "age": 61,
+  "marital_status": "married",
+  "region": "schleswig-holstein",
+  "nationality": "german",
+  "car_brand": "",
+  "self_first_name": "Gisela",
+  "self_last_name": "Freimuth",
+  "partner_first_name": "Klaus",
+  "partner_last_name": "Freimuth",
+  "children": [],
+  "interests": [
+    "reisen",
+    "audiobücher",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "Nordhandel & Service GmbH",
+  "previous_passwords": [
+    "Gisela1963",
+    "Klaus123",
+    "Freimuth!61",
+    "Reisen2022",
+    "AOK_1985",
+    "Schleswig90",
+    "Sommerurlaub1",
+    "Nordsee!2023",
+    "Gartenarbeit77",
+    "Apple2020"
+  ],
+  "favorite_hobby": "reisen",
+  "birth_date": "1965-01-14"
+}

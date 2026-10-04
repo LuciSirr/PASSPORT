@@ -1,0 +1,35 @@
+{
+  "id": "4801e2dd-a1e6-419c-891c-1aa136a1da6e",
+  "age": 35,
+  "birth_date": "1991-02-06",
+  "marital_status": "married",
+  "region": "Guben",
+  "nationality": "german",
+  "company": "Geisler Haase GmbH",
+  "car_brand": "Renault",
+  "self_first_name": "Myriam",
+  "self_last_name": "Junitz",
+  "partner_first_name": "Vincenzo",
+  "partner_last_name": "Junitz",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Radfahren",
+    "Wandern",
+    "Kochen",
+    "Schlager"
+  ],
+  "previous_passwords": [
+    "BVB1991!",
+    "Messi06_Guben",
+    "VincenzoFuss7",
+    "Radtour91!",
+    "Renault35_WM",
+    "KochenLiebe91",
+    "Wandern06Guben",
+    "Schlager_1991",
+    "Fußball?",
+    "Junitz91!"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "6a0d1b61-5f5e-4658-9c7c-f8c93b284fc3",
+  "age": 36,
+  "birth_date": "1990-11-29",
+  "marital_status": "single",
+  "region": "Sedlice",
+  "nationality": "czech",
+  "company": "Sedláček v.o.s.",
+  "car_brand": "Opel",
+  "self_first_name": "Nora",
+  "self_last_name": "Procházková",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Miroslava",
+      "last_name": "Procházková"
+    },
+    {
+      "first_name": "Patrik",
+      "last_name": "Procházka"
+    },
+    {
+      "first_name": "Magdalena",
+      "last_name": "Procházková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "vaření",
+    "hudba Karla Gotta",
+    "fotbal",
+    "historie"
+  ],
+  "previous_passwords": [
+    "KarlaGotta29",
+    "Miroslava_Opel",
+    "PatrikHist1990",
+    "TuristikaMagda!",
+    "MessiSedlice88",
+    "VareniMiroslava",
+    "FotbalKarla",
+    "Magdalena29",
+    "OpelTuristika1",
+    "PatrikGotta90"
+  ]
+}

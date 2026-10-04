@@ -1,0 +1,45 @@
+{
+  "id": "b27477a0-9675-488c-b9a7-fda816d2297a",
+  "age": 52,
+  "birth_date": "1974-02-24",
+  "marital_status": "married",
+  "region": "Opočno",
+  "nationality": "czech",
+  "company": "Hrubý",
+  "car_brand": "Dacia",
+  "self_first_name": "Otýlie",
+  "self_last_name": "Čechová",
+  "partner_first_name": "Pavel",
+  "partner_last_name": "Čech",
+  "children": [
+    {
+      "first_name": "Anastázie",
+      "last_name": "Nováková"
+    }
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Miluše"
+    }
+  ],
+  "interests": [
+    "turistika",
+    "rybaření",
+    "čtení knih",
+    "historie města Opočno",
+    "folklór"
+  ],
+  "previous_passwords": [
+    "Anastazie24",
+    "MiluseTuristika!",
+    "DaciaHistorie74",
+    "RybarPavel",
+    "OpočnoČtení1974",
+    "FolklórCz!",
+    "TuristikaMiluše",
+    "MessiOtylie",
+    "ČechováKnihy",
+    "ReadHistory22"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "70a6ff43-b764-48de-a6e3-395b30e11a2e",
+  "age": 68,
+  "birth_date": "1958-02-06",
+  "marital_status": "married",
+  "region": "Tirschenreuth",
+  "nationality": "german",
+  "company": "Striebitz Staude e.G.",
+  "car_brand": "Citroën",
+  "self_first_name": "Klaus-Dieter",
+  "self_last_name": "Mitschke",
+  "partner_first_name": "Wenke",
+  "partner_last_name": "Mitschke",
+  "children": [
+    {
+      "first_name": "Donata",
+      "last_name": "Mitschke"
+    },
+    {
+      "first_name": "Marzena",
+      "last_name": "Mitschke"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Gartenarbeit",
+    "Wandern im Oberpfälzer Wald",
+    "Bayerische Volksmusik",
+    "Fußball",
+    "Kochen"
+  ],
+  "previous_passwords": [
+    "Garten58!",
+    "Wandern26",
+    "Fussball68",
+    "Citroen58",
+    "Kochen66!",
+    "WenkeGarten",
+    "Oberpfalz58",
+    "Volksmusik68",
+    "Donata68!",
+    "Mitschke58"
+  ]
+}

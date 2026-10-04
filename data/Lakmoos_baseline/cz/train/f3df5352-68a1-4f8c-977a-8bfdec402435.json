@@ -1,0 +1,41 @@
+{
+  "id": "f3df5352-68a1-4f8c-977a-8bfdec402435",
+  "gender": "male",
+  "age": 34,
+  "marital_status": "married",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Fiat",
+  "self_first_name": "Radek",
+  "self_last_name": "Veselý",
+  "partner_first_name": "Petra",
+  "partner_last_name": "Veselá",
+  "children": [
+    {
+      "first_name": "Matěj",
+      "last_name": "Veselý"
+    }
+  ],
+  "interests": [
+    "technologie",
+    "auta",
+    "hudba",
+    "netflix"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Matysek2014",
+    "FiatTipo2016",
+    "Praha123",
+    "Vesely75",
+    "Petra2023",
+    "Globus2022",
+    "Radek!1989",
+    "Auta4Life",
+    "NetflixCZ",
+    "Hudba_321"
+  ],
+  "favorite_hobby": "technologie",
+  "birth_date": "1992-02-22"
+}

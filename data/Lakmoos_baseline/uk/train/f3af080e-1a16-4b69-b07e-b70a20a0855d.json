@@ -1,0 +1,40 @@
+{
+  "id": "f3af080e-1a16-4b69-b07e-b70a20a0855d",
+  "gender": "female",
+  "age": 26,
+  "marital_status": "married",
+  "region": "east",
+  "nationality": "british",
+  "car_brand": "",
+  "self_first_name": "Imogen",
+  "self_last_name": "Hollingsworth",
+  "partner_first_name": "Oliver",
+  "partner_last_name": "Hollingsworth",
+  "children": [],
+  "interests": [
+    "travel",
+    "reading",
+    "cycling"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Willow"
+    }
+  ],
+  "company": "Fenland Ventures",
+  "previous_passwords": [
+    "Imogen1998",
+    "WillowCat21",
+    "Oliver4Me",
+    "Fenland123",
+    "TravelBug98",
+    "Hollingsworth2022",
+    "Reading4Life",
+    "Cycling_21",
+    "Will0w!",
+    "EastEngland98"
+  ],
+  "favorite_hobby": "travel",
+  "birth_date": "2000-01-05"
+}

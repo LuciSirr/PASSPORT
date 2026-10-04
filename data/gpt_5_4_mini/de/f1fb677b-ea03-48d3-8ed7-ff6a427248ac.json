@@ -1,0 +1,35 @@
+{
+  "id": "f1fb677b-ea03-48d3-8ed7-ff6a427248ac",
+  "age": 45,
+  "birth_date": "1981-08-15",
+  "marital_status": "divorced",
+  "region": "Meppen",
+  "nationality": "german",
+  "company": "Löwer",
+  "car_brand": "Toyota",
+  "self_first_name": "Brian",
+  "self_last_name": "Ring",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Fußball",
+    "Gartenarbeit",
+    "Radfahren",
+    "Kochen",
+    "Norddeutscher Reitsport"
+  ],
+  "previous_passwords": [
+    "FCBayern81!",
+    "Werder1981",
+    "Toyota45Rad",
+    "KochenMeppen8",
+    "GartenRing81",
+    "NordReit81!",
+    "Radsport45",
+    "MiaSan81",
+    "MeppenBayern",
+    "Brian0815!"
+  ]
+}

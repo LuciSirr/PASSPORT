@@ -1,0 +1,40 @@
+{
+  "id": "e03c6660-4a03-446b-903b-ab621890b928",
+  "gender": "male",
+  "age": 28,
+  "marital_status": "married",
+  "region": "south bohemia",
+  "nationality": "czech",
+  "car_brand": "Toyota",
+  "self_first_name": "Radek",
+  "self_last_name": "Šimáček",
+  "birth_date": "1996-04-17",
+  "partner_first_name": "Lucie",
+  "partner_last_name": "Šimáčková",
+  "children": [],
+  "interests": [
+    "netflix",
+    "auta",
+    "rychlé občerstvení"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Beny"
+    }
+  ],
+  "company": "Jihočeská doprava a skladování s.r.o.",
+  "previous_passwords": [
+    "Radek1996",
+    "ŠimáčekBeny17",
+    "Lucie2023",
+    "auta123",
+    "netflix262",
+    "Beny!96",
+    "rychleobcerstveni_2024",
+    "Šimáček_auto",
+    "Albert677",
+    "BenyŠimáček"
+  ],
+  "favorite_hobby": "netflix"
+}

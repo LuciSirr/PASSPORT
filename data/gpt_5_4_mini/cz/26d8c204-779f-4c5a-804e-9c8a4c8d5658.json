@@ -1,0 +1,44 @@
+{
+  "id": "26d8c204-779f-4c5a-804e-9c8a4c8d5658",
+  "age": 56,
+  "birth_date": "1970-07-12",
+  "marital_status": "married",
+  "region": "Havířov",
+  "nationality": "czech",
+  "company": "Strnad o.s.",
+  "car_brand": "Kia",
+  "self_first_name": "Patrik",
+  "self_last_name": "Kopecký",
+  "partner_first_name": "Nikol",
+  "partner_last_name": "Kopecká",
+  "children": [],
+  "pets": [
+    {
+      "pet_type": "rabbit",
+      "pet_name": "Kateřina"
+    },
+    {
+      "pet_type": "horse",
+      "pet_name": "Martina"
+    }
+  ],
+  "interests": [
+    "hokej",
+    "fotbal",
+    "zahradničení",
+    "vaření",
+    "turistika"
+  ],
+  "previous_passwords": [
+    "hokej1970!",
+    "KiaHokej70",
+    "fotbal12_Kop",
+    "Zahrada70!",
+    "Turistika12",
+    "VareniKopecky",
+    "NikolHokej!",
+    "Katerina70_",
+    "HokejHavirov56",
+    "MartinaKia70"
+  ]
+}

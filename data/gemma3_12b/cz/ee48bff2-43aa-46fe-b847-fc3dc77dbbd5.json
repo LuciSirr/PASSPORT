@@ -1,0 +1,35 @@
+{
+  "id": "ee48bff2-43aa-46fe-b847-fc3dc77dbbd5",
+  "age": 25,
+  "birth_date": "2001-10-09",
+  "marital_status": "married",
+  "region": "Česká Skalice",
+  "nationality": "czech",
+  "company": "Ševčíková Novák a.s.",
+  "car_brand": "Toyota",
+  "self_first_name": "Emil",
+  "self_last_name": "Jaroš",
+  "partner_first_name": "Žofie",
+  "partner_last_name": "Jarošová",
+  "children": [],
+  "pets": [],
+  "interests": [
+    "fotbal",
+    "hudba",
+    "cestování",
+    "vaření",
+    "videohry"
+  ],
+  "previous_passwords": [
+    "Messi2001!",
+    "ToyotaHudba88",
+    "CeskaSkaliceZofie",
+    "RonaldoFotbal1995",
+    "VařeníŽofie!",
+    "VideohryEmil09",
+    "CestovaniToyota25",
+    "Messi_Hudba!",
+    "ŽofieFotbal2023",
+    "CestovaniEmil01"
+  ]
+}

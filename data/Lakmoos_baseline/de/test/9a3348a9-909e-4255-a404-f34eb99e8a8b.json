@@ -1,0 +1,35 @@
+{
+  "id": "9a3348a9-909e-4255-a404-f34eb99e8a8b",
+  "gender": "female",
+  "age": 55,
+  "marital_status": "widower/widow",
+  "region": "niedersachsen",
+  "nationality": "german",
+  "car_brand": "Toyota",
+  "self_first_name": "Heike",
+  "self_last_name": "Krause",
+  "birth_date": "1969-05-14",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "rosamunde pilcher",
+    "nordic walking",
+    "gartenarbeit"
+  ],
+  "pets": [],
+  "company": "Niedersachsen Broker & Beratung GmbH",
+  "previous_passwords": [
+    "Heike1969",
+    "Krause!17",
+    "Pilcher123",
+    "Nordic2020",
+    "Gartenarbeit_69",
+    "Rosamunde14",
+    "Broker17000",
+    "Niedersachsen_55",
+    "Pilcher!Krause",
+    "Walking_0514"
+  ],
+  "favorite_hobby": "rosamunde pilcher"
+}

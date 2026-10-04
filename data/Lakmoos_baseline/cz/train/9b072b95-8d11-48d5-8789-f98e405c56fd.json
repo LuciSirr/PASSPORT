@@ -1,0 +1,34 @@
+{
+  "id": "9b072b95-8d11-48d5-8789-f98e405c56fd",
+  "gender": "female",
+  "age": 39,
+  "marital_status": "divorced",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "Škoda",
+  "self_first_name": "Iveta",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "seriály",
+    "křížovky",
+    "nakupování"
+  ],
+  "pets": [],
+  "company": "AutoServis Praha",
+  "previous_passwords": [
+    "Iveta1979",
+    "Vesela64",
+    "Fabia2002",
+    "Praha79",
+    "Albert123",
+    "Krizovky2020",
+    "Seriály!21",
+    "HBOmax2023",
+    "Nakupovani11"
+  ],
+  "favorite_hobby": "seriály",
+  "birth_date": "1986-09-18"
+}

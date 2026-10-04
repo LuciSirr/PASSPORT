@@ -1,0 +1,44 @@
+{
+  "id": "2594357f-d243-41ba-9c9b-c8a6c6358235",
+  "age": 31,
+  "birth_date": "1995-09-12",
+  "marital_status": "married",
+  "region": "Fullerside",
+  "nationality": "english",
+  "company": "Smith-Smith",
+  "car_brand": "Vauxhall",
+  "self_first_name": "Anthony",
+  "self_last_name": "Smith",
+  "partner_first_name": "Amanda",
+  "partner_last_name": "Smith",
+  "children": [
+    {
+      "first_name": "Melissa",
+      "last_name": "Smith"
+    },
+    {
+      "first_name": "Lisa",
+      "last_name": "Smith"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "hiking",
+    "photography",
+    "indie music",
+    "board games",
+    "local craft beer"
+  ],
+  "previous_passwords": [
+    "MelissaHike95",
+    "VauxhallIndie!",
+    "LisaCraftBeer23",
+    "AmandaBoardGame",
+    "SmithPhoto1995",
+    "FullersideHike!",
+    "MessiLocal2024",
+    "JoeRoganSmith",
+    "HikingAmanda95",
+    "VauxhallMelissa"
+  ]
+}

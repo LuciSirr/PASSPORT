@@ -1,0 +1,48 @@
+{
+  "id": "795aae68-d6b0-4534-922d-84f9baa1ba18",
+  "age": 37,
+  "birth_date": "1989-05-22",
+  "marital_status": "married",
+  "region": "Březová",
+  "nationality": "czech",
+  "company": "Němečková",
+  "car_brand": "Kia",
+  "self_first_name": "Marie",
+  "self_last_name": "Šmídová",
+  "partner_first_name": "Ludvík",
+  "partner_last_name": "Šmídová",
+  "children": [
+    {
+      "first_name": "Iva",
+      "last_name": "Kolářová"
+    },
+    {
+      "first_name": "Felix",
+      "last_name": "Mareš"
+    },
+    {
+      "first_name": "Gabriela",
+      "last_name": "Matějková"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "turistika",
+    "cyklistika",
+    "fotbal",
+    "grilování",
+    "chalupaření"
+  ],
+  "previous_passwords": [
+    "Turistika22!",
+    "KiaBrezova89",
+    "CyclingIva22",
+    "MarekTour89!",
+    "SrdceFotbal89",
+    "GrilovaniLudvik22",
+    "ChalupaFelix89",
+    "BrezovaTrail37",
+    "KiaBike1989",
+    "FelixKolo22!"
+  ]
+}

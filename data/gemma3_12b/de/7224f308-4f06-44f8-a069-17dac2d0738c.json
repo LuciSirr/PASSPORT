@@ -1,0 +1,35 @@
+{
+  "id": "7224f308-4f06-44f8-a069-17dac2d0738c",
+  "age": 21,
+  "birth_date": "2005-06-08",
+  "marital_status": "single",
+  "region": "Luckau",
+  "nationality": "german",
+  "company": "Börner AG & Co. KGaA",
+  "car_brand": "Skoda",
+  "self_first_name": "Natalija",
+  "self_last_name": "Lorch",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "pets": [],
+  "interests": [
+    "Musik Festivals",
+    "Videospiele",
+    "Fotografie",
+    "Reisen",
+    "Lokaler Fußballverein"
+  ],
+  "previous_passwords": [
+    "SkodaFotografie2005",
+    "MessiLokalerFV!",
+    "VideospieleNatalija",
+    "JoeRoganMusikFest",
+    "ReisenLorch2023",
+    "FotografieSkoda_12",
+    "Natalija_EuropaFest",
+    "Videospiele_0608",
+    "SkodaMessi21",
+    "LokalerFV_Natalija"
+  ]
+}

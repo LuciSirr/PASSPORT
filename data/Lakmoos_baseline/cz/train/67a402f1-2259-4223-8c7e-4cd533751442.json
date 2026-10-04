@@ -1,0 +1,40 @@
+{
+  "id": "67a402f1-2259-4223-8c7e-4cd533751442",
+  "gender": "male",
+  "age": 27,
+  "marital_status": "single/in a relationship",
+  "region": "zlin region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radek",
+  "self_last_name": "Šebesta",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [
+    {
+      "first_name": "Adam",
+      "last_name": "Šebesta"
+    }
+  ],
+  "interests": [
+    "fotbal",
+    "cyklistika",
+    "technologie"
+  ],
+  "pets": [],
+  "company": "Zlínská výroba s.r.o.",
+  "previous_passwords": [
+    "Adam2013",
+    "Kofola60",
+    "Zlin2024",
+    "Šebesta123",
+    "LidlMakro",
+    "Fotbal11",
+    "Radek_1997",
+    "Cyklistika!",
+    "AdamŠebesta11",
+    "Technologie2024"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "1998-08-05"
+}

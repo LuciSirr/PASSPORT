@@ -1,0 +1,44 @@
+{
+  "id": "dbbfb74a-1e0d-400a-a4b9-802a314709c1",
+  "age": 68,
+  "birth_date": "1958-12-26",
+  "marital_status": "married",
+  "region": "Stanleyside",
+  "nationality": "english",
+  "company": "Griffiths, Fraser and Griffiths",
+  "car_brand": "Audi",
+  "self_first_name": "Lee",
+  "self_last_name": "Wells",
+  "partner_first_name": "Mandy",
+  "partner_last_name": "Wells",
+  "children": [
+    {
+      "first_name": "Louis",
+      "last_name": "Wells"
+    },
+    {
+      "first_name": "Julian",
+      "last_name": "Wells"
+    }
+  ],
+  "pets": [],
+  "interests": [
+    "Gardening",
+    "Classic Rock Music",
+    "Local History",
+    "Birdwatching",
+    "Crossword Puzzles"
+  ],
+  "previous_passwords": [
+    "LedZep1958",
+    "StanleysideGarden!",
+    "LouisMandyBird",
+    "AudiJulian56",
+    "ClassicRockWells",
+    "CrosswordLw56",
+    "MandyWellsGardens",
+    "JulianHistory26",
+    "BirdwatchAudi!",
+    "WellsLocalHist19"
+  ]
+}

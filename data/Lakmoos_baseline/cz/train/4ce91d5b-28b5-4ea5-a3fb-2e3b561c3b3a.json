@@ -1,0 +1,34 @@
+{
+  "id": "4ce91d5b-28b5-4ea5-a3fb-2e3b561c3b3a",
+  "gender": "female",
+  "age": 33,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Radka",
+  "self_last_name": "Veselá",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "seriály",
+    "vaření",
+    "procházky"
+  ],
+  "pets": [],
+  "company": "AutoServis Praha",
+  "previous_passwords": [
+    "Praha2017",
+    "Kofola123",
+    "Lidlka65",
+    "Vesela33",
+    "NetflixCZ",
+    "Radka.1990",
+    "Prochazky2022",
+    "Vaření!23",
+    "Seri4ly_88"
+  ],
+  "favorite_hobby": "seriály",
+  "birth_date": "1992-10-18"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "647fbbd4-b02f-45eb-a8d4-4faec0d8f537",
+  "gender": "female",
+  "age": 20,
+  "marital_status": "single/in a relationship",
+  "region": "prague",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Tereza",
+  "self_last_name": "Kohoutová",
+  "birth_date": "2004-06-15",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "hbo max",
+    "cestování",
+    "rychlé občerstvení"
+  ],
+  "pets": [],
+  "company": "",
+  "previous_passwords": [
+    "Tereza2004",
+    "Kohoutova!14",
+    "cestovani_123",
+    "hboMax2023",
+    "BageterieBoulevard22",
+    "KohoutovaHBO",
+    "dmRossmann2022",
+    "Prague0615",
+    "Lidl1044",
+    "cestovani!2004"
+  ],
+  "favorite_hobby": "hbo max"
+}

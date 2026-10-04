@@ -1,0 +1,40 @@
+{
+  "id": "39a1a92c-1817-486c-bec5-5c6c2d326d78",
+  "gender": "male",
+  "age": 32,
+  "marital_status": "single/in a relationship",
+  "region": "nordrhein-westfalen",
+  "nationality": "german",
+  "car_brand": "Nissan",
+  "self_first_name": "Timo",
+  "self_last_name": "Kreutzer",
+  "partner_first_name": "Leonie",
+  "partner_last_name": "Kreutzer",
+  "children": [],
+  "interests": [
+    "fotografie",
+    "wandern",
+    "kino"
+  ],
+  "pets": [
+    {
+      "pet_type": "cat",
+      "pet_name": "Momo"
+    }
+  ],
+  "company": "KunstRaum NRW",
+  "previous_passwords": [
+    "Timo1989",
+    "Leonie2020!",
+    "Momo123",
+    "Kreutzer_89",
+    "Fotografie4ever",
+    "Sommer2023",
+    "NRW!2022",
+    "KunstRaum21",
+    "Wandern_321",
+    "MomoLeonie!"
+  ],
+  "favorite_hobby": "fotografie",
+  "birth_date": "1993-11-07"
+}

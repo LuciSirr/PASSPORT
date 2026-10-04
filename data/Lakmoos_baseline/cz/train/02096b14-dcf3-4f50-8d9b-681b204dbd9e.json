@@ -1,0 +1,40 @@
+{
+  "id": "02096b14-dcf3-4f50-8d9b-681b204dbd9e",
+  "gender": "male",
+  "age": 8,
+  "marital_status": "single/in a relationship",
+  "region": "liberec region",
+  "nationality": "czech",
+  "car_brand": "",
+  "self_first_name": "Matěj",
+  "self_last_name": "Konečný",
+  "partner_first_name": null,
+  "partner_last_name": null,
+  "children": [],
+  "interests": [
+    "fotbal",
+    "lego",
+    "plavání"
+  ],
+  "pets": [
+    {
+      "pet_type": "dog",
+      "pet_name": "Ben"
+    }
+  ],
+  "company": "",
+  "previous_passwords": [
+    "Matej2000",
+    "Liberec123",
+    "Vesely8",
+    "Benek2023",
+    "Fotbal8",
+    "LegoBen1",
+    "Plavani2024",
+    "Ben!123",
+    "Konecny08",
+    "Liberec8"
+  ],
+  "favorite_hobby": "fotbal",
+  "birth_date": "2018-03-25"
+}
