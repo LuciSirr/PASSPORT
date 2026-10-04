@@ -1,6 +1,6 @@
-# Profile-Based Password Generator
+# PASSPORT
 
-This master thesis implements a tool for generating password candidates from a target
+PASSPORT is a tool for generating password candidates from a target
 profile. It trains a structural password model from profile data and previous
 password examples, then uses that model to generate a wordlist for a specific
 profile.
