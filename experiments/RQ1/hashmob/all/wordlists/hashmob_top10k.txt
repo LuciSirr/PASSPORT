@@ -1,0 +1,1 @@
+/home/lucisirr/DP/DP_current/experiments/wordlists_static/hashmob_top10k.txt
