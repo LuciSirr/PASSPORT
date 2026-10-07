@@ -1,1 +1,0 @@
-/home/lucisirr/DP/DP_current/experiments/wordlists_static/pcfg_cz_train_50k.txt

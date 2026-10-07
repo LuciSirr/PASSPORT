@@ -1,1 +1,0 @@
-/home/lucisirr/DP/DP_current/experiments/wordlists_mask/uk_advanced_mask_100k.txt

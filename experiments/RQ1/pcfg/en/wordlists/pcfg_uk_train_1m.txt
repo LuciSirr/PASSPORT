@@ -1,1 +1,0 @@
-/home/lucisirr/DP/DP_current/experiments/wordlists_static/pcfg_uk_train_1m.txt
