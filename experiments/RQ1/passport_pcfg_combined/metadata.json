@@ -1,0 +1,38 @@
+{
+  "method": "passport_pcfg_combined",
+  "summary": [
+    {
+      "language": "en",
+      "profiles": 200,
+      "max_budget_per_profile": 1000000,
+      "min_lines": 1000000,
+      "max_lines": 1000000,
+      "total_lines": 200000000,
+      "passport_source": "experiments_wip/incomplete_profile/enhanced/wordlists/en/full/r1",
+      "pcfg_source": "experiments_wip/wordlists_static/pcfg_uk_train_1m.txt",
+      "combination_rule": "alternate PASSPORT and PCFG candidates for a 50/50 distinct split; after PASSPORT is exhausted, fill remaining positions from PCFG; PCFG candidates already present in the profile PASSPORT list are skipped"
+    },
+    {
+      "language": "de",
+      "profiles": 200,
+      "max_budget_per_profile": 500000,
+      "min_lines": 500000,
+      "max_lines": 500000,
+      "total_lines": 100000000,
+      "passport_source": "experiments_wip/incomplete_profile_de/enhanced/wordlists/de/full/r1",
+      "pcfg_source": "experiments_wip/wordlists_static/pcfg_de_train_500k.txt",
+      "combination_rule": "alternate PASSPORT and PCFG candidates for a 50/50 distinct split; after PASSPORT is exhausted, fill remaining positions from PCFG; PCFG candidates already present in the profile PASSPORT list are skipped"
+    },
+    {
+      "language": "cz",
+      "profiles": 200,
+      "max_budget_per_profile": 50000,
+      "min_lines": 50000,
+      "max_lines": 50000,
+      "total_lines": 10000000,
+      "passport_source": "experiments_wip/incomplete_profile_cz/enhanced/wordlists/cz/full/r1",
+      "pcfg_source": "experiments_wip/wordlists_static/pcfg_cz_train_50k.txt",
+      "combination_rule": "alternate PASSPORT and PCFG candidates for a 50/50 distinct split; after PASSPORT is exhausted, fill remaining positions from PCFG; PCFG candidates already present in the profile PASSPORT list are skipped"
+    }
+  ]
+}
